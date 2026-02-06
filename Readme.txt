@@ -1,0 +1,8 @@
+用於得知族語與中文拼音的相似度與對齊程式
+
+將Ailgn_syllables中的merged_output.json更改成其他族語的output便可使用
+cedict_normalized是中文字典
+點擊run_all執行
+
+
+新增音節合併。 refine_alignment

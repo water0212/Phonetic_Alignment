@@ -1,0 +1,29 @@
+[
+  {
+    "chinese": "總統府",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,ong",
+      "t,ong",
+      "f,u"
+    ],
+    "dict_pinyin": [
+      "z,ong",
+      "t,ong",
+      "f,u"
+    ]
+  },
+  {
+    "chinese": "光碟",
+    "ch_semantic": "儲存媒體",
+    "pinyin_info": [
+      "k,uang",
+      "t,i",
+      "y,e"
+    ],
+    "dict_pinyin": [
+      "g,uang",
+      "d,ie"
+    ]
+  }
+]

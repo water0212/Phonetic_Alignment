@@ -1,0 +1,2102 @@
+[
+    {
+        "chinese_word": "公司",
+        "amis_word": "kosi",
+        "syllables": [
+            "ko",
+            "si"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "ko",
+                "initial": "k",
+                "final": "o",
+                "split_display": "k,o"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "工廠",
+        "amis_word": "kaysiya",
+        "syllables": [
+            "kay",
+            "si",
+            "ya"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "kay",
+                "initial": "k",
+                "final": "ay",
+                "split_display": "k,ay"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "ya",
+                "initial": "y",
+                "final": "a",
+                "split_display": "y,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "健保",
+        "amis_word": "cinpaw",
+        "syllables": [
+            "cin",
+            "paw"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "cin",
+                "initial": "c",
+                "final": "in",
+                "split_display": "c,in"
+            },
+            {
+                "original": "paw",
+                "initial": "p",
+                "final": "aw",
+                "split_display": "p,aw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "捷運",
+        "amis_word": "ci'in",
+        "syllables": [
+            "ci",
+            "'in"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "'in",
+                "initial": "0c",
+                "final": "'in",
+                "split_display": "0c,'in"
+            }
+        ]
+    },
+    {
+        "chinese_word": "招牌",
+        "amis_word": "paya",
+        "syllables": [
+            "pa",
+            "ya"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "pa",
+                "initial": "p",
+                "final": "a",
+                "split_display": "p,a"
+            },
+            {
+                "original": "ya",
+                "initial": "y",
+                "final": "a",
+                "split_display": "y,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "地方法院",
+        "amis_word": "hoing",
+        "syllables": [
+            "hoing"
+        ],
+        "syllable_count": 1,
+        "syllable_structure": [
+            {
+                "original": "hoing",
+                "initial": "h",
+                "final": "oing",
+                "split_display": "h,oing"
+            }
+        ]
+    },
+    {
+        "chinese_word": "鄉(鎮、市)公所",
+        "amis_word": "cinkosiyo",
+        "syllables": [
+            "cin",
+            "ko",
+            "si",
+            "yo"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "cin",
+                "initial": "c",
+                "final": "in",
+                "split_display": "c,in"
+            },
+            {
+                "original": "ko",
+                "initial": "k",
+                "final": "o",
+                "split_display": "k,o"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "yo",
+                "initial": "y",
+                "final": "o",
+                "split_display": "y,o"
+            }
+        ]
+    },
+    {
+        "chinese_word": "記者會",
+        "amis_word": "singfong kisiya",
+        "syllables": [
+            "sing",
+            "fong",
+            "ki",
+            "si",
+            "ya"
+        ],
+        "syllable_count": 5,
+        "syllable_structure": [
+            {
+                "original": "sing",
+                "initial": "s",
+                "final": "ing",
+                "split_display": "s,ing"
+            },
+            {
+                "original": "fong",
+                "initial": "f",
+                "final": "ong",
+                "split_display": "f,ong"
+            },
+            {
+                "original": "ki",
+                "initial": "k",
+                "final": "i",
+                "split_display": "k,i"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "ya",
+                "initial": "y",
+                "final": "a",
+                "split_display": "y,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "法律",
+        "amis_word": "holic",
+        "syllables": [
+            "ho",
+            "lic"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "ho",
+                "initial": "h",
+                "final": "o",
+                "split_display": "h,o"
+            },
+            {
+                "original": "lic",
+                "initial": "l",
+                "final": "ic",
+                "split_display": "l,ic"
+            }
+        ]
+    },
+    {
+        "chinese_word": "研究",
+        "amis_word": "kingkiw",
+        "syllables": [
+            "king",
+            "kiw"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "king",
+                "initial": "k",
+                "final": "ing",
+                "split_display": "k,ing"
+            },
+            {
+                "original": "kiw",
+                "initial": "k",
+                "final": "iw",
+                "split_display": "k,iw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "(電腦)網路",
+        "amis_word": "tinnaw",
+        "syllables": [
+            "tin",
+            "naw"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "tin",
+                "initial": "t",
+                "final": "in",
+                "split_display": "t,in"
+            },
+            {
+                "original": "naw",
+                "initial": "n",
+                "final": "aw",
+                "split_display": "n,aw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "路邊攤",
+        "amis_word": "lopita",
+        "syllables": [
+            "lo",
+            "pi",
+            "ta"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "lo",
+                "initial": "l",
+                "final": "o",
+                "split_display": "l,o"
+            },
+            {
+                "original": "pi",
+                "initial": "p",
+                "final": "i",
+                "split_display": "p,i"
+            },
+            {
+                "original": "ta",
+                "initial": "t",
+                "final": "a",
+                "split_display": "t,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "網咖",
+        "amis_word": "wang-ka",
+        "syllables": [
+            "wang",
+            "ka"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "wang",
+                "initial": "w",
+                "final": "ang",
+                "split_display": "w,ang"
+            },
+            {
+                "original": "ka",
+                "initial": "k",
+                "final": "a",
+                "split_display": "k,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "纜車",
+        "amis_word": "sakodosiya",
+        "syllables": [
+            "sa",
+            "ko",
+            "do",
+            "si",
+            "ya"
+        ],
+        "syllable_count": 5,
+        "syllable_structure": [
+            {
+                "original": "sa",
+                "initial": "s",
+                "final": "a",
+                "split_display": "s,a"
+            },
+            {
+                "original": "ko",
+                "initial": "k",
+                "final": "o",
+                "split_display": "k,o"
+            },
+            {
+                "original": "do",
+                "initial": "d",
+                "final": "o",
+                "split_display": "d,o"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "ya",
+                "initial": "y",
+                "final": "a",
+                "split_display": "y,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "廣告",
+        "amis_word": "kuwang-kaw",
+        "syllables": [
+            "ku",
+            "wang",
+            "kaw"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "ku",
+                "initial": "k",
+                "final": "u",
+                "split_display": "k,u"
+            },
+            {
+                "original": "wang",
+                "initial": "w",
+                "final": "ang",
+                "split_display": "w,ang"
+            },
+            {
+                "original": "kaw",
+                "initial": "k",
+                "final": "aw",
+                "split_display": "k,aw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "信用卡",
+        "amis_word": "sinyongka",
+        "syllables": [
+            "sin",
+            "yong",
+            "ka"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "sin",
+                "initial": "s",
+                "final": "in",
+                "split_display": "s,in"
+            },
+            {
+                "original": "yong",
+                "initial": "y",
+                "final": "ong",
+                "split_display": "y,ong"
+            },
+            {
+                "original": "ka",
+                "initial": "k",
+                "final": "a",
+                "split_display": "k,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "發票",
+        "amis_word": "fapiyaw",
+        "syllables": [
+            "fa",
+            "pi",
+            "yaw"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "fa",
+                "initial": "f",
+                "final": "a",
+                "split_display": "f,a"
+            },
+            {
+                "original": "pi",
+                "initial": "p",
+                "final": "i",
+                "split_display": "p,i"
+            },
+            {
+                "original": "yaw",
+                "initial": "y",
+                "final": "aw",
+                "split_display": "y,aw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "刷卡",
+        "amis_word": "sewaka",
+        "syllables": [
+            "se",
+            "wa",
+            "ka"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "se",
+                "initial": "s",
+                "final": "e",
+                "split_display": "s,e"
+            },
+            {
+                "original": "wa",
+                "initial": "w",
+                "final": "a",
+                "split_display": "w,a"
+            },
+            {
+                "original": "ka",
+                "initial": "k",
+                "final": "a",
+                "split_display": "k,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "唱片行",
+        "amis_word": "likodo a tiyam",
+        "syllables": [
+            "li",
+            "ko",
+            "do",
+            "a",
+            "ti",
+            "yam"
+        ],
+        "syllable_count": 6,
+        "syllable_structure": [
+            {
+                "original": "li",
+                "initial": "l",
+                "final": "i",
+                "split_display": "l,i"
+            },
+            {
+                "original": "ko",
+                "initial": "k",
+                "final": "o",
+                "split_display": "k,o"
+            },
+            {
+                "original": "do",
+                "initial": "d",
+                "final": "o",
+                "split_display": "d,o"
+            },
+            {
+                "original": "a",
+                "initial": "0c",
+                "final": "a",
+                "split_display": "0c,a"
+            },
+            {
+                "original": "ti",
+                "initial": "t",
+                "final": "i",
+                "split_display": "t,i"
+            },
+            {
+                "original": "yam",
+                "initial": "y",
+                "final": "am",
+                "split_display": "y,am"
+            }
+        ]
+    },
+    {
+        "chinese_word": "7-11",
+        "amis_word": "siy-fen",
+        "syllables": [
+            "siy",
+            "fen"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "siy",
+                "initial": "s",
+                "final": "iy",
+                "split_display": "s,iy"
+            },
+            {
+                "original": "fen",
+                "initial": "f",
+                "final": "en",
+                "split_display": "f,en"
+            }
+        ]
+    },
+    {
+        "chinese_word": "全家",
+        "amis_word": "cin-ciya",
+        "syllables": [
+            "cin",
+            "ci",
+            "ya"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "cin",
+                "initial": "c",
+                "final": "in",
+                "split_display": "c,in"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "ya",
+                "initial": "y",
+                "final": "a",
+                "split_display": "y,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "萊爾富",
+        "amis_word": "lay-re-fo",
+        "syllables": [
+            "lay",
+            "re",
+            "fo"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "lay",
+                "initial": "l",
+                "final": "ay",
+                "split_display": "l,ay"
+            },
+            {
+                "original": "re",
+                "initial": "r",
+                "final": "e",
+                "split_display": "r,e"
+            },
+            {
+                "original": "fo",
+                "initial": "f",
+                "final": "o",
+                "split_display": "f,o"
+            }
+        ]
+    },
+    {
+        "chinese_word": "OK",
+        "amis_word": "o-kiy",
+        "syllables": [
+            "o",
+            "kiy"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "o",
+                "initial": "0c",
+                "final": "o",
+                "split_display": "0c,o"
+            },
+            {
+                "original": "kiy",
+                "initial": "k",
+                "final": "iy",
+                "split_display": "k,iy"
+            }
+        ]
+    },
+    {
+        "chinese_word": "總統府",
+        "amis_word": "Congtong fu",
+        "syllables": [
+            "cong",
+            "tong",
+            "fu"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "cong",
+                "initial": "c",
+                "final": "ong",
+                "split_display": "c,ong"
+            },
+            {
+                "original": "tong",
+                "initial": "t",
+                "final": "ong",
+                "split_display": "t,ong"
+            },
+            {
+                "original": "fu",
+                "initial": "f",
+                "final": "u",
+                "split_display": "f,u"
+            }
+        ]
+    },
+    {
+        "chinese_word": "行政院",
+        "amis_word": "Sincen Yin",
+        "syllables": [
+            "sin",
+            "cen",
+            "yin"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "sin",
+                "initial": "s",
+                "final": "in",
+                "split_display": "s,in"
+            },
+            {
+                "original": "cen",
+                "initial": "c",
+                "final": "en",
+                "split_display": "c,en"
+            },
+            {
+                "original": "yin",
+                "initial": "y",
+                "final": "in",
+                "split_display": "y,in"
+            }
+        ]
+    },
+    {
+        "chinese_word": "立法院",
+        "amis_word": "Lifa Yin",
+        "syllables": [
+            "li",
+            "fa",
+            "yin"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "li",
+                "initial": "l",
+                "final": "i",
+                "split_display": "l,i"
+            },
+            {
+                "original": "fa",
+                "initial": "f",
+                "final": "a",
+                "split_display": "f,a"
+            },
+            {
+                "original": "yin",
+                "initial": "y",
+                "final": "in",
+                "split_display": "y,in"
+            }
+        ]
+    },
+    {
+        "chinese_word": "司法院",
+        "amis_word": "Sefa Yin",
+        "syllables": [
+            "se",
+            "fa",
+            "yin"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "se",
+                "initial": "s",
+                "final": "e",
+                "split_display": "s,e"
+            },
+            {
+                "original": "fa",
+                "initial": "f",
+                "final": "a",
+                "split_display": "f,a"
+            },
+            {
+                "original": "yin",
+                "initial": "y",
+                "final": "in",
+                "split_display": "y,in"
+            }
+        ]
+    },
+    {
+        "chinese_word": "考試院",
+        "amis_word": "Kawse Yin",
+        "syllables": [
+            "kaw",
+            "se",
+            "yin"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "kaw",
+                "initial": "k",
+                "final": "aw",
+                "split_display": "k,aw"
+            },
+            {
+                "original": "se",
+                "initial": "s",
+                "final": "e",
+                "split_display": "s,e"
+            },
+            {
+                "original": "yin",
+                "initial": "y",
+                "final": "in",
+                "split_display": "y,in"
+            }
+        ]
+    },
+    {
+        "chinese_word": "監察院",
+        "amis_word": "Kan-sac Yin",
+        "syllables": [
+            "kan",
+            "sac",
+            "yin"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "kan",
+                "initial": "k",
+                "final": "an",
+                "split_display": "k,an"
+            },
+            {
+                "original": "sac",
+                "initial": "s",
+                "final": "ac",
+                "split_display": "s,ac"
+            },
+            {
+                "original": "yin",
+                "initial": "y",
+                "final": "in",
+                "split_display": "y,in"
+            }
+        ]
+    },
+    {
+        "chinese_word": "衛福部(全稱:衛生福利部)",
+        "amis_word": "wifu pu",
+        "syllables": [
+            "wi",
+            "fu",
+            "pu"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "wi",
+                "initial": "w",
+                "final": "i",
+                "split_display": "w,i"
+            },
+            {
+                "original": "fu",
+                "initial": "f",
+                "final": "u",
+                "split_display": "f,u"
+            },
+            {
+                "original": "pu",
+                "initial": "p",
+                "final": "u",
+                "split_display": "p,u"
+            }
+        ]
+    },
+    {
+        "chinese_word": "體育署",
+        "amis_word": "undo su",
+        "syllables": [
+            "un",
+            "do",
+            "su"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "un",
+                "initial": "0c",
+                "final": "un",
+                "split_display": "0c,un"
+            },
+            {
+                "original": "do",
+                "initial": "d",
+                "final": "o",
+                "split_display": "d,o"
+            },
+            {
+                "original": "su",
+                "initial": "s",
+                "final": "u",
+                "split_display": "s,u"
+            }
+        ]
+    },
+    {
+        "chinese_word": "警政署",
+        "amis_word": "cinceng su",
+        "syllables": [
+            "cin",
+            "ceng",
+            "su"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "cin",
+                "initial": "c",
+                "final": "in",
+                "split_display": "c,in"
+            },
+            {
+                "original": "ceng",
+                "initial": "c",
+                "final": "eng",
+                "split_display": "c,eng"
+            },
+            {
+                "original": "su",
+                "initial": "s",
+                "final": "u",
+                "split_display": "s,u"
+            }
+        ]
+    },
+    {
+        "chinese_word": "環保署(全稱:環境保護署)",
+        "amis_word": "huwanpaw su",
+        "syllables": [
+            "hu",
+            "wan",
+            "paw",
+            "su"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "hu",
+                "initial": "h",
+                "final": "u",
+                "split_display": "h,u"
+            },
+            {
+                "original": "wan",
+                "initial": "w",
+                "final": "an",
+                "split_display": "w,an"
+            },
+            {
+                "original": "paw",
+                "initial": "p",
+                "final": "aw",
+                "split_display": "p,aw"
+            },
+            {
+                "original": "su",
+                "initial": "s",
+                "final": "u",
+                "split_display": "s,u"
+            }
+        ]
+    },
+    {
+        "chinese_word": "水利局",
+        "amis_word": "suyli ci",
+        "syllables": [
+            "suy",
+            "li",
+            "ci"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "suy",
+                "initial": "s",
+                "final": "uy",
+                "split_display": "s,uy"
+            },
+            {
+                "original": "li",
+                "initial": "l",
+                "final": "i",
+                "split_display": "l,i"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "觀光局",
+        "amis_word": "kunkwang ci",
+        "syllables": [
+            "kunk",
+            "wang",
+            "ci"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "kunk",
+                "initial": "k",
+                "final": "unk",
+                "split_display": "k,unk"
+            },
+            {
+                "original": "wang",
+                "initial": "w",
+                "final": "ang",
+                "split_display": "w,ang"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "公路局",
+        "amis_word": "konglo ci",
+        "syllables": [
+            "kong",
+            "lo",
+            "ci"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "kong",
+                "initial": "k",
+                "final": "ong",
+                "split_display": "k,ong"
+            },
+            {
+                "original": "lo",
+                "initial": "l",
+                "final": "o",
+                "split_display": "l,o"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "消防局",
+        "amis_word": "siyawfang ci",
+        "syllables": [
+            "si",
+            "yaw",
+            "fang",
+            "ci"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "yaw",
+                "initial": "y",
+                "final": "aw",
+                "split_display": "y,aw"
+            },
+            {
+                "original": "fang",
+                "initial": "f",
+                "final": "ang",
+                "split_display": "f,ang"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "國產局(全稱:國有財產局)",
+        "amis_word": "kucan ci",
+        "syllables": [
+            "ku",
+            "can",
+            "ci"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "ku",
+                "initial": "k",
+                "final": "u",
+                "split_display": "k,u"
+            },
+            {
+                "original": "can",
+                "initial": "c",
+                "final": "an",
+                "split_display": "c,an"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "勞保局(全稱:勞工保險局)",
+        "amis_word": "lawpaw ci",
+        "syllables": [
+            "law",
+            "paw",
+            "ci"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "law",
+                "initial": "l",
+                "final": "aw",
+                "split_display": "l,aw"
+            },
+            {
+                "original": "paw",
+                "initial": "p",
+                "final": "aw",
+                "split_display": "p,aw"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "水保局(全稱:水土保持局)",
+        "amis_word": "suypaw ci",
+        "syllables": [
+            "suy",
+            "paw",
+            "ci"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "suy",
+                "initial": "s",
+                "final": "uy",
+                "split_display": "s,uy"
+            },
+            {
+                "original": "paw",
+                "initial": "p",
+                "final": "aw",
+                "split_display": "p,aw"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "客委會(全稱:客家委員會)",
+        "amis_word": "hakawiyin hoy",
+        "syllables": [
+            "ha",
+            "ka",
+            "wi",
+            "yin",
+            "hoy"
+        ],
+        "syllable_count": 5,
+        "syllable_structure": [
+            {
+                "original": "ha",
+                "initial": "h",
+                "final": "a",
+                "split_display": "h,a"
+            },
+            {
+                "original": "ka",
+                "initial": "k",
+                "final": "a",
+                "split_display": "k,a"
+            },
+            {
+                "original": "wi",
+                "initial": "w",
+                "final": "i",
+                "split_display": "w,i"
+            },
+            {
+                "original": "yin",
+                "initial": "y",
+                "final": "in",
+                "split_display": "y,in"
+            },
+            {
+                "original": "hoy",
+                "initial": "h",
+                "final": "oy",
+                "split_display": "h,oy"
+            }
+        ]
+    },
+    {
+        "chinese_word": "智慧財產局",
+        "amis_word": "na'cay ci",
+        "syllables": [
+            "na'",
+            "cay",
+            "ci"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "na'",
+                "initial": "n",
+                "final": "a'",
+                "split_display": "n,a'"
+            },
+            {
+                "original": "cay",
+                "initial": "c",
+                "final": "ay",
+                "split_display": "c,ay"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "中央氣象局",
+        "amis_word": "congyangcisiyang ci",
+        "syllables": [
+            "cong",
+            "yang",
+            "ci",
+            "si",
+            "yang",
+            "ci"
+        ],
+        "syllable_count": 6,
+        "syllable_structure": [
+            {
+                "original": "cong",
+                "initial": "c",
+                "final": "ong",
+                "split_display": "c,ong"
+            },
+            {
+                "original": "yang",
+                "initial": "y",
+                "final": "ang",
+                "split_display": "y,ang"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "yang",
+                "initial": "y",
+                "final": "ang",
+                "split_display": "y,ang"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "就業服務站",
+        "amis_word": "ciwyifu^u can",
+        "syllables": [
+            "ciw",
+            "yi",
+            "fu",
+            "^u",
+            "can"
+        ],
+        "syllable_count": 5,
+        "syllable_structure": [
+            {
+                "original": "ciw",
+                "initial": "c",
+                "final": "iw",
+                "split_display": "c,iw"
+            },
+            {
+                "original": "yi",
+                "initial": "y",
+                "final": "i",
+                "split_display": "y,i"
+            },
+            {
+                "original": "fu",
+                "initial": "f",
+                "final": "u",
+                "split_display": "f,u"
+            },
+            {
+                "original": "^u",
+                "initial": "0c",
+                "final": "^u",
+                "split_display": "0c,^u"
+            },
+            {
+                "original": "can",
+                "initial": "c",
+                "final": "an",
+                "split_display": "c,an"
+            }
+        ]
+    },
+    {
+        "chinese_word": "中風",
+        "amis_word": "congfong",
+        "syllables": [
+            "cong",
+            "fong"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "cong",
+                "initial": "c",
+                "final": "ong",
+                "split_display": "c,ong"
+            },
+            {
+                "original": "fong",
+                "initial": "f",
+                "final": "ong",
+                "split_display": "f,ong"
+            }
+        ]
+    },
+    {
+        "chinese_word": "癌症",
+        "amis_word": "^kang",
+        "syllables": [
+            "^kang"
+        ],
+        "syllable_count": 1,
+        "syllable_structure": [
+            {
+                "original": "^kang",
+                "initial": "0c",
+                "final": "^kang",
+                "split_display": "0c,^kang"
+            }
+        ]
+    },
+    {
+        "chinese_word": "藥劑師",
+        "amis_word": "yawcise",
+        "syllables": [
+            "yaw",
+            "ci",
+            "se"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "yaw",
+                "initial": "y",
+                "final": "aw",
+                "split_display": "y,aw"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "se",
+                "initial": "s",
+                "final": "e",
+                "split_display": "s,e"
+            }
+        ]
+    },
+    {
+        "chinese_word": "麻醉師",
+        "amis_word": "macoyse",
+        "syllables": [
+            "ma",
+            "coy",
+            "se"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "ma",
+                "initial": "m",
+                "final": "a",
+                "split_display": "m,a"
+            },
+            {
+                "original": "coy",
+                "initial": "c",
+                "final": "oy",
+                "split_display": "c,oy"
+            },
+            {
+                "original": "se",
+                "initial": "s",
+                "final": "e",
+                "split_display": "s,e"
+            }
+        ]
+    },
+    {
+        "chinese_word": "診所",
+        "amis_word": "censo",
+        "syllables": [
+            "cen",
+            "so"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "cen",
+                "initial": "c",
+                "final": "en",
+                "split_display": "c,en"
+            },
+            {
+                "original": "so",
+                "initial": "s",
+                "final": "o",
+                "split_display": "s,o"
+            }
+        ]
+    },
+    {
+        "chinese_word": "x 光",
+        "amis_word": "ikeskowang",
+        "syllables": [
+            "i",
+            "kes",
+            "ko",
+            "wang"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "i",
+                "initial": "0c",
+                "final": "i",
+                "split_display": "0c,i"
+            },
+            {
+                "original": "kes",
+                "initial": "k",
+                "final": "es",
+                "split_display": "k,es"
+            },
+            {
+                "original": "ko",
+                "initial": "k",
+                "final": "o",
+                "split_display": "k,o"
+            },
+            {
+                "original": "wang",
+                "initial": "w",
+                "final": "ang",
+                "split_display": "w,ang"
+            }
+        ]
+    },
+    {
+        "chinese_word": "加護病房",
+        "amis_word": "ciyafupinfang",
+        "syllables": [
+            "ci",
+            "ya",
+            "fu",
+            "pin",
+            "fang"
+        ],
+        "syllable_count": 5,
+        "syllable_structure": [
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "ya",
+                "initial": "y",
+                "final": "a",
+                "split_display": "y,a"
+            },
+            {
+                "original": "fu",
+                "initial": "f",
+                "final": "u",
+                "split_display": "f,u"
+            },
+            {
+                "original": "pin",
+                "initial": "p",
+                "final": "in",
+                "split_display": "p,in"
+            },
+            {
+                "original": "fang",
+                "initial": "f",
+                "final": "ang",
+                "split_display": "f,ang"
+            }
+        ]
+    },
+    {
+        "chinese_word": "血壓",
+        "amis_word": "siya",
+        "syllables": [
+            "si",
+            "ya"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "ya",
+                "initial": "y",
+                "final": "a",
+                "split_display": "y,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "細菌",
+        "amis_word": "faking",
+        "syllables": [
+            "fa",
+            "king"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "fa",
+                "initial": "f",
+                "final": "a",
+                "split_display": "f,a"
+            },
+            {
+                "original": "king",
+                "initial": "k",
+                "final": "ing",
+                "split_display": "k,ing"
+            }
+        ]
+    },
+    {
+        "chinese_word": "原民會(全稱:原住民族委員會)",
+        "amis_word": "yinminhoy",
+        "syllables": [
+            "yin",
+            "min",
+            "hoy"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "yin",
+                "initial": "y",
+                "final": "in",
+                "split_display": "y,in"
+            },
+            {
+                "original": "min",
+                "initial": "m",
+                "final": "in",
+                "split_display": "m,in"
+            },
+            {
+                "original": "hoy",
+                "initial": "h",
+                "final": "oy",
+                "split_display": "h,oy"
+            }
+        ]
+    },
+    {
+        "chinese_word": "平交道",
+        "amis_word": "piciyawtaw",
+        "syllables": [
+            "pi",
+            "ci",
+            "yaw",
+            "taw"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "pi",
+                "initial": "p",
+                "final": "i",
+                "split_display": "p,i"
+            },
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "yaw",
+                "initial": "y",
+                "final": "aw",
+                "split_display": "y,aw"
+            },
+            {
+                "original": "taw",
+                "initial": "t",
+                "final": "aw",
+                "split_display": "t,aw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "立可白(修正液)",
+        "amis_word": "sasipasip",
+        "syllables": [
+            "sa",
+            "si",
+            "pa",
+            "sip"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "sa",
+                "initial": "s",
+                "final": "a",
+                "split_display": "s,a"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "pa",
+                "initial": "p",
+                "final": "a",
+                "split_display": "p,a"
+            },
+            {
+                "original": "sip",
+                "initial": "s",
+                "final": "ip",
+                "split_display": "s,ip"
+            }
+        ]
+    },
+    {
+        "chinese_word": "字典",
+        "amis_word": "citing",
+        "syllables": [
+            "ci",
+            "ting"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "ci",
+                "initial": "c",
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "ting",
+                "initial": "t",
+                "final": "ing",
+                "split_display": "t,ing"
+            }
+        ]
+    },
+    {
+        "chinese_word": "作業(家庭、寒假、暑假)",
+        "amis_word": "coyi",
+        "syllables": [
+            "co",
+            "yi"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "co",
+                "initial": "c",
+                "final": "o",
+                "split_display": "c,o"
+            },
+            {
+                "original": "yi",
+                "initial": "y",
+                "final": "i",
+                "split_display": "y,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "放大鏡",
+        "amis_word": "fangtacing",
+        "syllables": [
+            "fang",
+            "ta",
+            "cing"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "fang",
+                "initial": "f",
+                "final": "ang",
+                "split_display": "f,ang"
+            },
+            {
+                "original": "ta",
+                "initial": "t",
+                "final": "a",
+                "split_display": "t,a"
+            },
+            {
+                "original": "cing",
+                "initial": "c",
+                "final": "ing",
+                "split_display": "c,ing"
+            }
+        ]
+    },
+    {
+        "chinese_word": "紅綠燈",
+        "amis_word": "hongliteng",
+        "syllables": [
+            "hong",
+            "li",
+            "teng"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "hong",
+                "initial": "h",
+                "final": "ong",
+                "split_display": "h,ong"
+            },
+            {
+                "original": "li",
+                "initial": "l",
+                "final": "i",
+                "split_display": "l,i"
+            },
+            {
+                "original": "teng",
+                "initial": "t",
+                "final": "eng",
+                "split_display": "t,eng"
+            }
+        ]
+    },
+    {
+        "chinese_word": "海報",
+        "amis_word": "haypao",
+        "syllables": [
+            "hay",
+            "pao"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "hay",
+                "initial": "h",
+                "final": "ay",
+                "split_display": "h,ay"
+            },
+            {
+                "original": "pao",
+                "initial": "p",
+                "final": "ao",
+                "split_display": "p,ao"
+            }
+        ]
+    },
+    {
+        "chinese_word": "國道(5 號)",
+        "amis_word": "kotaw",
+        "syllables": [
+            "ko",
+            "taw"
+        ],
+        "syllable_count": 2,
+        "syllable_structure": [
+            {
+                "original": "ko",
+                "initial": "k",
+                "final": "o",
+                "split_display": "k,o"
+            },
+            {
+                "original": "taw",
+                "initial": "t",
+                "final": "aw",
+                "split_display": "t,aw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "單行道",
+        "amis_word": "tasintaw",
+        "syllables": [
+            "ta",
+            "sin",
+            "taw"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "ta",
+                "initial": "t",
+                "final": "a",
+                "split_display": "t,a"
+            },
+            {
+                "original": "sin",
+                "initial": "s",
+                "final": "in",
+                "split_display": "s,in"
+            },
+            {
+                "original": "taw",
+                "initial": "t",
+                "final": "aw",
+                "split_display": "t,aw"
+            }
+        ]
+    },
+    {
+        "chinese_word": "斑馬線",
+        "amis_word": "pamasiyen",
+        "syllables": [
+            "pa",
+            "ma",
+            "si",
+            "yen"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "pa",
+                "initial": "p",
+                "final": "a",
+                "split_display": "p,a"
+            },
+            {
+                "original": "ma",
+                "initial": "m",
+                "final": "a",
+                "split_display": "m,a"
+            },
+            {
+                "original": "si",
+                "initial": "s",
+                "final": "i",
+                "split_display": "s,i"
+            },
+            {
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
+            }
+        ]
+    },
+    {
+        "chinese_word": "微波爐",
+        "amis_word": "wiypolo",
+        "syllables": [
+            "wiy",
+            "po",
+            "lo"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "wiy",
+                "initial": "w",
+                "final": "iy",
+                "split_display": "w,iy"
+            },
+            {
+                "original": "po",
+                "initial": "p",
+                "final": "o",
+                "split_display": "p,o"
+            },
+            {
+                "original": "lo",
+                "initial": "l",
+                "final": "o",
+                "split_display": "l,o"
+            }
+        ]
+    },
+    {
+        "chinese_word": "電梯",
+        "amis_word": "elifita",
+        "syllables": [
+            "e",
+            "li",
+            "fi",
+            "ta"
+        ],
+        "syllable_count": 4,
+        "syllable_structure": [
+            {
+                "original": "e",
+                "initial": "0c",
+                "final": "e",
+                "split_display": "0c,e"
+            },
+            {
+                "original": "li",
+                "initial": "l",
+                "final": "i",
+                "split_display": "l,i"
+            },
+            {
+                "original": "fi",
+                "initial": "f",
+                "final": "i",
+                "split_display": "f,i"
+            },
+            {
+                "original": "ta",
+                "initial": "t",
+                "final": "a",
+                "split_display": "t,a"
+            }
+        ]
+    },
+    {
+        "chinese_word": "隨身碟(USB)",
+        "amis_word": "usb",
+        "syllables": [
+            "usb"
+        ],
+        "syllable_count": 1,
+        "syllable_structure": [
+            {
+                "original": "usb",
+                "initial": "0c",
+                "final": "usb",
+                "split_display": "0c,usb"
+            }
+        ]
+    },
+    {
+        "chinese_word": "聯絡簿",
+        "amis_word": "linlopo",
+        "syllables": [
+            "lin",
+            "lo",
+            "po"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "lin",
+                "initial": "l",
+                "final": "in",
+                "split_display": "l,in"
+            },
+            {
+                "original": "lo",
+                "initial": "l",
+                "final": "o",
+                "split_display": "l,o"
+            },
+            {
+                "original": "po",
+                "initial": "p",
+                "final": "o",
+                "split_display": "p,o"
+            }
+        ]
+    },
+    {
+        "chinese_word": "點讀筆",
+        "amis_word": "tintopi",
+        "syllables": [
+            "tin",
+            "to",
+            "pi"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "tin",
+                "initial": "t",
+                "final": "in",
+                "split_display": "t,in"
+            },
+            {
+                "original": "to",
+                "initial": "t",
+                "final": "o",
+                "split_display": "t,o"
+            },
+            {
+                "original": "pi",
+                "initial": "p",
+                "final": "i",
+                "split_display": "p,i"
+            }
+        ]
+    },
+    {
+        "chinese_word": "顯微鏡",
+        "amis_word": "singwicing",
+        "syllables": [
+            "sing",
+            "wi",
+            "cing"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "sing",
+                "initial": "s",
+                "final": "ing",
+                "split_display": "s,ing"
+            },
+            {
+                "original": "wi",
+                "initial": "w",
+                "final": "i",
+                "split_display": "w,i"
+            },
+            {
+                "original": "cing",
+                "initial": "c",
+                "final": "ing",
+                "split_display": "c,ing"
+            }
+        ]
+    }
+]

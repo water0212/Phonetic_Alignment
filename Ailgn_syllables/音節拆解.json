@@ -1,0 +1,702 @@
+[
+    {
+        "chinese_word": "公司",
+        "amis_word": "kosi",
+        "syllables": [
+            "ko",
+            "si"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "工廠",
+        "amis_word": "kaysiya",
+        "syllables": [
+            "kay",
+            "si",
+            "ya"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "健保",
+        "amis_word": "cinpaw",
+        "syllables": [
+            "cin",
+            "paw"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "捷運",
+        "amis_word": "ci'in",
+        "syllables": [
+            "ci",
+            "'in"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "招牌",
+        "amis_word": "paya",
+        "syllables": [
+            "pa",
+            "ya"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "地方法院",
+        "amis_word": "hoing",
+        "syllables": [
+            "hoing"
+        ],
+        "syllable_count": 1
+    },
+    {
+        "chinese_word": "鄉(鎮、市)公所",
+        "amis_word": "cinkosiyo",
+        "syllables": [
+            "cin",
+            "ko",
+            "si",
+            "yo"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "記者會",
+        "amis_word": "singfong kisiya",
+        "syllables": [
+            "sing",
+            "fong",
+            "ki",
+            "si",
+            "ya"
+        ],
+        "syllable_count": 5
+    },
+    {
+        "chinese_word": "法律",
+        "amis_word": "holic",
+        "syllables": [
+            "ho",
+            "lic"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "研究",
+        "amis_word": "kingkiw",
+        "syllables": [
+            "king",
+            "kiw"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "(電腦)網路",
+        "amis_word": "tinnaw",
+        "syllables": [
+            "tin",
+            "naw"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "路邊攤",
+        "amis_word": "lopita",
+        "syllables": [
+            "lo",
+            "pi",
+            "ta"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "網咖",
+        "amis_word": "wang-ka",
+        "syllables": [
+            "wang",
+            "ka"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "纜車",
+        "amis_word": "sakodosiya",
+        "syllables": [
+            "sa",
+            "ko",
+            "do",
+            "si",
+            "ya"
+        ],
+        "syllable_count": 5
+    },
+    {
+        "chinese_word": "廣告",
+        "amis_word": "kuwang-kaw",
+        "syllables": [
+            "ku",
+            "wang",
+            "kaw"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "信用卡",
+        "amis_word": "sinyongka",
+        "syllables": [
+            "sin",
+            "yong",
+            "ka"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "發票",
+        "amis_word": "fapiyaw",
+        "syllables": [
+            "fa",
+            "pi",
+            "yaw"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "刷卡",
+        "amis_word": "sewaka",
+        "syllables": [
+            "se",
+            "wa",
+            "ka"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "唱片行",
+        "amis_word": "likodo a tiyam",
+        "syllables": [
+            "li",
+            "ko",
+            "do",
+            "a",
+            "ti",
+            "yam"
+        ],
+        "syllable_count": 6
+    },
+    {
+        "chinese_word": "7-11",
+        "amis_word": "siy-fen",
+        "syllables": [
+            "siy",
+            "fen"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "全家",
+        "amis_word": "cin-ciya",
+        "syllables": [
+            "cin",
+            "ci",
+            "ya"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "萊爾富",
+        "amis_word": "lay-re-fo",
+        "syllables": [
+            "lay",
+            "re",
+            "fo"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "OK",
+        "amis_word": "o-kiy",
+        "syllables": [
+            "o",
+            "kiy"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "總統府",
+        "amis_word": "Congtong fu",
+        "syllables": [
+            "cong",
+            "tong",
+            "fu"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "行政院",
+        "amis_word": "Sincen Yin",
+        "syllables": [
+            "sin",
+            "cen",
+            "yin"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "立法院",
+        "amis_word": "Lifa Yin",
+        "syllables": [
+            "li",
+            "fa",
+            "yin"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "司法院",
+        "amis_word": "Sefa Yin",
+        "syllables": [
+            "se",
+            "fa",
+            "yin"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "考試院",
+        "amis_word": "Kawse Yin",
+        "syllables": [
+            "kaw",
+            "se",
+            "yin"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "監察院",
+        "amis_word": "Kan-sac Yin",
+        "syllables": [
+            "kan",
+            "sac",
+            "yin"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "衛福部(全稱:衛生福利部)",
+        "amis_word": "wifu pu",
+        "syllables": [
+            "wi",
+            "fu",
+            "pu"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "體育署",
+        "amis_word": "undo su",
+        "syllables": [
+            "un",
+            "do",
+            "su"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "警政署",
+        "amis_word": "cinceng su",
+        "syllables": [
+            "cin",
+            "ceng",
+            "su"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "環保署(全稱:環境保護署)",
+        "amis_word": "huwanpaw su",
+        "syllables": [
+            "hu",
+            "wan",
+            "paw",
+            "su"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "水利局",
+        "amis_word": "suyli ci",
+        "syllables": [
+            "suy",
+            "li",
+            "ci"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "觀光局",
+        "amis_word": "kunkwang ci",
+        "syllables": [
+            "kunk",
+            "wang",
+            "ci"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "公路局",
+        "amis_word": "konglo ci",
+        "syllables": [
+            "kong",
+            "lo",
+            "ci"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "消防局",
+        "amis_word": "siyawfang ci",
+        "syllables": [
+            "si",
+            "yaw",
+            "fang",
+            "ci"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "國產局(全稱:國有財產局)",
+        "amis_word": "kucan ci",
+        "syllables": [
+            "ku",
+            "can",
+            "ci"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "勞保局(全稱:勞工保險局)",
+        "amis_word": "lawpaw ci",
+        "syllables": [
+            "law",
+            "paw",
+            "ci"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "水保局(全稱:水土保持局)",
+        "amis_word": "suypaw ci",
+        "syllables": [
+            "suy",
+            "paw",
+            "ci"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "客委會(全稱:客家委員會)",
+        "amis_word": "hakawiyin hoy",
+        "syllables": [
+            "ha",
+            "ka",
+            "wi",
+            "yin",
+            "hoy"
+        ],
+        "syllable_count": 5
+    },
+    {
+        "chinese_word": "智慧財產局",
+        "amis_word": "na'cay ci",
+        "syllables": [
+            "na'",
+            "cay",
+            "ci"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "中央氣象局",
+        "amis_word": "congyangcisiyang ci",
+        "syllables": [
+            "cong",
+            "yang",
+            "ci",
+            "si",
+            "yang",
+            "ci"
+        ],
+        "syllable_count": 6
+    },
+    {
+        "chinese_word": "就業服務站",
+        "amis_word": "ciwyifu^u can",
+        "syllables": [
+            "ciw",
+            "yi",
+            "fu",
+            "^u",
+            "can"
+        ],
+        "syllable_count": 5
+    },
+    {
+        "chinese_word": "中風",
+        "amis_word": "congfong",
+        "syllables": [
+            "cong",
+            "fong"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "癌症",
+        "amis_word": "^kang",
+        "syllables": [
+            "^kang"
+        ],
+        "syllable_count": 1
+    },
+    {
+        "chinese_word": "藥劑師",
+        "amis_word": "yawcise",
+        "syllables": [
+            "yaw",
+            "ci",
+            "se"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "麻醉師",
+        "amis_word": "macoyse",
+        "syllables": [
+            "ma",
+            "coy",
+            "se"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "診所",
+        "amis_word": "censo",
+        "syllables": [
+            "cen",
+            "so"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "x 光",
+        "amis_word": "ikeskowang",
+        "syllables": [
+            "i",
+            "kes",
+            "ko",
+            "wang"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "加護病房",
+        "amis_word": "ciyafupinfang",
+        "syllables": [
+            "ci",
+            "ya",
+            "fu",
+            "pin",
+            "fang"
+        ],
+        "syllable_count": 5
+    },
+    {
+        "chinese_word": "血壓",
+        "amis_word": "siya",
+        "syllables": [
+            "si",
+            "ya"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "細菌",
+        "amis_word": "faking",
+        "syllables": [
+            "fa",
+            "king"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "原民會(全稱:原住民族委員會)",
+        "amis_word": "yinminhoy",
+        "syllables": [
+            "yin",
+            "min",
+            "hoy"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "平交道",
+        "amis_word": "piciyawtaw",
+        "syllables": [
+            "pi",
+            "ci",
+            "yaw",
+            "taw"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "立可白(修正液)",
+        "amis_word": "sasipasip",
+        "syllables": [
+            "sa",
+            "si",
+            "pa",
+            "sip"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "字典",
+        "amis_word": "citing",
+        "syllables": [
+            "ci",
+            "ting"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "作業(家庭、寒假、暑假)",
+        "amis_word": "coyi",
+        "syllables": [
+            "co",
+            "yi"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "放大鏡",
+        "amis_word": "fangtacing",
+        "syllables": [
+            "fang",
+            "ta",
+            "cing"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "紅綠燈",
+        "amis_word": "hongliteng",
+        "syllables": [
+            "hong",
+            "li",
+            "teng"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "海報",
+        "amis_word": "haypao",
+        "syllables": [
+            "hay",
+            "pao"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "國道(5 號)",
+        "amis_word": "kotaw",
+        "syllables": [
+            "ko",
+            "taw"
+        ],
+        "syllable_count": 2
+    },
+    {
+        "chinese_word": "單行道",
+        "amis_word": "tasintaw",
+        "syllables": [
+            "ta",
+            "sin",
+            "taw"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "斑馬線",
+        "amis_word": "pamasiyen",
+        "syllables": [
+            "pa",
+            "ma",
+            "si",
+            "yen"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "微波爐",
+        "amis_word": "wiypolo",
+        "syllables": [
+            "wiy",
+            "po",
+            "lo"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "電梯",
+        "amis_word": "elifita",
+        "syllables": [
+            "e",
+            "li",
+            "fi",
+            "ta"
+        ],
+        "syllable_count": 4
+    },
+    {
+        "chinese_word": "隨身碟(USB)",
+        "amis_word": "usb",
+        "syllables": [
+            "usb"
+        ],
+        "syllable_count": 1
+    },
+    {
+        "chinese_word": "聯絡簿",
+        "amis_word": "linlopo",
+        "syllables": [
+            "lin",
+            "lo",
+            "po"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "點讀筆",
+        "amis_word": "tintopi",
+        "syllables": [
+            "tin",
+            "to",
+            "pi"
+        ],
+        "syllable_count": 3
+    },
+    {
+        "chinese_word": "顯微鏡",
+        "amis_word": "singwicing",
+        "syllables": [
+            "sing",
+            "wi",
+            "cing"
+        ],
+        "syllable_count": 3
+    }
+]
