@@ -1,0 +1,312 @@
+{
+    "總統府": {
+        "new_word": [
+            {
+                "fm_word": "cungtungvu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "行政院": {
+        "new_word": [
+            {
+                "fm_word": "sincengyen",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "立法院": {
+        "new_word": [
+            {
+                "fm_word": "livayen",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "司法院": {
+        "new_word": [
+            {
+                "fm_word": "sevayen",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "考試院": {
+        "new_word": [
+            {
+                "fm_word": "kauseyen",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "監察院": {
+        "new_word": [
+            {
+                "fm_word": "ciyencayen",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "外交部": {
+        "new_word": [
+            {
+                "fm_word": "waycayaupu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "內政部": {
+        "new_word": [
+            {
+                "fm_word": "neycengpu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "財政部": {
+        "new_word": [
+            {
+                "fm_word": "caycengpu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "經濟部": {
+        "new_word": [
+            {
+                "fm_word": "cingcipu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "法務部": {
+        "new_word": [
+            {
+                "fm_word": "vawupu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "交通部": {
+        "new_word": [
+            {
+                "fm_word": "ciautungpu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "國防部": {
+        "new_word": [
+            {
+                "fm_word": "kohvangpu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "文化部": {
+        "new_word": [
+            {
+                "fm_word": "wunhuapu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "衛福部": {
+        "new_word": [
+            {
+                "fm_word": "wyvupu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "體育署": {
+        "new_word": [
+            {
+                "fm_word": "diyisu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "警政署": {
+        "new_word": [
+            {
+                "fm_word": "cingcensu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "環保署": {
+        "new_word": [
+            {
+                "fm_word": "huanpausu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "水利局": {
+        "new_word": [
+            {
+                "fm_word": "suylicy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "觀光局": {
+        "new_word": [
+            {
+                "fm_word": "kuankuangcy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "公路局": {
+        "new_word": [
+            {
+                "fm_word": "kunglucy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "消防局": {
+        "new_word": [
+            {
+                "fm_word": "siauvangcy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "林務局": {
+        "new_word": [
+            {
+                "fm_word": "linwucy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "國產局": {
+        "new_word": [
+            {
+                "fm_word": "kucancy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "勞保局": {
+        "new_word": [
+            {
+                "fm_word": "ljawpawgi",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "水保局": {
+        "new_word": [
+            {
+                "fm_word": "suypaucy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "客委會": {
+        "new_word": [
+            {
+                "fm_word": "kewuyhuy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "智慧財產局": {
+        "new_word": [
+            {
+                "fm_word": "cehuycaycancy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "中央氣象局": {
+        "new_word": [
+            {
+                "fm_word": "cungyancisiyangcy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "就業服務站": {
+        "new_word": [
+            {
+                "fm_word": "ciuyevuwucan",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "原住民特考": {
+        "new_word": [
+            {
+                "fm_word": "yencumintekaw",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    }
+}
