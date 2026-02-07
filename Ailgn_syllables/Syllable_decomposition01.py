@@ -3,6 +3,7 @@ import re
 import os
 from collections import Counter
 
+
 def get_syllables(word):
     """
     拆解規則修正版：

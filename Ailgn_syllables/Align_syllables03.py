@@ -2,6 +2,10 @@ import os
 import json
 from Syllable_dictionary02 import model_main
 
+file_path = os.path.dirname(os.path.abspath(__file__))
+INPUT_FILE_PATH = os.path.join(file_path,'Ailgn_syllables', 'aligned_syllables.json')
+OUTPUT_FILE_PATH =  os.path.join(file_path, 'output_alignment.xlsx')
+
 class PhoneticAligner:
     def __init__(self):
         # 定義聲母群組 (根據你的需求)
@@ -142,14 +146,8 @@ def process_file(input_data: str, dict_path: str, output_path: str):
         json.dump(result, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    # base_path = "新詞整合/新詞譯詞/"
-    arr = ["阿美語","泰雅語","排灣語","布農語","卑南語","魯凱語","鄒語",
-       "賽夏語","雅美語","邵語","噶瑪蘭語","太魯閣語","撒奇萊雅語","賽德克語","拉阿魯哇語","卡那卡那富語",]
-    base_path = r"C:\code\專題\畢業專題\code\data"
-    for name in arr:
-        print(f"正在讀取檔案: {name} ...")
-        # input_data 可以允許放入還未處理過的merged_output.json，或是已經處理過的音節轉字典.json，根據你的需求選擇
-        input_data = model_main(os.path.join(base_path, f"{arr.index(name)+1:02d}{name}", "merged_output.json"))
-        dict_file = r"C:\code\專題\畢業專題\code\data\cedict_part2_yw_full.json"
-        output_file = os.path.join(base_path, f"{arr.index(name)+1:02d}{name}", "aligned_syllables.json")
-        process_file(input_data, dict_file, output_file)
+    # input_data 可以允許放入還未處理過的merged_output.json，或是已經處理過的音節轉字典.json，根據你的需求選擇
+    input_data = model_main(os.path.join(file_path, "merged_output.json"))
+    dict_file = os.path.join(file_path, "cedict_normalized.json")
+    output_file = os.path.join(file_path, "aligned_syllables.json")
+    process_file(input_data, dict_file, output_file)

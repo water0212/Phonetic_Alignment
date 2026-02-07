@@ -1,6 +1,11 @@
 import json
 import os
 import Syllable_decomposition01
+
+file_path = os.path.dirname(os.path.abspath(__file__))
+INPUT_FILE_PATH = os.path.join(file_path,'Ailgn_syllables', 'aligned_syllables.json')
+OUTPUT_FILE_PATH =  os.path.join(file_path, 'output_alignment.xlsx')
+
 # ==========================================
 # 1. 來自 fix.py 的核心定義
 # ==========================================
