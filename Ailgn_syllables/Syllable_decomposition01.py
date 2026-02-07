@@ -3,63 +3,74 @@ import re
 import os
 from collections import Counter
 
-
 def get_syllables(word):
     """
-    拆解規則修正版：
-    1. 轉小寫：統計時不分大小寫。
-    2. 母音: a, e, i, o, u
-    3. 遇到 '子音+母音' 的組合時：
-       - 若當前音節buffer中已經有母音 -> 切分 (Onset)
-       - 若當前音節buffer中還沒母音 -> 不切分 (視為首字子音群 Cluster)
-    4. 剩餘子音歸前 (Coda)
+    拆解規則修正版 (User Request):
+    邏輯：
+    1. 找出母音。
+    2. 每個音節包含：該母音前的子音(若有) + 母音本身 + 母音後的子音(Coda)。
+    3. Coda 的邊界判定：直到「下一個母音的前一個子音」之前。
+       (意即：下一個母音會盡量帶走它前面的一個子音當作 Onset，剩下的給前面)
     """
     if not word:
         return []
 
-    # --- 修改重點：在這裡直接轉成小寫 ---
     word = word.lower()
-    # --------------------------------
-
-    # 定義母音 (因為已經轉小寫，這裡只要小寫即可)
-    vowels = set('aeiou')
     
-    # 切分分隔符
-    raw_parts = re.split(r'[ \-]+', word)
+    # 定義母音
+    vowels = set('aeiouʉ')
     
-    syllables = []
+    # 先依照空格或連字號切分 (處理片語)
+    raw_parts = re.split(r'[ \\-]+', word)
+    
+    all_syllables = []
 
     for part in raw_parts:
         if not part:
             continue
         
-        current_syllable = ""
-        chars = list(part)
-        length = len(chars)
+        # 1. 找出該單字中所有母音的索引位置
+        v_indices = [i for i, char in enumerate(part) if char in vowels]
         
-        for i, char in enumerate(chars):
-            is_vowel = char in vowels
+        # 如果沒有母音，則整個字視為一個音節 (或依需求處理)
+        if not v_indices:
+            all_syllables.append(part)
+            continue
             
-            # 判斷是否為 "新音節的開頭 (Onset)"
-            # 條件：當前是子音 AND 下一個是母音
-            is_onset_pattern = (not is_vowel) and (i + 1 < length) and (chars[i+1] in vowels)
-            
-            # 關鍵修正：只有當「目前的音節 buffer 裡已經有母音」時，才執行切分
-            has_vowel_in_buffer = any(c in vowels for c in current_syllable)
-            
-            if is_onset_pattern and has_vowel_in_buffer:
-                # 結算上一個音節
-                syllables.append(current_syllable)
-                # 開啟新音節
-                current_syllable = char
-            else:
-                current_syllable += char
+        start_idx = 0
         
-        # 加入最後殘留的音節
-        if current_syllable:
-            syllables.append(current_syllable)
+        # 2. 遍歷每個母音來決定音節邊界
+        for i, current_v_idx in enumerate(v_indices):
+            # 預設切割點為字串結尾 (針對最後一個音節)
+            end_idx = len(part)
             
-    return syllables
+            # 如果還有下一個母音，我們需要計算切割點
+            if i + 1 < len(v_indices):
+                next_v_idx = v_indices[i+1]
+                
+                # 邏輯：切在 "下一個母音" 的 "前一個子音" 之前
+                # 也就是 next_v_idx - 1 的位置
+                cut_candidate = next_v_idx - 1
+                
+                # 特殊情況檢查：
+                # 如果 next_v_idx - 1 剛好就是當前的母音 (例如 'ia' 相連)，
+                # 或者 cut_candidate 小於等於 start_idx (雖然不太可能發生)，
+                # 則直接切在兩個母音中間
+                if part[cut_candidate] in vowels:
+                    end_idx = next_v_idx
+                else:
+                    # 正常情況：保留一個子音給下一個母音，剩下的歸這裡
+                    end_idx = cut_candidate
+            
+            # 3. 提取音節
+            syllable = part[start_idx:end_idx]
+            if syllable:
+                all_syllables.append(syllable)
+            
+            # 更新下一個音節的起始點
+            start_idx = end_idx
+            
+    return all_syllables
 
 def model_main(input_file):
     # 檢查輸入檔是否存在
@@ -144,30 +155,16 @@ def main():
                         }
                         output_data.append(word_entry)
 
-        # (選用) 如果你希望 JSON 裡也包含統計資訊，可以取消下面註解並調整結構
-        # syllable_counts = dict(Counter(all_syllables).most_common())
-        # final_output = {
-        #     "statistics": syllable_counts,
-        #     "details": output_data
-        # }
-        
-        # 這裡預設直接輸出「單字拆解詳情」的列表
         final_output = output_data
 
         # 寫入 JSON 檔案
         try:
             with open(output_file, 'w', encoding='utf-8') as f:
-                # ensure_ascii=False 確保中文正常顯示
-                # indent=4 確保格式縮排美觀
                 json.dump(final_output, f, ensure_ascii=False, indent=4)
             
             print(f"處理完成！已生成 JSON 檔案: {output_file}")
             print(f"共處理了 {len(output_data)} 個單字。")
             
-            # 簡單印出前幾個範例確認
-            if output_data:
-                print("範例資料:", output_data[0])
-                
         except Exception as e:
             print(f"寫入檔案時發生錯誤: {e}")
 

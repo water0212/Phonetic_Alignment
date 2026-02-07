@@ -31,8 +31,8 @@ class PhoneticAligner:
         self.vowel_map = {'w': 'u', 'y': 'i'}
 
     def calculate_consonant_score(self, c_ch, c_ts):
-        if not c_ch and not c_ts: return 1
-        if not c_ch or not c_ts: return 0
+        if c_ch == "0c" and c_ts == "0c": return 1
+        if c_ch == "0c" or  c_ts == "0c": return 0
 
         max_score = 0
         
@@ -144,7 +144,11 @@ class PhoneticAligner:
         return alignment[::-1], dp, dir_matrix, path_coords
 
     def merge_syllables(self, syl_base, syl_append):
-        new_rhyme = syl_base['rhyme'] + syl_append['onset'] + syl_append['rhyme']
+        append_onset = syl_append['onset']    
+        if append_onset == '0c':
+            append_onset = ''
+        
+        new_rhyme = syl_base['rhyme'] + append_onset + syl_append['rhyme']
         new_raw = syl_base.get('raw', '') + syl_append.get('raw', '')
         
         return {
@@ -311,6 +315,8 @@ def process_json_to_excel(json_file_path, output_excel_path):
         for ch, ts, status in final_alignment:
             c_str = ch['raw'] if ch else "---"
             t_str = ts['raw'] if ts else "---"
+            c_str = c_str.replace("0c", "")  # 移除 '0c' 表示的無聲母
+            t_str = t_str.replace("0c", "")
             aligned_pairs.append(f"{c_str} ↔ {t_str} | ")
             status_list.append(status)
             if ch and ts:
