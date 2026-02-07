@@ -9,7 +9,7 @@ def get_syllables(word):
     """
     拆解規則修正版：
     1. 轉小寫：統計時不分大小寫。
-    2. 母音: a, e, i, o, u
+    2. 母音: a, e, i, o, u, ʉ, é, ɨ, 
     3. 遇到 '子音+母音' 的組合時：
        - 若當前音節buffer中已經有母音 -> 切分 (Onset)
        - 若當前音節buffer中還沒母音 -> 不切分 (視為首字子音群 Cluster)
@@ -23,7 +23,7 @@ def get_syllables(word):
     # --------------------------------
 
     # 定義母音 (因為已經轉小寫，這裡只要小寫即可)
-    vowels = set('aeiou')
+    vowels = set('aeiouʉéɨ')
     
     # 切分分隔符
     raw_parts = re.split(r'[ \-]+', word)
