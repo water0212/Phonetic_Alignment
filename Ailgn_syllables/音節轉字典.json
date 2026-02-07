@@ -1,206 +1,79 @@
 [
     {
-        "chinese_word": "高速鐵路",
-        "amis_word": "kausuu tieruu",
-        "syllables": [
-            "kau",
-            "suu",
-            "tie",
-            "ruu"
-        ],
-        "syllable_count": 4,
-        "syllable_structure": [
-            {
-                "original": "kau",
-                "initial": "k",
-                "final": "au",
-                "split_display": "k,au"
-            },
-            {
-                "original": "suu",
-                "initial": "s",
-                "final": "uu",
-                "split_display": "s,uu"
-            },
-            {
-                "original": "tie",
-                "initial": "t",
-                "final": "ie",
-                "split_display": "t,ie"
-            },
-            {
-                "original": "ruu",
-                "initial": "r",
-                "final": "uu",
-                "split_display": "r,uu"
-            }
-        ]
-    },
-    {
-        "chinese_word": "高速公路",
-        "amis_word": "kausuu kungruu",
-        "syllables": [
-            "kau",
-            "suu",
-            "kung",
-            "ruu"
-        ],
-        "syllable_count": 4,
-        "syllable_structure": [
-            {
-                "original": "kau",
-                "initial": "k",
-                "final": "au",
-                "split_display": "k,au"
-            },
-            {
-                "original": "suu",
-                "initial": "s",
-                "final": "uu",
-                "split_display": "s,uu"
-            },
-            {
-                "original": "kung",
-                "initial": "k",
-                "final": "ung",
-                "split_display": "k,ung"
-            },
-            {
-                "original": "ruu",
-                "initial": "r",
-                "final": "uu",
-                "split_display": "r,uu"
-            }
-        ]
-    },
-    {
-        "chinese_word": "捷運",
-        "amis_word": "cie-uiin",
-        "syllables": [
-            "cie",
-            "uiin"
-        ],
-        "syllable_count": 2,
-        "syllable_structure": [
-            {
-                "original": "cie",
-                "initial": "c",
-                "final": "ie",
-                "split_display": "c,ie"
-            },
-            {
-                "original": "uiin",
-                "initial": "0c",
-                "final": "uiin",
-                "split_display": "0c,uiin"
-            }
-        ]
-    },
-    {
         "chinese_word": "總統府",
-        "amis_word": "Congtongfu",
+        "amis_word": "cungtungvu",
         "syllables": [
-            "cong",
-            "tong",
-            "fu"
+            "cung",
+            "tung",
+            "vu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "cong",
+                "original": "cung",
                 "initial": "c",
-                "final": "ong",
-                "split_display": "c,ong"
+                "final": "ung",
+                "split_display": "c,ung"
             },
             {
-                "original": "tong",
+                "original": "tung",
                 "initial": "t",
-                "final": "ong",
-                "split_display": "t,ong"
+                "final": "ung",
+                "split_display": "t,ung"
             },
             {
-                "original": "fu",
-                "initial": "f",
-                "final": "u",
-                "split_display": "f,u"
+                "original": "vu",
+                "initial": "0c",
+                "final": "vu",
+                "split_display": "0c,vu"
             }
         ]
     },
     {
         "chinese_word": "行政院",
-        "amis_word": "Singcʉng-ien",
+        "amis_word": "sincengyen",
         "syllables": [
-            "sing",
-            "cʉng",
-            "ien"
+            "sin",
+            "ceng",
+            "yen"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "sing",
+                "original": "sin",
                 "initial": "s",
-                "final": "ing",
-                "split_display": "s,ing"
+                "final": "in",
+                "split_display": "s,in"
             },
             {
-                "original": "cʉng",
+                "original": "ceng",
                 "initial": "c",
-                "final": "ʉng",
-                "split_display": "c,ʉng"
+                "final": "eng",
+                "split_display": "c,eng"
             },
             {
-                "original": "ien",
-                "initial": "0c",
-                "final": "ien",
-                "split_display": "0c,ien"
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
             }
         ]
     },
     {
         "chinese_word": "立法院",
-        "amis_word": "Rifa-ien",
+        "amis_word": "livayen",
         "syllables": [
-            "ri",
-            "fa",
-            "ien"
-        ],
-        "syllable_count": 3,
-        "syllable_structure": [
-            {
-                "original": "ri",
-                "initial": "r",
-                "final": "i",
-                "split_display": "r,i"
-            },
-            {
-                "original": "fa",
-                "initial": "f",
-                "final": "a",
-                "split_display": "f,a"
-            },
-            {
-                "original": "ien",
-                "initial": "0c",
-                "final": "ien",
-                "split_display": "0c,ien"
-            }
-        ]
-    },
-    {
-        "chinese_word": "司法院",
-        "amis_word": "Sʉva-ien",
-        "syllables": [
-            "sʉ",
+            "li",
             "va",
-            "ien"
+            "yen"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "sʉ",
-                "initial": "s",
-                "final": "ʉ",
-                "split_display": "s,ʉ"
+                "original": "li",
+                "initial": "l",
+                "final": "i",
+                "split_display": "l,i"
             },
             {
                 "original": "va",
@@ -209,20 +82,50 @@
                 "split_display": "0c,va"
             },
             {
-                "original": "ien",
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
+            }
+        ]
+    },
+    {
+        "chinese_word": "司法院",
+        "amis_word": "sevayen",
+        "syllables": [
+            "se",
+            "va",
+            "yen"
+        ],
+        "syllable_count": 3,
+        "syllable_structure": [
+            {
+                "original": "se",
+                "initial": "s",
+                "final": "e",
+                "split_display": "s,e"
+            },
+            {
+                "original": "va",
                 "initial": "0c",
-                "final": "ien",
-                "split_display": "0c,ien"
+                "final": "va",
+                "split_display": "0c,va"
+            },
+            {
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
             }
         ]
     },
     {
         "chinese_word": "考試院",
-        "amis_word": "Kausʉ-uen",
+        "amis_word": "kauseyen",
         "syllables": [
             "kau",
-            "sʉ",
-            "uen"
+            "se",
+            "yen"
         ],
         "syllable_count": 3,
         "syllable_structure": [
@@ -233,34 +136,41 @@
                 "split_display": "k,au"
             },
             {
-                "original": "sʉ",
+                "original": "se",
                 "initial": "s",
-                "final": "ʉ",
-                "split_display": "s,ʉ"
+                "final": "e",
+                "split_display": "s,e"
             },
             {
-                "original": "uen",
-                "initial": "0c",
-                "final": "uen",
-                "split_display": "0c,uen"
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
             }
         ]
     },
     {
         "chinese_word": "監察院",
-        "amis_word": "Cienca-ien",
+        "amis_word": "ciyencayen",
         "syllables": [
-            "cien",
+            "ci",
+            "yen",
             "ca",
-            "ien"
+            "yen"
         ],
-        "syllable_count": 3,
+        "syllable_count": 4,
         "syllable_structure": [
             {
-                "original": "cien",
+                "original": "ci",
                 "initial": "c",
-                "final": "ien",
-                "split_display": "c,ien"
+                "final": "i",
+                "split_display": "c,i"
+            },
+            {
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
             },
             {
                 "original": "ca",
@@ -269,110 +179,117 @@
                 "split_display": "c,a"
             },
             {
-                "original": "ien",
-                "initial": "0c",
-                "final": "ien",
-                "split_display": "0c,ien"
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
             }
         ]
     },
     {
         "chinese_word": "外交部",
-        "amis_word": "Uaiciaupuu",
+        "amis_word": "waycayaupu",
         "syllables": [
-            "uai",
-            "ciau",
-            "puu"
+            "way",
+            "ca",
+            "yau",
+            "pu"
         ],
-        "syllable_count": 3,
+        "syllable_count": 4,
         "syllable_structure": [
             {
-                "original": "uai",
-                "initial": "0c",
-                "final": "uai",
-                "split_display": "0c,uai"
+                "original": "way",
+                "initial": "w",
+                "final": "ay",
+                "split_display": "w,ay"
             },
             {
-                "original": "ciau",
+                "original": "ca",
                 "initial": "c",
-                "final": "iau",
-                "split_display": "c,iau"
+                "final": "a",
+                "split_display": "c,a"
             },
             {
-                "original": "puu",
+                "original": "yau",
+                "initial": "y",
+                "final": "au",
+                "split_display": "y,au"
+            },
+            {
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "內政部",
-        "amis_word": "Necʉngpuu",
+        "amis_word": "neycengpu",
         "syllables": [
-            "ne",
-            "cʉng",
-            "puu"
+            "ney",
+            "ceng",
+            "pu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "ne",
+                "original": "ney",
                 "initial": "n",
-                "final": "e",
-                "split_display": "n,e"
+                "final": "ey",
+                "split_display": "n,ey"
             },
             {
-                "original": "cʉng",
+                "original": "ceng",
                 "initial": "c",
-                "final": "ʉng",
-                "split_display": "c,ʉng"
+                "final": "eng",
+                "split_display": "c,eng"
             },
             {
-                "original": "puu",
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "財政部",
-        "amis_word": "Caicʉngpuu",
+        "amis_word": "caycengpu",
         "syllables": [
-            "cai",
-            "cʉng",
-            "puu"
+            "cay",
+            "ceng",
+            "pu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "cai",
+                "original": "cay",
                 "initial": "c",
-                "final": "ai",
-                "split_display": "c,ai"
+                "final": "ay",
+                "split_display": "c,ay"
             },
             {
-                "original": "cʉng",
+                "original": "ceng",
                 "initial": "c",
-                "final": "ʉng",
-                "split_display": "c,ʉng"
+                "final": "eng",
+                "split_display": "c,eng"
             },
             {
-                "original": "puu",
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "經濟部",
-        "amis_word": "Cingcipuu",
+        "amis_word": "cingcipu",
         "syllables": [
             "cing",
             "ci",
-            "puu"
+            "pu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
@@ -389,50 +306,50 @@
                 "split_display": "c,i"
             },
             {
-                "original": "puu",
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "法務部",
-        "amis_word": "Fa’upuu",
+        "amis_word": "vawupu",
         "syllables": [
-            "fa",
-            "’u",
-            "puu"
+            "va",
+            "wu",
+            "pu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "fa",
-                "initial": "f",
-                "final": "a",
-                "split_display": "f,a"
-            },
-            {
-                "original": "’u",
+                "original": "va",
                 "initial": "0c",
-                "final": "’u",
-                "split_display": "0c,’u"
+                "final": "va",
+                "split_display": "0c,va"
             },
             {
-                "original": "puu",
+                "original": "wu",
+                "initial": "w",
+                "final": "u",
+                "split_display": "w,u"
+            },
+            {
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "交通部",
-        "amis_word": "Ciautungpuu",
+        "amis_word": "ciautungpu",
         "syllables": [
             "ciau",
             "tung",
-            "puu"
+            "pu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
@@ -449,58 +366,58 @@
                 "split_display": "t,ung"
             },
             {
-                "original": "puu",
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "國防部",
-        "amis_word": "Kuofangpuu",
+        "amis_word": "kohvangpu",
         "syllables": [
-            "kuo",
-            "fang",
-            "puu"
+            "koh",
+            "vang",
+            "pu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "kuo",
+                "original": "koh",
                 "initial": "k",
-                "final": "uo",
-                "split_display": "k,uo"
+                "final": "oh",
+                "split_display": "k,oh"
             },
             {
-                "original": "fang",
-                "initial": "f",
-                "final": "ang",
-                "split_display": "f,ang"
+                "original": "vang",
+                "initial": "0c",
+                "final": "vang",
+                "split_display": "0c,vang"
             },
             {
-                "original": "puu",
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "文化部",
-        "amis_word": "Uʉnhuapuu",
+        "amis_word": "wunhuapu",
         "syllables": [
-            "uʉn",
+            "wun",
             "hua",
-            "puu"
+            "pu"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "uʉn",
-                "initial": "0c",
-                "final": "uʉn",
-                "split_display": "0c,uʉn"
+                "original": "wun",
+                "initial": "w",
+                "final": "un",
+                "split_display": "w,un"
             },
             {
                 "original": "hua",
@@ -509,64 +426,57 @@
                 "split_display": "h,ua"
             },
             {
-                "original": "puu",
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "衛福部",
-        "amis_word": "Uefupuu",
+        "amis_word": "wyvupu",
         "syllables": [
-            "ue",
-            "fu",
-            "puu"
+            "wyvu",
+            "pu"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
-                "original": "ue",
-                "initial": "0c",
-                "final": "ue",
-                "split_display": "0c,ue"
+                "original": "wyvu",
+                "initial": "w",
+                "final": "yvu",
+                "split_display": "w,yvu"
             },
             {
-                "original": "fu",
-                "initial": "f",
-                "final": "u",
-                "split_display": "f,u"
-            },
-            {
-                "original": "puu",
+                "original": "pu",
                 "initial": "p",
-                "final": "uu",
-                "split_display": "p,uu"
+                "final": "u",
+                "split_display": "p,u"
             }
         ]
     },
     {
         "chinese_word": "體育署",
-        "amis_word": "Ti’isu",
+        "amis_word": "diyisu",
         "syllables": [
-            "ti",
-            "’i",
+            "di",
+            "yi",
             "su"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "ti",
-                "initial": "t",
+                "original": "di",
+                "initial": "d",
                 "final": "i",
-                "split_display": "t,i"
+                "split_display": "d,i"
             },
             {
-                "original": "’i",
-                "initial": "0c",
-                "final": "’i",
-                "split_display": "0c,’i"
+                "original": "yi",
+                "initial": "y",
+                "final": "i",
+                "split_display": "y,i"
             },
             {
                 "original": "su",
@@ -578,10 +488,10 @@
     },
     {
         "chinese_word": "警政署",
-        "amis_word": "Cingcʉngsu",
+        "amis_word": "cingcensu",
         "syllables": [
             "cing",
-            "cʉng",
+            "cen",
             "su"
         ],
         "syllable_count": 3,
@@ -593,10 +503,10 @@
                 "split_display": "c,ing"
             },
             {
-                "original": "cʉng",
+                "original": "cen",
                 "initial": "c",
-                "final": "ʉng",
-                "split_display": "c,ʉng"
+                "final": "en",
+                "split_display": "c,en"
             },
             {
                 "original": "su",
@@ -608,7 +518,7 @@
     },
     {
         "chinese_word": "環保署",
-        "amis_word": "Huanpausu",
+        "amis_word": "huanpausu",
         "syllables": [
             "huan",
             "pau",
@@ -638,43 +548,35 @@
     },
     {
         "chinese_word": "水利局",
-        "amis_word": "Suirici",
+        "amis_word": "suylicy",
         "syllables": [
-            "sui",
-            "ri",
-            "ci"
+            "suy",
+            "licy"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
-                "original": "sui",
+                "original": "suy",
                 "initial": "s",
-                "final": "ui",
-                "split_display": "s,ui"
+                "final": "uy",
+                "split_display": "s,uy"
             },
             {
-                "original": "ri",
-                "initial": "r",
-                "final": "i",
-                "split_display": "r,i"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "original": "licy",
+                "initial": "l",
+                "final": "icy",
+                "split_display": "l,icy"
             }
         ]
     },
     {
         "chinese_word": "觀光局",
-        "amis_word": "Kuankuangci",
+        "amis_word": "kuankuangcy",
         "syllables": [
             "kuan",
-            "kuang",
-            "ci"
+            "kuangcy"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
                 "original": "kuan",
@@ -683,28 +585,21 @@
                 "split_display": "k,uan"
             },
             {
-                "original": "kuang",
+                "original": "kuangcy",
                 "initial": "k",
-                "final": "uang",
-                "split_display": "k,uang"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "final": "uangcy",
+                "split_display": "k,uangcy"
             }
         ]
     },
     {
         "chinese_word": "公路局",
-        "amis_word": "Kungruci",
+        "amis_word": "kunglucy",
         "syllables": [
             "kung",
-            "ru",
-            "ci"
+            "lucy"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
                 "original": "kung",
@@ -713,28 +608,21 @@
                 "split_display": "k,ung"
             },
             {
-                "original": "ru",
-                "initial": "r",
-                "final": "u",
-                "split_display": "r,u"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "original": "lucy",
+                "initial": "l",
+                "final": "ucy",
+                "split_display": "l,ucy"
             }
         ]
     },
     {
         "chinese_word": "消防局",
-        "amis_word": "Siaufangci",
+        "amis_word": "siauvangcy",
         "syllables": [
             "siau",
-            "fang",
-            "ci"
+            "vangcy"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
                 "original": "siau",
@@ -743,222 +631,188 @@
                 "split_display": "s,iau"
             },
             {
-                "original": "fang",
-                "initial": "f",
-                "final": "ang",
-                "split_display": "f,ang"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "original": "vangcy",
+                "initial": "0c",
+                "final": "vangcy",
+                "split_display": "0c,vangcy"
             }
         ]
     },
     {
         "chinese_word": "林務局",
-        "amis_word": "Rin’uci",
+        "amis_word": "linwucy",
         "syllables": [
-            "rin",
-            "’u",
-            "ci"
+            "lin",
+            "wucy"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
-                "original": "rin",
-                "initial": "r",
+                "original": "lin",
+                "initial": "l",
                 "final": "in",
-                "split_display": "r,in"
+                "split_display": "l,in"
             },
             {
-                "original": "’u",
-                "initial": "0c",
-                "final": "’u",
-                "split_display": "0c,’u"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "original": "wucy",
+                "initial": "w",
+                "final": "ucy",
+                "split_display": "w,ucy"
             }
         ]
     },
     {
         "chinese_word": "國產局",
-        "amis_word": "Kuocanci",
+        "amis_word": "kucancy",
         "syllables": [
-            "kuo",
-            "can",
-            "ci"
+            "ku",
+            "cancy"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
-                "original": "kuo",
+                "original": "ku",
                 "initial": "k",
-                "final": "uo",
-                "split_display": "k,uo"
+                "final": "u",
+                "split_display": "k,u"
             },
             {
-                "original": "can",
+                "original": "cancy",
                 "initial": "c",
-                "final": "an",
-                "split_display": "c,an"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "final": "ancy",
+                "split_display": "c,ancy"
             }
         ]
     },
     {
         "chinese_word": "勞保局",
-        "amis_word": "Raupauci",
+        "amis_word": "ljawpawgi",
         "syllables": [
-            "rau",
-            "pau",
-            "ci"
+            "ljaw",
+            "paw",
+            "gi"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "rau",
-                "initial": "r",
-                "final": "au",
-                "split_display": "r,au"
+                "original": "ljaw",
+                "initial": "l",
+                "final": "jaw",
+                "split_display": "l,jaw"
             },
             {
-                "original": "pau",
+                "original": "paw",
                 "initial": "p",
-                "final": "au",
-                "split_display": "p,au"
+                "final": "aw",
+                "split_display": "p,aw"
             },
             {
-                "original": "ci",
-                "initial": "c",
+                "original": "gi",
+                "initial": "g",
                 "final": "i",
-                "split_display": "c,i"
+                "split_display": "g,i"
             }
         ]
     },
     {
         "chinese_word": "水保局",
-        "amis_word": "Suipauci",
+        "amis_word": "suypaucy",
         "syllables": [
-            "sui",
-            "pau",
-            "ci"
+            "suy",
+            "paucy"
         ],
-        "syllable_count": 3,
+        "syllable_count": 2,
         "syllable_structure": [
             {
-                "original": "sui",
+                "original": "suy",
                 "initial": "s",
-                "final": "ui",
-                "split_display": "s,ui"
+                "final": "uy",
+                "split_display": "s,uy"
             },
             {
-                "original": "pau",
+                "original": "paucy",
                 "initial": "p",
-                "final": "au",
-                "split_display": "p,au"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "final": "aucy",
+                "split_display": "p,aucy"
             }
         ]
     },
     {
         "chinese_word": "客委會",
-        "amis_word": "Kʉ-ui-hui",
+        "amis_word": "kewuyhuy",
         "syllables": [
-            "kʉ",
-            "ui",
-            "hui"
+            "ke",
+            "wuy",
+            "huy"
         ],
         "syllable_count": 3,
         "syllable_structure": [
             {
-                "original": "kʉ",
+                "original": "ke",
                 "initial": "k",
-                "final": "ʉ",
-                "split_display": "k,ʉ"
+                "final": "e",
+                "split_display": "k,e"
             },
             {
-                "original": "ui",
-                "initial": "0c",
-                "final": "ui",
-                "split_display": "0c,ui"
+                "original": "wuy",
+                "initial": "w",
+                "final": "uy",
+                "split_display": "w,uy"
             },
             {
-                "original": "hui",
+                "original": "huy",
                 "initial": "h",
-                "final": "ui",
-                "split_display": "h,ui"
+                "final": "uy",
+                "split_display": "h,uy"
             }
         ]
     },
     {
         "chinese_word": "智慧財產局",
-        "amis_word": "Cʉhui caican ci",
+        "amis_word": "cehuycaycancy",
         "syllables": [
-            "cʉ",
-            "hui",
-            "cai",
-            "can",
-            "ci"
+            "ce",
+            "huy",
+            "cay",
+            "cancy"
         ],
-        "syllable_count": 5,
+        "syllable_count": 4,
         "syllable_structure": [
             {
-                "original": "cʉ",
+                "original": "ce",
                 "initial": "c",
-                "final": "ʉ",
-                "split_display": "c,ʉ"
+                "final": "e",
+                "split_display": "c,e"
             },
             {
-                "original": "hui",
+                "original": "huy",
                 "initial": "h",
-                "final": "ui",
-                "split_display": "h,ui"
+                "final": "uy",
+                "split_display": "h,uy"
             },
             {
-                "original": "cai",
+                "original": "cay",
                 "initial": "c",
-                "final": "ai",
-                "split_display": "c,ai"
+                "final": "ay",
+                "split_display": "c,ay"
             },
             {
-                "original": "can",
+                "original": "cancy",
                 "initial": "c",
-                "final": "an",
-                "split_display": "c,an"
-            },
-            {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "final": "ancy",
+                "split_display": "c,ancy"
             }
         ]
     },
     {
         "chinese_word": "中央氣象局",
-        "amis_word": "Cung-iang cisiang ci",
+        "amis_word": "cungyancisiyangcy",
         "syllables": [
             "cung",
-            "iang",
+            "yan",
             "ci",
-            "siang",
-            "ci"
+            "si",
+            "yangcy"
         ],
         "syllable_count": 5,
         "syllable_structure": [
@@ -969,10 +823,10 @@
                 "split_display": "c,ung"
             },
             {
-                "original": "iang",
-                "initial": "0c",
-                "final": "iang",
-                "split_display": "0c,iang"
+                "original": "yan",
+                "initial": "y",
+                "final": "an",
+                "split_display": "y,an"
             },
             {
                 "original": "ci",
@@ -981,27 +835,27 @@
                 "split_display": "c,i"
             },
             {
-                "original": "siang",
+                "original": "si",
                 "initial": "s",
-                "final": "iang",
-                "split_display": "s,iang"
+                "final": "i",
+                "split_display": "s,i"
             },
             {
-                "original": "ci",
-                "initial": "c",
-                "final": "i",
-                "split_display": "c,i"
+                "original": "yangcy",
+                "initial": "y",
+                "final": "angcy",
+                "split_display": "y,angcy"
             }
         ]
     },
     {
         "chinese_word": "就業服務站",
-        "amis_word": "Ciu-ie-fu’u can",
+        "amis_word": "ciuyevuwucan",
         "syllables": [
             "ciu",
-            "ie",
-            "fu",
-            "’u",
+            "ye",
+            "vu",
+            "wu",
             "can"
         ],
         "syllable_count": 5,
@@ -1013,22 +867,22 @@
                 "split_display": "c,iu"
             },
             {
-                "original": "ie",
-                "initial": "0c",
-                "final": "ie",
-                "split_display": "0c,ie"
+                "original": "ye",
+                "initial": "y",
+                "final": "e",
+                "split_display": "y,e"
             },
             {
-                "original": "fu",
-                "initial": "f",
+                "original": "vu",
+                "initial": "0c",
+                "final": "vu",
+                "split_display": "0c,vu"
+            },
+            {
+                "original": "wu",
+                "initial": "w",
                 "final": "u",
-                "split_display": "f,u"
-            },
-            {
-                "original": "’u",
-                "initial": "0c",
-                "final": "’u",
-                "split_display": "0c,’u"
+                "split_display": "w,u"
             },
             {
                 "original": "can",
@@ -1040,21 +894,21 @@
     },
     {
         "chinese_word": "原住民特考",
-        "amis_word": "Iencumin tʉkau",
+        "amis_word": "yencumintekaw",
         "syllables": [
-            "ien",
+            "yen",
             "cu",
             "min",
-            "tʉ",
-            "kau"
+            "te",
+            "kaw"
         ],
         "syllable_count": 5,
         "syllable_structure": [
             {
-                "original": "ien",
-                "initial": "0c",
-                "final": "ien",
-                "split_display": "0c,ien"
+                "original": "yen",
+                "initial": "y",
+                "final": "en",
+                "split_display": "y,en"
             },
             {
                 "original": "cu",
@@ -1069,16 +923,16 @@
                 "split_display": "m,in"
             },
             {
-                "original": "tʉ",
+                "original": "te",
                 "initial": "t",
-                "final": "ʉ",
-                "split_display": "t,ʉ"
+                "final": "e",
+                "split_display": "t,e"
             },
             {
-                "original": "kau",
+                "original": "kaw",
                 "initial": "k",
-                "final": "au",
-                "split_display": "k,au"
+                "final": "aw",
+                "split_display": "k,aw"
             }
         ]
     }

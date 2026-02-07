@@ -1,208 +1,178 @@
 [
     {
-        "chinese_word": "高速鐵路",
-        "amis_word": "kausuu tieruu",
-        "syllables": [
-            "kau",
-            "suu",
-            "tie",
-            "ruu"
-        ],
-        "syllable_count": 4
-    },
-    {
-        "chinese_word": "高速公路",
-        "amis_word": "kausuu kungruu",
-        "syllables": [
-            "kau",
-            "suu",
-            "kung",
-            "ruu"
-        ],
-        "syllable_count": 4
-    },
-    {
-        "chinese_word": "捷運",
-        "amis_word": "cie-uiin",
-        "syllables": [
-            "cie",
-            "uiin"
-        ],
-        "syllable_count": 2
-    },
-    {
         "chinese_word": "總統府",
-        "amis_word": "Congtongfu",
+        "amis_word": "cungtungvu",
         "syllables": [
-            "cong",
-            "tong",
-            "fu"
+            "cung",
+            "tung",
+            "vu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "行政院",
-        "amis_word": "Singcʉng-ien",
+        "amis_word": "sincengyen",
         "syllables": [
-            "sing",
-            "cʉng",
-            "ien"
+            "sin",
+            "ceng",
+            "yen"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "立法院",
-        "amis_word": "Rifa-ien",
+        "amis_word": "livayen",
         "syllables": [
-            "ri",
-            "fa",
-            "ien"
+            "li",
+            "va",
+            "yen"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "司法院",
-        "amis_word": "Sʉva-ien",
+        "amis_word": "sevayen",
         "syllables": [
-            "sʉ",
+            "se",
             "va",
-            "ien"
+            "yen"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "考試院",
-        "amis_word": "Kausʉ-uen",
+        "amis_word": "kauseyen",
         "syllables": [
             "kau",
-            "sʉ",
-            "uen"
+            "se",
+            "yen"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "監察院",
-        "amis_word": "Cienca-ien",
+        "amis_word": "ciyencayen",
         "syllables": [
-            "cien",
+            "ci",
+            "yen",
             "ca",
-            "ien"
+            "yen"
         ],
-        "syllable_count": 3
+        "syllable_count": 4
     },
     {
         "chinese_word": "外交部",
-        "amis_word": "Uaiciaupuu",
+        "amis_word": "waycayaupu",
         "syllables": [
-            "uai",
-            "ciau",
-            "puu"
+            "way",
+            "ca",
+            "yau",
+            "pu"
         ],
-        "syllable_count": 3
+        "syllable_count": 4
     },
     {
         "chinese_word": "內政部",
-        "amis_word": "Necʉngpuu",
+        "amis_word": "neycengpu",
         "syllables": [
-            "ne",
-            "cʉng",
-            "puu"
+            "ney",
+            "ceng",
+            "pu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "財政部",
-        "amis_word": "Caicʉngpuu",
+        "amis_word": "caycengpu",
         "syllables": [
-            "cai",
-            "cʉng",
-            "puu"
+            "cay",
+            "ceng",
+            "pu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "經濟部",
-        "amis_word": "Cingcipuu",
+        "amis_word": "cingcipu",
         "syllables": [
             "cing",
             "ci",
-            "puu"
+            "pu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "法務部",
-        "amis_word": "Fa’upuu",
+        "amis_word": "vawupu",
         "syllables": [
-            "fa",
-            "’u",
-            "puu"
+            "va",
+            "wu",
+            "pu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "交通部",
-        "amis_word": "Ciautungpuu",
+        "amis_word": "ciautungpu",
         "syllables": [
             "ciau",
             "tung",
-            "puu"
+            "pu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "國防部",
-        "amis_word": "Kuofangpuu",
+        "amis_word": "kohvangpu",
         "syllables": [
-            "kuo",
-            "fang",
-            "puu"
+            "koh",
+            "vang",
+            "pu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "文化部",
-        "amis_word": "Uʉnhuapuu",
+        "amis_word": "wunhuapu",
         "syllables": [
-            "uʉn",
+            "wun",
             "hua",
-            "puu"
+            "pu"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "衛福部",
-        "amis_word": "Uefupuu",
+        "amis_word": "wyvupu",
         "syllables": [
-            "ue",
-            "fu",
-            "puu"
+            "wyvu",
+            "pu"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "體育署",
-        "amis_word": "Ti’isu",
+        "amis_word": "diyisu",
         "syllables": [
-            "ti",
-            "’i",
+            "di",
+            "yi",
             "su"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "警政署",
-        "amis_word": "Cingcʉngsu",
+        "amis_word": "cingcensu",
         "syllables": [
             "cing",
-            "cʉng",
+            "cen",
             "su"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "環保署",
-        "amis_word": "Huanpausu",
+        "amis_word": "huanpausu",
         "syllables": [
             "huan",
             "pau",
@@ -212,139 +182,131 @@
     },
     {
         "chinese_word": "水利局",
-        "amis_word": "Suirici",
+        "amis_word": "suylicy",
         "syllables": [
-            "sui",
-            "ri",
-            "ci"
+            "suy",
+            "licy"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "觀光局",
-        "amis_word": "Kuankuangci",
+        "amis_word": "kuankuangcy",
         "syllables": [
             "kuan",
-            "kuang",
-            "ci"
+            "kuangcy"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "公路局",
-        "amis_word": "Kungruci",
+        "amis_word": "kunglucy",
         "syllables": [
             "kung",
-            "ru",
-            "ci"
+            "lucy"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "消防局",
-        "amis_word": "Siaufangci",
+        "amis_word": "siauvangcy",
         "syllables": [
             "siau",
-            "fang",
-            "ci"
+            "vangcy"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "林務局",
-        "amis_word": "Rin’uci",
+        "amis_word": "linwucy",
         "syllables": [
-            "rin",
-            "’u",
-            "ci"
+            "lin",
+            "wucy"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "國產局",
-        "amis_word": "Kuocanci",
+        "amis_word": "kucancy",
         "syllables": [
-            "kuo",
-            "can",
-            "ci"
+            "ku",
+            "cancy"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "勞保局",
-        "amis_word": "Raupauci",
+        "amis_word": "ljawpawgi",
         "syllables": [
-            "rau",
-            "pau",
-            "ci"
+            "ljaw",
+            "paw",
+            "gi"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "水保局",
-        "amis_word": "Suipauci",
+        "amis_word": "suypaucy",
         "syllables": [
-            "sui",
-            "pau",
-            "ci"
+            "suy",
+            "paucy"
         ],
-        "syllable_count": 3
+        "syllable_count": 2
     },
     {
         "chinese_word": "客委會",
-        "amis_word": "Kʉ-ui-hui",
+        "amis_word": "kewuyhuy",
         "syllables": [
-            "kʉ",
-            "ui",
-            "hui"
+            "ke",
+            "wuy",
+            "huy"
         ],
         "syllable_count": 3
     },
     {
         "chinese_word": "智慧財產局",
-        "amis_word": "Cʉhui caican ci",
+        "amis_word": "cehuycaycancy",
         "syllables": [
-            "cʉ",
-            "hui",
-            "cai",
-            "can",
-            "ci"
+            "ce",
+            "huy",
+            "cay",
+            "cancy"
         ],
-        "syllable_count": 5
+        "syllable_count": 4
     },
     {
         "chinese_word": "中央氣象局",
-        "amis_word": "Cung-iang cisiang ci",
+        "amis_word": "cungyancisiyangcy",
         "syllables": [
             "cung",
-            "iang",
+            "yan",
             "ci",
-            "siang",
-            "ci"
+            "si",
+            "yangcy"
         ],
         "syllable_count": 5
     },
     {
         "chinese_word": "就業服務站",
-        "amis_word": "Ciu-ie-fu’u can",
+        "amis_word": "ciuyevuwucan",
         "syllables": [
             "ciu",
-            "ie",
-            "fu",
-            "’u",
+            "ye",
+            "vu",
+            "wu",
             "can"
         ],
         "syllable_count": 5
     },
     {
         "chinese_word": "原住民特考",
-        "amis_word": "Iencumin tʉkau",
+        "amis_word": "yencumintekaw",
         "syllables": [
-            "ien",
+            "yen",
             "cu",
             "min",
-            "tʉ",
-            "kau"
+            "te",
+            "kaw"
         ],
         "syllable_count": 5
     }
