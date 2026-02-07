@@ -1,6 +1,6 @@
 import json
 import os
-import 分解音節
+import Syllable_decomposition01
 # ==========================================
 # 1. 來自 fix.py 的核心定義
 # ==========================================
@@ -33,7 +33,7 @@ def split_syllable_by_initials(syllable):
     return curr_initial, curr_final
 
 def model_main(input_file):
-    input_data = 分解音節.model_main(input_file)  # 先執行音節拆解，得到 "音節拆解.json" 的路徑
+    input_data = Syllable_decomposition01.model_main(input_file)  # 先執行音節拆解，得到 "音節拆解.json" 的路徑
     # 檢查輸入檔是否存在
 
     data = json.loads(input_data)

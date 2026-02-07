@@ -1,6 +1,6 @@
 import os
 import json
-from 音節字典化 import model_main
+from Syllable_dictionary02 import model_main
 
 class PhoneticAligner:
     def __init__(self):
