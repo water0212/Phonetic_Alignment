@@ -18,7 +18,7 @@ def get_syllables(word):
     word = word.lower()
     
     # 定義母音
-    vowels = set('aeiouʉ')
+    vowels = set('aeiouʉéɨy')
     
     # 先依照空格或連字號切分 (處理片語)
     raw_parts = re.split(r'[ \\-]+', word)
