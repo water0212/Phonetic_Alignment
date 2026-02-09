@@ -16,15 +16,38 @@ class PhoneticAligner:
     def __init__(self):
         # 定義聲母群組
         self.consonant_chinese_groups = [
-            {'b', 'p'}, {'m'}, {'f'}, {'d', 't'}, {'n'}, {'l', 'r'},
-            {'g', 'k'}, {'d', 'j', 'z'}, {'h'}, {'j'}, {'x'},
-            {'t','q','c'}, {'z', 'c', 's', 'zh', 'ch', 'sh'},
-            {'d', 'j', 'z', 't', 'q', 'c'}
+            {'b', 'p'}, 
+            {'m'}, 
+            {'f'}, 
+            {'d', 't'}, 
+            {'n'}, 
+            {'l', 'r'},
+            {'g', 'k'}, 
+            {'d', 'j', 'z'}, 
+            {'h'}, 
+            {'j'}, 
+            {'x'},
+            {'t','q','c'}, 
+            {'z', 'c', 's', 'zh', 'ch', 'sh'},
+            {'d', 'j', 'z', 't', 'q', 'c'},
+            {'f'}
         ]
         self.consonant_tsou_groups = [
-            {'b', 'p'}, {'m'}, {'f'}, {'d', 't'}, {'n'}, {'l', 'r'},
-            {'g', 'k', 'q'}, {'d', 'j', 'z'}, {'h'}, {'j'}, {'x'},
-            {'t','c'}, {'z', 'c', 's'}, {'d', 'j', 'z', 't', 'c'}
+            {'b', 'p'}, 
+            {'m'}, 
+            {'f'}, 
+            {'d', 't'}, 
+            {'n'}, 
+            {'l', 'r'},
+            {'g', 'k', 'q', '’', '^'}, 
+            {'d', 'j', 'z'}, 
+            {'h'}, 
+            {'j'}, 
+            {'x'},
+            {'t','c'}, 
+            {'z', 'c', 's'}, 
+            {'d', 'j', 'z', 't', 'c'},
+            {'f','v', 'b'}
         ]
         
         # 定義正規化映射
@@ -52,8 +75,8 @@ class PhoneticAligner:
         return max_score
 
     def dice_coefficient(self, s1, s2):
-        if not s1 and not s2: return 1.0
-        if not s1 or not s2: return 0.0
+        if s1 == "0v" and s2 == "0v": return 1.0
+        if s1 == "0v" or s2 == "0v": return 0.0
         
         def normalize(s):
             return "".join([self.vowel_map.get(char, char) for char in s.lower()])
@@ -73,8 +96,7 @@ class PhoneticAligner:
         # 聲母分數
         score_onset = self.calculate_consonant_score(syl_ch['onset'], syl_in['onset']) * 1
         # 韻母分數
-        dice = self.dice_coefficient(syl_ch['rhyme'], syl_in['rhyme'])
-        score_rhyme = dice * 1
+        score_rhyme = self.dice_coefficient(syl_ch['rhyme'], syl_in['rhyme']) * 1
         
         return score_onset + score_rhyme
 
@@ -145,8 +167,8 @@ class PhoneticAligner:
 
     def merge_syllables(self, syl_base, syl_append):
         append_onset = syl_append['onset']    
-        if append_onset == '0c':
-            append_onset = ''
+        # if append_onset == '0c':
+        #     append_onset = ''
         
         new_rhyme = syl_base['rhyme'] + append_onset + syl_append['rhyme']
         new_raw = syl_base.get('raw', '') + syl_append.get('raw', '')
@@ -213,7 +235,6 @@ class PhoneticAligner:
                     merged_right_ts = temp_merged
 
                 # --- 3. 決策 PK ---
-                # 如果兩邊都無法合併 (例如孤兒卡在邊界且無鄰居)，只能保留
                 if delta_left == -float('inf') and delta_right == -float('inf'):
                     refined.append((ch_curr, ts_curr, status))
                     i += 1
