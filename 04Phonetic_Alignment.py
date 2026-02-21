@@ -78,19 +78,39 @@ class PhoneticAligner:
         if s1 == "0v" and s2 == "0v": return 1.0
         if s1 == "0v" or s2 == "0v": return 0.0
         
-        def normalize(s):
-            return "".join([self.vowel_map.get(char, char) for char in s.lower()])
+        # Dice: 2 * LCS(s1, s2) / (|s1| + |s2|)
+        # 使用 LCS (最長公共子序列) 演算法計算 intersection，
+        # 這樣可以考慮字母順序 (例如 'an' 和 'na' 不會被視為一樣)。
+        # 正規化：w→u, y→i 增加匹配率
         
-        n1 = normalize(s1)
-        n2 = normalize(s2)
+        # 1. 正規化字串 (處理 w, y)
+        def normalize(s): return "".join(self.vowel_map.get(c, c) for c in s.lower())
         
-        set1 = set(n1)
-        set2 = set(n2)
+        n1, n2 = normalize(s1), normalize(s2)
+        len1, len2 = len(n1), len(n2)
         
-        intersection = len(set1 & set2)
-        total = len(set1) + len(set2)
-        
-        return (2.0 * intersection) / total if total > 0 else 0
+        # 若有空字串，相似度為 0
+        if len1 == 0 or len2 == 0:
+            return 0.0
+
+        # 2. 使用動態規劃 (DP) 計算 LCS 長度
+        # 建立一個 (len1+1) x (len2+1) 的二維陣列，初始值為 0
+        dp = [[0] * (len2 + 1) for _ in range(len1 + 1)]
+
+        for i in range(1, len1 + 1):
+            for j in range(1, len2 + 1):
+                if n1[i - 1] == n2[j - 1]:
+                    # 如果字元相同，則長度 + 1
+                    dp[i][j] = dp[i - 1][j - 1] + 1
+                else:
+                    # 如果不同，取左邊或上面的最大值 (繼承之前的最長長度)
+                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+
+        # dp矩陣右下角即為最長公共子序列的長度
+        intersection = dp[len1][len2]
+
+        # 3. 計算 Dice Coefficient
+        return 2.0 * intersection / (len1 + len2)
 
     def calculate_similarity(self, syl_ch, syl_in):
         # 聲母分數
@@ -181,79 +201,102 @@ class PhoneticAligner:
 
     def refine_alignment(self, original_alignment):
         """
-        倒序掃描 (Back-to-Front) 優化版
-        優點：能自然解決 u -> a -> i 這種連續缺失需要合併到最後一個音節的問題。
+        多次迴圈合併版 (Iterative Merge)
+        邏輯：
+        1. 使用 while True 迴圈，不斷掃描列表。
+        2. 針對每一個「中文缺失」(多餘族語)，計算「併入左邊」vs「併入右邊」的分數差 (Delta)。
+        3. 選擇分數提升最多的一邊進行合併。
+        4. 如果發生了向右合併，我們將當前音節併入「下一個」音節，這樣下一輪掃描時，它就能繼續帶著走 (解決 u -> a -> i 連鎖問題)。
+        5. 當某一輪完全沒有發生任何合併時，結束迴圈。
         """
-        refined = []
-        n = len(original_alignment)
+        current_alignment = original_alignment
         
-        # 關鍵：從最後一個元素開始，倒著往前掃描 (Index: n-1 -> 0)
-        for i in range(n - 1, -1, -1):
-            ch_curr, ts_curr, status = original_alignment[i]
+        while True:
+            has_changed = False
+            new_alignment = []
+            n = len(current_alignment)
+            i = 0
             
-            # 針對「中文缺失」(即多餘的族語音節)
-            if status == "中文缺失" and ts_curr is not None:
-                orphan = ts_curr
+            while i < n:
+                ch_curr, ts_curr, status = current_alignment[i]
                 
-                # 初始化差異分數
-                delta_right = -float('inf')
-                merged_right_ts = None
-                
-                delta_left = -float('inf')
-                merged_left_ts = None
-                
-                # --- 1. 評估向右合併 (Merge Right / Merge Backward) ---
-                # 注意：因為我們是倒著做，"右邊"的元素其實已經被處理過，放在 refined 列表裡了 (refined[-1])
-                if len(refined) > 0 and refined[-1][2] in ["已匹配", "已匹配(合併)"]:
-                    next_ch = refined[-1][0]
-                    next_ts = refined[-1][1] # 這是原本在右邊的音節
+                # 只有「中文缺失」(多餘的族語音節) 需要被處理
+                if status == "中文缺失" and ts_curr is not None:
+                    orphan = ts_curr
                     
-                    score_orig = self.calculate_similarity(next_ch, next_ts)
-                    # 合併順序：Orphan(前) + Right(後)
-                    temp_merged = self.merge_syllables(orphan, next_ts)
-                    score_new = self.calculate_similarity(next_ch, temp_merged)
+                    # 初始化 Delta (分數變化量)
+                    delta_left = -float('inf')
+                    merged_left_ts = None
                     
-                    delta_right = score_new - score_orig
-                    merged_right_ts = temp_merged
-
-                # --- 2. 評估向左合併 (Merge Left / Merge Forward) ---
-                # 注意："左邊"的元素還沒被處理，還在 original_alignment[i-1] 裡
-                if i - 1 >= 0 and original_alignment[i-1][2] in ["已匹配", "已匹配(合併)"]:
-                    prev_ch = original_alignment[i-1][0]
-                    prev_ts = original_alignment[i-1][1] # 這是原本在左邊的音節
+                    delta_right = -float('inf')
+                    merged_right_ts = None
                     
-                    score_orig = self.calculate_similarity(prev_ch, prev_ts)
-                    # 合併順序：Left(前) + Orphan(後)
-                    temp_merged = self.merge_syllables(prev_ts, orphan)
-                    score_new = self.calculate_similarity(prev_ch, temp_merged)
+                    # --- 1. 評估向左合併 (Merge Left) ---
+                    # 左邊的對象是 new_alignment 的最後一個元素
+                    if len(new_alignment) > 0 and new_alignment[-1][2] in ["已匹配", "已匹配(合併)"]:
+                        prev_ch = new_alignment[-1][0]
+                        prev_ts = new_alignment[-1][1]
+                        
+                        score_orig = self.calculate_similarity(prev_ch, prev_ts)
+                        temp_merged = self.merge_syllables(prev_ts, orphan) # Left + Orphan
+                        score_new = self.calculate_similarity(prev_ch, temp_merged)
+                        
+                        delta_left = score_new - score_orig
+                        merged_left_ts = temp_merged
+                        
+                    # --- 2. 評估向右合併 (Merge Right) ---
+                    # 右邊的對象是 current_alignment 的下一個元素 (i+1)
+                    if i + 1 < n and current_alignment[i+1][2] in ["已匹配", "已匹配(合併)"]:
+                        next_ch = current_alignment[i+1][0]
+                        next_ts = current_alignment[i+1][1]
+                        
+                        score_orig = self.calculate_similarity(next_ch, next_ts)
+                        temp_merged = self.merge_syllables(orphan, next_ts) # Orphan + Right
+                        score_new = self.calculate_similarity(next_ch, temp_merged)
+                        
+                        delta_right = score_new - score_orig
+                        merged_right_ts = temp_merged
                     
-                    delta_left = score_new - score_orig
-                    merged_left_ts = temp_merged
-
-                # --- 3. 決策 PK ---
-                if delta_left == -float('inf') and delta_right == -float('inf'):
-                    refined.append((ch_curr, ts_curr, status))
-                    continue
-
-                # 比較 Delta (選分數提升多的)
-                if delta_right >= delta_left:
-                    # 【向右合併勝出】 -> 併入 refined[-1] (即原本的後一個字)
-                    # print(f"🔄 倒序合併 (向右吸附): {orphan['raw']} + {refined[-1][1]['raw']}")
-                    refined[-1] = (refined[-1][0], merged_right_ts, "已匹配(合併)")
-                    # 當前 orphan 被吸走了，所以不 append 到 refined
+                    # --- 3. 決策與執行 ---
+                    
+                    # 如果兩邊都不能合，直接保留原樣
+                    if delta_left == -float('inf') and delta_right == -float('inf'):
+                        new_alignment.append((ch_curr, ts_curr, status))
+                        i += 1
+                        continue
+                        
+                    # 比較哪邊分數提升更多
+                    if delta_left >= delta_right:
+                        # ✅ 向左合併勝出
+                        # 更新 new_alignment 的最後一個元素
+                        # print(f"🔄 合併 (向左): {new_alignment[-1][1]['raw']} + {orphan['raw']} (Δ: {delta_left:.2f})")
+                        new_alignment[-1] = (new_alignment[-1][0], merged_left_ts, "已匹配(合併)")
+                        has_changed = True
+                        i += 1 # 當前 orphan 已經被吸收到左邊了，跳過
+                    else:
+                        # ✅ 向右合併勝出
+                        # 這是解決連鎖問題的關鍵：我們修改 current_alignment[i+1]
+                        # 這樣當前 orphan 就被「推」到下一個格子裡了
+                        # print(f"🔄 合併 (向右): {orphan['raw']} + {current_alignment[i+1][1]['raw']} (Δ: {delta_right:.2f})")
+                        
+                        target_next = current_alignment[i+1]
+                        current_alignment[i+1] = (target_next[0], merged_right_ts, "已匹配(合併)")
+                        
+                        has_changed = True
+                        i += 1 # 當前 orphan 已經被吸收到右邊了(也就是 i+1)，跳過
                 else:
-                    # 【向左合併勝出】 -> 併入 original_alignment[i-1] (即原本的前一個字)
-                    # 注意：我們直接修改 original_alignment，這樣下一輪迴圈處理 i-1 時，它已經是合併後的樣子了
-                    # print(f"🔄 倒序合併 (向左吸附): {original_alignment[i-1][1]['raw']} + {orphan['raw']}")
-                    original_alignment[i-1] = (original_alignment[i-1][0], merged_left_ts, "已匹配(合併)")
-                    # 當前 orphan 被吸到前面去了，所以也不 append 到 refined
+                    # 正常節點，直接加入
+                    new_alignment.append((ch_curr, ts_curr, status))
+                    i += 1
             
-            else:
-                # 正常情況 (已匹配 或 族語缺失)，直接加入列表
-                refined.append((ch_curr, ts_curr, status))
-        
-        # 因為我們是倒著 append 的 (先加了最後一個字)，所以最後要反轉回來
-        return refined[::-1]
+            # 更新列表
+            current_alignment = new_alignment
+            
+            # 如果這一輪完全沒有任何變動，代表已經最佳化完成，跳出迴圈
+            if not has_changed:
+                break
+                
+        return current_alignment
 
 
 def parse_pinyin_string(pinyin_str):
