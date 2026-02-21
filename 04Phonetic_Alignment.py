@@ -181,85 +181,79 @@ class PhoneticAligner:
 
     def refine_alignment(self, original_alignment):
         """
-        修正後的合併邏輯：
-        1. 計算合併前後的分數差異 (Delta)。
-        2. 比較向左合併 (Delta_Left) 與 向右合併 (Delta_Right)。
-        3. 選擇 Delta 較大者 (即使兩者都為負，選相對高的)。
+        倒序掃描 (Back-to-Front) 優化版
+        優點：能自然解決 u -> a -> i 這種連續缺失需要合併到最後一個音節的問題。
         """
         refined = []
-        i = 0
         n = len(original_alignment)
-
-        while i < n:
+        
+        # 關鍵：從最後一個元素開始，倒著往前掃描 (Index: n-1 -> 0)
+        for i in range(n - 1, -1, -1):
             ch_curr, ts_curr, status = original_alignment[i]
-
+            
             # 針對「中文缺失」(即多餘的族語音節)
             if status == "中文缺失" and ts_curr is not None:
                 orphan = ts_curr
                 
-                # 初始化差異分數 (設為極小值代表不可行)
-                delta_left = -float('inf')
-                merged_left_ts = None
-                
+                # 初始化差異分數
                 delta_right = -float('inf')
                 merged_right_ts = None
                 
-                # --- 1. 評估向左合併 ---
-                # 確保左邊有已匹配的項目
+                delta_left = -float('inf')
+                merged_left_ts = None
+                
+                # --- 1. 評估向右合併 (Merge Right / Merge Backward) ---
+                # 注意：因為我們是倒著做，"右邊"的元素其實已經被處理過，放在 refined 列表裡了 (refined[-1])
                 if len(refined) > 0 and refined[-1][2] in ["已匹配", "已匹配(合併)"]:
-                    prev_ch = refined[-1][0]
-                    prev_ts = refined[-1][1]
+                    next_ch = refined[-1][0]
+                    next_ts = refined[-1][1] # 這是原本在右邊的音節
                     
-                    # 原始分數
-                    score_orig = self.calculate_similarity(prev_ch, prev_ts)
-                    # 合併後分數
-                    temp_merged = self.merge_syllables(prev_ts, orphan)
-                    score_new = self.calculate_similarity(prev_ch, temp_merged)
-                    
-                    delta_left = score_new - score_orig
-                    merged_left_ts = temp_merged
-
-                # --- 2. 評估向右合併 ---
-                # 確保右邊有已匹配的項目
-                if i + 1 < n and original_alignment[i+1][2] in ["已匹配", "已匹配(合併)"]:
-                    next_ch = original_alignment[i+1][0]
-                    next_ts = original_alignment[i+1][1]
-                    
-                    # 原始分數
                     score_orig = self.calculate_similarity(next_ch, next_ts)
-                    # 合併後分數 (Orphan 在前)
+                    # 合併順序：Orphan(前) + Right(後)
                     temp_merged = self.merge_syllables(orphan, next_ts)
                     score_new = self.calculate_similarity(next_ch, temp_merged)
                     
                     delta_right = score_new - score_orig
                     merged_right_ts = temp_merged
 
+                # --- 2. 評估向左合併 (Merge Left / Merge Forward) ---
+                # 注意："左邊"的元素還沒被處理，還在 original_alignment[i-1] 裡
+                if i - 1 >= 0 and original_alignment[i-1][2] in ["已匹配", "已匹配(合併)"]:
+                    prev_ch = original_alignment[i-1][0]
+                    prev_ts = original_alignment[i-1][1] # 這是原本在左邊的音節
+                    
+                    score_orig = self.calculate_similarity(prev_ch, prev_ts)
+                    # 合併順序：Left(前) + Orphan(後)
+                    temp_merged = self.merge_syllables(prev_ts, orphan)
+                    score_new = self.calculate_similarity(prev_ch, temp_merged)
+                    
+                    delta_left = score_new - score_orig
+                    merged_left_ts = temp_merged
+
                 # --- 3. 決策 PK ---
                 if delta_left == -float('inf') and delta_right == -float('inf'):
                     refined.append((ch_curr, ts_curr, status))
-                    i += 1
                     continue
 
-                # 比較 Delta (選大的)
-                # 邏輯：
-                # - 若兩邊 Delta > 0 -> 選大的 (兩邊都變高選比較高的)
-                # - 若兩邊 Delta < 0 -> 選大的 (都沒有變高選相對高的/扣分少的)
-                if delta_left >= delta_right:
-                    # 向左合併勝出
-                    print(f"🔄 合併 (向左): {refined[-1][1]['raw']} + {orphan['raw']} (Δ: {delta_left:.2f})")
-                    refined[-1] = (refined[-1][0], merged_left_ts, "已匹配(合併)")
-                    i += 1
+                # 比較 Delta (選分數提升多的)
+                if delta_right >= delta_left:
+                    # 【向右合併勝出】 -> 併入 refined[-1] (即原本的後一個字)
+                    # print(f"🔄 倒序合併 (向右吸附): {orphan['raw']} + {refined[-1][1]['raw']}")
+                    refined[-1] = (refined[-1][0], merged_right_ts, "已匹配(合併)")
+                    # 當前 orphan 被吸走了，所以不 append 到 refined
                 else:
-                    # 向右合併勝出
-                    print(f"🔄 合併 (向右): {orphan['raw']} + {original_alignment[i+1][1]['raw']} (Δ: {delta_right:.2f})")
-                    original_alignment[i+1] = (original_alignment[i+1][0], merged_right_ts, "已匹配(合併)")
-                    i += 1
+                    # 【向左合併勝出】 -> 併入 original_alignment[i-1] (即原本的前一個字)
+                    # 注意：我們直接修改 original_alignment，這樣下一輪迴圈處理 i-1 時，它已經是合併後的樣子了
+                    # print(f"🔄 倒序合併 (向左吸附): {original_alignment[i-1][1]['raw']} + {orphan['raw']}")
+                    original_alignment[i-1] = (original_alignment[i-1][0], merged_left_ts, "已匹配(合併)")
+                    # 當前 orphan 被吸到前面去了，所以也不 append 到 refined
+            
             else:
-                # 正常情況，直接加入
+                # 正常情況 (已匹配 或 族語缺失)，直接加入列表
                 refined.append((ch_curr, ts_curr, status))
-                i += 1
-                
-        return refined
+        
+        # 因為我們是倒著 append 的 (先加了最後一個字)，所以最後要反轉回來
+        return refined[::-1]
 
 
 def parse_pinyin_string(pinyin_str):
@@ -338,6 +332,8 @@ def process_json_to_excel(json_file_path, output_excel_path):
             t_str = ts['raw'] if ts else "---"
             c_str = c_str.replace("0c", "")  # 移除 '0c' 表示的無聲母
             t_str = t_str.replace("0c", "")
+            c_str = c_str.replace("0v", "")  # 移除 '0v' 表示的無韻母
+            t_str = t_str.replace("0v", "")
             aligned_pairs.append(f"{c_str} ↔ {t_str} | ")
             status_list.append(status)
             if ch and ts:
