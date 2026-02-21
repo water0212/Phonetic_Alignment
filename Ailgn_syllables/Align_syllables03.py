@@ -11,36 +11,38 @@ class PhoneticAligner:
         # 定義聲母群組 (根據你的需求)
         # 這裡將 Pinyin 和 族語拼音 混合在一起歸類
         self.consonant_chinese_groups = [
-            {'b', 'p'},                     # 雙唇音
-            {'m'},                          # 鼻音
-            {'f'},                          # 唇齒音
-            {'d', 't'},                     # 舌尖塞音
-            {'n'},                          # 舌尖鼻音
-            {'l', 'r'},                     # 液體音
-            {'g', 'k'},
-            {'d', 'j', 'z'},
-            {'h'},
-            {'j'},
+            {'b', 'p'}, 
+            {'m'}, 
+            {'f'}, 
+            {'d', 't'}, 
+            {'n'}, 
+            {'l', 'r'},
+            {'g', 'k'}, 
+            {'d', 'j', 'z'}, 
+            {'h'}, 
+            {'j'}, 
             {'x'},
-            {'t','q','c'},
+            {'t','q','c'}, 
             {'z', 'c', 's', 'zh', 'ch', 'sh'},
-            {'d', 'j', 'z', 't', 'q', 'c'}
+            {'d', 'j', 'z', 't', 'q', 'c'},
+            {'f'}
         ]
         self.consonant_tsou_groups = [
-            {'b', 'p'},                     # 雙唇音
-            {'m'},                          # 鼻音
-            {'f'},                          # 唇齒音
-            {'d', 't'},                     # 舌尖塞音
-            {'n'},                          # 舌尖鼻音
-            {'l', 'r'},                     # 液體音
-            {'g', 'k', 'q'},
-            {'d', 'j', 'z'},
-            {'h'},
-            {'j'},
+            {'b', 'p'}, 
+            {'m'}, 
+            {'f'}, 
+            {'d', 't'}, 
+            {'n'}, 
+            {'l', 'r'},
+            {'g', 'k', 'q', '’', '^'}, 
+            {'d', 'j', 'z'}, 
+            {'h'}, 
+            {'j'}, 
             {'x'},
-            {'t','c'},
-            {'z', 'c', 's'},
-            {'d', 'j', 'z', 't', 'c'}
+            {'t','c'}, 
+            {'z', 'c', 's'}, 
+            {'d', 'j', 'z', 't', 'c'},
+            {'f','v', 'b'}
         ]
         
         
@@ -65,16 +67,41 @@ class PhoneticAligner:
         return max_score
 
     def dice_coefficient(self, s1, s2):
-        """
-        Dice: 2 * |X∩Y| / (|X| + |Y|)
-        正規化：w→u, y→i 增加匹配率
-        """
+        
+        # Dice: 2 * LCS(s1, s2) / (|s1| + |s2|)
+        # 使用 LCS (最長公共子序列) 演算法計算 intersection，
+        # 這樣可以考慮字母順序 (例如 'an' 和 'na' 不會被視為一樣)。
+        # 正規化：w→u, y→i 增加匹配率
+        
+        # 1. 正規化字串 (處理 w, y)
         def normalize(s): return "".join(self.vowel_map.get(c, c) for c in s.lower())
         
         n1, n2 = normalize(s1), normalize(s2)
-        set1, set2 = set(n1), set(n2)
-        intersection = len(set1 & set2)
-        return 2.0 * intersection / (len(set1) + len(set2)) if len(set1) + len(set2) > 0 else 0
+        len1, len2 = len(n1), len(n2)
+        
+        # 若有空字串，相似度為 0
+        if len1 == 0 or len2 == 0:
+            return 0.0
+
+        # 2. 使用動態規劃 (DP) 計算 LCS 長度
+        # 建立一個 (len1+1) x (len2+1) 的二維陣列，初始值為 0
+        dp = [[0] * (len2 + 1) for _ in range(len1 + 1)]
+
+        for i in range(1, len1 + 1):
+            for j in range(1, len2 + 1):
+                if n1[i - 1] == n2[j - 1]:
+                    # 如果字元相同，則長度 + 1
+                    dp[i][j] = dp[i - 1][j - 1] + 1
+                else:
+                    # 如果不同，取左邊或上面的最大值 (繼承之前的最長長度)
+                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+
+        # dp矩陣右下角即為最長公共子序列的長度
+        intersection = dp[len1][len2]
+
+        # 3. 計算 Dice Coefficient
+        return 2.0 * intersection / (len1 + len2)
+
 
     def calculate_similarity(self, syl_ch, syl_in):
         """
