@@ -10,7 +10,7 @@ OUTPUT_FILE_PATH =  os.path.join(file_path, 'output_alignment.xlsx')
 # 1. 來自 fix.py 的核心定義
 # ==========================================
 INITIALS = ['zh', 'ch', 'sh', 'b', 'p', 'm', 'f', 'd', 't', 'n', 'l', 
-            'g', 'k', 'h', 'j', 'q', 'x', 'r', 'z', 'c', 's','w','y'] #補上w, y
+            'g', 'k', 'h', 'j', 'q', 'x', 'r', 'z', 'c', 's','w'] #補上w
 
 # 關鍵：依照長度排序 (reverse=True)，確保 zh, ch, sh 能優先被匹配，而不是只匹配到 z, c, s
 INITIALS.sort(key=len, reverse=True)
