@@ -1,0 +1,102 @@
+{
+    "公斤": {
+        "new_word": [
+            {
+                "fm_word": "kg",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "博物館": {
+        "new_word": [
+            {
+                "fm_word": "poukwan",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "夜市": {
+        "new_word": [
+            {
+                "fm_word": "yesu",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "網咖": {
+        "new_word": [
+            {
+                "fm_word": "wangka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "信用卡": {
+        "new_word": [
+            {
+                "fm_word": "sinyongka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "電話卡": {
+        "new_word": [
+            {
+                "fm_word": "tenhuwaka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "發票": {
+        "new_word": [
+            {
+                "fm_word": "huwapiyaw",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": "kuwangte",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "刷卡": {
+        "new_word": [
+            {
+                "fm_word": "suwaka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "便利商店": {
+        "new_word": [
+            {
+                "fm_word": "sebunrebun",
+                "ch_semantic": "7-11 的音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    }
+}

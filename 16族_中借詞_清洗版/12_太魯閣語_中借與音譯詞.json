@@ -1,0 +1,32 @@
+{
+    "網咖": {
+        "new_word": [
+            {
+                "fm_word": "Wang Ka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "廣告": {
+        "new_word": [
+            {
+                "fm_word": "Kwang Kaw",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "x 光": {
+        "new_word": [
+            {
+                "fm_word": "Eyks Kwang",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    }
+}

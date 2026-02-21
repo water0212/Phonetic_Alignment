@@ -1,0 +1,72 @@
+{
+    "捷運": {
+        "new_word": [
+            {
+                "fm_word": "ciein",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "公里": {
+        "new_word": [
+            {
+                "fm_word": "kooli",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "電腦": {
+        "new_word": [
+            {
+                "fm_word": "tennao",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "列表機": {
+        "new_word": [
+            {
+                "fm_word": "lepeaoci",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "國道": {
+        "new_word": [
+            {
+                "fm_word": "kuotao",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "聖誕節": {
+        "new_word": [
+            {
+                "fm_word": "kulismasʉ",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "點讀筆": {
+        "new_word": [
+            {
+                "fm_word": "ten’tupi",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    }
+}

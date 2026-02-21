@@ -1,0 +1,272 @@
+{
+    "健保": {
+        "new_word": [
+            {
+                "fm_word": "cinpaw",
+                "ch_semantic": "(中借)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "捷運": {
+        "new_word": [
+            {
+                "fm_word": "ciyeing",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "天線": {
+        "new_word": [
+            {
+                "fm_word": "tingsingi",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "憂鬱症": {
+        "new_word": [
+            {
+                "fm_word": "yuiceng",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "博物館": {
+        "new_word": [
+            {
+                "fm_word": "puukwange",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "志工": {
+        "new_word": [
+            {
+                "fm_word": "cekung",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "電腦": {
+        "new_word": [
+            {
+                "fm_word": "tingnaw",
+                "ch_semantic": "電腦(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "網咖": {
+        "new_word": [
+            {
+                "fm_word": "wangka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "廣告": {
+        "new_word": [
+            {
+                "fm_word": "kwangkau",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "信用卡": {
+        "new_word": [
+            {
+                "fm_word": "singyungka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "電話卡": {
+        "new_word": [
+            {
+                "fm_word": "tinghwaka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": "kwangti",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "刷卡": {
+        "new_word": [
+            {
+                "fm_word": "swaka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "公路局": {
+        "new_word": [
+            {
+                "fm_word": "swa kungluci",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "勞保局": {
+        "new_word": [
+            {
+                "fm_word": "swa laupauci",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "水保局": {
+        "new_word": [
+            {
+                "fm_word": "swa suipauci",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "中秋節": {
+        "new_word": [
+            {
+                "fm_word": "cungcyuci",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "字典": {
+        "new_word": [
+            {
+                "fm_word": "ziting",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "行照": {
+        "new_word": [
+            {
+                "fm_word": "singcau",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "紅綠燈": {
+        "new_word": [
+            {
+                "fm_word": "hunglriteng",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "國道": {
+        "new_word": [
+            {
+                "fm_word": "kutau5",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "彩色筆": {
+        "new_word": [
+            {
+                "fm_word": "caisepi",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "斑馬線": {
+        "new_word": [
+            {
+                "fm_word": "pangmasing",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "微波爐": {
+        "new_word": [
+            {
+                "fm_word": "wipulu",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "聖誕節": {
+        "new_word": [
+            {
+                "fm_word": "kulrisemase",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "電梯": {
+        "new_word": [
+            {
+                "fm_word": "tingti",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "駕照": {
+        "new_word": [
+            {
+                "fm_word": "cyacau",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    }
+}

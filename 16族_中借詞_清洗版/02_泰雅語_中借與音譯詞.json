@@ -1,0 +1,52 @@
+{
+    "捷運": {
+        "new_word": [
+            {
+                "fm_word": "ceyun",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "手機": {
+        "new_word": [
+            {
+                "fm_word": "soci",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "化學": {
+        "new_word": [
+            {
+                "fm_word": "hwasye",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "電腦網路": {
+        "new_word": [
+            {
+                "fm_word": "tennaw wanglu’",
+                "ch_semantic": "電腦網路 (中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": "kwangte",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    }
+}

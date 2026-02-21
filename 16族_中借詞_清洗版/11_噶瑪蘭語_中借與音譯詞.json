@@ -1,0 +1,142 @@
+{
+    "捷運": {
+        "new_word": [
+            {
+                "fm_word": "ziyun",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "星期": {
+        "new_word": [
+            {
+                "fm_word": "lipay",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "網咖": {
+        "new_word": [
+            {
+                "fm_word": "wangka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "纜車": {
+        "new_word": [
+            {
+                "fm_word": "liwlung",
+                "ch_semantic": "流籠(音譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "發票": {
+        "new_word": [
+            {
+                "fm_word": "huapiaw",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": "kuangtiye",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "外交部": {
+        "new_word": [
+            {
+                "fm_word": "wayciawpu",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "國產局": {
+        "new_word": [
+            {
+                "fm_word": "kuyuci",
+                "ch_semantic": "國有局(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "勞保局": {
+        "new_word": [
+            {
+                "fm_word": "lawpawci",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "水保局": {
+        "new_word": [
+            {
+                "fm_word": "suylici",
+                "ch_semantic": "水利局(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "客委會": {
+        "new_word": [
+            {
+                "fm_word": "keuyhuy",
+                "ch_semantic": "中譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "原民會": {
+        "new_word": [
+            {
+                "fm_word": "yenminhuy",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "視訊": {
+        "new_word": [
+            {
+                "fm_word": "sesiyun",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "微波爐": {
+        "new_word": [
+            {
+                "fm_word": "uypulu",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    }
+}
