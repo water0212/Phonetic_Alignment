@@ -1,0 +1,180 @@
+{
+    "b": {
+        "p": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.9404,
+            "total_score": 1.9404
+        }
+    },
+    "p": {},
+    "m": {},
+    "f": {},
+    "d": {
+        "t": {
+            "local_score_k": 0.75,
+            "global_score_i": 0.7717,
+            "total_score": 1.5217
+        },
+        "": {
+            "local_score_k": 0.25,
+            "global_score_i": 0.0548,
+            "total_score": 0.3048
+        }
+    },
+    "t": {},
+    "n": {
+        "n": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8138,
+            "total_score": 1.8138
+        }
+    },
+    "l": {
+        "l": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8209,
+            "total_score": 1.8209
+        }
+    },
+    "g": {
+        "k": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8583,
+            "total_score": 1.8583
+        }
+    },
+    "k": {},
+    "h": {},
+    "j": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.838,
+            "total_score": 1.838
+        }
+    },
+    "q": {},
+    "x": {},
+    "zh": {},
+    "ch": {},
+    "sh": {
+        "k": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1405,
+            "total_score": 1.1405
+        }
+    },
+    "r": {},
+    "z": {},
+    "c": {},
+    "s": {},
+    "an": {},
+    "en": {},
+    "ang": {},
+    "eng": {
+        "ulismasʉ": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0885,
+            "total_score": 1.0885
+        }
+    },
+    "er": {},
+    "i": {
+        "i": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.7763,
+            "total_score": 1.7763
+        }
+    },
+    "u": {
+        "’tu": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0725,
+            "total_score": 1.0725
+        }
+    },
+    "u:": {},
+    "a": {},
+    "o": {},
+    "ㄜ": {},
+    "e": {},
+    "ai": {},
+    "ei": {},
+    "ao": {
+        "ao": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.063,
+            "total_score": 1.063
+        }
+    },
+    "ou": {},
+    "ia": {},
+    "io": {},
+    "ie": {
+        "e": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.2581,
+            "total_score": 0.7581
+        },
+        "ie": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.1232,
+            "total_score": 0.6232
+        }
+    },
+    "iai": {},
+    "iao": {
+        "eao": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0885,
+            "total_score": 1.0885
+        }
+    },
+    "iou": {},
+    "ian": {
+        "en": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1731,
+            "total_score": 1.1731
+        }
+    },
+    "in": {},
+    "iang": {},
+    "ing": {},
+    "ua": {},
+    "uo": {
+        "uo": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1594,
+            "total_score": 1.1594
+        }
+    },
+    "uai": {},
+    "uei": {},
+    "uan": {},
+    "un": {},
+    "uang": {},
+    "ong": {
+        "oo": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0846,
+            "total_score": 1.0846
+        }
+    },
+    "u:e": {},
+    "u:an": {},
+    "u:n": {
+        "in": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1667,
+            "total_score": 1.1667
+        }
+    },
+    "iong": {},
+    "": {
+        "": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8633,
+            "total_score": 1.8633
+        }
+    }
+}

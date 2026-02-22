@@ -1,0 +1,196 @@
+{
+    "b": {
+        "p": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.9404,
+            "total_score": 1.9404
+        }
+    },
+    "p": {},
+    "m": {},
+    "f": {},
+    "d": {
+        "t": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.7717,
+            "total_score": 1.105
+        },
+        "m": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.1096,
+            "total_score": 0.443
+        },
+        "": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.0548,
+            "total_score": 0.3881
+        }
+    },
+    "t": {},
+    "n": {
+        "l": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0931,
+            "total_score": 1.0931
+        }
+    },
+    "l": {
+        "l": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8209,
+            "total_score": 1.8209
+        }
+    },
+    "g": {
+        "s": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0583,
+            "total_score": 1.0583
+        }
+    },
+    "k": {
+        "k": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.988,
+            "total_score": 1.988
+        }
+    },
+    "h": {
+        "h": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8792,
+            "total_score": 1.8792
+        }
+    },
+    "j": {},
+    "q": {},
+    "x": {},
+    "zh": {},
+    "ch": {},
+    "sh": {
+        "k": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1405,
+            "total_score": 1.1405
+        }
+    },
+    "r": {},
+    "z": {},
+    "c": {},
+    "s": {},
+    "an": {
+        "as": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1636,
+            "total_score": 1.1636
+        }
+    },
+    "en": {},
+    "ang": {},
+    "eng": {
+        "oris": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0885,
+            "total_score": 1.0885
+        }
+    },
+    "er": {},
+    "i": {
+        "i": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.7763,
+            "total_score": 1.7763
+        }
+    },
+    "u": {},
+    "u:": {},
+    "a": {
+        "a:": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0553,
+            "total_score": 1.0553
+        }
+    },
+    "o": {},
+    "ㄜ": {
+        "e": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.6381,
+            "total_score": 1.6381
+        }
+    },
+    "e": {},
+    "ai": {
+        "ay": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.45,
+            "total_score": 1.45
+        }
+    },
+    "ei": {},
+    "ao": {
+        "aw": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.4848,
+            "total_score": 0.9848
+        },
+        "o’": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.0543,
+            "total_score": 0.5543
+        }
+    },
+    "ou": {},
+    "ia": {},
+    "io": {},
+    "ie": {
+        "i:": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.048,
+            "total_score": 1.048
+        }
+    },
+    "iai": {},
+    "iao": {},
+    "iou": {},
+    "ian": {
+        "wang": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0558,
+            "total_score": 1.0558
+        }
+    },
+    "in": {},
+    "iang": {},
+    "ing": {},
+    "ua": {},
+    "uo": {},
+    "uai": {},
+    "uei": {},
+    "uan": {},
+    "un": {},
+    "uang": {
+        "wang": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.3972,
+            "total_score": 0.8972
+        },
+        "i": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.0472,
+            "total_score": 0.5472
+        }
+    },
+    "ong": {},
+    "u:e": {},
+    "u:an": {},
+    "u:n": {},
+    "iong": {},
+    "": {
+        "": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8633,
+            "total_score": 1.8633
+        }
+    }
+}

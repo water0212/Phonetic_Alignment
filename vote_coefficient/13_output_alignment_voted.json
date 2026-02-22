@@ -1,0 +1,279 @@
+{
+    "b": {
+        "p": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.9404,
+            "total_score": 1.9404
+        }
+    },
+    "p": {
+        "p": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.7944,
+            "total_score": 1.2944
+        },
+        "": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.1028,
+            "total_score": 0.6028
+        }
+    },
+    "m": {},
+    "f": {
+        "h": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.3099,
+            "total_score": 1.3099
+        }
+    },
+    "d": {
+        "t": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.7717,
+            "total_score": 1.7717
+        }
+    },
+    "t": {},
+    "n": {
+        "n": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.8138,
+            "total_score": 1.3138
+        },
+        "": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.0931,
+            "total_score": 0.5931
+        }
+    },
+    "l": {
+        "l": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8209,
+            "total_score": 1.8209
+        }
+    },
+    "g": {
+        "k": {
+            "local_score_k": 0.6667,
+            "global_score_i": 0.8583,
+            "total_score": 1.525
+        },
+        "p": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.0042,
+            "total_score": 0.3375
+        }
+    },
+    "k": {
+        "k": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.988,
+            "total_score": 1.988
+        }
+    },
+    "h": {
+        "h": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8792,
+            "total_score": 1.8792
+        }
+    },
+    "j": {
+        "c": {
+            "local_score_k": 0.6667,
+            "global_score_i": 0.838,
+            "total_score": 1.5046
+        },
+        "k": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.0735,
+            "total_score": 0.4068
+        }
+    },
+    "q": {},
+    "x": {},
+    "zh": {},
+    "ch": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.7625,
+            "total_score": 1.7625
+        }
+    },
+    "sh": {
+        "s": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8548,
+            "total_score": 1.8548
+        }
+    },
+    "r": {},
+    "z": {},
+    "c": {},
+    "s": {},
+    "an": {},
+    "en": {},
+    "ang": {
+        "iw": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.0936,
+            "total_score": 1.0936
+        }
+    },
+    "eng": {},
+    "er": {},
+    "i": {
+        "i": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.7763,
+            "total_score": 1.2763
+        },
+        "in": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.0553,
+            "total_score": 0.5553
+        }
+    },
+    "u": {},
+    "u:": {},
+    "a": {
+        "a": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8474,
+            "total_score": 1.8474
+        }
+    },
+    "o": {},
+    "ㄜ": {},
+    "e": {},
+    "ai": {},
+    "ei": {},
+    "ao": {
+        "aw": {
+            "local_score_k": 0.6667,
+            "global_score_i": 0.4848,
+            "total_score": 1.1514
+        },
+        "ang": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.0043,
+            "total_score": 0.3377
+        }
+    },
+    "ou": {},
+    "ia": {},
+    "io": {},
+    "ie": {
+        "e": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.2581,
+            "total_score": 0.7581
+        },
+        "iy": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.0571,
+            "total_score": 0.5571
+        }
+    },
+    "iai": {},
+    "iao": {
+        "iyaw": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.4075,
+            "total_score": 1.4075
+        }
+    },
+    "iou": {},
+    "ian": {
+        "in": {
+            "local_score_k": 0.75,
+            "global_score_i": 0.1519,
+            "total_score": 0.9019
+        },
+        "ipin": {
+            "local_score_k": 0.25,
+            "global_score_i": 0.0058,
+            "total_score": 0.2558
+        }
+    },
+    "in": {
+        "in": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8,
+            "total_score": 1.8
+        }
+    },
+    "iang": {},
+    "ing": {},
+    "ua": {},
+    "uo": {
+        "o": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.3724,
+            "total_score": 1.3724
+        }
+    },
+    "uai": {},
+    "uei": {
+        "uy": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.3033,
+            "total_score": 1.3033
+        }
+    },
+    "uan": {},
+    "un": {
+        "wen": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.2222,
+            "total_score": 1.2222
+        }
+    },
+    "uang": {
+        "wang": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.3972,
+            "total_score": 0.7306
+        },
+        "am": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.0472,
+            "total_score": 0.3806
+        },
+        "ung": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.0472,
+            "total_score": 0.3806
+        }
+    },
+    "ong": {},
+    "u:e": {},
+    "u:an": {
+        "in": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1265,
+            "total_score": 1.1265
+        }
+    },
+    "u:n": {
+        "yun": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.25,
+            "total_score": 1.25
+        }
+    },
+    "iong": {},
+    "": {
+        "": {
+            "local_score_k": 0.8,
+            "global_score_i": 0.8633,
+            "total_score": 1.6633
+        },
+        "e": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.0253,
+            "total_score": 0.2253
+        }
+    }
+}

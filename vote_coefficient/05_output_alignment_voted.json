@@ -1,0 +1,610 @@
+{
+    "b": {
+        "p": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.9404,
+            "total_score": 1.9404
+        }
+    },
+    "p": {
+        "p": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.7944,
+            "total_score": 1.7944
+        }
+    },
+    "m": {
+        "m": {
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "total_score": 2.0
+        }
+    },
+    "f": {
+        "v": {
+            "local_score_k": 0.7273,
+            "global_score_i": 0.2803,
+            "total_score": 1.0075
+        },
+        "f": {
+            "local_score_k": 0.0909,
+            "global_score_i": 0.4046,
+            "total_score": 0.4955
+        },
+        "h": {
+            "local_score_k": 0.0909,
+            "global_score_i": 0.3099,
+            "total_score": 0.4008
+        },
+        "s": {
+            "local_score_k": 0.0909,
+            "global_score_i": 0.0053,
+            "total_score": 0.0962
+        }
+    },
+    "d": {
+        "t": {
+            "local_score_k": 0.8,
+            "global_score_i": 0.7717,
+            "total_score": 1.5717
+        },
+        "m": {
+            "local_score_k": 0.0667,
+            "global_score_i": 0.1096,
+            "total_score": 0.1763
+        },
+        "d": {
+            "local_score_k": 0.0667,
+            "global_score_i": 0.0045,
+            "total_score": 0.0712
+        },
+        "c": {
+            "local_score_k": 0.0667,
+            "global_score_i": 0.0045,
+            "total_score": 0.0712
+        }
+    },
+    "t": {
+        "t": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.9875,
+            "total_score": 1.9875
+        }
+    },
+    "n": {
+        "n": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8138,
+            "total_score": 1.8138
+        }
+    },
+    "l": {
+        "l": {
+            "local_score_k": 0.9167,
+            "global_score_i": 0.8209,
+            "total_score": 1.7375
+        },
+        "r": {
+            "local_score_k": 0.0833,
+            "global_score_i": 0.1696,
+            "total_score": 0.2529
+        }
+    },
+    "g": {
+        "k": {
+            "local_score_k": 0.9286,
+            "global_score_i": 0.8583,
+            "total_score": 1.7869
+        },
+        "h": {
+            "local_score_k": 0.0714,
+            "global_score_i": 0.0125,
+            "total_score": 0.0839
+        }
+    },
+    "k": {
+        "k": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.988,
+            "total_score": 1.988
+        }
+    },
+    "h": {
+        "h": {
+            "local_score_k": 0.75,
+            "global_score_i": 0.8792,
+            "total_score": 1.6292
+        },
+        "s": {
+            "local_score_k": 0.1667,
+            "global_score_i": 0.1021,
+            "total_score": 0.2687
+        },
+        "": {
+            "local_score_k": 0.0833,
+            "global_score_i": 0.0125,
+            "total_score": 0.0958
+        }
+    },
+    "j": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.838,
+            "total_score": 1.838
+        }
+    },
+    "q": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8533,
+            "total_score": 1.8533
+        }
+    },
+    "x": {
+        "s": {
+            "local_score_k": 0.5556,
+            "global_score_i": 0.6512,
+            "total_score": 1.2067
+        },
+        "": {
+            "local_score_k": 0.4444,
+            "global_score_i": 0.2766,
+            "total_score": 0.7211
+        }
+    },
+    "zh": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.8629,
+            "total_score": 1.8629
+        }
+    },
+    "ch": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.7625,
+            "total_score": 1.7625
+        }
+    },
+    "sh": {
+        "s": {
+            "local_score_k": 0.9091,
+            "global_score_i": 0.8548,
+            "total_score": 1.7639
+        },
+        "k": {
+            "local_score_k": 0.0909,
+            "global_score_i": 0.1405,
+            "total_score": 0.2314
+        }
+    },
+    "r": {},
+    "z": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.6308,
+            "total_score": 1.6308
+        }
+    },
+    "c": {
+        "c": {
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "total_score": 2.0
+        }
+    },
+    "s": {
+        "s": {
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "total_score": 2.0
+        }
+    },
+    "an": {
+        "an": {
+            "local_score_k": 0.875,
+            "global_score_i": 0.4455,
+            "total_score": 1.3205
+        },
+        "as": {
+            "local_score_k": 0.125,
+            "global_score_i": 0.1636,
+            "total_score": 0.2886
+        }
+    },
+    "en": {
+        "en": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.62,
+            "total_score": 1.62
+        }
+    },
+    "ang": {
+        "ang": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.5784,
+            "total_score": 1.0784
+        },
+        "ing": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.2187,
+            "total_score": 0.7187
+        }
+    },
+    "eng": {
+        "eng": {
+            "local_score_k": 0.6,
+            "global_score_i": 0.4183,
+            "total_score": 1.0183
+        },
+        "urise": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.0214,
+            "total_score": 0.2214
+        },
+        "engy": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.0107,
+            "total_score": 0.2107
+        }
+    },
+    "er": {},
+    "i": {
+        "i": {
+            "local_score_k": 0.8333,
+            "global_score_i": 0.7763,
+            "total_score": 1.6096
+        },
+        "isi": {
+            "local_score_k": 0.1667,
+            "global_score_i": 0.0211,
+            "total_score": 0.1877
+        }
+    },
+    "u": {
+        "u": {
+            "local_score_k": 0.96,
+            "global_score_i": 0.6141,
+            "total_score": 1.5741
+        },
+        "i": {
+            "local_score_k": 0.04,
+            "global_score_i": 0.005,
+            "total_score": 0.045
+        }
+    },
+    "u:": {
+        "i": {
+            "local_score_k": 0.9091,
+            "global_score_i": 0.6759,
+            "total_score": 1.585
+        },
+        "yi": {
+            "local_score_k": 0.0909,
+            "global_score_i": 0.0103,
+            "total_score": 0.1013
+        }
+    },
+    "a": {
+        "a": {
+            "local_score_k": 0.6667,
+            "global_score_i": 0.8474,
+            "total_score": 1.514
+        },
+        "ay": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.0158,
+            "total_score": 0.3491
+        }
+    },
+    "o": {},
+    "ㄜ": {
+        "e": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.6381,
+            "total_score": 1.6381
+        }
+    },
+    "e": {},
+    "ai": {
+        "ay": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.45,
+            "total_score": 1.45
+        }
+    },
+    "ei": {
+        "iyēdrad": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.225,
+            "total_score": 0.725
+        },
+        "ēceng": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.225,
+            "total_score": 0.725
+        }
+    },
+    "ao": {
+        "aw": {
+            "local_score_k": 0.9167,
+            "global_score_i": 0.4848,
+            "total_score": 1.4014
+        },
+        "aw5": {
+            "local_score_k": 0.0833,
+            "global_score_i": 0.0043,
+            "total_score": 0.0877
+        }
+    },
+    "ou": {},
+    "ia": {
+        "ya": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.3657,
+            "total_score": 1.3657
+        }
+    },
+    "io": {},
+    "ie": {
+        "yē": {
+            "local_score_k": 0.4,
+            "global_score_i": 0.0571,
+            "total_score": 0.4571
+        },
+        "iyēy": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.0091,
+            "total_score": 0.2091
+        },
+        "d": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.0091,
+            "total_score": 0.2091
+        },
+        "iē": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.0091,
+            "total_score": 0.2091
+        }
+    },
+    "iai": {},
+    "iao": {
+        "iyaw": {
+            "local_score_k": 0.8,
+            "global_score_i": 0.4075,
+            "total_score": 1.2075
+        },
+        "adurk": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.0107,
+            "total_score": 0.2107
+        }
+    },
+    "iou": {
+        "iw": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.1917,
+            "total_score": 1.1917
+        }
+    },
+    "ian": {
+        "iēn": {
+            "local_score_k": 0.7,
+            "global_score_i": 0.0904,
+            "total_score": 0.7904
+        },
+        "in": {
+            "local_score_k": 0.1,
+            "global_score_i": 0.1519,
+            "total_score": 0.2519
+        },
+        "ing": {
+            "local_score_k": 0.1,
+            "global_score_i": 0.1019,
+            "total_score": 0.2019
+        },
+        "iyēn": {
+            "local_score_k": 0.1,
+            "global_score_i": 0.0058,
+            "total_score": 0.1058
+        }
+    },
+    "in": {
+        "in": {
+            "local_score_k": 0.8,
+            "global_score_i": 0.8,
+            "total_score": 1.6
+        },
+        "inw": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.03,
+            "total_score": 0.23
+        }
+    },
+    "iang": {
+        "yang": {
+            "local_score_k": 0.6667,
+            "global_score_i": 0.705,
+            "total_score": 1.3717
+        },
+        "iyan": {
+            "local_score_k": 0.3333,
+            "global_score_i": 0.03,
+            "total_score": 0.3633
+        }
+    },
+    "ing": {
+        "ing": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.495,
+            "total_score": 1.495
+        }
+    },
+    "ua": {
+        "u": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.1131,
+            "total_score": 0.6131
+        },
+        "wa": {
+            "local_score_k": 0.25,
+            "global_score_i": 0.1307,
+            "total_score": 0.3807
+        },
+        "uwa": {
+            "local_score_k": 0.25,
+            "global_score_i": 0.1307,
+            "total_score": 0.3807
+        }
+    },
+    "uo": {
+        "o": {
+            "local_score_k": 0.625,
+            "global_score_i": 0.3724,
+            "total_score": 0.9974
+        },
+        "uwo": {
+            "local_score_k": 0.375,
+            "global_score_i": 0.0321,
+            "total_score": 0.4071
+        }
+    },
+    "uai": {
+        "way": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.5914,
+            "total_score": 1.5914
+        }
+    },
+    "uei": {
+        "wēy": {
+            "local_score_k": 0.375,
+            "global_score_i": 0.09,
+            "total_score": 0.465
+        },
+        "uwēy": {
+            "local_score_k": 0.375,
+            "global_score_i": 0.09,
+            "total_score": 0.465
+        },
+        "ewēy": {
+            "local_score_k": 0.25,
+            "global_score_i": 0.0133,
+            "total_score": 0.2633
+        }
+    },
+    "uan": {
+        "uwan": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.2442,
+            "total_score": 1.2442
+        }
+    },
+    "un": {
+        "wun": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.2222,
+            "total_score": 0.7222
+        },
+        "wen": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.2222,
+            "total_score": 0.7222
+        }
+    },
+    "uang": {
+        "uwang": {
+            "local_score_k": 0.8,
+            "global_score_i": 0.1278,
+            "total_score": 0.9278
+        },
+        "wang": {
+            "local_score_k": 0.2,
+            "global_score_i": 0.3972,
+            "total_score": 0.5972
+        }
+    },
+    "ong": {
+        "ong": {
+            "local_score_k": 0.6,
+            "global_score_i": 0.2783,
+            "total_score": 0.8783
+        },
+        "ung": {
+            "local_score_k": 0.4,
+            "global_score_i": 0.4611,
+            "total_score": 0.8611
+        }
+    },
+    "u:e": {
+        "wsiyē": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.25,
+            "total_score": 0.75
+        },
+        "w": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.25,
+            "total_score": 0.75
+        }
+    },
+    "u:an": {
+        "uan": {
+            "local_score_k": 0.5,
+            "global_score_i": 0.1353,
+            "total_score": 0.6353
+        },
+        "yuan": {
+            "local_score_k": 0.25,
+            "global_score_i": 0.0265,
+            "total_score": 0.2765
+        },
+        "an": {
+            "local_score_k": 0.125,
+            "global_score_i": 0.0176,
+            "total_score": 0.1426
+        },
+        "yiēn": {
+            "local_score_k": 0.125,
+            "global_score_i": 0.0088,
+            "total_score": 0.1338
+        }
+    },
+    "u:n": {
+        "un": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.25,
+            "total_score": 1.25
+        }
+    },
+    "iong": {
+        "yung": {
+            "local_score_k": 1.0,
+            "global_score_i": 0.4,
+            "total_score": 1.4
+        }
+    },
+    "": {
+        "": {
+            "local_score_k": 0.7143,
+            "global_score_i": 0.8633,
+            "total_score": 1.5776
+        },
+        "e": {
+            "local_score_k": 0.2286,
+            "global_score_i": 0.0253,
+            "total_score": 0.2538
+        },
+        "x": {
+            "local_score_k": 0.0286,
+            "global_score_i": 0.0032,
+            "total_score": 0.0317
+        },
+        "eyu": {
+            "local_score_k": 0.0286,
+            "global_score_i": 0.0016,
+            "total_score": 0.0302
+        }
+    }
+}
