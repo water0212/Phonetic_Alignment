@@ -5,12 +5,11 @@ from collections import Counter
 
 def get_syllables(word):
     """
-    拆解規則修正版 (User Request):
+    拆解規則修正版 (User Request - n/ng Coda Priority):
     邏輯：
     1. 找出母音。
-    2. 每個音節包含：該母音前的子音(若有) + 母音本身 + 母音後的子音(Coda)。
-    3. Coda 的邊界判定：直到「下一個母音的前一個子音」之前。
-       (意即：下一個母音會盡量帶走它前面的一個子音當作 Onset，剩下的給前面)
+    2. 優先規則：若母音後緊接 'ng' 或 'n'，將其視為該音節的結尾 (Coda)。
+    3. 一般規則：若無上述情況，則保留一個子音給下一個母音當 Onset。
     """
     if not word:
         return []
@@ -18,7 +17,7 @@ def get_syllables(word):
     word = word.lower()
     
     # 定義母音
-    vowels = set('aeiouʉéɨy')
+    vowels = set('aeiouʉéɨyw')
     
     # 先依照空格或連字號切分 (處理片語)
     raw_parts = re.split(r'[ \\-]+', word)
@@ -32,7 +31,7 @@ def get_syllables(word):
         # 1. 找出該單字中所有母音的索引位置
         v_indices = [i for i, char in enumerate(part) if char in vowels]
         
-        # 如果沒有母音，則整個字視為一個音節 (或依需求處理)
+        # 如果沒有母音，則整個字視為一個音節
         if not v_indices:
             all_syllables.append(part)
             continue
@@ -48,20 +47,36 @@ def get_syllables(word):
             if i + 1 < len(v_indices):
                 next_v_idx = v_indices[i+1]
                 
-                # 邏輯：切在 "下一個母音" 的 "前一個子音" 之前
-                # 也就是 next_v_idx - 1 的位置
-                cut_candidate = next_v_idx - 1
+                # --- [修改開始] 優先判斷 n 或 ng ---
                 
-                # 特殊情況檢查：
-                # 如果 next_v_idx - 1 剛好就是當前的母音 (例如 'ia' 相連)，
-                # 或者 cut_candidate 小於等於 start_idx (雖然不太可能發生)，
-                # 則直接切在兩個母音中間
-                if part[cut_candidate] in vowels:
-                    end_idx = next_v_idx
+                # 檢查母音後是否緊接 'ng'
+                # 條件：長度足夠 且 下兩個字元是 'ng' 且 不會超過下一個母音的位置
+                if (current_v_idx + 2 < len(part)) and \
+                   (part[current_v_idx+1 : current_v_idx+3] == 'ng') and \
+                   (current_v_idx + 3 <= next_v_idx):
+                    
+                    end_idx = current_v_idx + 3  # 切在 ng 後面
+                    
+                # 檢查母音後是否緊接 'n' (但在 'ng' 判斷之後，避免誤判)
+                elif (current_v_idx + 1 < len(part)) and \
+                     (part[current_v_idx+1] == 'n') and \
+                     (current_v_idx + 2 <= next_v_idx):
+                    
+                    end_idx = current_v_idx + 2  # 切在 n 後面
+                    
                 else:
-                    # 正常情況：保留一個子音給下一個母音，剩下的歸這裡
-                    end_idx = cut_candidate
-            
+                    # --- [原本的邏輯] ---
+                    # 盡量讓下一個母音帶走它前面的一個子音
+                    cut_candidate = next_v_idx - 1
+                    
+                    # 如果中間沒有子音 (母音相連)，直接切在中間
+                    if part[cut_candidate] in vowels:
+                        end_idx = next_v_idx
+                    else:
+                        end_idx = cut_candidate
+                
+                # --- [修改結束] ---
+
             # 3. 提取音節
             syllable = part[start_idx:end_idx]
             if syllable:
