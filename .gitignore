@@ -24,6 +24,7 @@ input.json
 merged_output.json
 音節拆解.json
 音節轉字典.json
+output_alignment_refined.json
 # --- 作業系統產生的雜檔 ---
 .DS_Store
 Thumbs.db
