@@ -17,7 +17,7 @@ order = [
 
 file_path = os.path.dirname(os.path.abspath(__file__))
 input_file = os.path.join(file_path, 'output_alignment_refined.json')
-output_file = os.path.join(file_path, 'output_alignment_voted.json')
+output_file = os.path.join(file_path, '16_output_alignment_voted.json')
 
 def vote_alignment(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as f:
