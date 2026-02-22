@@ -223,7 +223,14 @@
             "total_score": 0.1774
         }
     },
-    "er": {},
+    "er": {
+        "yre": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.5,
+            "total_score": 0.5,
+            "note": "Auto-filled from Global"
+        }
+    },
     "i": {
         "i": {
             "local_score_k": 0.6667,

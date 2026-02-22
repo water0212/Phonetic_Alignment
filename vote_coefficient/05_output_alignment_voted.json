@@ -248,7 +248,14 @@
             "total_score": 0.2107
         }
     },
-    "er": {},
+    "er": {
+        "yre": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.5,
+            "total_score": 0.5,
+            "note": "Auto-filled from Global"
+        }
+    },
     "i": {
         "i": {
             "local_score_k": 0.8333,
@@ -337,7 +344,14 @@
             "total_score": 0.0877
         }
     },
-    "ou": {},
+    "ou": {
+        "o": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.6667,
+            "total_score": 0.6667,
+            "note": "Auto-filled from Global"
+        }
+    },
     "ia": {
         "ya": {
             "local_score_k": 1.0,

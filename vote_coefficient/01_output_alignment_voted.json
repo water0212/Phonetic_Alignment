@@ -334,7 +334,14 @@
             "total_score": 0.2167
         }
     },
-    "ei": {},
+    "ei": {
+        "ey": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.275,
+            "total_score": 0.275,
+            "note": "Auto-filled from Global"
+        }
+    },
     "ao": {
         "aw": {
             "local_score_k": 0.7692,
@@ -357,7 +364,14 @@
             "total_score": 0.0813
         }
     },
-    "ou": {},
+    "ou": {
+        "o": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.6667,
+            "total_score": 0.6667,
+            "note": "Auto-filled from Global"
+        }
+    },
     "ia": {
         "iya": {
             "local_score_k": 0.6667,
@@ -490,7 +504,14 @@
             "total_score": 0.551
         }
     },
-    "uai": {},
+    "uai": {
+        "way": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.5914,
+            "total_score": 0.5914,
+            "note": "Auto-filled from Global"
+        }
+    },
     "uei": {
         "uy": {
             "local_score_k": 0.2,
@@ -535,7 +556,14 @@
             "total_score": 0.6106
         }
     },
-    "un": {},
+    "un": {
+        "wun": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.2222,
+            "total_score": 0.2222,
+            "note": "Auto-filled from Global"
+        }
+    },
     "uang": {
         "wang": {
             "local_score_k": 0.25,
@@ -560,7 +588,14 @@
             "total_score": 1.2783
         }
     },
-    "u:e": {},
+    "u:e": {
+        "e": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.25,
+            "total_score": 0.25,
+            "note": "Auto-filled from Global"
+        }
+    },
     "u:an": {
         "yin": {
             "local_score_k": 0.6667,

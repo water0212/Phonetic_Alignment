@@ -385,7 +385,14 @@
             "total_score": 1.3333
         }
     },
-    "ia": {},
+    "ia": {
+        "ya": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.3657,
+            "total_score": 0.3657,
+            "note": "Auto-filled from Global"
+        }
+    },
     "io": {},
     "ie": {
         "iye": {
@@ -558,7 +565,14 @@
             "total_score": 1.4611
         }
     },
-    "u:e": {},
+    "u:e": {
+        "e": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.25,
+            "total_score": 0.25,
+            "note": "Auto-filled from Global"
+        }
+    },
     "u:an": {
         "yen": {
             "local_score_k": 0.8571,
@@ -578,7 +592,14 @@
             "total_score": 1.25
         }
     },
-    "iong": {},
+    "iong": {
+        "yong": {
+            "local_score_k": 0.0,
+            "global_score_i": 0.4,
+            "total_score": 0.4,
+            "note": "Auto-filled from Global"
+        }
+    },
     "": {
         "": {
             "local_score_k": 0.697,
