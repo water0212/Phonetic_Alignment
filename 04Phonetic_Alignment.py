@@ -30,7 +30,10 @@ class PhoneticAligner:
             {'t','q','c'}, 
             {'z', 'c', 's', 'zh', 'ch', 'sh'},
             {'d', 'j', 'z', 't', 'q', 'c'},
-            {'f'}
+            {'f'},
+            {'ㄜ'},
+            {'i'}
+            
         ]
         self.consonant_tsou_groups = [
             {'b', 'p'}, 
@@ -47,7 +50,9 @@ class PhoneticAligner:
             {'t','c'}, 
             {'z', 'c', 's'}, 
             {'d', 'j', 'z', 't', 'c'},
-            {'f','v', 'b'}
+            {'f','v', 'b'},
+            {'o', 'e','u','é'},
+            {'ɨ','ʉ', 'y'}
         ]
         
         # 定義正規化映射
