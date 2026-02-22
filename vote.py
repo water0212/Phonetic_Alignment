@@ -11,7 +11,7 @@ order = [
     "ai", "ei", "ao", "ou",
     "ia", "io", "ie", "iai", "iao", "iou",
     "ian", "in", "iang", "ing",
-    "ua", "uo", "uai", "ui", "uan", "un", "uang", "ong",
+    "ua", "uo", "uai", "uei", "uan", "un", "uang", "ong",
     "u:e", "u:an", "u:n", "iong"
 ]
 
