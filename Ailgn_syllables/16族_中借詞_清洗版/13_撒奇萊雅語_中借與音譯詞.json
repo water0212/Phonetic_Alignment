@@ -1,0 +1,122 @@
+{
+    "碩士": {
+        "new_word": [
+            {
+                "fm_word": "sose",
+                "ch_semantic": "(中借)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "鄰長": {
+        "new_word": [
+            {
+                "fm_word": "linciw",
+                "ch_semantic": "(中借)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "原文會": {
+        "new_word": [
+            {
+                "fm_word": "inwenhuy",
+                "ch_semantic": "(中借)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "紀念": {
+        "new_word": [
+            {
+                "fm_word": "kinin",
+                "ch_semantic": "(中借)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "健保": {
+        "new_word": [
+            {
+                "fm_word": "cinpaw",
+                "ch_semantic": "(中借)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "捷運": {
+        "new_word": [
+            {
+                "fm_word": "ceyun",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "電腦": {
+        "new_word": [
+            {
+                "fm_word": "tinnaw",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "網咖": {
+        "new_word": [
+            {
+                "fm_word": "wangka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "廣告": {
+        "new_word": [
+            {
+                "fm_word": "kampang",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "發票": {
+        "new_word": [
+            {
+                "fm_word": "hapiyaw",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": "kungtiy",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "便利商店": {
+        "new_word": [
+            {
+                "fm_word": "ipinli",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    }
+}

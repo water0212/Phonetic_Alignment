@@ -1,0 +1,163 @@
+[
+  {
+    "chinese": "碩士",
+    "ch_semantic": "(中借)",
+    "pinyin_info": [
+      "s,o",
+      "s,e"
+    ],
+    "dict_pinyin": [
+      "sh,uo",
+      "sh,0v"
+    ]
+  },
+  {
+    "chinese": "鄰長",
+    "ch_semantic": "(中借)",
+    "pinyin_info": [
+      "l,in",
+      "c,i",
+      "0c,w"
+    ],
+    "dict_pinyin": [
+      "l,in",
+      "ch,ang"
+    ]
+  },
+  {
+    "chinese": "原文會",
+    "ch_semantic": "(中借)",
+    "pinyin_info": [
+      "0c,in",
+      "0c,w",
+      "0c,en",
+      "h,u",
+      "0c,y"
+    ],
+    "dict_pinyin": [
+      "0c,u:an",
+      "0c,un",
+      "h,uei"
+    ]
+  },
+  {
+    "chinese": "紀念",
+    "ch_semantic": "(中借)",
+    "pinyin_info": [
+      "k,in",
+      "0c,in"
+    ],
+    "dict_pinyin": [
+      "j,i",
+      "n,ian"
+    ]
+  },
+  {
+    "chinese": "健保",
+    "ch_semantic": "(中借)",
+    "pinyin_info": [
+      "c,in",
+      "p,a",
+      "0c,w"
+    ],
+    "dict_pinyin": [
+      "j,ian",
+      "b,ao"
+    ]
+  },
+  {
+    "chinese": "捷運",
+    "ch_semantic": "(中譯)",
+    "pinyin_info": [
+      "c,e",
+      "0c,y",
+      "0c,un"
+    ],
+    "dict_pinyin": [
+      "j,ie",
+      "0c,u:n"
+    ]
+  },
+  {
+    "chinese": "電腦",
+    "ch_semantic": "(中譯)",
+    "pinyin_info": [
+      "t,in",
+      "n,0v",
+      "0c,a",
+      "0c,w"
+    ],
+    "dict_pinyin": [
+      "d,ian",
+      "n,ao"
+    ]
+  },
+  {
+    "chinese": "網咖",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "0c,w",
+      "0c,ang",
+      "k,a"
+    ],
+    "dict_pinyin": [
+      "0c,uang",
+      "k,a"
+    ]
+  },
+  {
+    "chinese": "廣告",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "k,am",
+      "p,ang"
+    ],
+    "dict_pinyin": [
+      "g,uang",
+      "g,ao"
+    ]
+  },
+  {
+    "chinese": "發票",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "h,a",
+      "p,i",
+      "0c,y",
+      "0c,a",
+      "0c,w"
+    ],
+    "dict_pinyin": [
+      "f,a",
+      "p,iao"
+    ]
+  },
+  {
+    "chinese": "光碟",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "k,ung",
+      "t,i",
+      "0c,y"
+    ],
+    "dict_pinyin": [
+      "g,uang",
+      "d,ie"
+    ]
+  },
+  {
+    "chinese": "便利商店",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "0c,i",
+      "p,in",
+      "l,i"
+    ],
+    "dict_pinyin": [
+      "p,ian",
+      "l,i",
+      "sh,ang",
+      "d,ian"
+    ]
+  }
+]

@@ -1,0 +1,3219 @@
+[
+    {
+        "chinese": "高速鐵路",
+        "ch_semantic": "高速鐵路(中借)",
+        "original_pinyin_ch": [
+            "g,ao",
+            "s,u",
+            "t,ie",
+            "l,u"
+        ],
+        "original_pinyin_ts": [
+            "k,a",
+            "0c,u",
+            "s,u",
+            "0c,u",
+            "t,i",
+            "0c,e",
+            "r,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "ao",
+                    "pinyin": "gao"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "au",
+                    "pinyin": "kau"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "s",
+                    "final": "u",
+                    "pinyin": "su"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "uu",
+                    "pinyin": "suu"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "t",
+                    "final": "ie",
+                    "pinyin": "tie"
+                },
+                "tsou_syllable": {
+                    "initial": "t",
+                    "final": "ie",
+                    "pinyin": "tie"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "u",
+                    "pinyin": "lu"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "uu",
+                    "pinyin": "ruu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "高速公路",
+        "ch_semantic": "高速公路(中借)",
+        "original_pinyin_ch": [
+            "g,ao",
+            "s,u",
+            "g,ong",
+            "l,u"
+        ],
+        "original_pinyin_ts": [
+            "k,a",
+            "0c,u",
+            "s,u",
+            "0c,u",
+            "k,ung",
+            "r,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "ao",
+                    "pinyin": "gao"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "au",
+                    "pinyin": "kau"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "s",
+                    "final": "u",
+                    "pinyin": "su"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "uu",
+                    "pinyin": "suu"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "ong",
+                    "pinyin": "gong"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ung",
+                    "pinyin": "kung"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "u",
+                    "pinyin": "lu"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "uu",
+                    "pinyin": "ruu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "捷運",
+        "ch_semantic": "捷運(中借)",
+        "original_pinyin_ch": [
+            "j,ie",
+            "0c,u:n"
+        ],
+        "original_pinyin_ts": [
+            "c,i",
+            "0c,e",
+            "0c,u",
+            "0c,i",
+            "0c,in"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ie",
+                    "pinyin": "jie"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ie",
+                    "pinyin": "cie"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:n",
+                    "pinyin": "u:n"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "uiin",
+                    "pinyin": "uiin"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "網咖",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "0c,uang",
+            "k,a"
+        ],
+        "original_pinyin_ts": [
+            "0c,u",
+            "0c,ang",
+            "k,a",
+            "0c,a"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "uang",
+                    "pinyin": "uang"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "uang",
+                    "pinyin": "uang"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "aa",
+                    "pinyin": "kaa"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "信用卡",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "x,in",
+            "0c,iong",
+            "k,a"
+        ],
+        "original_pinyin_ts": [
+            "s,in",
+            "0c,i",
+            "0c,ʉng",
+            "k,a"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "x",
+                    "final": "in",
+                    "pinyin": "xin"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "in",
+                    "pinyin": "sin"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "iong",
+                    "pinyin": "iong"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "iʉng",
+                    "pinyin": "iʉng"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "電話卡",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "d,ian",
+            "h,ua",
+            "k,a"
+        ],
+        "original_pinyin_ts": [
+            "t,i",
+            "0c,en",
+            "h,u",
+            "0c,a",
+            "k,a"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "d",
+                    "final": "ian",
+                    "pinyin": "dian"
+                },
+                "tsou_syllable": {
+                    "initial": "t",
+                    "final": "ien",
+                    "pinyin": "tien"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "ua",
+                    "pinyin": "hua"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "ua",
+                    "pinyin": "hua"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "發票",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "f,a",
+            "p,iao"
+        ],
+        "original_pinyin_ts": [
+            "f,a",
+            "p,i",
+            "0c,a",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "a",
+                    "pinyin": "fa"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "a",
+                    "pinyin": "fa"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "p",
+                    "final": "iao",
+                    "pinyin": "piao"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "iau",
+                    "pinyin": "piau"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "收據",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "sh,ou",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "s,o",
+            "c,i",
+            "0c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "ou",
+                    "pinyin": "shou"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "o",
+                    "pinyin": "so"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ii",
+                    "pinyin": "cii"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "光碟",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "g,uang",
+            "d,ie"
+        ],
+        "original_pinyin_ts": [
+            "k,u",
+            "0c,ang",
+            "t,i",
+            "0c,e"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "uang",
+                    "pinyin": "guang"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "uang",
+                    "pinyin": "kuang"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "d",
+                    "final": "ie",
+                    "pinyin": "die"
+                },
+                "tsou_syllable": {
+                    "initial": "t",
+                    "final": "ie",
+                    "pinyin": "tie"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "刷卡",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "sh,ua",
+            "k,a"
+        ],
+        "original_pinyin_ts": [
+            "s,u",
+            "0c,a",
+            "k,a"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "ua",
+                    "pinyin": "shua"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "ua",
+                    "pinyin": "sua"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "便利商店",
+        "ch_semantic": "7-11 的音譯",
+        "original_pinyin_ch": [
+            "p,ian",
+            "l,i",
+            "sh,ang",
+            "d,ian"
+        ],
+        "original_pinyin_ts": [
+            "s,e",
+            "v,ʉn",
+            "0c,’i",
+            "r,e",
+            "v,ʉn"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "p",
+                    "final": "ian",
+                    "pinyin": "pian"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "evʉn’i",
+                    "pinyin": "sevʉn’i"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "i",
+                    "pinyin": "li"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "e",
+                    "pinyin": "re"
+                }
+            },
+            {
+                "status": "族語缺失",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "ang",
+                    "pinyin": "shang"
+                },
+                "tsou_syllable": null
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "d",
+                    "final": "ian",
+                    "pinyin": "dian"
+                },
+                "tsou_syllable": {
+                    "initial": "v",
+                    "final": "ʉn",
+                    "pinyin": "vʉn"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "總統府",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "z,ong",
+            "t,ong",
+            "f,u"
+        ],
+        "original_pinyin_ts": [
+            "c,ong",
+            "t,ong",
+            "f,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "z",
+                    "final": "ong",
+                    "pinyin": "zong"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ong",
+                    "pinyin": "cong"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "t",
+                    "final": "ong",
+                    "pinyin": "tong"
+                },
+                "tsou_syllable": {
+                    "initial": "t",
+                    "final": "ong",
+                    "pinyin": "tong"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "行政院",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "x,ing",
+            "zh,eng",
+            "0c,u:an"
+        ],
+        "original_pinyin_ts": [
+            "s,ing",
+            "c,ʉng",
+            "0c,i",
+            "0c,en"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "x",
+                    "final": "ing",
+                    "pinyin": "xing"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "ing",
+                    "pinyin": "sing"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "eng",
+                    "pinyin": "zheng"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ʉng",
+                    "pinyin": "cʉng"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:an",
+                    "pinyin": "u:an"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ien",
+                    "pinyin": "ien"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "立法院",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "l,i",
+            "f,a",
+            "0c,u:an"
+        ],
+        "original_pinyin_ts": [
+            "r,i",
+            "f,a",
+            "0c,i",
+            "0c,en"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "i",
+                    "pinyin": "li"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "i",
+                    "pinyin": "ri"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "a",
+                    "pinyin": "fa"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "a",
+                    "pinyin": "fa"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:an",
+                    "pinyin": "u:an"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ien",
+                    "pinyin": "ien"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "司法院",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "s,0v",
+            "f,a",
+            "0c,u:an"
+        ],
+        "original_pinyin_ts": [
+            "s,ʉ",
+            "v,a",
+            "0c,i",
+            "0c,en"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "s",
+                    "final": "",
+                    "pinyin": "s"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "ʉ",
+                    "pinyin": "sʉ"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "a",
+                    "pinyin": "fa"
+                },
+                "tsou_syllable": {
+                    "initial": "v",
+                    "final": "a",
+                    "pinyin": "va"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:an",
+                    "pinyin": "u:an"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ien",
+                    "pinyin": "ien"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "考試院",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "k,ao",
+            "sh,0v",
+            "0c,u:an"
+        ],
+        "original_pinyin_ts": [
+            "k,a",
+            "0c,u",
+            "s,ʉ",
+            "0c,u",
+            "0c,en"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ao",
+                    "pinyin": "kao"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "au",
+                    "pinyin": "kau"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "",
+                    "pinyin": "sh"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "ʉ",
+                    "pinyin": "sʉ"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:an",
+                    "pinyin": "u:an"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "uen",
+                    "pinyin": "uen"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "監察院",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "j,ian",
+            "ch,a",
+            "0c,u:an"
+        ],
+        "original_pinyin_ts": [
+            "c,i",
+            "0c,en",
+            "c,a",
+            "0c,i",
+            "0c,en"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ian",
+                    "pinyin": "jian"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ien",
+                    "pinyin": "cien"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "ch",
+                    "final": "a",
+                    "pinyin": "cha"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "a",
+                    "pinyin": "ca"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:an",
+                    "pinyin": "u:an"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ien",
+                    "pinyin": "ien"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "外交部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "0c,uai",
+            "j,iao",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "0c,u",
+            "0c,a",
+            "0c,i",
+            "c,i",
+            "0c,a",
+            "0c,u",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "uai",
+                    "pinyin": "uai"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "uai",
+                    "pinyin": "uai"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "iao",
+                    "pinyin": "jiao"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "iau",
+                    "pinyin": "ciau"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "內政部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "n,ei",
+            "zh,eng",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "n,0v",
+            "0c,e",
+            "c,ʉng",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "n",
+                    "final": "ei",
+                    "pinyin": "nei"
+                },
+                "tsou_syllable": {
+                    "initial": "n",
+                    "final": "e",
+                    "pinyin": "ne"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "eng",
+                    "pinyin": "zheng"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ʉng",
+                    "pinyin": "cʉng"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "財政部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "c,ai",
+            "zh,eng",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "c,a",
+            "0c,i",
+            "c,ʉng",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "c",
+                    "final": "ai",
+                    "pinyin": "cai"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ai",
+                    "pinyin": "cai"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "eng",
+                    "pinyin": "zheng"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ʉng",
+                    "pinyin": "cʉng"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "經濟部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "j,ing",
+            "j,i",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "c,ing",
+            "c,i",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ing",
+                    "pinyin": "jing"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ing",
+                    "pinyin": "cing"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "i",
+                    "pinyin": "ji"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "法務部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "f,a",
+            "0c,u",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "f,a",
+            "0c,’u",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "a",
+                    "pinyin": "fa"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "a",
+                    "pinyin": "fa"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u",
+                    "pinyin": "u"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "’u",
+                    "pinyin": "’u"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "交通部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "j,iao",
+            "t,ong",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "c,i",
+            "0c,a",
+            "0c,u",
+            "t,ung",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "iao",
+                    "pinyin": "jiao"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "iau",
+                    "pinyin": "ciau"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "t",
+                    "final": "ong",
+                    "pinyin": "tong"
+                },
+                "tsou_syllable": {
+                    "initial": "t",
+                    "final": "ung",
+                    "pinyin": "tung"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "國防部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "g,uo",
+            "f,ang",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "k,u",
+            "0c,o",
+            "f,ang",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "uo",
+                    "pinyin": "guo"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "uo",
+                    "pinyin": "kuo"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "ang",
+                    "pinyin": "fang"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "ang",
+                    "pinyin": "fang"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "文化部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "0c,un",
+            "h,ua",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "0c,u",
+            "0c,ʉn",
+            "h,u",
+            "0c,a",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "un",
+                    "pinyin": "un"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "uʉn",
+                    "pinyin": "uʉn"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "ua",
+                    "pinyin": "hua"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "ua",
+                    "pinyin": "hua"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "衛福部",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "0c,uei",
+            "f,u",
+            "b,u"
+        ],
+        "original_pinyin_ts": [
+            "0c,u",
+            "0c,e",
+            "f,u",
+            "p,u",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "uei",
+                    "pinyin": "uei"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ue",
+                    "pinyin": "ue"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "u",
+                    "pinyin": "bu"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "uu",
+                    "pinyin": "puu"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "體育署",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "t,i",
+            "0c,u:",
+            "sh,u"
+        ],
+        "original_pinyin_ts": [
+            "t,i",
+            "0c,’i",
+            "s,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "t",
+                    "final": "i",
+                    "pinyin": "ti"
+                },
+                "tsou_syllable": {
+                    "initial": "t",
+                    "final": "i",
+                    "pinyin": "ti"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:",
+                    "pinyin": "u:"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "’i",
+                    "pinyin": "’i"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "u",
+                    "pinyin": "shu"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "u",
+                    "pinyin": "su"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "警政署",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "j,ing",
+            "zh,eng",
+            "sh,u"
+        ],
+        "original_pinyin_ts": [
+            "c,ing",
+            "c,ʉng",
+            "s,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ing",
+                    "pinyin": "jing"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ing",
+                    "pinyin": "cing"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "eng",
+                    "pinyin": "zheng"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ʉng",
+                    "pinyin": "cʉng"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "u",
+                    "pinyin": "shu"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "u",
+                    "pinyin": "su"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "環保署",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "h,uan",
+            "b,ao",
+            "sh,u"
+        ],
+        "original_pinyin_ts": [
+            "h,u",
+            "0c,an",
+            "p,a",
+            "0c,u",
+            "s,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "uan",
+                    "pinyin": "huan"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "uan",
+                    "pinyin": "huan"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "ao",
+                    "pinyin": "bao"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "au",
+                    "pinyin": "pau"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "u",
+                    "pinyin": "shu"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "u",
+                    "pinyin": "su"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "水利局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "sh,uei",
+            "l,i",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "s,u",
+            "0c,i",
+            "r,i",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "uei",
+                    "pinyin": "shuei"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "ui",
+                    "pinyin": "sui"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "i",
+                    "pinyin": "li"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "i",
+                    "pinyin": "ri"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "觀光局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "g,uan",
+            "g,uang",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "k,u",
+            "0c,an",
+            "k,u",
+            "0c,ang",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "uan",
+                    "pinyin": "guan"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "uan",
+                    "pinyin": "kuan"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "uang",
+                    "pinyin": "guang"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "uang",
+                    "pinyin": "kuang"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "公路局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "g,ong",
+            "l,u",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "k,ung",
+            "r,u",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "ong",
+                    "pinyin": "gong"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ung",
+                    "pinyin": "kung"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "u",
+                    "pinyin": "lu"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "u",
+                    "pinyin": "ru"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "消防局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "x,iao",
+            "f,ang",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "s,i",
+            "0c,a",
+            "0c,u",
+            "f,ang",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "x",
+                    "final": "iao",
+                    "pinyin": "xiao"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "iau",
+                    "pinyin": "siau"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "ang",
+                    "pinyin": "fang"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "ang",
+                    "pinyin": "fang"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "林務局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "l,in",
+            "0c,u",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "r,in",
+            "0c,’u",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "in",
+                    "pinyin": "lin"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "in",
+                    "pinyin": "rin"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u",
+                    "pinyin": "u"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "’u",
+                    "pinyin": "’u"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "國產局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "g,uo",
+            "ch,an",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "k,u",
+            "0c,o",
+            "c,an",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "uo",
+                    "pinyin": "guo"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "uo",
+                    "pinyin": "kuo"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "ch",
+                    "final": "an",
+                    "pinyin": "chan"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "an",
+                    "pinyin": "can"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "勞保局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "l,ao",
+            "b,ao",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "r,a",
+            "0c,u",
+            "p,a",
+            "0c,u",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "ao",
+                    "pinyin": "lao"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "au",
+                    "pinyin": "rau"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "ao",
+                    "pinyin": "bao"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "au",
+                    "pinyin": "pau"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "水保局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "sh,uei",
+            "b,ao",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "s,u",
+            "0c,i",
+            "p,a",
+            "0c,u",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "uei",
+                    "pinyin": "shuei"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "ui",
+                    "pinyin": "sui"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "ao",
+                    "pinyin": "bao"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "au",
+                    "pinyin": "pau"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "客委會",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "k,ㄜ",
+            "0c,uei",
+            "h,uei"
+        ],
+        "original_pinyin_ts": [
+            "k,ʉ",
+            "0c,u",
+            "0c,i",
+            "h,u",
+            "0c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ㄜ",
+                    "pinyin": "kㄜ"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ʉ",
+                    "pinyin": "kʉ"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "uei",
+                    "pinyin": "uei"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ui",
+                    "pinyin": "ui"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "uei",
+                    "pinyin": "huei"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "ui",
+                    "pinyin": "hui"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "智慧財產局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "zh,0v",
+            "h,uei",
+            "c,ai",
+            "ch,an",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "c,ʉ",
+            "h,u",
+            "0c,i",
+            "c,a",
+            "0c,i",
+            "c,an",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "",
+                    "pinyin": "zh"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ʉ",
+                    "pinyin": "cʉ"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "uei",
+                    "pinyin": "huei"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "ui",
+                    "pinyin": "hui"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "c",
+                    "final": "ai",
+                    "pinyin": "cai"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ai",
+                    "pinyin": "cai"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "ch",
+                    "final": "an",
+                    "pinyin": "chan"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "an",
+                    "pinyin": "can"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "中央氣象局",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "zh,ong",
+            "0c,iang",
+            "q,i",
+            "x,iang",
+            "j,u:"
+        ],
+        "original_pinyin_ts": [
+            "c,ung",
+            "0c,i",
+            "0c,ang",
+            "c,i",
+            "s,i",
+            "0c,ang",
+            "c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "ong",
+                    "pinyin": "zhong"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ung",
+                    "pinyin": "cung"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "iang",
+                    "pinyin": "iang"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "iang",
+                    "pinyin": "iang"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "q",
+                    "final": "i",
+                    "pinyin": "qi"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "x",
+                    "final": "iang",
+                    "pinyin": "xiang"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "iang",
+                    "pinyin": "siang"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "u:",
+                    "pinyin": "ju:"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "i",
+                    "pinyin": "ci"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "就業服務站",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "j,iou",
+            "0c,ie",
+            "f,u",
+            "0c,u",
+            "zh,an"
+        ],
+        "original_pinyin_ts": [
+            "c,i",
+            "0c,u",
+            "0c,i",
+            "0c,e",
+            "f,u",
+            "0c,’u",
+            "c,an"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "iou",
+                    "pinyin": "jiou"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "iu",
+                    "pinyin": "ciu"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "ie",
+                    "pinyin": "ie"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ie",
+                    "pinyin": "ie"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                },
+                "tsou_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u",
+                    "pinyin": "u"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "’u",
+                    "pinyin": "’u"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "an",
+                    "pinyin": "zhan"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "an",
+                    "pinyin": "can"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "原住民特考",
+        "ch_semantic": "中譯",
+        "original_pinyin_ch": [
+            "0c,u:an",
+            "zh,u",
+            "m,in",
+            "t,ㄜ",
+            "k,ao"
+        ],
+        "original_pinyin_ts": [
+            "0c,i",
+            "0c,en",
+            "c,u",
+            "m,in",
+            "t,ʉ",
+            "k,a",
+            "0c,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:an",
+                    "pinyin": "u:an"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ien",
+                    "pinyin": "ien"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "u",
+                    "pinyin": "zhu"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "u",
+                    "pinyin": "cu"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "m",
+                    "final": "in",
+                    "pinyin": "min"
+                },
+                "tsou_syllable": {
+                    "initial": "m",
+                    "final": "in",
+                    "pinyin": "min"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "t",
+                    "final": "ㄜ",
+                    "pinyin": "tㄜ"
+                },
+                "tsou_syllable": {
+                    "initial": "t",
+                    "final": "ʉ",
+                    "pinyin": "tʉ"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ao",
+                    "pinyin": "kao"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "au",
+                    "pinyin": "kau"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "內科",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "n,ei",
+            "k,ㄜ"
+        ],
+        "original_pinyin_ts": [
+            "n,0v",
+            "0c,e",
+            "k,ʉ",
+            "0c,ʉ"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "n",
+                    "final": "ei",
+                    "pinyin": "nei"
+                },
+                "tsou_syllable": {
+                    "initial": "n",
+                    "final": "e",
+                    "pinyin": "ne"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ㄜ",
+                    "pinyin": "kㄜ"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ʉʉ",
+                    "pinyin": "kʉʉ"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "外科",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "0c,uai",
+            "k,ㄜ"
+        ],
+        "original_pinyin_ts": [
+            "0c,u",
+            "0c,a",
+            "0c,i",
+            "k,ʉ",
+            "0c,ʉ"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "uai",
+                    "pinyin": "uai"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "uai",
+                    "pinyin": "uai"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ㄜ",
+                    "pinyin": "kㄜ"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ʉʉ",
+                    "pinyin": "kʉʉ"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "婦產科",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "f,u",
+            "ch,an",
+            "k,ㄜ"
+        ],
+        "original_pinyin_ts": [
+            "v,u",
+            "c,an",
+            "k,ʉ",
+            "0c,ʉ"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                },
+                "tsou_syllable": {
+                    "initial": "v",
+                    "final": "u",
+                    "pinyin": "vu"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "ch",
+                    "final": "an",
+                    "pinyin": "chan"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "an",
+                    "pinyin": "can"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ㄜ",
+                    "pinyin": "kㄜ"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ʉʉ",
+                    "pinyin": "kʉʉ"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "精神科",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "j,ing",
+            "sh,en",
+            "k,ㄜ"
+        ],
+        "original_pinyin_ts": [
+            "c,ing",
+            "s,xn",
+            "k,ʉ",
+            "0c,ʉ"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ing",
+                    "pinyin": "jing"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ing",
+                    "pinyin": "cing"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "en",
+                    "pinyin": "shen"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "xn",
+                    "pinyin": "sxn"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ㄜ",
+                    "pinyin": "kㄜ"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ʉʉ",
+                    "pinyin": "kʉʉ"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "復健科",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "f,u",
+            "j,ian",
+            "k,ㄜ"
+        ],
+        "original_pinyin_ts": [
+            "v,u",
+            "c,i",
+            "0c,en",
+            "k,ʉ",
+            "0c,ʉ"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "u",
+                    "pinyin": "fu"
+                },
+                "tsou_syllable": {
+                    "initial": "v",
+                    "final": "u",
+                    "pinyin": "vu"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ian",
+                    "pinyin": "jian"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ien",
+                    "pinyin": "cien"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "ㄜ",
+                    "pinyin": "kㄜ"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "ʉʉ",
+                    "pinyin": "kʉʉ"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "實習醫師",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "sh,0v",
+            "x,i",
+            "0c,i",
+            "sh,0v"
+        ],
+        "original_pinyin_ts": [
+            "s,xsi",
+            "0c,’i",
+            "s,e",
+            "0c,eng"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "",
+                    "pinyin": "sh"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "xsi",
+                    "pinyin": "sxsi"
+                }
+            },
+            {
+                "status": "族語缺失",
+                "chinese_syllable": {
+                    "initial": "x",
+                    "final": "i",
+                    "pinyin": "xi"
+                },
+                "tsou_syllable": null
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "i",
+                    "pinyin": "i"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "’i",
+                    "pinyin": "’i"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "",
+                    "pinyin": "sh"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "eeng",
+                    "pinyin": "seeng"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "主治醫師",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "zh,u",
+            "zh,0v",
+            "0c,i",
+            "sh,0v"
+        ],
+        "original_pinyin_ts": [
+            "c,ucxx",
+            "0c,’i",
+            "s,e",
+            "0c,eng"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "u",
+                    "pinyin": "zhu"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ucxx",
+                    "pinyin": "cucxx"
+                }
+            },
+            {
+                "status": "族語缺失",
+                "chinese_syllable": {
+                    "initial": "zh",
+                    "final": "0v",
+                    "pinyin": "zh0v"
+                },
+                "tsou_syllable": null
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "i",
+                    "pinyin": "i"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "’i",
+                    "pinyin": "’i"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "",
+                    "pinyin": "sh"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "eeng",
+                    "pinyin": "seeng"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "輪椅",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "l,un",
+            "0c,i"
+        ],
+        "original_pinyin_ts": [
+            "r,u",
+            "x,n",
+            "0c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "un",
+                    "pinyin": "lun"
+                },
+                "tsou_syllable": {
+                    "initial": "r",
+                    "final": "uxn",
+                    "pinyin": "ruxn"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "i",
+                    "pinyin": "i"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "i",
+                    "pinyin": "i"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "溫度計",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "0c,un",
+            "d,u",
+            "j,i"
+        ],
+        "original_pinyin_ts": [
+            "s,i",
+            "0c,a",
+            "t,a",
+            "0c,’a",
+            "v,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "un",
+                    "pinyin": "un"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "iata’a",
+                    "pinyin": "siata’a"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "d",
+                    "final": "u",
+                    "pinyin": "du"
+                },
+                "tsou_syllable": {
+                    "initial": "v",
+                    "final": "u",
+                    "pinyin": "vu"
+                }
+            },
+            {
+                "status": "族語缺失",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "i",
+                    "pinyin": "ji"
+                },
+                "tsou_syllable": null
+            }
+        ]
+    },
+    {
+        "chinese": "救護車",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "j,iou",
+            "h,u",
+            "ch,ㄜ"
+        ],
+        "original_pinyin_ts": [
+            "c,i",
+            "0c,u",
+            "h,ucx"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "iou",
+                    "pinyin": "jiou"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "iu",
+                    "pinyin": "ciu"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "u",
+                    "pinyin": "hu"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "ucx",
+                    "pinyin": "hucx"
+                }
+            },
+            {
+                "status": "族語缺失",
+                "chinese_syllable": {
+                    "initial": "ch",
+                    "final": "ㄜ",
+                    "pinyin": "chㄜ"
+                },
+                "tsou_syllable": null
+            }
+        ]
+    },
+    {
+        "chinese": "加護病房",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "j,ia",
+            "h,u",
+            "b,ing",
+            "f,ang"
+        ],
+        "original_pinyin_ts": [
+            "c,i",
+            "0c,a",
+            "h,u",
+            "p,ing",
+            "v,ang"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ia",
+                    "pinyin": "jia"
+                },
+                "tsou_syllable": {
+                    "initial": "c",
+                    "final": "ia",
+                    "pinyin": "cia"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "u",
+                    "pinyin": "hu"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "u",
+                    "pinyin": "hu"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "ing",
+                    "pinyin": "bing"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "ing",
+                    "pinyin": "ping"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "f",
+                    "final": "ang",
+                    "pinyin": "fang"
+                },
+                "tsou_syllable": {
+                    "initial": "v",
+                    "final": "ang",
+                    "pinyin": "vang"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "血壓",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "x,ie",
+            "0c,ia"
+        ],
+        "original_pinyin_ts": [
+            "s,i",
+            "0c,a",
+            "t,i",
+            "p,i",
+            "n,0v",
+            "0c,i",
+            "m,u",
+            "0c,u",
+            "r,u",
+            "0c,’u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "x",
+                    "final": "ie",
+                    "pinyin": "xie"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "iatipin",
+                    "pinyin": "siatipin"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "ia",
+                    "pinyin": "ia"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "imuuru’u",
+                    "pinyin": "imuuru’u"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "原民會",
+        "ch_semantic": "(Iencu mincu ui-enhui)(音譯詞)",
+        "original_pinyin_ch": [
+            "0c,u:an",
+            "m,in",
+            "h,uei"
+        ],
+        "original_pinyin_ts": [
+            "0c,i",
+            "0c,en",
+            "m,in",
+            "h,u",
+            "0c,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "u:an",
+                    "pinyin": "u:an"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "ien",
+                    "pinyin": "ien"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "m",
+                    "final": "in",
+                    "pinyin": "min"
+                },
+                "tsou_syllable": {
+                    "initial": "m",
+                    "final": "in",
+                    "pinyin": "min"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "h",
+                    "final": "uei",
+                    "pinyin": "huei"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "ui",
+                    "pinyin": "hui"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "聖誕節",
+        "ch_semantic": "(音譯詞)",
+        "original_pinyin_ch": [
+            "sh,eng",
+            "d,an",
+            "j,ie"
+        ],
+        "original_pinyin_ts": [
+            "k,u",
+            "r,i",
+            "s,i",
+            "m,a",
+            "s,u"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "eng",
+                    "pinyin": "sheng"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "urisi",
+                    "pinyin": "kurisi"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "d",
+                    "final": "an",
+                    "pinyin": "dan"
+                },
+                "tsou_syllable": {
+                    "initial": "m",
+                    "final": "a",
+                    "pinyin": "ma"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "j",
+                    "final": "ie",
+                    "pinyin": "jie"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "u",
+                    "pinyin": "su"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,891 @@
+[
+  {
+    "chinese": "高速鐵路",
+    "ch_semantic": "高速鐵路(中借)",
+    "pinyin_info": [
+      "k,a",
+      "0c,u",
+      "s,u",
+      "0c,u",
+      "t,i",
+      "0c,e",
+      "r,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "g,ao",
+      "s,u",
+      "t,ie",
+      "l,u"
+    ]
+  },
+  {
+    "chinese": "高速公路",
+    "ch_semantic": "高速公路(中借)",
+    "pinyin_info": [
+      "k,a",
+      "0c,u",
+      "s,u",
+      "0c,u",
+      "k,ung",
+      "r,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "g,ao",
+      "s,u",
+      "g,ong",
+      "l,u"
+    ]
+  },
+  {
+    "chinese": "捷運",
+    "ch_semantic": "捷運(中借)",
+    "pinyin_info": [
+      "c,i",
+      "0c,e",
+      "0c,u",
+      "0c,i",
+      "0c,in"
+    ],
+    "dict_pinyin": [
+      "j,ie",
+      "0c,u:n"
+    ]
+  },
+  {
+    "chinese": "網咖",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "0c,u",
+      "0c,ang",
+      "k,a",
+      "0c,a"
+    ],
+    "dict_pinyin": [
+      "0c,uang",
+      "k,a"
+    ]
+  },
+  {
+    "chinese": "信用卡",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "s,in",
+      "0c,i",
+      "0c,ʉng",
+      "k,a"
+    ],
+    "dict_pinyin": [
+      "x,in",
+      "0c,iong",
+      "k,a"
+    ]
+  },
+  {
+    "chinese": "電話卡",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "t,i",
+      "0c,en",
+      "h,u",
+      "0c,a",
+      "k,a"
+    ],
+    "dict_pinyin": [
+      "d,ian",
+      "h,ua",
+      "k,a"
+    ]
+  },
+  {
+    "chinese": "發票",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "f,a",
+      "p,i",
+      "0c,a",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "f,a",
+      "p,iao"
+    ]
+  },
+  {
+    "chinese": "收據",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "s,o",
+      "c,i",
+      "0c,i"
+    ],
+    "dict_pinyin": [
+      "sh,ou",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "光碟",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "k,u",
+      "0c,ang",
+      "t,i",
+      "0c,e"
+    ],
+    "dict_pinyin": [
+      "g,uang",
+      "d,ie"
+    ]
+  },
+  {
+    "chinese": "刷卡",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "s,u",
+      "0c,a",
+      "k,a"
+    ],
+    "dict_pinyin": [
+      "sh,ua",
+      "k,a"
+    ]
+  },
+  {
+    "chinese": "便利商店",
+    "ch_semantic": "7-11 的音譯",
+    "pinyin_info": [
+      "s,e",
+      "v,ʉn",
+      "0c,’i",
+      "r,e",
+      "v,ʉn"
+    ],
+    "dict_pinyin": [
+      "p,ian",
+      "l,i",
+      "sh,ang",
+      "d,ian"
+    ]
+  },
+  {
+    "chinese": "總統府",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,ong",
+      "t,ong",
+      "f,u"
+    ],
+    "dict_pinyin": [
+      "z,ong",
+      "t,ong",
+      "f,u"
+    ]
+  },
+  {
+    "chinese": "行政院",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "s,ing",
+      "c,ʉng",
+      "0c,i",
+      "0c,en"
+    ],
+    "dict_pinyin": [
+      "x,ing",
+      "zh,eng",
+      "0c,u:an"
+    ]
+  },
+  {
+    "chinese": "立法院",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "r,i",
+      "f,a",
+      "0c,i",
+      "0c,en"
+    ],
+    "dict_pinyin": [
+      "l,i",
+      "f,a",
+      "0c,u:an"
+    ]
+  },
+  {
+    "chinese": "司法院",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "s,ʉ",
+      "v,a",
+      "0c,i",
+      "0c,en"
+    ],
+    "dict_pinyin": [
+      "s,0v",
+      "f,a",
+      "0c,u:an"
+    ]
+  },
+  {
+    "chinese": "考試院",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "k,a",
+      "0c,u",
+      "s,ʉ",
+      "0c,u",
+      "0c,en"
+    ],
+    "dict_pinyin": [
+      "k,ao",
+      "sh,0v",
+      "0c,u:an"
+    ]
+  },
+  {
+    "chinese": "監察院",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,i",
+      "0c,en",
+      "c,a",
+      "0c,i",
+      "0c,en"
+    ],
+    "dict_pinyin": [
+      "j,ian",
+      "ch,a",
+      "0c,u:an"
+    ]
+  },
+  {
+    "chinese": "外交部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "0c,u",
+      "0c,a",
+      "0c,i",
+      "c,i",
+      "0c,a",
+      "0c,u",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "0c,uai",
+      "j,iao",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "內政部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "n,0v",
+      "0c,e",
+      "c,ʉng",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "n,ei",
+      "zh,eng",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "財政部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,a",
+      "0c,i",
+      "c,ʉng",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "c,ai",
+      "zh,eng",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "經濟部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,ing",
+      "c,i",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "j,ing",
+      "j,i",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "法務部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "f,a",
+      "0c,’u",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "f,a",
+      "0c,u",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "交通部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,i",
+      "0c,a",
+      "0c,u",
+      "t,ung",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "j,iao",
+      "t,ong",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "國防部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "k,u",
+      "0c,o",
+      "f,ang",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "g,uo",
+      "f,ang",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "文化部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "0c,u",
+      "0c,ʉn",
+      "h,u",
+      "0c,a",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "0c,un",
+      "h,ua",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "衛福部",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "0c,u",
+      "0c,e",
+      "f,u",
+      "p,u",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "0c,uei",
+      "f,u",
+      "b,u"
+    ]
+  },
+  {
+    "chinese": "體育署",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "t,i",
+      "0c,’i",
+      "s,u"
+    ],
+    "dict_pinyin": [
+      "t,i",
+      "0c,u:",
+      "sh,u"
+    ]
+  },
+  {
+    "chinese": "警政署",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,ing",
+      "c,ʉng",
+      "s,u"
+    ],
+    "dict_pinyin": [
+      "j,ing",
+      "zh,eng",
+      "sh,u"
+    ]
+  },
+  {
+    "chinese": "環保署",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "h,u",
+      "0c,an",
+      "p,a",
+      "0c,u",
+      "s,u"
+    ],
+    "dict_pinyin": [
+      "h,uan",
+      "b,ao",
+      "sh,u"
+    ]
+  },
+  {
+    "chinese": "水利局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "s,u",
+      "0c,i",
+      "r,i",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "sh,uei",
+      "l,i",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "觀光局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "k,u",
+      "0c,an",
+      "k,u",
+      "0c,ang",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "g,uan",
+      "g,uang",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "公路局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "k,ung",
+      "r,u",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "g,ong",
+      "l,u",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "消防局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "s,i",
+      "0c,a",
+      "0c,u",
+      "f,ang",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "x,iao",
+      "f,ang",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "林務局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "r,in",
+      "0c,’u",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "l,in",
+      "0c,u",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "國產局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "k,u",
+      "0c,o",
+      "c,an",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "g,uo",
+      "ch,an",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "勞保局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "r,a",
+      "0c,u",
+      "p,a",
+      "0c,u",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "l,ao",
+      "b,ao",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "水保局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "s,u",
+      "0c,i",
+      "p,a",
+      "0c,u",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "sh,uei",
+      "b,ao",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "客委會",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "k,ʉ",
+      "0c,u",
+      "0c,i",
+      "h,u",
+      "0c,i"
+    ],
+    "dict_pinyin": [
+      "k,ㄜ",
+      "0c,uei",
+      "h,uei"
+    ]
+  },
+  {
+    "chinese": "智慧財產局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,ʉ",
+      "h,u",
+      "0c,i",
+      "c,a",
+      "0c,i",
+      "c,an",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "zh,0v",
+      "h,uei",
+      "c,ai",
+      "ch,an",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "中央氣象局",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,ung",
+      "0c,i",
+      "0c,ang",
+      "c,i",
+      "s,i",
+      "0c,ang",
+      "c,i"
+    ],
+    "dict_pinyin": [
+      "zh,ong",
+      "0c,iang",
+      "q,i",
+      "x,iang",
+      "j,u:"
+    ]
+  },
+  {
+    "chinese": "就業服務站",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "c,i",
+      "0c,u",
+      "0c,i",
+      "0c,e",
+      "f,u",
+      "0c,’u",
+      "c,an"
+    ],
+    "dict_pinyin": [
+      "j,iou",
+      "0c,ie",
+      "f,u",
+      "0c,u",
+      "zh,an"
+    ]
+  },
+  {
+    "chinese": "原住民特考",
+    "ch_semantic": "中譯",
+    "pinyin_info": [
+      "0c,i",
+      "0c,en",
+      "c,u",
+      "m,in",
+      "t,ʉ",
+      "k,a",
+      "0c,u"
+    ],
+    "dict_pinyin": [
+      "0c,u:an",
+      "zh,u",
+      "m,in",
+      "t,ㄜ",
+      "k,ao"
+    ]
+  },
+  {
+    "chinese": "內科",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "n,0v",
+      "0c,e",
+      "k,ʉ",
+      "0c,ʉ"
+    ],
+    "dict_pinyin": [
+      "n,ei",
+      "k,ㄜ"
+    ]
+  },
+  {
+    "chinese": "外科",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "0c,u",
+      "0c,a",
+      "0c,i",
+      "k,ʉ",
+      "0c,ʉ"
+    ],
+    "dict_pinyin": [
+      "0c,uai",
+      "k,ㄜ"
+    ]
+  },
+  {
+    "chinese": "婦產科",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "v,u",
+      "c,an",
+      "k,ʉ",
+      "0c,ʉ"
+    ],
+    "dict_pinyin": [
+      "f,u",
+      "ch,an",
+      "k,ㄜ"
+    ]
+  },
+  {
+    "chinese": "精神科",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "c,ing",
+      "s,xn",
+      "k,ʉ",
+      "0c,ʉ"
+    ],
+    "dict_pinyin": [
+      "j,ing",
+      "sh,en",
+      "k,ㄜ"
+    ]
+  },
+  {
+    "chinese": "復健科",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "v,u",
+      "c,i",
+      "0c,en",
+      "k,ʉ",
+      "0c,ʉ"
+    ],
+    "dict_pinyin": [
+      "f,u",
+      "j,ian",
+      "k,ㄜ"
+    ]
+  },
+  {
+    "chinese": "實習醫師",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "s,xsi",
+      "0c,’i",
+      "s,e",
+      "0c,eng"
+    ],
+    "dict_pinyin": [
+      "sh,0v",
+      "x,i",
+      "0c,i",
+      "sh,0v"
+    ]
+  },
+  {
+    "chinese": "主治醫師",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "c,ucxx",
+      "0c,’i",
+      "s,e",
+      "0c,eng"
+    ],
+    "dict_pinyin": [
+      "zh,u",
+      "zh,0v",
+      "0c,i",
+      "sh,0v"
+    ]
+  },
+  {
+    "chinese": "輪椅",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "r,u",
+      "x,n",
+      "0c,i"
+    ],
+    "dict_pinyin": [
+      "l,un",
+      "0c,i"
+    ]
+  },
+  {
+    "chinese": "溫度計",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "s,i",
+      "0c,a",
+      "t,a",
+      "0c,’a",
+      "v,u"
+    ],
+    "dict_pinyin": [
+      "0c,un",
+      "d,u",
+      "j,i"
+    ]
+  },
+  {
+    "chinese": "救護車",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "c,i",
+      "0c,u",
+      "h,ucx"
+    ],
+    "dict_pinyin": [
+      "j,iou",
+      "h,u",
+      "ch,ㄜ"
+    ]
+  },
+  {
+    "chinese": "加護病房",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "c,i",
+      "0c,a",
+      "h,u",
+      "p,ing",
+      "v,ang"
+    ],
+    "dict_pinyin": [
+      "j,ia",
+      "h,u",
+      "b,ing",
+      "f,ang"
+    ]
+  },
+  {
+    "chinese": "血壓",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "s,i",
+      "0c,a",
+      "t,i",
+      "p,i",
+      "n,0v",
+      "0c,i",
+      "m,u",
+      "0c,u",
+      "r,u",
+      "0c,’u"
+    ],
+    "dict_pinyin": [
+      "x,ie",
+      "0c,ia"
+    ]
+  },
+  {
+    "chinese": "原民會",
+    "ch_semantic": "(Iencu mincu ui-enhui)(音譯詞)",
+    "pinyin_info": [
+      "0c,i",
+      "0c,en",
+      "m,in",
+      "h,u",
+      "0c,i"
+    ],
+    "dict_pinyin": [
+      "0c,u:an",
+      "m,in",
+      "h,uei"
+    ]
+  },
+  {
+    "chinese": "聖誕節",
+    "ch_semantic": "(音譯詞)",
+    "pinyin_info": [
+      "k,u",
+      "r,i",
+      "s,i",
+      "m,a",
+      "s,u"
+    ],
+    "dict_pinyin": [
+      "sh,eng",
+      "d,an",
+      "j,ie"
+    ]
+  }
+]

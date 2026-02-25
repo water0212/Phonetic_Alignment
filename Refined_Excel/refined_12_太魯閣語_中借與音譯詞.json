@@ -1,0 +1,85 @@
+[
+    {
+        "chinese": "網咖",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "0c,uang",
+            "k,a"
+        ],
+        "original_pinyin_ts": [
+            "0c,w",
+            "0c,ang",
+            "k,a"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "uang",
+                    "pinyin": "uang"
+                },
+                "tsou_syllable": {
+                    "initial": "",
+                    "final": "wang",
+                    "pinyin": "wang"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "a",
+                    "pinyin": "ka"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "廣告",
+        "ch_semantic": "音譯",
+        "original_pinyin_ch": [
+            "g,uang",
+            "g,ao"
+        ],
+        "original_pinyin_ts": [
+            "k,w",
+            "0c,ang",
+            "k,a",
+            "0c,w"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "uang",
+                    "pinyin": "guang"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "wang",
+                    "pinyin": "kwang"
+                }
+            },
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "g",
+                    "final": "ao",
+                    "pinyin": "gao"
+                },
+                "tsou_syllable": {
+                    "initial": "k",
+                    "final": "aw",
+                    "pinyin": "kaw"
+                }
+            }
+        ]
+    }
+]

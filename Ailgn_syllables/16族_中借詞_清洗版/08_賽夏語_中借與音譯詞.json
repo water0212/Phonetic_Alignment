@@ -1,0 +1,62 @@
+{
+    "電腦": {
+        "new_word": [
+            {
+                "fm_word": "wanglo’",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "網咖": {
+        "new_word": [
+            {
+                "fm_word": "wangka:",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": "Siti:",
+                "ch_semantic": "CD的音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "立可白": {
+        "new_word": [
+            {
+                "fm_word": "likepay",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "海報": {
+        "new_word": [
+            {
+                "fm_word": "haypaw",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "聖誕節": {
+        "new_word": [
+            {
+                "fm_word": "koriSmaS",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "健保": {
+        "new_word": [
+            {
+                "fm_word": "cyonpa",
+                "ch_semantic": "健保(中借)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "捷運": {
+        "new_word": [
+            {
+                "fm_word": "ceying",
+                "ch_semantic": "(中譯)",
+                "dialect": []
+            }
+        ],
+        "source_year": "103"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": "kangti",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "刷卡": {
+        "new_word": [
+            {
+                "fm_word": "soaka",
+                "ch_semantic": "音譯",
+                "dialect": []
+            }
+        ],
+        "source_year": "104"
+    },
+    "公文": {
+        "new_word": [
+            {
+                "fm_word": "kobon",
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    }
+}

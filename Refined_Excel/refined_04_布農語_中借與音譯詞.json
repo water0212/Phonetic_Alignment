@@ -1,0 +1,42 @@
+[
+    {
+        "chinese": "蠟筆",
+        "ch_semantic": "(音譯詞)",
+        "original_pinyin_ch": [
+            "l,a",
+            "b,i"
+        ],
+        "original_pinyin_ts": [
+            "l,a",
+            "p,i"
+        ],
+        "alignment": [
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "l",
+                    "final": "a",
+                    "pinyin": "la"
+                },
+                "tsou_syllable": {
+                    "initial": "l",
+                    "final": "a",
+                    "pinyin": "la"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "i",
+                    "pinyin": "bi"
+                },
+                "tsou_syllable": {
+                    "initial": "p",
+                    "final": "i",
+                    "pinyin": "pi"
+                }
+            }
+        ]
+    }
+]

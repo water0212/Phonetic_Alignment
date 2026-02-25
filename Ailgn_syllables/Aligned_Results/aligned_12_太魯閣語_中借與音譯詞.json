@@ -1,0 +1,29 @@
+[
+  {
+    "chinese": "網咖",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "0c,w",
+      "0c,ang",
+      "k,a"
+    ],
+    "dict_pinyin": [
+      "0c,uang",
+      "k,a"
+    ]
+  },
+  {
+    "chinese": "廣告",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "k,w",
+      "0c,ang",
+      "k,a",
+      "0c,w"
+    ],
+    "dict_pinyin": [
+      "g,uang",
+      "g,ao"
+    ]
+  }
+]

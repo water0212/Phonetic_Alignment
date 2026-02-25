@@ -1,0 +1,83 @@
+[
+  {
+    "chinese": "電腦",
+    "ch_semantic": "(中譯)",
+    "pinyin_info": [
+      "0c,w",
+      "0c,ang",
+      "l,o’"
+    ],
+    "dict_pinyin": [
+      "d,ian",
+      "n,ao"
+    ]
+  },
+  {
+    "chinese": "網咖",
+    "ch_semantic": "音譯",
+    "pinyin_info": [
+      "0c,w",
+      "0c,ang",
+      "k,a:"
+    ],
+    "dict_pinyin": [
+      "0c,uang",
+      "k,a"
+    ]
+  },
+  {
+    "chinese": "光碟",
+    "ch_semantic": "CD的音譯",
+    "pinyin_info": [
+      "s,i",
+      "t,i:"
+    ],
+    "dict_pinyin": [
+      "g,uang",
+      "d,ie"
+    ]
+  },
+  {
+    "chinese": "立可白",
+    "ch_semantic": "(音譯詞)",
+    "pinyin_info": [
+      "l,i",
+      "k,e",
+      "p,a",
+      "0c,y"
+    ],
+    "dict_pinyin": [
+      "l,i",
+      "k,ㄜ",
+      "b,ai"
+    ]
+  },
+  {
+    "chinese": "海報",
+    "ch_semantic": "(音譯詞)",
+    "pinyin_info": [
+      "h,a",
+      "0c,y",
+      "p,a",
+      "0c,w"
+    ],
+    "dict_pinyin": [
+      "h,ai",
+      "b,ao"
+    ]
+  },
+  {
+    "chinese": "聖誕節",
+    "ch_semantic": "(音譯詞)",
+    "pinyin_info": [
+      "k,o",
+      "r,is",
+      "m,as"
+    ],
+    "dict_pinyin": [
+      "sh,eng",
+      "d,an",
+      "j,ie"
+    ]
+  }
+]
