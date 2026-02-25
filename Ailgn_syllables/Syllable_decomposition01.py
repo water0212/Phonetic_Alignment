@@ -16,7 +16,7 @@ def get_syllables(word):
         return []
 
     word = word.lower()
-    vowels = set('aeiouʉéɨyw')
+    vowels = set('aeiouʉéɨywx')
     raw_parts = re.split(r'[ \-]+', word)
     all_syllables = []
 
