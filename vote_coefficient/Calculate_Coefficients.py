@@ -3,7 +3,7 @@ import os
 
 VOTE_FOLDER_NAME = '16族發音統計結果'
 GLOBAL_STATS_FILENAME = 'global_statistics.json'
-# 權重設定
+# 權重設定 (僅用於計算 i 分數供參考，不影響第一順位排序)
 RANK_WEIGHT = 0.7
 COUNT_WEIGHT = 0.3
 
@@ -83,38 +83,44 @@ def main():
         for src, targets in local_data.items():
             temp_results = []
 
-            # 本地有資料 
+            # 情況 A: 本地有資料 
             if targets:
                 local_total_count = sum(targets.values())
 
                 for tgt, count in targets.items():
-                    # 計算 k (個別分數)
+                    # 計算 k (個別分數 - 僅供參考)
                     k_score = count / local_total_count if local_total_count > 0 else 0
 
-                    # 計算 i (全域分數)
+                    # 計算 i (全域分數 - 用於同票時的第二順位)
                     i_score = calculate_i_score(src, tgt, global_data, global_denominators)
 
-                    # 計算總分
+                    # 計算總分 (僅供參考，不影響排序)
                     total_score = k_score + i_score
 
                     temp_results.append({
                         'target': tgt,
+                        'local_count': count,    # [關鍵] 加入原始次數用於排序
+                        'global_i': i_score,     # [關鍵] 加入全域分數用於排序
                         'data': {
+                            'local_count': count, # 順便把次數寫進結果，方便查看
                             'local_score_k': round(k_score, 4),
                             'global_score_i': round(i_score, 4),
                             'total_score': round(total_score, 4)
                         }
                     })
+                
+                # --- [修改重點] 排序邏輯 ---
+                # 1. 先比 local_count (由大到小)
+                # 2. 如果次數一樣，再比 global_i (由大到小)
+                temp_results.sort(key=lambda x: (x['local_count'], x['global_i']), reverse=True)
 
-            # 情況 B: 本地無資料 
+            # 情況 B: 本地無資料 (維持原樣，完全依賴 Global)
             else:
-                # 檢查 Global 是否有這個 Source 的資料
                 if src in global_data and global_data[src]:
                     # 尋找 Global 中分數最高的 Target
                     best_target = None
                     max_i_score = -1.0
 
-                    # 遍歷 Global 中該 Source 的所有 Target
                     for g_tgt in global_data[src]:
                         current_i = calculate_i_score(src, g_tgt, global_data, global_denominators)
                         
@@ -122,22 +128,22 @@ def main():
                             max_i_score = current_i
                             best_target = g_tgt
                     
-                    # 如果找到了最佳替補
                     if best_target is not None:
                         temp_results.append({
                             'target': best_target,
+                            'local_count': 0,
+                            'global_i': max_i_score,
                             'data': {
-                                'local_score_k': 0.0,          # 本地沒出現，所以 k=0
+                                'local_count': 0,
+                                'local_score_k': 0.0,
                                 'global_score_i': round(max_i_score, 4),
-                                'total_score': round(max_i_score, 4), # 總分 = i
-                                'note': 'Auto-filled from Global' # (選用) 標記這是自動填補的
+                                'total_score': round(max_i_score, 4),
+                                'note': 'Auto-filled from Global'
                             }
                         })
 
-            # --- 排序 (由大到小) ---
-            temp_results.sort(key=lambda x: x['data']['total_score'], reverse=True)
-
             # --- 重組回字典格式 ---
+            # 因為 Python 3.7+ 的字典是有序的，這裡寫入的順序就是剛剛排序好的順序 (第一名在最前面)
             processed_data[src] = {}
             for item in temp_results:
                 processed_data[src][item['target']] = item['data']
@@ -150,7 +156,7 @@ def main():
             
         print(f"   ✅ 已輸出: {filename}")
 
-    print("🎉 所有檔案處理完成！")
+    print("🎉 所有檔案處理完成！排序規則：本地次數優先 > 全域分數輔助")
 
 if __name__ == "__main__":
     main()
