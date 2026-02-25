@@ -126,6 +126,9 @@ class PhoneticAligner:
     def calculate_similarity(self, syl_ch, syl_in):
         score_initial = self.calculate_consonant_score(syl_ch['initial'], syl_in['initial']) * 1
         score_final = self.dice_coefficient(syl_ch['final'], syl_in['final']) * 1
+        #例外處理，若是0c對0c，但韻母完全不同，則視為完全不匹配
+        if syl_ch['initial'] == "0c" and syl_in['initial'] == "0c" and score_final < 0.3:
+            return 0
         return score_initial + score_final
 
     def align(self, ch_syllables, in_syllables):
@@ -153,12 +156,12 @@ class PhoneticAligner:
                 best_score = max(match, delete, insert)
                 dp[i][j] = best_score
                 
-                if best_score == match:
-                    dir_matrix[i][j] = "↖"
-                elif best_score == delete:
-                    dir_matrix[i][j] = "↑"
-                else:
+                if best_score == insert:
                     dir_matrix[i][j] = "←"
+                elif best_score == match:
+                    dir_matrix[i][j] = "↖"
+                else:
+                    dir_matrix[i][j] = "↑"
         
         i, j = n, m
         alignment = []
@@ -172,23 +175,31 @@ class PhoneticAligner:
                 score_match = dp[i-1][j-1] + sim
             
             score_del = dp[i-1][j] + gap_penalty if i > 0 else -9999
+            score_ins = dp[i][j-1] + gap_penalty if j > 0 else -9999
             
-            if i > 0 and j > 0 and abs(current_score - score_match) < 1e-5:
+            if j > 0 and abs(current_score - score_ins) < 1e-5:
+                alignment.append((None, in_syllables[j-1], "中文缺失"))
+                j -= 1
+                
+            # 3. 其次檢查 Match (對角線)
+            elif i > 0 and j > 0 and abs(current_score - score_match) < 1e-5:
                 alignment.append((ch_syllables[i-1], in_syllables[j-1], "已匹配"))
                 i -= 1; j -= 1
+                
+            # 4. 最後才檢查 Delete (垂直)
             elif i > 0 and abs(current_score - score_del) < 1e-5:
                 alignment.append((ch_syllables[i-1], None, "族語缺失"))
                 i -= 1
-            else:
-                alignment.append((None, in_syllables[j-1], "中文缺失"))
-                j -= 1
             path_coords.append((i, j))
         
         return alignment[::-1], dp, dir_matrix, path_coords
 
     def merge_syllables(self, syl_base, syl_append):
-        append_initial = syl_append['initial']    
-        new_final = syl_base['final'] + append_initial + syl_append['final']
+        middle_part = syl_append['initial']
+        if middle_part in ['0c', '0v']: 
+            middle_part = ''
+        
+        new_final = syl_base['final'] + middle_part + syl_append['final']
         new_pinyin = syl_base.get('pinyin', '') + syl_append.get('pinyin', '')
         return {
             'initial': syl_base['initial'],

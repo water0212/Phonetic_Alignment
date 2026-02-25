@@ -6,7 +6,7 @@ import Syllable_decomposition01
 # 核心定義
 # ==========================================
 INITIALS = ['zh', 'ch', 'sh', 'b', 'p', 'm', 'f', 'd', 't', 'n', 'l', 
-            'g', 'k', 'h', 'j', 'q', 'x', 'r', 'z', 'c', 's', 'v'] 
+            'g', 'k', 'h', 'j', 'q', 'x', 'r', 'z', 'c', 's', 'v','’','^'] 
 
 # 依照長度排序 ensure zh, ch, sh match first
 INITIALS.sort(key=len, reverse=True)
