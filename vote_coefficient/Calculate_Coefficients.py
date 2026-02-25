@@ -1,14 +1,11 @@
 import json
 import os
 
-# --- 設定 ---
-# 資料來源資料夾 (相對於本程式的位置)
-# 假設結構為:
-# /專案目錄
-#    /vote              <-- 讀取這裡的原始檔案
-#    /vote_coefficient  <-- 本程式與 global_statistics.json 在這裡
 VOTE_FOLDER_NAME = '16族發音統計結果'
 GLOBAL_STATS_FILENAME = 'global_statistics.json'
+# 權重設定
+RANK_WEIGHT = 0.7
+COUNT_WEIGHT = 0.3
 
 def calculate_i_score(src, tgt, global_data, global_denominators):
     """
@@ -30,7 +27,7 @@ def calculate_i_score(src, tgt, global_data, global_denominators):
     part_rank = (g_rank / sum_rank) if sum_rank > 0 else 0
     part_count = (g_count / sum_count) if sum_count > 0 else 0
     
-    return (part_rank * 0.7) + (part_count * 0.3)
+    return (part_rank * RANK_WEIGHT) + (part_count * COUNT_WEIGHT)
 
 def main():
     # 1. 設定路徑
@@ -86,9 +83,7 @@ def main():
         for src, targets in local_data.items():
             temp_results = []
 
-            # =================================================
-            # 情況 A: 本地有資料 (例如 "b": {"p": 10})
-            # =================================================
+            # 本地有資料 
             if targets:
                 local_total_count = sum(targets.values())
 
@@ -111,9 +106,7 @@ def main():
                         }
                     })
 
-            # =================================================
-            # 情況 B: 本地無資料 (例如 "o": {}) -> 啟動自動填補
-            # =================================================
+            # 情況 B: 本地無資料 
             else:
                 # 檢查 Global 是否有這個 Source 的資料
                 if src in global_data and global_data[src]:

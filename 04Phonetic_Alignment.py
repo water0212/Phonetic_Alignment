@@ -17,18 +17,59 @@ class PhoneticAligner:
     def __init__(self):
         # 定義聲母群組 (用於模糊比對聲母相似度)
         self.consonant_chinese_groups = [
-            {'b', 'p'}, {'m'}, {'f'}, {'d', 't'}, {'n'}, {'l', 'r'},
-            {'g', 'k'}, {'d', 'j', 'z'}, {'h'}, {'j'}, {'x'},
-            {'t','q','c'}, {'z', 'c', 's', 'zh', 'ch', 'sh'},
-            {'d', 'j', 'z', 't', 'q', 'c'}, {'f'}, {'ㄜ'}, {'i'}
+            {'b', 'p'},
+            {'m'},
+            {'f'}, 
+            {'d', 't'}, 
+            {'n'}, 
+            {'l', 'r'},
+            {'g', 'k'}, 
+            {'d', 'j', 'z'}, 
+            {'h'}, {'j'}, 
+            {'x'},
+            {'t','q','c'}, 
+            {'z', 'c', 's', 'zh', 'ch', 'sh'},
+            {'d', 'j', 'z', 't', 'q', 'c'}, 
+            {'f'}, 
+
         ]
         self.consonant_tsou_groups = [
-            {'b', 'p'}, {'m'}, {'f'}, {'d', 't'}, {'n'}, {'l', 'r'},
-            {'g', 'k', 'q', '’', '^'}, {'d', 'j', 'z'}, {'h'}, {'j'}, {'x'},
-            {'t','c'}, {'z', 'c', 's'}, {'d', 'j', 'z', 't', 'c'},
-            {'f','v', 'b'}, {'o', 'e','u','é'}, {'ɨ','ʉ', 'y'}
+            {'b', 'p'}, 
+            {'m'}, 
+            {'f'}, 
+            {'d', 't'}, 
+            {'n'}, 
+            {'l', 'r'},
+            {'g', 'k', 'q', '’', '^'}, 
+            {'d', 'j', 'z'}, {'h'}, 
+            {'j'}, 
+            {'x'},
+            {'t','c'}, 
+            {'z', 'c', 's'}, 
+            {'d', 'j', 'z', 't', 'c'},
+            {'f','v', 'b'}
         ]
         self.vowel_map = {'w': 'u', 'y': 'i'}
+        self.vowel__chinese_groups = [
+            {'a'},
+            {'e'},
+            {'ㄜ'}, 
+            {'i'},
+            {'ㄩ'},
+            {'u'},
+            {'o','w'},
+            {'y','e'},
+        ]
+        self.vowel__tsou_groups = [
+            {'a'},
+            {'é'},
+            {'o', 'e','u','é'}, 
+            {'ɨ','ʉ', 'y'},
+            {'i','u'},
+            {'u'},
+            {'o','w'},
+            {'y','e'}
+        ]
 
     def calculate_consonant_score(self, c_ch, c_ts):
         if c_ch == "0c" and c_ts == "0c": return 1
@@ -50,8 +91,6 @@ class PhoneticAligner:
         return max_score
 
     def dice_coefficient(self, s1, s2):
-        if s1 == "0v" and s2 == "0v": return 1.0
-        if s1 == "0v" or s2 == "0v": return 0.0
         
         def normalize(s): return "".join(self.vowel_map.get(c, c) for c in s.lower())
         n1, n2 = normalize(s1), normalize(s2)
@@ -62,13 +101,28 @@ class PhoneticAligner:
         dp = [[0] * (len2 + 1) for _ in range(len1 + 1)]
         for i in range(1, len1 + 1):
             for j in range(1, len2 + 1):
-                if n1[i - 1] == n2[j - 1]:
-                    dp[i][j] = dp[i - 1][j - 1] + 1
-                else:
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1] + self.calculate_vowel_score(n1[i - 1], n2[j - 1]))
         intersection = dp[len1][len2]
         return 2.0 * intersection / (len1 + len2)
-
+    
+    def calculate_vowel_score(self, v_ch, v_ts):
+        if v_ch == "0v" and v_ts == "0v": return 1
+        if v_ch == "0v" or v_ts == "0v": return 0
+        if v_ch == v_ts:
+            return 1.0
+        max_score = 0
+        for group_ch, group_ts in zip(self.vowel__chinese_groups, self.vowel__tsou_groups):
+            
+            if v_ch in group_ch and v_ts in group_ts:
+                if v_ch == 'ㄩ':
+                    current_score = 0.3
+                else:
+                    current_score = 0.8
+                current_score = max(current_score, 0)
+                if current_score > max_score:
+                    max_score = current_score
+        return max_score
+    
     def calculate_similarity(self, syl_ch, syl_in):
         score_initial = self.calculate_consonant_score(syl_ch['initial'], syl_in['initial']) * 1
         score_final = self.dice_coefficient(syl_ch['final'], syl_in['final']) * 1
