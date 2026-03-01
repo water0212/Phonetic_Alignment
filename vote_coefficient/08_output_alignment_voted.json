@@ -1,6 +1,7 @@
 {
     "b": {
         "p": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 0.9404,
             "total_score": 1.9404
@@ -8,40 +9,46 @@
     },
     "p": {
         "p": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.7944,
             "total_score": 0.7944,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "m": {
         "m": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 1.0,
             "total_score": 1.0,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "f": {
-        "f": {
+        "h": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.4046,
-            "total_score": 0.4046,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.3099,
+            "total_score": 0.3099,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "d": {
         "t": {
+            "local_count": 1,
             "local_score_k": 0.3333,
             "global_score_i": 0.7717,
             "total_score": 1.105
         },
         "m": {
+            "local_count": 1,
             "local_score_k": 0.3333,
             "global_score_i": 0.1096,
             "total_score": 0.443
         },
         "": {
+            "local_count": 1,
             "local_score_k": 0.3333,
             "global_score_i": 0.0548,
             "total_score": 0.3881
@@ -49,14 +56,16 @@
     },
     "t": {
         "t": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.9875,
             "total_score": 0.9875,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "n": {
         "l": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.0931,
             "total_score": 1.0931
@@ -64,6 +73,7 @@
     },
     "l": {
         "l": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.8209,
             "total_score": 1.8209
@@ -71,6 +81,7 @@
     },
     "g": {
         "s": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.0583,
             "total_score": 1.0583
@@ -78,6 +89,7 @@
     },
     "k": {
         "k": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 0.988,
             "total_score": 1.988
@@ -85,53 +97,60 @@
     },
     "h": {
         "h": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.8792,
             "total_score": 1.8792
         }
     },
     "j": {
-        "c": {
+        "k": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.838,
-            "total_score": 0.838,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.0735,
+            "total_score": 0.0735,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "q": {
         "c": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.8533,
             "total_score": 0.8533,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "x": {
         "s": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.6512,
             "total_score": 0.6512,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "zh": {
-        "c": {
+        "s": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8629,
-            "total_score": 0.8629,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.1235,
+            "total_score": 0.1235,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ch": {
-        "c": {
+        "s": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.7625,
-            "total_score": 0.7625,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.1187,
+            "total_score": 0.1187,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "sh": {
         "k": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.1405,
             "total_score": 1.1405
@@ -139,31 +158,35 @@
     },
     "r": {},
     "z": {
-        "c": {
+        "z": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.6308,
-            "total_score": 0.6308,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.2462,
+            "total_score": 0.2462,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "c": {
         "c": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 1.0,
             "total_score": 1.0,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "s": {
         "s": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 1.0,
             "total_score": 1.0,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "an": {
         "as": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.1636,
             "total_score": 1.1636
@@ -171,60 +194,68 @@
     },
     "en": {
         "en": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.62,
             "total_score": 0.62,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ang": {
         "ang": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.5784,
             "total_score": 0.5784,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "eng": {
         "oris": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.0885,
             "total_score": 1.0885
         }
     },
     "er": {
-        "yre": {
+        "e": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.5,
             "total_score": 0.5,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "i": {
         "i": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.7763,
             "total_score": 1.7763
         }
     },
     "u": {
-        "u": {
+        "o": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.6141,
-            "total_score": 0.6141,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.0151,
+            "total_score": 0.0151,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "u:": {
         "i": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.6759,
             "total_score": 0.6759,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "a": {
         "a:": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.0553,
             "total_score": 1.0553
@@ -233,6 +264,7 @@
     "o": {},
     "ㄜ": {
         "e": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.6381,
             "total_score": 1.6381
@@ -241,6 +273,7 @@
     "e": {},
     "ai": {
         "ay": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 0.45,
             "total_score": 1.45
@@ -248,19 +281,22 @@
     },
     "ei": {
         "ey": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.275,
             "total_score": 0.275,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ao": {
         "aw": {
+            "local_count": 1,
             "local_score_k": 0.5,
             "global_score_i": 0.4848,
             "total_score": 0.9848
         },
         "o’": {
+            "local_count": 1,
             "local_score_k": 0.5,
             "global_score_i": 0.0543,
             "total_score": 0.5543
@@ -268,23 +304,26 @@
     },
     "ou": {
         "o": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.6667,
             "total_score": 0.6667,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ia": {
         "ya": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.3657,
             "total_score": 0.3657,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "io": {},
     "ie": {
         "i:": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.048,
             "total_score": 1.048
@@ -293,22 +332,25 @@
     "iai": {},
     "iao": {
         "iyaw": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.4075,
             "total_score": 0.4075,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "iou": {
-        "iu": {
+        "iw": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.3458,
-            "total_score": 0.3458,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.1917,
+            "total_score": 0.1917,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ian": {
         "wang": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.0558,
             "total_score": 1.0558
@@ -316,130 +358,147 @@
     },
     "in": {
         "in": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.8,
             "total_score": 0.8,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "iang": {
         "yang": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.705,
             "total_score": 0.705,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ing": {
         "ing": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.495,
             "total_score": 0.495,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ua": {
-        "ua": {
+        "wa": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.3392,
-            "total_score": 0.3392,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.1307,
+            "total_score": 0.1307,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "uo": {
         "o": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.3724,
             "total_score": 0.3724,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "uai": {
         "way": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.5914,
             "total_score": 0.5914,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "uei": {
-        "uy": {
+        "oy": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.3033,
-            "total_score": 0.3033,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.09,
+            "total_score": 0.09,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "uan": {
-        "uan": {
+        "wan": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.401,
-            "total_score": 0.401,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.1106,
+            "total_score": 0.1106,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "un": {
-        "wun": {
+        "wen": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.2222,
             "total_score": 0.2222,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "uang": {
         "wang": {
+            "local_count": 1,
             "local_score_k": 0.5,
             "global_score_i": 0.3972,
             "total_score": 0.8972
         },
         "i": {
+            "local_count": 1,
             "local_score_k": 0.5,
             "global_score_i": 0.0472,
             "total_score": 0.5472
         }
     },
     "ong": {
-        "ung": {
+        "ong": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.4611,
-            "total_score": 0.4611,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.2783,
+            "total_score": 0.2783,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "u:e": {
         "e": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.25,
             "total_score": 0.25,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "u:an": {
         "yen": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.2618,
             "total_score": 0.2618,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "u:n": {
-        "yun": {
+        "in": {
+            "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.25,
-            "total_score": 0.25,
-            "note": "Auto-filled from Global"
+            "global_score_i": 0.1667,
+            "total_score": 0.1667,
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "iong": {
         "yong": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.4,
             "total_score": 0.4,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "": {
         "": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.8633,
             "total_score": 1.8633

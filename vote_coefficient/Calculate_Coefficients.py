@@ -1,8 +1,11 @@
 import json
 import os
 
-VOTE_FOLDER_NAME = '16族發音統計結果'
+VOTE_FOLDER_NAME = 'ailgn_syllables/16族發音統計結果'
 GLOBAL_STATS_FILENAME = 'global_statistics.json'
+# 假設詞典檔案放在與此程式同層的 'Dictionaries' 資料夾中
+DICT_FOLDER_NAME = 'fm_dict' 
+
 # 權重設定 (僅用於計算 i 分數供參考，不影響第一順位排序)
 RANK_WEIGHT = 0.7
 COUNT_WEIGHT = 0.3
@@ -29,6 +32,28 @@ def calculate_i_score(src, tgt, global_data, global_denominators):
     
     return (part_rank * RANK_WEIGHT) + (part_count * COUNT_WEIGHT)
 
+def is_target_contained_in_sentences(target, dict_data):
+    """
+    新功能：檢查候選發音字串是否包含在該族詞典的 fm_sentence 中
+    針對詞典格式：詞彙 -> sense(list) -> example(list) -> fm_sentence 進行解析
+    """
+    if not target: return False
+    
+    # 遍歷詞典中每一個單詞項 (dict_data 的 values 是 list)
+    for word_entries in dict_data.values():
+        # word_entries 是一個 list，裡面包含多個 sense
+        for entry in word_entries:
+            # 取得 sense 裡面的 example list
+            senses = entry.get('sense', [])
+            for s in senses:
+                examples = s.get('example', [])
+                # 遍歷所有的例句
+                for ex in examples:
+                    sentence = ex.get('fm_sentence', '')
+                    # 只要包含子字串就回傳 True
+                    if target in sentence:
+                        return True
+    return False
 def main():
     # 1. 設定路徑
     current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -38,6 +63,9 @@ def main():
     
     # global_statistics.json 就在本程式旁邊
     global_stats_path = os.path.join(current_dir, GLOBAL_STATS_FILENAME)
+
+    # 詞典資料夾路徑
+    dict_dir = os.path.join(os.path.dirname(current_dir), DICT_FOLDER_NAME)
 
     # 檢查必要檔案
     if not os.path.exists(global_stats_path):
@@ -74,6 +102,17 @@ def main():
     for filename in vote_files:
         file_path = os.path.join(vote_dir, filename)
         
+        # --- 新增：根據檔名編號讀取對應詞典 ---
+        file_id = filename.split('_')[0] # 取得編號如 "01"
+        dict_data = None
+        if os.path.exists(dict_dir):
+            # 尋找開頭為 "01_ilrdf_dict" 的檔案
+            dict_filename = next((f for f in os.listdir(dict_dir) if f.startswith(f"{file_id}_ilrdf_dict")), None)
+            if dict_filename:
+                with open(os.path.join(dict_dir, dict_filename), 'r', encoding='utf-8') as f:
+                    dict_data = json.load(f)
+        # --------------------------------
+
         with open(file_path, 'r', encoding='utf-8') as f:
             local_data = json.load(f)
         
@@ -117,17 +156,30 @@ def main():
             # 情況 B: 本地無資料 (維持原樣，完全依賴 Global)
             else:
                 if src in global_data and global_data[src]:
-                    # 尋找 Global 中分數最高的 Target
+                    # 先將該 Source 下的所有全域候選者按 i 分數排序
+                    candidates = []
+                    for g_tgt in global_data[src]:
+                        current_i = calculate_i_score(src, g_tgt, global_data, global_denominators)
+                        candidates.append((g_tgt, current_i))
+                    
+                    # 依全域分數由高到低排序
+                    candidates.sort(key=lambda x: x[1], reverse=True)
+
                     best_target = None
                     max_i_score = -1.0
 
-                    for g_tgt in global_data[src]:
-                        current_i = calculate_i_score(src, g_tgt, global_data, global_denominators)
-                        
-                        if current_i > max_i_score:
-                            max_i_score = current_i
+                    # 依序尋找第一個「出現在語料中」的發音
+                    for g_tgt, g_i in candidates:
+                        # 只要 target 字串包含在任何 fm_sentence 中即可
+                        if dict_data is None or is_target_contained_in_sentences(g_tgt, dict_data):
                             best_target = g_tgt
+                            max_i_score = g_i
+                            break
                     
+                    # 如果循環完都沒符合的（雖然機率低），則退而求其次選全域第一名
+                    if best_target is None and candidates:
+                        best_target, max_i_score = candidates[0]
+
                     if best_target is not None:
                         temp_results.append({
                             'target': best_target,
@@ -138,7 +190,7 @@ def main():
                                 'local_score_k': 0.0,
                                 'global_score_i': round(max_i_score, 4),
                                 'total_score': round(max_i_score, 4),
-                                'note': 'Auto-filled from Global'
+                                'note': 'Auto-filled from Global (Contained in Dict)'
                             }
                         })
 
@@ -154,9 +206,10 @@ def main():
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(processed_data, f, ensure_ascii=False, indent=4)
             
-        print(f"   ✅ 已輸出: {filename}")
+        status = "已校驗" if dict_data else "無字典可參考"
+        print(f"   ✅ 已輸出: {filename} ({status})")
 
-    print("🎉 所有檔案處理完成！排序規則：本地次數優先 > 全域分數輔助")
+    print("🎉 所有檔案處理完成！填補邏輯：分數優先且需字串包含於詞典句子中。")
 
 if __name__ == "__main__":
     main()

@@ -1,6 +1,7 @@
 {
     "b": {
         "p": {
+            "local_count": 13,
             "local_score_k": 1.0,
             "global_score_i": 0.9404,
             "total_score": 1.9404
@@ -8,6 +9,7 @@
     },
     "p": {
         "p": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 0.7944,
             "total_score": 1.7944
@@ -15,6 +17,7 @@
     },
     "m": {
         "m": {
+            "local_count": 3,
             "local_score_k": 1.0,
             "global_score_i": 1.0,
             "total_score": 2.0
@@ -22,6 +25,7 @@
     },
     "f": {
         "f": {
+            "local_count": 11,
             "local_score_k": 1.0,
             "global_score_i": 0.4046,
             "total_score": 1.4046
@@ -29,11 +33,13 @@
     },
     "d": {
         "t": {
+            "local_count": 10,
             "local_score_k": 0.9091,
             "global_score_i": 0.7717,
             "total_score": 1.6807
         },
         "": {
+            "local_count": 1,
             "local_score_k": 0.0909,
             "global_score_i": 0.0548,
             "total_score": 0.1457
@@ -41,6 +47,7 @@
     },
     "t": {
         "t": {
+            "local_count": 3,
             "local_score_k": 1.0,
             "global_score_i": 0.9875,
             "total_score": 1.9875
@@ -48,6 +55,7 @@
     },
     "n": {
         "n": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.8138,
             "total_score": 1.8138
@@ -55,11 +63,13 @@
     },
     "l": {
         "l": {
+            "local_count": 10,
             "local_score_k": 0.9091,
             "global_score_i": 0.8209,
             "total_score": 1.73
         },
         "s": {
+            "local_count": 1,
             "local_score_k": 0.0909,
             "global_score_i": 0.0095,
             "total_score": 0.1004
@@ -67,16 +77,19 @@
     },
     "g": {
         "k": {
+            "local_count": 7,
             "local_score_k": 0.7778,
             "global_score_i": 0.8583,
             "total_score": 1.6361
         },
         "h": {
+            "local_count": 1,
             "local_score_k": 0.1111,
             "global_score_i": 0.0125,
             "total_score": 0.1236
         },
         "": {
+            "local_count": 1,
             "local_score_k": 0.1111,
             "global_score_i": 0.0042,
             "total_score": 0.1153
@@ -84,11 +97,13 @@
     },
     "k": {
         "k": {
+            "local_count": 4,
             "local_score_k": 0.8,
             "global_score_i": 0.988,
             "total_score": 1.788
         },
         "h": {
+            "local_count": 1,
             "local_score_k": 0.2,
             "global_score_i": 0.006,
             "total_score": 0.206
@@ -96,21 +111,25 @@
     },
     "h": {
         "h": {
+            "local_count": 4,
             "local_score_k": 0.5714,
             "global_score_i": 0.8792,
             "total_score": 1.4506
         },
         "s": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.1021,
             "total_score": 0.2449
         },
         "": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.0125,
             "total_score": 0.1554
         },
         "f": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.0062,
             "total_score": 0.1491
@@ -118,6 +137,7 @@
     },
     "j": {
         "c": {
+            "local_count": 18,
             "local_score_k": 1.0,
             "global_score_i": 0.838,
             "total_score": 1.838
@@ -125,6 +145,7 @@
     },
     "q": {
         "c": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 0.8533,
             "total_score": 1.8533
@@ -132,11 +153,13 @@
     },
     "x": {
         "s": {
+            "local_count": 6,
             "local_score_k": 0.8571,
             "global_score_i": 0.6512,
             "total_score": 1.5083
         },
         "": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.2766,
             "total_score": 0.4195
@@ -144,11 +167,13 @@
     },
     "zh": {
         "c": {
+            "local_count": 6,
             "local_score_k": 0.8571,
             "global_score_i": 0.8629,
             "total_score": 1.72
         },
         "n": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.0068,
             "total_score": 0.1497
@@ -156,6 +181,7 @@
     },
     "ch": {
         "c": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.7625,
             "total_score": 1.7625
@@ -163,11 +189,13 @@
     },
     "sh": {
         "s": {
+            "local_count": 7,
             "local_score_k": 0.875,
             "global_score_i": 0.8548,
             "total_score": 1.7298
         },
         "w": {
+            "local_count": 1,
             "local_score_k": 0.125,
             "global_score_i": 0.0047,
             "total_score": 0.1297
@@ -176,6 +204,7 @@
     "r": {},
     "z": {
         "c": {
+            "local_count": 4,
             "local_score_k": 1.0,
             "global_score_i": 0.6308,
             "total_score": 1.6308
@@ -183,6 +212,7 @@
     },
     "c": {
         "c": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 1.0,
             "total_score": 2.0
@@ -190,25 +220,29 @@
     },
     "s": {
         "s": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 1.0,
             "total_score": 2.0
         }
     },
     "an": {
-        "an": {
-            "local_score_k": 0.4,
-            "global_score_i": 0.4455,
-            "total_score": 0.8455
-        },
         "a": {
+            "local_count": 3,
             "local_score_k": 0.6,
             "global_score_i": 0.1727,
             "total_score": 0.7727
+        },
+        "an": {
+            "local_count": 2,
+            "local_score_k": 0.4,
+            "global_score_i": 0.4455,
+            "total_score": 0.8455
         }
     },
     "en": {
         "en": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.62,
             "total_score": 1.62
@@ -216,11 +250,13 @@
     },
     "ang": {
         "ang": {
+            "local_count": 3,
             "local_score_k": 0.75,
             "global_score_i": 0.5784,
             "total_score": 1.3284
         },
         "in": {
+            "local_count": 1,
             "local_score_k": 0.25,
             "global_score_i": 0.0158,
             "total_score": 0.2658
@@ -228,11 +264,13 @@
     },
     "eng": {
         "eng": {
+            "local_count": 2,
             "local_score_k": 0.6667,
             "global_score_i": 0.4183,
             "total_score": 1.0849
         },
         "en": {
+            "local_count": 1,
             "local_score_k": 0.3333,
             "global_score_i": 0.0214,
             "total_score": 0.3548
@@ -240,6 +278,7 @@
     },
     "er": {
         "yre": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.5,
             "total_score": 1.5
@@ -247,21 +286,25 @@
     },
     "i": {
         "i": {
+            "local_count": 4,
             "local_score_k": 0.5714,
             "global_score_i": 0.7763,
             "total_score": 1.3477
         },
         "isi": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.0211,
             "total_score": 0.1639
         },
         "asi": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.0053,
             "total_score": 0.1481
         },
         "a": {
+            "local_count": 1,
             "local_score_k": 0.1429,
             "global_score_i": 0.0053,
             "total_score": 0.1481
@@ -269,21 +312,25 @@
     },
     "u": {
         "u": {
+            "local_count": 7,
             "local_score_k": 0.4667,
             "global_score_i": 0.6141,
             "total_score": 1.0808
         },
         "o": {
+            "local_count": 6,
             "local_score_k": 0.4,
             "global_score_i": 0.0151,
             "total_score": 0.4151
         },
         "i": {
+            "local_count": 1,
             "local_score_k": 0.0667,
             "global_score_i": 0.005,
             "total_score": 0.0717
         },
         "^u": {
+            "local_count": 1,
             "local_score_k": 0.0667,
             "global_score_i": 0.0025,
             "total_score": 0.0692
@@ -291,6 +338,7 @@
     },
     "u:": {
         "i": {
+            "local_count": 8,
             "local_score_k": 1.0,
             "global_score_i": 0.6759,
             "total_score": 1.6759
@@ -298,6 +346,7 @@
     },
     "a": {
         "a": {
+            "local_count": 8,
             "local_score_k": 1.0,
             "global_score_i": 0.8474,
             "total_score": 1.8474
@@ -306,6 +355,7 @@
     "o": {},
     "ㄜ": {
         "akawi": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.131,
             "total_score": 1.131
@@ -313,22 +363,26 @@
     },
     "e": {},
     "ai": {
-        "ay": {
-            "local_score_k": 0.2,
-            "global_score_i": 0.45,
-            "total_score": 0.65
-        },
         "a": {
+            "local_count": 2,
             "local_score_k": 0.4,
             "global_score_i": 0.1333,
             "total_score": 0.5333
         },
+        "ay": {
+            "local_count": 1,
+            "local_score_k": 0.2,
+            "global_score_i": 0.45,
+            "total_score": 0.65
+        },
         "i": {
+            "local_count": 1,
             "local_score_k": 0.2,
             "global_score_i": 0.0167,
             "total_score": 0.2167
         },
         "asip": {
+            "local_count": 1,
             "local_score_k": 0.2,
             "global_score_i": 0.0167,
             "total_score": 0.2167
@@ -336,29 +390,34 @@
     },
     "ei": {
         "ey": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.275,
             "total_score": 0.275,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ao": {
         "aw": {
+            "local_count": 10,
             "local_score_k": 0.7692,
             "global_score_i": 0.4848,
             "total_score": 1.254
         },
         "a": {
+            "local_count": 1,
             "local_score_k": 0.0769,
             "global_score_i": 0.063,
             "total_score": 0.14
         },
         "ao": {
+            "local_count": 1,
             "local_score_k": 0.0769,
             "global_score_i": 0.063,
             "total_score": 0.14
         },
         "o": {
+            "local_count": 1,
             "local_score_k": 0.0769,
             "global_score_i": 0.0043,
             "total_score": 0.0813
@@ -366,19 +425,22 @@
     },
     "ou": {
         "o": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.6667,
             "total_score": 0.6667,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "ia": {
         "iya": {
+            "local_count": 2,
             "local_score_k": 0.6667,
             "global_score_i": 0.2257,
             "total_score": 0.8924
         },
         "a": {
+            "local_count": 1,
             "local_score_k": 0.3333,
             "global_score_i": 0.0429,
             "total_score": 0.3762
@@ -387,16 +449,19 @@
     "io": {},
     "ie": {
         "i": {
+            "local_count": 2,
             "local_score_k": 0.5,
             "global_score_i": 0.2101,
             "total_score": 0.7101
         },
         "iy": {
+            "local_count": 1,
             "local_score_k": 0.25,
             "global_score_i": 0.0571,
             "total_score": 0.3071
         },
         "yi": {
+            "local_count": 1,
             "local_score_k": 0.25,
             "global_score_i": 0.0091,
             "total_score": 0.2591
@@ -405,11 +470,13 @@
     "iai": {},
     "iao": {
         "iyaw": {
+            "local_count": 3,
             "local_score_k": 0.75,
             "global_score_i": 0.4075,
             "total_score": 1.1575
         },
         "yaw": {
+            "local_count": 1,
             "local_score_k": 0.25,
             "global_score_i": 0.0107,
             "total_score": 0.2607
@@ -417,6 +484,7 @@
     },
     "iou": {
         "iwy": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.1542,
             "total_score": 1.1542
@@ -424,31 +492,37 @@
     },
     "ian": {
         "in": {
+            "local_count": 4,
             "local_score_k": 0.4444,
             "global_score_i": 0.1519,
             "total_score": 0.5964
         },
         "ing": {
+            "local_count": 1,
             "local_score_k": 0.1111,
             "global_score_i": 0.1019,
             "total_score": 0.213
         },
         "iyen": {
+            "local_count": 1,
             "local_score_k": 0.1111,
             "global_score_i": 0.0788,
             "total_score": 0.19
         },
         "i": {
+            "local_count": 1,
             "local_score_k": 0.1111,
             "global_score_i": 0.0058,
             "total_score": 0.1169
         },
         "elifi": {
+            "local_count": 1,
             "local_score_k": 0.1111,
             "global_score_i": 0.0058,
             "total_score": 0.1169
         },
         "ingw": {
+            "local_count": 1,
             "local_score_k": 0.1111,
             "global_score_i": 0.0058,
             "total_score": 0.1169
@@ -456,6 +530,7 @@
     },
     "in": {
         "in": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 0.8,
             "total_score": 1.8
@@ -463,23 +538,27 @@
     },
     "iang": {
         "yang": {
+            "local_count": 2,
             "local_score_k": 1.0,
             "global_score_i": 0.705,
             "total_score": 1.705
         }
     },
     "ing": {
-        "ing": {
-            "local_score_k": 0.3333,
-            "global_score_i": 0.495,
-            "total_score": 0.8283
-        },
         "in": {
+            "local_count": 3,
             "local_score_k": 0.5,
             "global_score_i": 0.145,
             "total_score": 0.645
         },
+        "ing": {
+            "local_count": 2,
+            "local_score_k": 0.3333,
+            "global_score_i": 0.495,
+            "total_score": 0.8283
+        },
         "i": {
+            "local_count": 1,
             "local_score_k": 0.1667,
             "global_score_i": 0.015,
             "total_score": 0.1817
@@ -487,6 +566,7 @@
     },
     "ua": {
         "ewa": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.0954,
             "total_score": 1.0954
@@ -494,11 +574,13 @@
     },
     "uo": {
         "o": {
+            "local_count": 4,
             "local_score_k": 0.8,
             "global_score_i": 0.3724,
             "total_score": 1.1724
         },
         "u": {
+            "local_count": 1,
             "local_score_k": 0.2,
             "global_score_i": 0.351,
             "total_score": 0.551
@@ -506,39 +588,46 @@
     },
     "uai": {
         "way": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.5914,
             "total_score": 0.5914,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "uei": {
-        "uy": {
-            "local_score_k": 0.2,
-            "global_score_i": 0.3033,
-            "total_score": 0.5033
-        },
         "oy": {
+            "local_count": 3,
             "local_score_k": 0.3,
             "global_score_i": 0.09,
             "total_score": 0.39
         },
+        "uy": {
+            "local_count": 2,
+            "local_score_k": 0.2,
+            "global_score_i": 0.3033,
+            "total_score": 0.5033
+        },
         "i": {
+            "local_count": 2,
             "local_score_k": 0.2,
             "global_score_i": 0.0133,
             "total_score": 0.2133
         },
         "yin": {
+            "local_count": 1,
             "local_score_k": 0.1,
             "global_score_i": 0.0067,
             "total_score": 0.1067
         },
         "y": {
+            "local_count": 1,
             "local_score_k": 0.1,
             "global_score_i": 0.0067,
             "total_score": 0.1067
         },
         "iy": {
+            "local_count": 1,
             "local_score_k": 0.1,
             "global_score_i": 0.0067,
             "total_score": 0.1067
@@ -546,36 +635,42 @@
     },
     "uan": {
         "uwan": {
+            "local_count": 1,
             "local_score_k": 0.5,
             "global_score_i": 0.2442,
             "total_score": 0.7442
         },
         "un": {
+            "local_count": 1,
             "local_score_k": 0.5,
             "global_score_i": 0.1106,
             "total_score": 0.6106
         }
     },
     "un": {
-        "wun": {
+        "wen": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.2222,
             "total_score": 0.2222,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "uang": {
-        "wang": {
-            "local_score_k": 0.25,
-            "global_score_i": 0.3972,
-            "total_score": 0.6472
-        },
         "ang": {
+            "local_count": 2,
             "local_score_k": 0.5,
             "global_score_i": 0.1028,
             "total_score": 0.6028
         },
+        "wang": {
+            "local_count": 1,
+            "local_score_k": 0.25,
+            "global_score_i": 0.3972,
+            "total_score": 0.6472
+        },
         "uwang": {
+            "local_count": 1,
             "local_score_k": 0.25,
             "global_score_i": 0.1278,
             "total_score": 0.3778
@@ -583,6 +678,7 @@
     },
     "ong": {
         "ong": {
+            "local_count": 7,
             "local_score_k": 1.0,
             "global_score_i": 0.2783,
             "total_score": 1.2783
@@ -590,19 +686,22 @@
     },
     "u:e": {
         "e": {
+            "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.25,
             "total_score": 0.25,
-            "note": "Auto-filled from Global"
+            "note": "Auto-filled from Global (Contained in Dict)"
         }
     },
     "u:an": {
         "yin": {
+            "local_count": 4,
             "local_score_k": 0.6667,
             "global_score_i": 0.1353,
             "total_score": 0.802
         },
         "in": {
+            "local_count": 2,
             "local_score_k": 0.3333,
             "global_score_i": 0.1265,
             "total_score": 0.4598
@@ -610,6 +709,7 @@
     },
     "u:n": {
         "’in": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.0833,
             "total_score": 1.0833
@@ -617,6 +717,7 @@
     },
     "iong": {
         "yong": {
+            "local_count": 1,
             "local_score_k": 1.0,
             "global_score_i": 0.4,
             "total_score": 1.4
@@ -624,61 +725,73 @@
     },
     "": {
         "": {
+            "local_count": 21,
             "local_score_k": 0.5385,
             "global_score_i": 0.8633,
             "total_score": 1.4018
         },
         "w": {
+            "local_count": 4,
             "local_score_k": 0.1026,
             "global_score_i": 0.0063,
             "total_score": 0.1089
         },
         "e": {
+            "local_count": 3,
             "local_score_k": 0.0769,
             "global_score_i": 0.0253,
             "total_score": 0.1022
         },
         "i": {
+            "local_count": 2,
             "local_score_k": 0.0513,
             "global_score_i": 0.0063,
             "total_score": 0.0576
         },
         "y": {
+            "local_count": 2,
             "local_score_k": 0.0513,
             "global_score_i": 0.0032,
             "total_score": 0.0544
         },
         "s": {
+            "local_count": 1,
             "local_score_k": 0.0256,
             "global_score_i": 0.0032,
             "total_score": 0.0288
         },
         "f": {
+            "local_count": 1,
             "local_score_k": 0.0256,
             "global_score_i": 0.0016,
             "total_score": 0.0272
         },
         "en": {
+            "local_count": 1,
             "local_score_k": 0.0256,
             "global_score_i": 0.0016,
             "total_score": 0.0272
         },
         "oki": {
+            "local_count": 1,
             "local_score_k": 0.0256,
             "global_score_i": 0.0016,
             "total_score": 0.0272
         },
         "sey": {
+            "local_count": 1,
             "local_score_k": 0.0256,
             "global_score_i": 0.0016,
             "total_score": 0.0272
         },
         "a’ca": {
+            "local_count": 1,
             "local_score_k": 0.0256,
             "global_score_i": 0.0016,
             "total_score": 0.0272
         },
         "ikesko": {
+            "local_count": 1,
             "local_score_k": 0.0256,
             "global_score_i": 0.0016,
             "total_score": 0.0272
