@@ -28,7 +28,7 @@ class PhoneticAligner:
             {'h'}, {'j'}, 
             {'x'},
             {'t','q','c'}, 
-            {'z', 'c', 's', 'zh', 'ch', 'sh'},
+            {'z', 'c', 's', 'zh', 'ch', 'sh','x'},#新加入chinese的x，因為在對齊過程中發現這x在某些情況下與族語的z/c/s有相似性} 
             {'d', 'j', 'z', 't', 'q', 'c'}, 
             {'f'}, 
 
@@ -45,7 +45,7 @@ class PhoneticAligner:
             {'j'}, 
             {'x'},
             {'t','c'}, 
-            {'z', 'c', 's'}, 
+            {'z', 'c', 's','x'}, #新加入tsou的s和x，因為在對齊過程中發現這兩個字母在某些情況下與中文的z/c/s/zh/ch/sh有相似性} 
             {'d', 'j', 'z', 't', 'c'},
             {'f','v', 'b'}
         ]
@@ -80,8 +80,10 @@ class PhoneticAligner:
             if c_ch in group_ch and c_ts in group_ts:
                 if c_ch == c_ts:
                     current_score = 1
-                elif group_ch == group_ts and group_ch == {'d', 'j', 'z', 't', 'q', 'c'}:
+                elif group_ch == {'d', 'j', 'z', 't', 'q', 'c'}:
                     current_score = 0.7
+                elif group_ch == {'z', 'c', 's', 'zh', 'ch', 'sh'}:
+                    current_score = 10
                 else:
                     current_score = 0.8
                 
@@ -115,7 +117,7 @@ class PhoneticAligner:
             
             if v_ch in group_ch and v_ts in group_ts:
                 if v_ch == 'ㄩ':
-                    current_score = 0.3
+                    current_score = 0.5
                 else:
                     current_score = 0.8
                 current_score = max(current_score, 0)
@@ -124,6 +126,7 @@ class PhoneticAligner:
         return max_score
     
     def calculate_similarity(self, syl_ch, syl_in):
+        
         score_initial = self.calculate_consonant_score(syl_ch['initial'], syl_in['initial']) * 1
         score_final = self.dice_coefficient(syl_ch['final'], syl_in['final']) * 1
         #例外處理，若是0c對0c，但韻母完全不同，則視為完全不匹配
@@ -229,6 +232,8 @@ class PhoneticAligner:
                         score_orig = self.calculate_similarity(prev_ch, prev_ts)
                         temp_merged = self.merge_syllables(prev_ts, orphan)
                         score_new = self.calculate_similarity(prev_ch, temp_merged)
+                        if(score_new >= 2 and score_new > score_orig): #設定一個門檻，只有當合併後的分數達到一定程度且比原本分數更高時才考慮合併
+                            delta_left = score_new - score_orig + 0.5
                         delta_left = score_new - score_orig
                         merged_left_ts = temp_merged
                         
@@ -238,6 +243,8 @@ class PhoneticAligner:
                         score_orig = self.calculate_similarity(next_ch, next_ts)
                         temp_merged = self.merge_syllables(orphan, next_ts)
                         score_new = self.calculate_similarity(next_ch, temp_merged)
+                        if(score_new >= 2 and score_new > score_orig): #設定一個門檻，只有當合併後的分數達到一定程度且比原本分數更高時才考慮合併
+                            delta_right = score_new - score_orig + 0.5
                         delta_right = score_new - score_orig
                         merged_right_ts = temp_merged
                     

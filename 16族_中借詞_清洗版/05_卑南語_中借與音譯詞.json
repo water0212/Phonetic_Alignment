@@ -2,7 +2,7 @@
     "捷運": {
         "new_word": [
             {
-                "fm_word": "ciyēyun",
+                "fm_word": "ciyéyun",
                 "ch_semantic": "(中譯)",
                 "dialect": []
             }
@@ -32,7 +32,7 @@
     "化學": {
         "new_word": [
             {
-                "fm_word": "huwsiyē",
+                "fm_word": "huwsiyé",
                 "ch_semantic": "(中譯)",
                 "dialect": []
             }
@@ -72,7 +72,7 @@
     "原子彈": {
         "new_word": [
             {
-                "fm_word": "yiēncetan",
+                "fm_word": "yiéncetan",
                 "ch_semantic": "(中譯)",
                 "dialect": []
             }
@@ -82,7 +82,7 @@
     "化學肥料": {
         "new_word": [
             {
-                "fm_word": "huwsiyē dradradurk",
+                "fm_word": "huwsiyé dradradurk",
                 "ch_semantic": "化學(中譯)肥料",
                 "dialect": []
             }
@@ -112,7 +112,7 @@
     "夜市": {
         "new_word": [
             {
-                "fm_word": "yēse",
+                "fm_word": "yése",
                 "ch_semantic": "音譯",
                 "dialect": []
             }
@@ -212,7 +212,7 @@
     "監察院": {
         "new_word": [
             {
-                "fm_word": "ciēncayuan",
+                "fm_word": "ciéncayuan",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -232,7 +232,7 @@
     "內政部": {
         "new_word": [
             {
-                "fm_word": "nēcengpu",
+                "fm_word": "nécengpu",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -302,7 +302,7 @@
     "衛福部": {
         "new_word": [
             {
-                "fm_word": "wēyvupu",
+                "fm_word": "wéyvupu",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -342,7 +342,7 @@
     "水利局": {
         "new_word": [
             {
-                "fm_word": "sewēylici",
+                "fm_word": "sewéylici",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -412,7 +412,7 @@
     "水保局": {
         "new_word": [
             {
-                "fm_word": "sewēypawci",
+                "fm_word": "sewéypawci",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -422,7 +422,7 @@
     "客委會": {
         "new_word": [
             {
-                "fm_word": "kewēyhuwēy",
+                "fm_word": "kewéyhuwéy",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -432,7 +432,7 @@
     "智慧財產局": {
         "new_word": [
             {
-                "fm_word": "cehuwēycaycanci",
+                "fm_word": "cehuwéycaycanci",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -452,7 +452,7 @@
     "就業服務站": {
         "new_word": [
             {
-                "fm_word": "ciwyēvuucan",
+                "fm_word": "ciwyévuucan",
                 "ch_semantic": "中譯",
                 "dialect": []
             }
@@ -482,7 +482,7 @@
     "原民會": {
         "new_word": [
             {
-                "fm_word": "yuanminhuwēy",
+                "fm_word": "yuanminhuwéy",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -492,7 +492,7 @@
     "中秋節": {
         "new_word": [
             {
-                "fm_word": "cungciwciē",
+                "fm_word": "cungciwcié",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -532,7 +532,7 @@
     "字典": {
         "new_word": [
             {
-                "fm_word": "cetiēn",
+                "fm_word": "cetién",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -592,7 +592,7 @@
     "斑馬線": {
         "new_word": [
             {
-                "fm_word": "panmasiēn",
+                "fm_word": "panmasién",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -602,7 +602,7 @@
     "微波爐": {
         "new_word": [
             {
-                "fm_word": "wēypolu",
+                "fm_word": "wéypolu",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -622,7 +622,7 @@
     "電梯": {
         "new_word": [
             {
-                "fm_word": "tiyēnti",
+                "fm_word": "tiyénti",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -632,7 +632,7 @@
     "監視器": {
         "new_word": [
             {
-                "fm_word": "ciēnseci",
+                "fm_word": "ciénseci",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -642,7 +642,7 @@
     "聯絡簿": {
         "new_word": [
             {
-                "fm_word": "liēnlopu",
+                "fm_word": "liénlopu",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -652,7 +652,7 @@
     "點讀筆": {
         "new_word": [
             {
-                "fm_word": "tiēntupi",
+                "fm_word": "tiéntupi",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -662,7 +662,7 @@
     "雙黃線": {
         "new_word": [
             {
-                "fm_word": "suwanghuwangsiēn",
+                "fm_word": "suwanghuwangsién",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

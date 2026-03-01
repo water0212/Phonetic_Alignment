@@ -60,33 +60,33 @@ def main():
     print(f"開始執行批量替換... 目前設定了 {len(REPLACEMENT_RULES)} 條規則。")
     print("-" * 30)
 
-    # for index, tribe in enumerate(TRIBES):
-    #     folder_name = f"{index+1:02d}{tribe}"
-    #     file_path = os.path.join(base_path, folder_name, "merged_output.json")
+    for index, tribe in enumerate(TRIBES):
+        folder_name = f"{index+1:02d}{tribe}"
+        file_path = os.path.join(base_path, folder_name, "merged_output.json")
         
-    #     if not os.path.exists(file_path):
-    #         # print(f"跳過: 找不到 {file_path}")
-    #         continue
+        if not os.path.exists(file_path):
+            print(f"跳過: 找不到 {file_path}")
+            continue
 
-    #     try:
-    #         # 1. 讀取檔案
-    #         with open(file_path, 'r', encoding='utf-8') as f:
-    #             data = json.load(f)
+        try:
+            # 1. 讀取檔案
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
             
-    #         # 2. 執行替換
-    #         counter = {"count": 0} # 使用字典來傳遞計數器
-    #         new_data = recursive_replace(data, counter)
+            # 2. 執行替換
+            counter = {"count": 0} # 使用字典來傳遞計數器
+            new_data = recursive_replace(data, counter)
             
-    #         # 3. 如果有變更，才寫回檔案
-    #         if counter["count"] > 0:
-    #             with open(file_path, 'w', encoding='utf-8') as f:
-    #                 json.dump(new_data, f, ensure_ascii=False, indent=4)
-    #             print(f"✅ {tribe}: 已修正 {counter['count']} 處內容")
-    #         else:
-    #             print(f"⚪ {tribe}: 無需變更")
+            # 3. 如果有變更，才寫回檔案
+            if counter["count"] > 0:
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(new_data, f, ensure_ascii=False, indent=4)
+                print(f"✅ {tribe}: 已修正 {counter['count']} 處內容")
+            else:
+                print(f"⚪ {tribe}: 無需變更")
 
-    #     except Exception as e:
-    #         print(f"❌ {tribe} 發生錯誤: {e}")
+        except Exception as e:
+            print(f"❌ {tribe} 發生錯誤: {e}")
     
     file_path = os.path.join(base_path, "merged_output.json")
 
