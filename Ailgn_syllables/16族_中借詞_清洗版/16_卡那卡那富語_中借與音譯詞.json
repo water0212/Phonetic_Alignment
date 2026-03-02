@@ -99,16 +99,6 @@
         ],
         "source_year": "104"
     },
-    "便利商店": {
-        "new_word": [
-            {
-                "fm_word": "sevʉn ’irevʉn",
-                "ch_semantic": "7-11 的音譯",
-                "dialect": []
-            }
-        ],
-        "source_year": "104"
-    },
     "總統府": {
         "new_word": [
             {
@@ -539,15 +529,5 @@
             }
         ],
         "source_year": "105"
-    },
-    "聖誕節": {
-        "new_word": [
-            {
-                "fm_word": "kurisimasu",
-                "ch_semantic": "(音譯詞)",
-                "dialect": []
-            }
-        ],
-        "source_year": "106"
     }
 }

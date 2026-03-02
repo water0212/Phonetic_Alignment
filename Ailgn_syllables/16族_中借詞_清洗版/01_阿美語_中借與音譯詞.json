@@ -259,16 +259,6 @@
         ],
         "source_year": "104"
     },
-    "客委會": {
-        "new_word": [
-            {
-                "fm_word": "hakawiyin hoy",
-                "ch_semantic": "音譯",
-                "dialect": []
-            }
-        ],
-        "source_year": "104"
-    },
     "智慧財產局": {
         "new_word": [
             {
@@ -373,16 +363,6 @@
         "new_word": [
             {
                 "fm_word": "piciyawtaw",
-                "ch_semantic": "(音譯詞)",
-                "dialect": []
-            }
-        ],
-        "source_year": "106"
-    },
-    "立可白": {
-        "new_word": [
-            {
-                "fm_word": "sasipasip",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

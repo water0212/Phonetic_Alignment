@@ -48,15 +48,5 @@
             }
         ],
         "source_year": "106"
-    },
-    "聖誕節": {
-        "new_word": [
-            {
-                "fm_word": "koriSmaS",
-                "ch_semantic": "(音譯詞)",
-                "dialect": []
-            }
-        ],
-        "source_year": "106"
     }
 }
