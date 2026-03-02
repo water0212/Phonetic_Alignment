@@ -56,8 +56,7 @@ class PhoneticAligner:
             {'ㄜ'}, 
             {'i'},
             {'ㄩ'},
-            {'u'},
-            {'o','w'},
+            {'o'}, #新加入o，因為在對齊過程中發現這個韻母在某些情況下與族語的u有相似性} 
             {'y','e'},
         ]
         self.vowel__tsou_groups = [
@@ -66,8 +65,7 @@ class PhoneticAligner:
             {'o', 'e','u','é'}, 
             {'ɨ','ʉ', 'y'},
             {'i','u'},
-            {'u'},
-            {'o','w'},
+            {'u'}, #新加入u，因為在對齊過程中發現這個韻母在某些情況下與中文的o有相似性}
             {'y','e'}
         ]
 
@@ -224,6 +222,8 @@ class PhoneticAligner:
 
     def refine_alignment(self, original_alignment):
         current_alignment = original_alignment
+        merge_history = [] 
+        
         while True:
             has_changed = False
             new_alignment = []
@@ -233,43 +233,82 @@ class PhoneticAligner:
                 ch_curr, ts_curr, status = current_alignment[i]
                 if status == "中文缺失" and ts_curr is not None:
                     orphan = ts_curr
+                    
+                    # 初始化變數
                     delta_left = -float('inf')
                     merged_left_ts = None
+                    left_candidate_str = "無"
+                    
                     delta_right = -float('inf')
                     merged_right_ts = None
+                    right_candidate_str = "無"
                     
+                    # --- 1. 嘗試與左邊合併 ---
                     if len(new_alignment) > 0 and new_alignment[-1][2] in ["已匹配", "已匹配(合併)"]:
                         prev_ch = new_alignment[-1][0]
                         prev_ts = new_alignment[-1][1]
+                        left_candidate_str = prev_ts['pinyin']
+                        
                         score_orig = self.calculate_similarity(prev_ch, prev_ts)
                         temp_merged = self.merge_syllables(prev_ts, orphan)
                         score_new = self.calculate_similarity(prev_ch, temp_merged)
-                        if(score_new >= 2 and score_new > score_orig): #設定一個門檻，只有當合併後的分數達到一定程度且比原本分數更高時才考慮合併
+                        
+                        if(score_new >= 2 and score_new > score_orig): 
                             delta_left = score_new - score_orig + 0.5
-                        delta_left = score_new - score_orig
+                        else:
+                            delta_left = score_new - score_orig
                         merged_left_ts = temp_merged
                         
+                    # --- 2. 嘗試與右邊合併 ---
                     if i + 1 < n and current_alignment[i+1][2] in ["已匹配", "已匹配(合併)"]:
                         next_ch = current_alignment[i+1][0]
                         next_ts = current_alignment[i+1][1]
+                        right_candidate_str = next_ts['pinyin']
+                        
                         score_orig = self.calculate_similarity(next_ch, next_ts)
                         temp_merged = self.merge_syllables(orphan, next_ts)
                         score_new = self.calculate_similarity(next_ch, temp_merged)
-                        if(score_new >= 2 and score_new > score_orig): #設定一個門檻，只有當合併後的分數達到一定程度且比原本分數更高時才考慮合併
+                        
+                        if(score_new >= 2 and score_new > score_orig): 
                             delta_right = score_new - score_orig + 0.5
-                        delta_right = score_new - score_orig
+                        else:
+                            delta_right = score_new - score_orig
                         merged_right_ts = temp_merged
                     
+                    # --- 3. 準備紀錄物件 ---
+                    log_entry = {
+                        "orphan_syllable": orphan['pinyin'],
+                        "left_candidate": left_candidate_str,
+                        "delta_left": delta_left,
+                        "right_candidate": right_candidate_str,
+                        "delta_right": delta_right,
+                        "decision": "不合併",
+                        "merged_result": "---"
+                    }
+
+                    # --- 4. 決策邏輯 ---
                     if delta_left == -float('inf') and delta_right == -float('inf'):
+                        log_entry["decision"] = "無法合併(無對象)"
+                        merge_history.append(log_entry) # 紀錄嘗試
                         new_alignment.append((ch_curr, ts_curr, status))
                         i += 1
                         continue
                         
                     if delta_left >= delta_right:
+                        # 決定向左
+                        log_entry["decision"] = "向左合併"
+                        log_entry["merged_result"] = merged_left_ts['pinyin']
+                        merge_history.append(log_entry)
+                        
                         new_alignment[-1] = (new_alignment[-1][0], merged_left_ts, "已匹配(合併)")
                         has_changed = True
                         i += 1
                     else:
+                        # 決定向右
+                        log_entry["decision"] = "向右合併"
+                        log_entry["merged_result"] = merged_right_ts['pinyin']
+                        merge_history.append(log_entry)
+                        
                         target_next = current_alignment[i+1]
                         current_alignment[i+1] = (target_next[0], merged_right_ts, "已匹配(合併)")
                         has_changed = True
@@ -280,7 +319,7 @@ class PhoneticAligner:
             current_alignment = new_alignment
             if not has_changed:
                 break
-        return current_alignment
+        return current_alignment, merge_history
 
 def parse_pinyin_string(pinyin_str):
     if not pinyin_str:
@@ -315,6 +354,15 @@ def process_single_file(json_file_path, output_excel_path, output_json_path):
     # --- Sheet 2: 矩陣視覺化 ---
     ws_matrix = wb.create_sheet("矩陣視覺化")
     
+    # --- Sheet 3: 合併過程紀錄 (新功能 - 詳細版) ---
+    ws_merge_log = wb.create_sheet("合併過程紀錄")
+    # [修改] 欄位增加左右比較
+    ws_merge_log.append(["詞彙", "孤兒音節", "左側對象", "左側分數增益", "右側對象", "右側分數增益", "最終決策", "合併後結果"])
+    
+    header_font = Font(bold=True)
+    for cell in ws_merge_log[1]:
+        cell.font = header_font
+    
     red_bold_font = Font(color="FF0000", bold=True)
     highlight_fill = PatternFill(start_color="FFFFCC", end_color="FFFFCC", fill_type="solid")
     center_align = Alignment(horizontal='center', vertical='center')
@@ -331,15 +379,38 @@ def process_single_file(json_file_path, output_excel_path, output_json_path):
         new_dict['pinyin'] = new_dict['pinyin'].replace("0c", "").replace("0v", "")
         return new_dict
 
+    def format_score(val):
+        if val == -float('inf'): return "不可行"
+        return f"{val:.4f}"
+
+    def clean_str(s):
+        return s.replace("0c", "").replace("0v", "")
+
     for entry in data:
         raw_dict_pinyin = entry.get('dict_pinyin', [])
         raw_pinyin_info = entry.get('pinyin_info', [])
+        chinese_word = entry.get('chinese', '') 
         
         ch_input = [parse_pinyin_string(s) for s in raw_dict_pinyin]
         ts_input = [parse_pinyin_string(s) for s in raw_pinyin_info]
 
         alignment_result, dp_matrix, dir_matrix, path_coords = aligner.align(ch_input, ts_input)
-        final_alignment = aligner.refine_alignment(alignment_result)
+        
+        final_alignment, merge_history = aligner.refine_alignment(alignment_result)
+        
+        # [修改] 寫入詳細合併紀錄
+        if merge_history:
+            for log in merge_history:
+                ws_merge_log.append([
+                    chinese_word,
+                    clean_str(log['orphan_syllable']),
+                    clean_str(log['left_candidate']),
+                    format_score(log['delta_left']),
+                    clean_str(log['right_candidate']),
+                    format_score(log['delta_right']),
+                    log['decision'],
+                    clean_str(log['merged_result'])
+                ])
         
         aligned_syllables_data = []
         aligned_pairs = ["|"]
@@ -428,11 +499,12 @@ def process_single_file(json_file_path, output_excel_path, output_json_path):
                     cell.fill = highlight_fill
         current_matrix_row += n_rows + 2
 
-    for col in ws_summary.columns:
-        # 處理可能的 None 值
-        lengths = [len(str(cell.value)) for cell in col if cell.value is not None]
-        length = max(lengths) if lengths else 0
-        ws_summary.column_dimensions[get_column_letter(col[0].column)].width = min(length + 2, 50)
+    # 自動調整欄寬
+    for ws in [ws_summary, ws_merge_log]:
+        for col in ws.columns:
+            lengths = [len(str(cell.value)) for cell in col if cell.value is not None]
+            length = max(lengths) if lengths else 0
+            ws.column_dimensions[get_column_letter(col[0].column)].width = min(length + 5, 50)
 
     try:
         wb.save(output_excel_path)
@@ -457,7 +529,7 @@ def main():
     # 建立輸出資料夾
     if not os.path.exists(OUTPUT_FOLDER):
         os.makedirs(OUTPUT_FOLDER)
-        print(f"📁 已建立輸出資料夾: {OUTPUT_FOLDER}")
+        print(f"📂 已建立輸出資料夾: {OUTPUT_FOLDER}")
 
     # 取得所有 JSON 檔案
     files = [f for f in os.listdir(INPUT_FOLDER) if f.endswith(".json")]
