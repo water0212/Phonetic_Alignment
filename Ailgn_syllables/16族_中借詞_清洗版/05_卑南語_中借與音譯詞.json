@@ -79,16 +79,6 @@
         ],
         "source_year": "103"
     },
-    "化學肥料": {
-        "new_word": [
-            {
-                "fm_word": "huwsiyé dradradurk",
-                "ch_semantic": "化學(中譯)肥料",
-                "dialect": []
-            }
-        ],
-        "source_year": "103"
-    },
     "電腦": {
         "new_word": [
             {
@@ -572,7 +562,7 @@
     "國道": {
         "new_word": [
             {
-                "fm_word": "kuwotaw5",
+                "fm_word": "kuwotaw",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

@@ -202,7 +202,7 @@
     "國道": {
         "new_word": [
             {
-                "fm_word": "kutau5",
+                "fm_word": "kutau",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -233,16 +233,6 @@
         "new_word": [
             {
                 "fm_word": "wipulu",
-                "ch_semantic": "(音譯詞)",
-                "dialect": []
-            }
-        ],
-        "source_year": "106"
-    },
-    "聖誕節": {
-        "new_word": [
-            {
-                "fm_word": "kulrisemase",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

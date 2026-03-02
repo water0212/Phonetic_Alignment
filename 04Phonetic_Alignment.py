@@ -139,12 +139,19 @@ class PhoneticAligner:
         m = len(in_syllables)
         gap_penalty = 0 
         
-        dp = np.zeros((n + 1, m + 1))
+        # 初始化為負無窮大或極小值，防止未經許可的路徑被選擇
+        dp = np.full((n + 1, m + 1), -9999.0)
         dir_matrix = [["" for _ in range(m + 1)] for _ in range(n + 1)]
         
+        # 起點
+        dp[0][0] = 0
+
+        # 初始化第一列 (垂直移動 ↑)：根據要求禁止垂直，除起點外設為極小值
         for i in range(1, n + 1):
-            dp[i][0] = dp[i-1][0] + gap_penalty
+            dp[i][0] = -9999.0 
             dir_matrix[i][0] = "↑"
+
+        # 初始化第一行 (水平移動 ←)：允許水平
         for j in range(1, m + 1):
             dp[0][j] = dp[0][j-1] + gap_penalty
             dir_matrix[0][j] = "←"
@@ -152,11 +159,13 @@ class PhoneticAligner:
         for i in range(1, n + 1):
             for j in range(1, m + 1):
                 score = self.calculate_similarity(ch_syllables[i-1], in_syllables[j-1])
-                match = dp[i-1][j-1] + score
-                delete = dp[i-1][j] + gap_penalty
-                insert = dp[i][j-1] + gap_penalty
                 
-                best_score = max(match, delete, insert)
+                # 計算三種可能，但 delete (垂直) 設為極低分以禁用
+                match = dp[i-1][j-1] + score
+                insert = dp[i][j-1] + gap_penalty
+                delete = -9999.0 # 禁止垂直方向 (↑)
+                
+                best_score = max(match, insert, delete)
                 dp[i][j] = best_score
                 
                 if best_score == insert:
@@ -164,7 +173,7 @@ class PhoneticAligner:
                 elif best_score == match:
                     dir_matrix[i][j] = "↖"
                 else:
-                    dir_matrix[i][j] = "↑"
+                    dir_matrix[i][j] = "↑" # 理論上不會走到這，除非所有路徑都不可行
         
         i, j = n, m
         alignment = []
@@ -172,27 +181,30 @@ class PhoneticAligner:
         
         while i > 0 or j > 0:
             current_score = dp[i][j]
-            score_match = -9999
+            
+            score_match = -9999.0
             if i > 0 and j > 0:
                 sim = self.calculate_similarity(ch_syllables[i-1], in_syllables[j-1])
                 score_match = dp[i-1][j-1] + sim
             
-            score_del = dp[i-1][j] + gap_penalty if i > 0 else -9999
-            score_ins = dp[i][j-1] + gap_penalty if j > 0 else -9999
+            score_ins = dp[i][j-1] + gap_penalty if j > 0 else -9999.0
+            # 移除 score_del 檢查以符合「不能垂直」的要求
             
+            # 優先檢查 Insert (水平)
             if j > 0 and abs(current_score - score_ins) < 1e-5:
                 alignment.append((None, in_syllables[j-1], "中文缺失"))
                 j -= 1
                 
-            # 3. 其次檢查 Match (對角線)
+            # 其次檢查 Match (對角線)
             elif i > 0 and j > 0 and abs(current_score - score_match) < 1e-5:
                 alignment.append((ch_syllables[i-1], in_syllables[j-1], "已匹配"))
                 i -= 1; j -= 1
+            
+            # 如果發生死路（理論上在只能水平/斜向且要消耗完所有 i 的情況下，若 m < n 會發生）
+            else:
+                if i > 0: i -= 1 # 強制消耗 i 防止死迴圈，但標註缺失
+                if j > 0: j -= 1
                 
-            # 4. 最後才檢查 Delete (垂直)
-            elif i > 0 and abs(current_score - score_del) < 1e-5:
-                alignment.append((ch_syllables[i-1], None, "族語缺失"))
-                i -= 1
             path_coords.append((i, j))
         
         return alignment[::-1], dp, dir_matrix, path_coords
@@ -417,7 +429,9 @@ def process_single_file(json_file_path, output_excel_path, output_json_path):
         current_matrix_row += n_rows + 2
 
     for col in ws_summary.columns:
-        length = max(len(str(cell.value)) for cell in col)
+        # 處理可能的 None 值
+        lengths = [len(str(cell.value)) for cell in col if cell.value is not None]
+        length = max(lengths) if lengths else 0
         ws_summary.column_dimensions[get_column_letter(col[0].column)].width = min(length + 2, 50)
 
     try:
