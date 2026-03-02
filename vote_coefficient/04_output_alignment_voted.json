@@ -3,17 +3,16 @@
         "p": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.9404,
-            "total_score": 1.9404
+            "global_score_i": 1.0,
+            "note": "Selected by Local Count"
         }
     },
     "p": {
         "p": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.7944,
-            "total_score": 0.7944,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "m": {
@@ -21,133 +20,119 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 1.0,
-            "total_score": 1.0,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "f": {
         "f": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.4046,
-            "total_score": 0.4046,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.4071,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "d": {
         "t": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.7717,
-            "total_score": 0.7717,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.9644,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "t": {
         "t": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.9875,
-            "total_score": 0.9875,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.975,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "n": {
         "n": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8138,
-            "total_score": 0.8138,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.4611,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "l": {
         "l": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.8209,
-            "total_score": 1.8209
+            "global_score_i": 0.8314,
+            "note": "Selected by Local Count"
         }
     },
     "g": {
         "k": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8583,
-            "total_score": 0.8583,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.9258,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "k": {
         "k": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.988,
-            "total_score": 0.988,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "h": {
         "h": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8792,
-            "total_score": 0.8792,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.9489,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "j": {
         "c": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.838,
-            "total_score": 0.838,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.8935,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "q": {
         "c": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8533,
-            "total_score": 0.8533,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "x": {
         "s": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.6512,
-            "total_score": 0.6512,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "zh": {
         "c": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8629,
-            "total_score": 0.8629,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.8638,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ch": {
         "c": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.7625,
-            "total_score": 0.7625,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.7647,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "sh": {
         "s": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8548,
-            "total_score": 0.8548,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.921,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "r": {},
@@ -156,8 +141,7 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.6308,
-            "total_score": 0.6308,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "c": {
@@ -165,8 +149,7 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 1.0,
-            "total_score": 1.0,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "s": {
@@ -174,17 +157,15 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 1.0,
-            "total_score": 1.0,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "an": {
         "an": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.4455,
-            "total_score": 0.4455,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.5211,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "en": {
@@ -192,69 +173,63 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.62,
-            "total_score": 0.62,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ang": {
         "ang": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.5784,
-            "total_score": 0.5784,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.6139,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "eng": {
         "eng": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.4183,
-            "total_score": 0.4183,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.532,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "er": {
         "e": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.5,
-            "total_score": 0.5,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "i": {
         "i": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.7763,
-            "total_score": 1.7763
+            "global_score_i": 0.9247,
+            "note": "Selected by Local Count"
         }
     },
     "u": {
         "u": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.6141,
-            "total_score": 0.6141,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.6515,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
-    "u:": {
+    "ㄩ": {
         "i": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.6759,
-            "total_score": 0.6759,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.6881,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "a": {
         "a": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.8474,
-            "total_score": 1.8474
+            "global_score_i": 0.8586,
+            "note": "Selected by Local Count"
         }
     },
     "o": {},
@@ -262,55 +237,56 @@
         "e": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.6381,
-            "total_score": 0.6381,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.7457,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
-    "e": {},
+    "e": {
+        "e": {
+            "local_count": 0,
+            "local_score_k": 0.0,
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
+        }
+    },
     "ai": {
         "ai": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.2667,
-            "total_score": 0.2667,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.275,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ei": {
         "ey": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.275,
-            "total_score": 0.275,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.3533,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ao": {
         "au": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.2413,
-            "total_score": 0.2413,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.26,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ou": {
         "o": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.6667,
-            "total_score": 0.6667,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ia": {
         "ia": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.1829,
-            "total_score": 0.1829,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.225,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "io": {},
@@ -318,9 +294,8 @@
         "e": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.2581,
-            "total_score": 0.2581,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.2405,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "iai": {},
@@ -328,72 +303,64 @@
         "au": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.0992,
-            "total_score": 0.0992,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.1,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "iou": {
-        "iu": {
+        "iw": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.3458,
-            "total_score": 0.3458,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.42,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ian": {
-        "en": {
+        "in": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.1731,
-            "total_score": 0.1731,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.1656,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "in": {
         "in": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8,
-            "total_score": 0.8,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.83,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "iang": {
         "iang": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.235,
-            "total_score": 0.235,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.1378,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ing": {
         "ing": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.495,
-            "total_score": 0.495,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.6985,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ua": {
         "ua": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.3392,
-            "total_score": 0.3392,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.3034,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "uo": {
-        "o": {
+        "u": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.3724,
-            "total_score": 0.3724,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.3617,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "uai": {
@@ -401,17 +368,15 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.5914,
-            "total_score": 0.5914,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "uei": {
         "ui": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.2,
-            "total_score": 0.2,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.1795,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "uan": {
@@ -419,8 +384,7 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.401,
-            "total_score": 0.401,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "un": {
@@ -428,53 +392,47 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.1111,
-            "total_score": 0.1111,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "uang": {
         "uang": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.1833,
-            "total_score": 0.1833,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.1912,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "ong": {
         "ung": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.4611,
-            "total_score": 0.4611,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.5457,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
-    "u:e": {
-        "e": {
+    "ㄩe": {
+        "ye": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.25,
-            "total_score": 0.25,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.5,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
-    "u:an": {
+    "ㄩan": {
         "uan": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.1353,
-            "total_score": 0.1353,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "global_score_i": 0.1441,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
-    "u:n": {
-        "un": {
+    "ㄩn": {
+        "in": {
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.25,
-            "total_score": 0.25,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "iong": {
@@ -482,8 +440,7 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.4,
-            "total_score": 0.4,
-            "note": "Auto-filled from Global (Contained in Dict)"
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     }
 }

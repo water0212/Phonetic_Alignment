@@ -1,7 +1,7 @@
 import json
 import os
 
-VOTE_FOLDER_NAME = 'ailgn_syllables/16族發音統計結果'
+VOTE_FOLDER_NAME = '16族發音統計結果'
 GLOBAL_STATS_FILENAME = 'global_statistics.json'
 # 假設詞典檔案放在與此程式同層的 'Dictionaries' 資料夾中
 DICT_FOLDER_NAME = 'fm_dict' 
@@ -54,6 +54,7 @@ def is_target_contained_in_sentences(target, dict_data):
                     if target in sentence:
                         return True
     return False
+
 def main():
     # 1. 設定路徑
     current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -102,7 +103,7 @@ def main():
     for filename in vote_files:
         file_path = os.path.join(vote_dir, filename)
         
-        # --- 新增：根據檔名編號讀取對應詞典 ---
+        # --- 根據檔名編號讀取對應詞典 ---
         file_id = filename.split('_')[0] # 取得編號如 "01"
         dict_data = None
         if os.path.exists(dict_dir):
@@ -122,7 +123,7 @@ def main():
         for src, targets in local_data.items():
             temp_results = []
 
-            # 情況 A: 本地有資料 
+            # 情況 A: 本地有資料 (Local Data Exists)
             if targets:
                 local_total_count = sum(targets.values())
 
@@ -133,18 +134,15 @@ def main():
                     # 計算 i (全域分數 - 用於同票時的第二順位)
                     i_score = calculate_i_score(src, tgt, global_data, global_denominators)
 
-                    # 計算總分 (僅供參考，不影響排序)
-                    total_score = k_score + i_score
-
                     temp_results.append({
                         'target': tgt,
-                        'local_count': count,    # [關鍵] 加入原始次數用於排序
-                        'global_i': i_score,     # [關鍵] 加入全域分數用於排序
+                        'local_count': count,    # [關鍵] 第一順位：次數
+                        'global_i': i_score,     # [關鍵] 第二順位：Global分數
                         'data': {
-                            'local_count': count, # 順便把次數寫進結果，方便查看
+                            'local_count': count, 
                             'local_score_k': round(k_score, 4),
                             'global_score_i': round(i_score, 4),
-                            'total_score': round(total_score, 4)
+                            'note': 'Selected by Local Count'
                         }
                     })
                 
@@ -152,8 +150,11 @@ def main():
                 # 1. 先比 local_count (由大到小)
                 # 2. 如果次數一樣，再比 global_i (由大到小)
                 temp_results.sort(key=lambda x: (x['local_count'], x['global_i']), reverse=True)
+                
+                # --- [修改重點] 只取第一名 ---
+                temp_results = temp_results[:1]
 
-            # 情況 B: 本地無資料 (維持原樣，完全依賴 Global)
+            # 情況 B: 本地無資料 (No Local Data)
             else:
                 if src in global_data and global_data[src]:
                     # 先將該 Source 下的所有全域候選者按 i 分數排序
@@ -168,15 +169,15 @@ def main():
                     best_target = None
                     max_i_score = -1.0
 
-                    # 依序尋找第一個「出現在語料中」的發音
+                    # 依序尋找第一個「出現在語料中 (fm_sentence)」的發音
                     for g_tgt, g_i in candidates:
-                        # 只要 target 字串包含在任何 fm_sentence 中即可
+                        # 這裡強制執行檢查：若無票被global取代，必須確認字典中有這個字
                         if dict_data is None or is_target_contained_in_sentences(g_tgt, dict_data):
                             best_target = g_tgt
                             max_i_score = g_i
-                            break
+                            break # 找到第一個符合的就停止 (只取一個)
                     
-                    # 如果循環完都沒符合的（雖然機率低），則退而求其次選全域第一名
+                    # 如果循環完都沒符合的（雖然機率低），則退而求其次選全域第一名 (避免空值)
                     if best_target is None and candidates:
                         best_target, max_i_score = candidates[0]
 
@@ -189,14 +190,14 @@ def main():
                                 'local_count': 0,
                                 'local_score_k': 0.0,
                                 'global_score_i': round(max_i_score, 4),
-                                'total_score': round(max_i_score, 4),
-                                'note': 'Auto-filled from Global (Contained in Dict)'
+                                'note': 'Auto-filled from Global (Checked Dictionary)'
                             }
                         })
+                        # 這裡不需要切片，因為 append 邏輯保證只會加入一個 best_target
 
             # --- 重組回字典格式 ---
-            # 因為 Python 3.7+ 的字典是有序的，這裡寫入的順序就是剛剛排序好的順序 (第一名在最前面)
             processed_data[src] = {}
+            # 因為我們在上面已經做了篩選 (temp_results 只會有 1 個元素)，這裡只會寫入那個最高分的
             for item in temp_results:
                 processed_data[src][item['target']] = item['data']
 
@@ -209,7 +210,7 @@ def main():
         status = "已校驗" if dict_data else "無字典可參考"
         print(f"   ✅ 已輸出: {filename} ({status})")
 
-    print("🎉 所有檔案處理完成！填補邏輯：分數優先且需字串包含於詞典句子中。")
+    print("\n🎉 所有檔案處理完成！邏輯：族內次數優先(只取第一)，無資料則查Global並驗證字典。")
 
 if __name__ == "__main__":
     main()

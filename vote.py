@@ -8,13 +8,13 @@ order = [
     "g", "k", "h", "j", "q", "x", "zh", "ch",
     "sh", "r", "z", "c", "s",
     "an", "en", "ang", "eng", "er",
-    "i", "u", "u:",
+    "i", "u", "ㄩ",
     "a", "o", "ㄜ", "e",
     "ai", "ei", "ao", "ou",
     "ia", "io", "ie", "iai", "iao", "iou",
     "ian", "in", "iang", "ing",
     "ua", "uo", "uai", "uei", "uan", "un", "uang", "ong",
-    "u:e", "u:an", "u:n", "iong"
+    "ㄩe", "ㄩan", "ㄩn", "iong"
 ]
 
 def vote_alignment_individual():
