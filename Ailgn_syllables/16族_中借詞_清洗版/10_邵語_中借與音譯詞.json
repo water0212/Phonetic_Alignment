@@ -39,16 +39,6 @@
         ],
         "source_year": "104"
     },
-    "經濟部": {
-        "new_word": [
-            {
-                "fm_word": "Mariqariqaz a yan",
-                "ch_semantic": "音譯",
-                "dialect": []
-            }
-        ],
-        "source_year": "104"
-    },
     "法務部": {
         "new_word": [
             {
@@ -223,16 +213,6 @@
         "new_word": [
             {
                 "fm_word": "susiin",
-                "ch_semantic": "(音譯詞)",
-                "dialect": []
-            }
-        ],
-        "source_year": "106"
-    },
-    "聖誕節": {
-        "new_word": [
-            {
-                "fm_word": "kristmas",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

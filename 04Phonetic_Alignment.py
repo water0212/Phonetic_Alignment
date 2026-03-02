@@ -116,6 +116,8 @@ class PhoneticAligner:
             if v_ch in group_ch and v_ts in group_ts:
                 if v_ch == 'ㄩ':
                     current_score = 0.5
+                elif group_ch == {"o"}:
+                    current_score = 2
                 else:
                     current_score = 0.8
                 current_score = max(current_score, 0)
