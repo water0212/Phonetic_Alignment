@@ -85,21 +85,27 @@ def vote_alignment_individual():
                         tsou_initial = tsou.get('initial')
                         tsou_final = tsou.get('final')
 
-                        # 統計聲母
+                        # 1. 統計聲母
                         if initial_ch:
-                            if initial_ch not in vote_count:
-                                vote_count[initial_ch] = {} # 防呆：若遇到不在 order 裡的聲母
-                            if tsou_initial not in vote_count[initial_ch]:
-                                vote_count[initial_ch][tsou_initial] = 0
-                            vote_count[initial_ch][tsou_initial] += 1
+                            # 過濾：如果族語聲母是 0c 或 空白，則跳過
+                            if tsou_initial and tsou_initial != "0c" and tsou_initial.strip() != "":
+                                if initial_ch not in vote_count:
+                                    vote_count[initial_ch] = {}
+                                
+                                if tsou_initial not in vote_count[initial_ch]:
+                                    vote_count[initial_ch][tsou_initial] = 0
+                                vote_count[initial_ch][tsou_initial] += 1
 
-                        # 統計韻母
+                        # 2. 統計韻母
                         if final_ch:
-                            if final_ch not in vote_count:
-                                vote_count[final_ch] = {} # 防呆
-                            if tsou_final not in vote_count[final_ch]:
-                                vote_count[final_ch][tsou_final] = 0
-                            vote_count[final_ch][tsou_final] += 1
+                            # 過濾：如果族語韻母是 0v 或 空白，則跳過 (雖然韻母通常不會是 0v，但防呆)
+                            if tsou_final and tsou_final != "0v" and tsou_final.strip() != "":
+                                if final_ch not in vote_count:
+                                    vote_count[final_ch] = {}
+                                
+                                if tsou_final not in vote_count[final_ch]:
+                                    vote_count[final_ch][tsou_final] = 0
+                                vote_count[final_ch][tsou_final] += 1
 
         # === 關鍵修改 2: 處理完該組 (01~16) 後，立刻輸出獨立檔案 ===
         output_filename = f"{group_id}_output_alignment_voted.json"

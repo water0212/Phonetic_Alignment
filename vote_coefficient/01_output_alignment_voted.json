@@ -34,8 +34,8 @@
     "d": {
         "t": {
             "local_count": 10,
-            "local_score_k": 0.9091,
-            "global_score_i": 0.9644,
+            "local_score_k": 1.0,
+            "global_score_i": 0.9737,
             "note": "Selected by Local Count"
         }
     },
@@ -48,18 +48,18 @@
         }
     },
     "n": {
-        "": {
-            "local_count": 1,
-            "local_score_k": 1.0,
-            "global_score_i": 0.5389,
-            "note": "Selected by Local Count"
+        "n": {
+            "local_count": 0,
+            "local_score_k": 0.0,
+            "global_score_i": 1.0,
+            "note": "Auto-filled from Global (Checked Dictionary)"
         }
     },
     "l": {
         "l": {
             "local_count": 10,
             "local_score_k": 1.0,
-            "global_score_i": 0.8314,
+            "global_score_i": 0.8845,
             "note": "Selected by Local Count"
         }
     },
@@ -82,8 +82,8 @@
     "h": {
         "h": {
             "local_count": 4,
-            "local_score_k": 0.5714,
-            "global_score_i": 0.9489,
+            "local_score_k": 0.6667,
+            "global_score_i": 0.96,
             "note": "Selected by Local Count"
         }
     },
@@ -91,7 +91,7 @@
         "c": {
             "local_count": 19,
             "local_score_k": 1.0,
-            "global_score_i": 0.8935,
+            "global_score_i": 0.9002,
             "note": "Selected by Local Count"
         }
     },
@@ -115,15 +115,15 @@
         "c": {
             "local_count": 6,
             "local_score_k": 0.8571,
-            "global_score_i": 0.8638,
+            "global_score_i": 0.87,
             "note": "Selected by Local Count"
         }
     },
     "ch": {
         "c": {
             "local_count": 1,
-            "local_score_k": 0.5,
-            "global_score_i": 0.7647,
+            "local_score_k": 1.0,
+            "global_score_i": 0.8646,
             "note": "Selected by Local Count"
         }
     },
@@ -131,7 +131,7 @@
         "s": {
             "local_count": 8,
             "local_score_k": 1.0,
-            "global_score_i": 0.921,
+            "global_score_i": 0.9893,
             "note": "Selected by Local Count"
         }
     },
@@ -164,7 +164,7 @@
         "a": {
             "local_count": 3,
             "local_score_k": 0.5,
-            "global_score_i": 0.1956,
+            "global_score_i": 0.1185,
             "note": "Selected by Local Count"
         }
     },
@@ -188,7 +188,7 @@
         "eng": {
             "local_count": 2,
             "local_score_k": 0.5,
-            "global_score_i": 0.532,
+            "global_score_i": 0.6042,
             "note": "Selected by Local Count"
         }
     },
@@ -294,7 +294,7 @@
         "i": {
             "local_count": 2,
             "local_score_k": 0.5,
-            "global_score_i": 0.2036,
+            "global_score_i": 0.2136,
             "note": "Selected by Local Count"
         }
     },
