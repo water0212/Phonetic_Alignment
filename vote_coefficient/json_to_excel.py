@@ -89,11 +89,12 @@ def main():
                     targets = local_json[pinyin_key]
                     if targets:
                         best_char = list(targets.keys())[0]
-                        data_matrix[pinyin_key][tid] = best_char
+                        note = targets[best_char].get("note", "")
+                        data_matrix[pinyin_key][tid] = {"char": best_char, "note": note}
                     else:
-                        data_matrix[pinyin_key][tid] = "-"
+                        data_matrix[pinyin_key][tid] = {"char": "-", "note": ""}
                 else:
-                    data_matrix[pinyin_key][tid] = ""
+                    data_matrix[pinyin_key][tid] = {"char": "", "note": ""}
             print(" OK") # 讀取成功
             
         except Exception as e:
@@ -113,12 +114,13 @@ def main():
     center_align = Alignment(horizontal='center', vertical='center', wrap_text=True)
     thin_border = Border(left=Side(style='thin'), right=Side(style='thin'), 
                          top=Side(style='thin'), bottom=Side(style='thin'))
+    highlight_fill = PatternFill(start_color="FFFFE0", end_color="FFFFE0", fill_type="solid")
 
     # --- 寫入表頭 ---
     headers = ["注音", "拼音"]
     for tid in tribe_ids:
         name = TRIBE_NAMES.get(tid, f"族語{tid}")
-        headers.append(f"{tid}\n{name}")
+        headers.append(f"{tid}\\n{name}")
 
     ws.append(headers)
     
@@ -136,21 +138,26 @@ def main():
         row_data = [zhuyin, pinyin]
         
         for tid in tribe_ids:
-            val = data_matrix[pinyin].get(tid, "")
-            row_data.append(val)
-
-        ws.append(row_data)
-
-        # 樣式設定
-        ws.cell(row=row_idx, column=1).font = zhuyin_font
-        ws.cell(row=row_idx, column=2).font = Font(bold=True)
+            cell_data = data_matrix[pinyin].get(tid, {"char": "", "note": ""})
+            char = cell_data["char"]
+            note = cell_data["note"]
+            row_data.append(char)
         
-        for i in range(1, len(headers) + 1):
-            cell = ws.cell(row=row_idx, column=i)
+        ws.append(row_data)
+        
+        # 樣式設定
+        for col_idx, cell_value in enumerate(row_data, start=1):
+            cell = ws.cell(row=row_idx, column=col_idx)
             cell.alignment = center_align
             cell.border = thin_border
-            if cell.value == "-":
-                cell.font = Font(color="AAAAAA")
+
+            # 如果是注音，設置為紅色
+            if col_idx == 1:
+                cell.font = zhuyin_font
+
+            # 如果 note 為指定文字，塗上淺色
+            if col_idx > 2 and data_matrix[pinyin][tribe_ids[col_idx - 3]]["note"] == "Auto-filled from Global (Checked Dictionary)":
+                cell.fill = highlight_fill
 
         row_idx += 1
 
@@ -163,7 +170,7 @@ def main():
 
     ws.freeze_panes = "C2"
 
-    # 4. 儲存檔案 (最容易卡住的地方)
+    # 4. 儲存檔案
     output_path = os.path.join(INPUT_FOLDER, OUTPUT_FILENAME)
     print(f"💾 正在儲存檔案至: {OUTPUT_FILENAME} ...")
     
