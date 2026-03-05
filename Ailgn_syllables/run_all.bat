@@ -25,10 +25,10 @@ echo [6/8] Running Script 6...
 python ../Global_Statistics.py
 if %errorlevel% neq 0 goto error
 echo [7/8] Running Script 7...
-python ../vote_coefficient/Calculate_Coefficients.py
+python ../vote_result/Calculate_Coefficients.py
 if %errorlevel% neq 0 goto error
 echo [8/8] Running Script 8...
-python ../vote_coefficient/json_to_excel.py
+python ../vote_result/json_to_excel.py
 if %errorlevel% neq 0 goto error
 
 echo ==========================================

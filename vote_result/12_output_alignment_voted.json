@@ -35,7 +35,7 @@
         "t": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.9737,
+            "global_score_i": 0.969,
             "note": "Auto-filled from Global"
         }
     },
@@ -51,7 +51,7 @@
         "n": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 1.0,
+            "global_score_i": 0.4611,
             "note": "Auto-filled from Global"
         }
     },
@@ -59,7 +59,7 @@
         "l": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8845,
+            "global_score_i": 0.8314,
             "note": "Auto-filled from Global"
         }
     },
@@ -83,7 +83,7 @@
         "h": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.96,
+            "global_score_i": 0.9489,
             "note": "Auto-filled from Global"
         }
     },
@@ -91,7 +91,7 @@
         "c": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.9002,
+            "global_score_i": 0.8957,
             "note": "Auto-filled from Global"
         }
     },
@@ -115,7 +115,7 @@
         "c": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.87,
+            "global_score_i": 0.8638,
             "note": "Auto-filled from Global"
         }
     },
@@ -123,7 +123,7 @@
         "c": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.8646,
+            "global_score_i": 0.7647,
             "note": "Auto-filled from Global"
         }
     },
@@ -131,7 +131,7 @@
         "s": {
             "local_count": 0,
             "local_score_k": 0.0,
-            "global_score_i": 0.9893,
+            "global_score_i": 0.9842,
             "note": "Auto-filled from Global"
         }
     },
@@ -158,6 +158,14 @@
             "local_score_k": 0.0,
             "global_score_i": 1.0,
             "note": "Auto-filled from Global"
+        }
+    },
+    "0c": {
+        "0c": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.9195,
+            "note": "Local Vote"
         }
     },
     "an": {
@@ -440,6 +448,14 @@
             "local_count": 0,
             "local_score_k": 0.0,
             "global_score_i": 0.4,
+            "note": "Auto-filled from Global"
+        }
+    },
+    "0v": {
+        "e": {
+            "local_count": 0,
+            "local_score_k": 0.0,
+            "global_score_i": 0.57,
             "note": "Auto-filled from Global"
         }
     }

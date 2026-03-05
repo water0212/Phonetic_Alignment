@@ -2,11 +2,11 @@ import json
 import os
 import glob
 
-# 保持原本的順序列表
+# === 修改 1: 在列表中加入 "0c" 和 "0v"，讓它們有位置可以存放 ===
 order = [
     "b", "p", "m", "f", "d", "t", "n", "l",
     "g", "k", "h", "j", "q", "x", "zh", "ch",
-    "sh", "r", "z", "c", "s",
+    "sh", "r", "z", "c", "s", "0c",  # <--- 加入 0c (零聲母)
     "an", "en", "ang", "eng", "er",
     "i", "u", "ㄩ",
     "a", "o", "ㄜ", "e",
@@ -14,33 +14,30 @@ order = [
     "ia", "io", "ie", "iai", "iao", "iou",
     "ian", "in", "iang", "ing",
     "ua", "uo", "uai", "uei", "uan", "un", "uang", "ong",
-    "ㄩe", "ㄩan", "ㄩn", "iong"
+    "ㄩe", "ㄩan", "ㄩn", "iong", "0v" # <--- 加入 0v (零韻母/空韻)
 ]
 
 def vote_alignment_individual():
     # === 設定路徑 ===
     base_path = os.path.dirname(os.path.abspath(__file__))
     input_dir = os.path.join(base_path, 'Refined_Excel')
-    output_dir = os.path.join(base_path, '16族發音統計結果') # 建立一個專門放結果的資料夾
+    output_dir = os.path.join(base_path, '16族發音統計結果')
 
-    # 如果輸出資料夾不存在，則建立
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         print(f"已建立輸出資料夾: {output_dir}")
 
-    # 確保輸入資料夾存在
     if not os.path.exists(input_dir):
         print(f"錯誤: 找不到資料夾 {input_dir}")
         return
 
     # === 開始遍歷 01 到 16 ===
     for i in range(1, 17):
-        group_id = f"{i:02d}"  # 將數字轉為字串，如 "01", "05", "16"
+        group_id = f"{i:02d}"
         
-        # === 關鍵修改 1: 每次迴圈開始時，初始化一個全新的投票箱 ===
+        # 初始化投票箱
         vote_count = {k: {} for k in order}
         
-        # 搜尋對應編號的檔案
         file_pattern = os.path.join(input_dir, f"refined_{group_id}_*_中借與音譯詞.json")
         found_files = glob.glob(file_pattern)
 
@@ -48,7 +45,6 @@ def vote_alignment_individual():
             print(f"[{group_id}] 找不到對應檔案，跳過。")
             continue
 
-        # 通常每個編號只有一個檔案，但 glob 回傳的是列表，所以用迴圈讀取
         for file_path in found_files:
             file_name = os.path.basename(file_path)
             print(f"[{group_id}] 正在處理: {file_name}")
@@ -85,29 +81,38 @@ def vote_alignment_individual():
                         tsou_initial = tsou.get('initial')
                         tsou_final = tsou.get('final')
 
-                        # 1. 統計聲母
-                        if initial_ch:
-                            # 過濾：如果族語聲母是 0c 或 空白，則跳過
-                            if tsou_initial and tsou_initial != "0c" and tsou_initial.strip() != "":
-                                if initial_ch not in vote_count:
-                                    vote_count[initial_ch] = {}
-                                
-                                if tsou_initial not in vote_count[initial_ch]:
-                                    vote_count[initial_ch][tsou_initial] = 0
-                                vote_count[initial_ch][tsou_initial] += 1
+                        # === 修改 2: 處理聲母 (包含 0c) ===
+                        # 邏輯：如果漢語聲母是 None 或空字串，視為 "0c"
+                        target_ch_initial = initial_ch if initial_ch and initial_ch.strip() else "0c"
+                        
+                        # 確保這個聲母在我們的 order 列表中才統計 (避免髒資料)
+                        if target_ch_initial in vote_count:
+                            # 處理族語對應：如果是 None，視為 "0c"
+                            t_init = tsou_initial if tsou_initial is not None else "0c"
+                            t_init = t_init.strip()
+                            if t_init == "": t_init = "0c"
 
-                        # 2. 統計韻母
-                        if final_ch:
-                            # 過濾：如果族語韻母是 0v 或 空白，則跳過 (雖然韻母通常不會是 0v，但防呆)
-                            if tsou_final and tsou_final != "0v" and tsou_final.strip() != "":
-                                if final_ch not in vote_count:
-                                    vote_count[final_ch] = {}
-                                
-                                if tsou_final not in vote_count[final_ch]:
-                                    vote_count[final_ch][tsou_final] = 0
-                                vote_count[final_ch][tsou_final] += 1
+                            # 移除原本的過濾條件，現在允許統計 0c -> 0c 或 0c -> ?
+                            if t_init not in vote_count[target_ch_initial]:
+                                vote_count[target_ch_initial][t_init] = 0
+                            vote_count[target_ch_initial][t_init] += 1
 
-        # === 關鍵修改 2: 處理完該組 (01~16) 後，立刻輸出獨立檔案 ===
+                        # === 修改 3: 處理韻母 (包含 0v) ===
+                        # 邏輯：如果漢語韻母是 None 或空字串，視為 "0v"
+                        target_ch_final = final_ch if final_ch and final_ch.strip() else "0v"
+
+                        if target_ch_final in vote_count:
+                            # 處理族語對應
+                            t_final = tsou_final if tsou_final is not None else "0v"
+                            t_final = t_final.strip()
+                            if t_final == "": t_final = "0v"
+
+                            # 移除過濾，允許統計 0v
+                            if t_final not in vote_count[target_ch_final]:
+                                vote_count[target_ch_final][t_final] = 0
+                            vote_count[target_ch_final][t_final] += 1
+
+        # 輸出結果
         output_filename = f"{group_id}_output_alignment_voted.json"
         output_path = os.path.join(output_dir, output_filename)
         

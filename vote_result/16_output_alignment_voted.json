@@ -41,7 +41,7 @@
         "t": {
             "local_count": 3,
             "local_score_k": 1.0,
-            "global_score_i": 0.9722,
+            "global_score_i": 0.9673,
             "note": "Local Vote"
         }
     },
@@ -57,7 +57,7 @@
         "n": {
             "local_count": 2,
             "local_score_k": 1.0,
-            "global_score_i": 1.0,
+            "global_score_i": 0.3825,
             "note": "Local Vote"
         }
     },
@@ -65,7 +65,7 @@
         "r": {
             "local_count": 8,
             "local_score_k": 1.0,
-            "global_score_i": 0.0109,
+            "global_score_i": 0.0107,
             "note": "Local Vote"
         }
     },
@@ -89,7 +89,7 @@
         "h": {
             "local_count": 8,
             "local_score_k": 1.0,
-            "global_score_i": 0.9514,
+            "global_score_i": 0.9385,
             "note": "Local Vote"
         }
     },
@@ -97,7 +97,7 @@
         "c": {
             "local_count": 23,
             "local_score_k": 0.9583,
-            "global_score_i": 0.8876,
+            "global_score_i": 0.8821,
             "note": "Local Vote"
         },
         "’": {
@@ -127,7 +127,7 @@
         "c": {
             "local_count": 10,
             "local_score_k": 1.0,
-            "global_score_i": 0.8429,
+            "global_score_i": 0.835,
             "note": "Local Vote"
         }
     },
@@ -135,7 +135,7 @@
         "c": {
             "local_count": 5,
             "local_score_k": 1.0,
-            "global_score_i": 0.8327,
+            "global_score_i": 0.7167,
             "note": "Local Vote"
         }
     },
@@ -143,7 +143,7 @@
         "s": {
             "local_count": 12,
             "local_score_k": 1.0,
-            "global_score_i": 0.9864,
+            "global_score_i": 0.98,
             "note": "Local Vote"
         }
     },
@@ -169,6 +169,26 @@
             "local_count": 3,
             "local_score_k": 1.0,
             "global_score_i": 1.0,
+            "note": "Local Vote"
+        }
+    },
+    "0c": {
+        "0c": {
+            "local_count": 18,
+            "local_score_k": 0.72,
+            "global_score_i": 0.9327,
+            "note": "Local Vote"
+        },
+        "’": {
+            "local_count": 6,
+            "local_score_k": 0.24,
+            "global_score_i": 0.0029,
+            "note": "Local Vote"
+        },
+        "s": {
+            "local_count": 1,
+            "local_score_k": 0.04,
+            "global_score_i": 0.0,
             "note": "Local Vote"
         }
     },
@@ -529,6 +549,32 @@
         "iʉng": {
             "local_count": 1,
             "local_score_k": 1.0,
+            "global_score_i": 0.0,
+            "note": "Local Vote"
+        }
+    },
+    "0v": {
+        "ʉ": {
+            "local_count": 3,
+            "local_score_k": 0.4286,
+            "global_score_i": 0.0,
+            "note": "Local Vote"
+        },
+        "eeng": {
+            "local_count": 2,
+            "local_score_k": 0.2857,
+            "global_score_i": 0.0,
+            "note": "Local Vote"
+        },
+        "x": {
+            "local_count": 1,
+            "local_score_k": 0.1429,
+            "global_score_i": 0.0,
+            "note": "Local Vote"
+        },
+        "xx": {
+            "local_count": 1,
+            "local_score_k": 0.1429,
             "global_score_i": 0.0,
             "note": "Local Vote"
         }
