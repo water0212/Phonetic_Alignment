@@ -4,71 +4,84 @@ import os
 # --- 設定 ---
 FOLDER_NAME = '16族發音統計結果'
 FILE_COUNT = 16
-OUTPUT_FILENAME = 'global_statistics.json'
+OUTPUT_DIR_NAME = "vote_result/global_statistics"
 
 def main():
     # 取得目前腳本的路徑
     base_path = os.path.dirname(os.path.abspath(__file__))
     vote_dir = os.path.join(base_path, FOLDER_NAME)
-    output_path = os.path.join(base_path,"vote_coefficient", OUTPUT_FILENAME)
+    output_dir = os.path.join(base_path, OUTPUT_DIR_NAME)
 
-    # 用來儲存全域統計結果
-    # 結構: global_stats[source][target] = [Top_Rank_Score, Total_Count]
-    global_stats = {}
+    # 確保輸出資料夾存在
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    print(f"📂 開始讀取 {FOLDER_NAME} 資料夾下的 {FILE_COUNT} 個檔案...")
+    # 1. 先讀取所有檔案到記憶體 (避免重複 I/O)
+    print(f"📂 正在預載入 {FILE_COUNT} 個檔案的資料...")
+    all_files_data = {} # 格式: {file_id: json_data}
 
-    # 1. 遍歷 16 個檔案
     for i in range(1, FILE_COUNT + 1):
         filename = f"{i:02d}_output_alignment_voted.json"
         file_path = os.path.join(vote_dir, filename)
 
-        if not os.path.exists(file_path):
-            print(f"⚠️ 警告: 找不到檔案 {filename}，跳過。")
-            continue
+        if os.path.exists(file_path):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    all_files_data[i] = json.load(f)
+            except json.JSONDecodeError:
+                print(f"❌ 錯誤: 無法讀取 {filename} (格式錯誤)")
+        else:
+            print(f"⚠️ 警告: 找不到檔案 {filename}，將視為空資料。")
+            all_files_data[i] = {}
 
-        try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                file_data = json.load(f)
-        except json.JSONDecodeError:
-            print(f"❌ 錯誤: 無法讀取 {filename} (格式錯誤)")
-            continue
+    print(f"✅ 資料載入完成，開始執行 'Leave-One-Out' 統計生成...\n")
 
-        # 2. 分析單個檔案
-        for src, target_map in file_data.items():
-            
-            if src not in global_stats:
-                global_stats[src] = {}
-                
-            if not target_map:
+    # 2. 執行 16 次迴圈，每次排除一個 ID
+    for exclude_id in range(1, FILE_COUNT + 1):
+        
+        # 用來儲存本次 (排除 exclude_id 後) 的全域統計結果
+        # 結構: global_stats[source][target] = [Top_Rank_Score, Total_Count]
+        current_global_stats = {}
+        
+        # 遍歷所有已載入的資料
+        for fid, file_data in all_files_data.items():
+            # 【關鍵修改】如果目前的檔案 ID 等於要排除的 ID，則跳過不計
+            if fid == exclude_id:
                 continue
 
-            # 找出該檔案中，該 source 對應次數最高的數值 (Local Max)
-            # 例如: "j": {"c": 18, "z": 2} -> local_max = 18
-            local_max = max(target_map.values())
+            # 開始分析單個檔案 (邏輯與之前相同)
+            for src, target_map in file_data.items():
+                if src not in current_global_stats:
+                    current_global_stats[src] = {}
+                    
+                if not target_map:
+                    continue
 
-            for tgt, count in target_map.items():
-                # 確保 target 在全域字典中存在，預設值為 [0, 0]
-                if tgt not in global_stats[src]:
-                    global_stats[src][tgt] = [0, 0] 
+                # 找出該檔案中，該 source 對應次數最高的數值 (Local Max)
+                local_max = max(target_map.values())
 
-                # --- 更新數值 2: 總次數 (Total Count) ---
-                global_stats[src][tgt][1] += count
+                for tgt, count in target_map.items():
+                    if tgt not in current_global_stats[src]:
+                        current_global_stats[src][tgt] = [0, 0] 
 
-                # --- 更新數值 1: 是否為該檔案的最常出現 (Top Rank) ---
-                # 如果目前的 count 等於該檔案的最大值，則 Top Rank + 1
-                # (注意：如果有兩個 target 次數一樣多且都是最大，兩個都會 +1)
-                if count == local_max:
-                    global_stats[src][tgt][0] += 1
+                    # 更新數值 2: 總次數
+                    current_global_stats[src][tgt][1] += count
 
-    # 3. 輸出 JSON 檔案
-    print(f"💾 正在儲存結果至 {OUTPUT_FILENAME} ...")
-    
-    with open(output_path, 'w', encoding='utf-8') as f:
-        # indent=4 讓輸出的 JSON 縮排漂亮，方便閱讀
-        json.dump(global_stats, f, ensure_ascii=False, indent=4)
+                    # 更新數值 1: Top Rank
+                    if count == local_max:
+                        current_global_stats[src][tgt][0] += 1
 
-    print("✅ 完成！")
+        # 3. 輸出該次排除後的 JSON 檔案
+        # 檔名範例: global_statistics_exclude_01.json (給第 1 族用的，裡面不含第 1 族資料)
+        output_filename = f"global_statistics_exclude_{exclude_id:02d}.json"
+        output_path = os.path.join(output_dir, output_filename)
+        
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(current_global_stats, f, ensure_ascii=False, indent=4)
+
+        print(f"   💾 已儲存: {output_filename} (排除第 {exclude_id:02d} 族)")
+
+    print("\n🎉 全部完成！已生成 16 個對應的 Global 統計檔。")
 
 if __name__ == "__main__":
     main()
