@@ -2,18 +2,17 @@ import json
 import os
 
 VOTE_FOLDER_NAME = '16族發音統計結果'
-GLOBAL_STATS_FILENAME = 'global_statistics.json'
-# 假設詞典檔案放在與此程式同層的 'Dictionaries' 資料夾中
+# 設定 Global 檔案前綴
+GLOBAL_STATS_PREFIX = 'global_statistics_exclude_' 
 DICT_FOLDER_NAME = 'fm_dict' 
 
-# 權重設定 (僅用於計算 i 分數供參考，不影響第一順位排序)
+# 權重設定
 RANK_WEIGHT = 0.7
 COUNT_WEIGHT = 0.3
 
 def calculate_i_score(src, tgt, global_data, global_denominators):
     """
     輔助函式：計算全域分數 i
-    i = (強勢度/總強勢度 * 0.7) + (出現次數/總出現次數 * 0.3)
     """
     if src not in global_data or tgt not in global_data[src]:
         return 0.0
@@ -34,23 +33,16 @@ def calculate_i_score(src, tgt, global_data, global_denominators):
 
 def is_target_contained_in_sentences(target, dict_data):
     """
-    新功能：檢查候選發音字串是否包含在該族詞典的 fm_sentence 中
-    針對詞典格式：詞彙 -> sense(list) -> example(list) -> fm_sentence 進行解析
+    檢查候選發音字串是否包含在該族詞典的 fm_sentence 中
     """
     if not target: return False
-    
-    # 遍歷詞典中每一個單詞項 (dict_data 的 values 是 list)
     for word_entries in dict_data.values():
-        # word_entries 是一個 list，裡面包含多個 sense
         for entry in word_entries:
-            # 取得 sense 裡面的 example list
             senses = entry.get('sense', [])
             for s in senses:
                 examples = s.get('example', [])
-                # 遍歷所有的例句
                 for ex in examples:
                     sentence = ex.get('fm_sentence', '')
-                    # 只要包含子字串就回傳 True
                     if target in sentence:
                         return True
     return False
@@ -58,106 +50,102 @@ def is_target_contained_in_sentences(target, dict_data):
 def main():
     # 1. 設定路徑
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    
-    # 往上一層找 vote 資料夾
+    # 假設資料夾與程式在同一層
     vote_dir = os.path.join(os.path.dirname(current_dir), VOTE_FOLDER_NAME)
-    
-    # global_statistics.json 就在本程式旁邊
-    global_stats_path = os.path.join(current_dir, GLOBAL_STATS_FILENAME)
-
-    # 詞典資料夾路徑
     dict_dir = os.path.join(os.path.dirname(current_dir), DICT_FOLDER_NAME)
 
-    # 檢查必要檔案
-    if not os.path.exists(global_stats_path):
-        print(f"❌ 錯誤: 找不到全域統計檔 {global_stats_path}")
-        return
     if not os.path.exists(vote_dir):
         print(f"❌ 錯誤: 找不到 vote 資料夾 {vote_dir}")
         return
 
-    # 2. 讀取 Global Statistics
-    print(f"📖 讀取全域統計: {GLOBAL_STATS_FILENAME} ...")
-    with open(global_stats_path, 'r', encoding='utf-8') as f:
-        global_data = json.load(f)
-
-    # 3. 預先計算 Global 的分母 (為了計算 i 分數)
-    global_denominators = {}
-    for src, targets in global_data.items():
-        sum_rank = 0
-        sum_count = 0
-        if isinstance(targets, dict): 
-            for tgt, stats in targets.items():
-                sum_rank += stats[0]
-                sum_count += stats[1]
-        
-        global_denominators[src] = {
-            'sum_rank': sum_rank,
-            'sum_count': sum_count
-        }
-
-    # 4. 遍歷 vote 資料夾中的所有 JSON
+    # 2. 遍歷 vote 資料夾中的所有 JSON
     vote_files = [f for f in os.listdir(vote_dir) if f.endswith('.json')]
     print(f"📂 找到 {len(vote_files)} 個檔案，開始計算分數...")
 
     for filename in vote_files:
         file_path = os.path.join(vote_dir, filename)
         
-        # --- 根據檔名編號讀取對應詞典 ---
-        file_id = filename.split('_')[0] # 取得編號如 "01"
+        # --- 取得檔案編號 (例如 "01") ---
+        file_id = filename.split('_')[0] 
+        
+        # --- 讀取對應的 Global Statistics (Leave-One-Out) ---
+        global_filename = f"{GLOBAL_STATS_PREFIX}{file_id}.json"
+        # 優先找 vote_coefficient 資料夾
+        global_stats_path = os.path.join(current_dir, "global_statistics", global_filename)
+        
+        # 如果找不到，找當前目錄
+        if not os.path.exists(global_stats_path):
+             global_stats_path = os.path.join(current_dir, global_filename)
+
+        if not os.path.exists(global_stats_path):
+            print(f"⚠️ 警告: 找不到對應的 Global 檔 {global_filename}，跳過 {filename}")
+            continue
+
+        with open(global_stats_path, 'r', encoding='utf-8') as f:
+            global_data = json.load(f)
+
+        # --- 計算 Global 分母 ---
+        global_denominators = {}
+        for src, targets in global_data.items():
+            sum_rank = 0
+            sum_count = 0
+            if isinstance(targets, dict): 
+                for tgt, stats in targets.items():
+                    sum_rank += stats[0]
+                    sum_count += stats[1]
+            global_denominators[src] = {'sum_rank': sum_rank, 'sum_count': sum_count}
+
+        # --- 讀取對應詞典 ---
         dict_data = None
         if os.path.exists(dict_dir):
-            # 尋找開頭為 "01_ilrdf_dict" 的檔案
             dict_filename = next((f for f in os.listdir(dict_dir) if f.startswith(f"{file_id}_ilrdf_dict")), None)
             if dict_filename:
                 with open(os.path.join(dict_dir, dict_filename), 'r', encoding='utf-8') as f:
                     dict_data = json.load(f)
-        # --------------------------------
 
+        # --- 讀取本地 Vote 資料 ---
         with open(file_path, 'r', encoding='utf-8') as f:
             local_data = json.load(f)
         
         processed_data = {}
 
-        # 針對該檔案的每一個 Source (例如 "b", "o")
+        # 針對該檔案的每一個 Source
         for src, targets in local_data.items():
             temp_results = []
 
+            # ==========================================
             # 情況 A: 本地有資料 (Local Data Exists)
+            # ==========================================
             if targets:
                 local_total_count = sum(targets.values())
 
+                # 只遍歷「本地有出現過」的 targets
                 for tgt, count in targets.items():
-                    # 計算 k (個別分數 - 僅供參考)
                     k_score = count / local_total_count if local_total_count > 0 else 0
-
-                    # 計算 i (全域分數 - 用於同票時的第二順位)
                     i_score = calculate_i_score(src, tgt, global_data, global_denominators)
 
                     temp_results.append({
                         'target': tgt,
-                        'local_count': count,    # [關鍵] 第一順位：次數
-                        'global_i': i_score,     # [關鍵] 第二順位：Global分數
+                        'local_count': count,
+                        'global_i': i_score,
                         'data': {
                             'local_count': count, 
                             'local_score_k': round(k_score, 4),
                             'global_score_i': round(i_score, 4),
-                            'note': 'Selected by Local Count'
+                            'note': 'Local Vote'
                         }
                     })
                 
-                # --- [修改重點] 排序邏輯 ---
-                # 1. 先比 local_count (由大到小)
-                # 2. 如果次數一樣，再比 global_i (由大到小)
+                # 排序：先比 local_count (大到小)，再比 global_i (大到小)
                 temp_results.sort(key=lambda x: (x['local_count'], x['global_i']), reverse=True)
                 
-                # --- [修改重點] 只取第一名 ---
-                temp_results = temp_results[:1]
+                # 【重點】這裡不切片，保留所有本地有票的候選者
 
-            # 情況 B: 本地無資料 (No Local Data)
+            # ==========================================
+            # 情況 B: 本地無資料 (No Local Data) -> 查 Global
+            # ==========================================
             else:
                 if src in global_data and global_data[src]:
-                    # 先將該 Source 下的所有全域候選者按 i 分數排序
                     candidates = []
                     for g_tgt in global_data[src]:
                         current_i = calculate_i_score(src, g_tgt, global_data, global_denominators)
@@ -169,15 +157,14 @@ def main():
                     best_target = None
                     max_i_score = -1.0
 
-                    # 依序尋找第一個「出現在語料中 (fm_sentence)」的發音
+                    # 尋找第一個「出現在語料中」的發音
                     for g_tgt, g_i in candidates:
-                        # 這裡強制執行檢查：若無票被global取代，必須確認字典中有這個字
                         if dict_data is None or is_target_contained_in_sentences(g_tgt, dict_data):
                             best_target = g_tgt
                             max_i_score = g_i
-                            break # 找到第一個符合的就停止 (只取一個)
+                            break 
                     
-                    # 如果循環完都沒符合的（雖然機率低），則退而求其次選全域第一名 (避免空值)
+                    # 兜底：如果都沒符合，選全域第一名
                     if best_target is None and candidates:
                         best_target, max_i_score = candidates[0]
 
@@ -190,14 +177,12 @@ def main():
                                 'local_count': 0,
                                 'local_score_k': 0.0,
                                 'global_score_i': round(max_i_score, 4),
-                                'note': 'Auto-filled from Global (Checked Dictionary)'
+                                'note': 'Auto-filled from Global'
                             }
                         })
-                        # 這裡不需要切片，因為 append 邏輯保證只會加入一個 best_target
 
             # --- 重組回字典格式 ---
             processed_data[src] = {}
-            # 因為我們在上面已經做了篩選 (temp_results 只會有 1 個元素)，這裡只會寫入那個最高分的
             for item in temp_results:
                 processed_data[src][item['target']] = item['data']
 
@@ -208,9 +193,9 @@ def main():
             json.dump(processed_data, f, ensure_ascii=False, indent=4)
             
         status = "已校驗" if dict_data else "無字典可參考"
-        print(f"   ✅ 已輸出: {filename} ({status})")
+        print(f"   ✅ 已輸出: {filename} (Local優先/Global補缺) | {status}")
 
-    print("\n🎉 所有檔案處理完成！邏輯：族內次數優先(只取第一)，無資料則查Global並驗證字典。")
+    print("\n🎉 所有檔案處理完成！")
 
 if __name__ == "__main__":
     main()
