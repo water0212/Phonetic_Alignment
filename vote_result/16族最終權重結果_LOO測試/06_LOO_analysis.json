@@ -1,0 +1,974 @@
+{
+    "b": {
+        "original_candidates": {
+            "p": {
+                "local_count": 7,
+                "local_score_k": 1.0,
+                "global_score_i": 1.0
+            }
+        },
+        "original_winner": "p",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_p": {
+                "removed_target": "p",
+                "new_winner": "p",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "m": {
+        "original_candidates": {
+            "m": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 1.0
+            }
+        },
+        "original_winner": "m",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_m": {
+                "removed_target": "m",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "d": {
+        "original_candidates": {
+            "t": {
+                "local_count": 7,
+                "local_score_k": 1.0,
+                "global_score_i": 0.9647
+            }
+        },
+        "original_winner": "t",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_t": {
+                "removed_target": "t",
+                "new_winner": "t",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "t": {
+        "original_candidates": {
+            "t": {
+                "local_count": 2,
+                "local_score_k": 1.0,
+                "global_score_i": 0.9727
+            }
+        },
+        "original_winner": "t",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_t": {
+                "removed_target": "t",
+                "new_winner": "t",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "n": {
+        "original_candidates": {
+            "0c": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.4864
+            }
+        },
+        "original_winner": "0c",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_0c": {
+                "removed_target": "0c",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "l": {
+        "original_candidates": {
+            "l": {
+                "local_count": 3,
+                "local_score_k": 0.75,
+                "global_score_i": 0.8233
+            },
+            "s": {
+                "local_count": 1,
+                "local_score_k": 0.25,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "l",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_l": {
+                "removed_target": "l",
+                "new_winner": "l",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.6667
+            },
+            "remove_s": {
+                "removed_target": "s",
+                "new_winner": "l",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "g": {
+        "original_candidates": {
+            "k": {
+                "local_count": 6,
+                "local_score_k": 0.8571,
+                "global_score_i": 0.9244
+            },
+            "s": {
+                "local_count": 1,
+                "local_score_k": 0.1429,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "k",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_k": {
+                "removed_target": "k",
+                "new_winner": "k",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.8333
+            },
+            "remove_s": {
+                "removed_target": "s",
+                "new_winner": "k",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "k": {
+        "original_candidates": {
+            "k": {
+                "local_count": 4,
+                "local_score_k": 1.0,
+                "global_score_i": 1.0
+            }
+        },
+        "original_winner": "k",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_k": {
+                "removed_target": "k",
+                "new_winner": "k",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "h": {
+        "original_candidates": {
+            "h": {
+                "local_count": 2,
+                "local_score_k": 1.0,
+                "global_score_i": 0.9467
+            }
+        },
+        "original_winner": "h",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_h": {
+                "removed_target": "h",
+                "new_winner": "h",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "j": {
+        "original_candidates": {
+            "c": {
+                "local_count": 7,
+                "local_score_k": 1.0,
+                "global_score_i": 0.8868
+            }
+        },
+        "original_winner": "c",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_c": {
+                "removed_target": "c",
+                "new_winner": "c",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "q": {
+        "original_candidates": {
+            "c": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 1.0
+            }
+        },
+        "original_winner": "c",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_c": {
+                "removed_target": "c",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "x": {
+        "original_candidates": {
+            "s": {
+                "local_count": 4,
+                "local_score_k": 1.0,
+                "global_score_i": 1.0
+            }
+        },
+        "original_winner": "s",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_s": {
+                "removed_target": "s",
+                "new_winner": "s",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "zh": {
+        "original_candidates": {
+            "c": {
+                "local_count": 5,
+                "local_score_k": 1.0,
+                "global_score_i": 0.838
+            }
+        },
+        "original_winner": "c",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_c": {
+                "removed_target": "c",
+                "new_winner": "c",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "sh": {
+        "original_candidates": {
+            "s": {
+                "local_count": 2,
+                "local_score_k": 1.0,
+                "global_score_i": 0.9836
+            }
+        },
+        "original_winner": "s",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_s": {
+                "removed_target": "s",
+                "new_winner": "s",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "z": {
+        "original_candidates": {
+            "z": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.1417
+            }
+        },
+        "original_winner": "z",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_z": {
+                "removed_target": "z",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "c": {
+        "original_candidates": {
+            "c": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 1.0
+            }
+        },
+        "original_winner": "c",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_c": {
+                "removed_target": "c",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "s": {
+        "original_candidates": {
+            "s": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 1.0
+            }
+        },
+        "original_winner": "s",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_s": {
+                "removed_target": "s",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "0c": {
+        "original_candidates": {
+            "0c": {
+                "local_count": 7,
+                "local_score_k": 1.0,
+                "global_score_i": 0.918
+            }
+        },
+        "original_winner": "0c",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_0c": {
+                "removed_target": "0c",
+                "new_winner": "0c",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "an": {
+        "original_candidates": {
+            "ang": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.1107
+            }
+        },
+        "original_winner": "ang",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_ang": {
+                "removed_target": "ang",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "eng": {
+        "original_candidates": {
+            "eng": {
+                "local_count": 2,
+                "local_score_k": 1.0,
+                "global_score_i": 0.5427
+            }
+        },
+        "original_winner": "eng",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_eng": {
+                "removed_target": "eng",
+                "new_winner": "eng",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "i": {
+        "original_candidates": {
+            "i": {
+                "local_count": 2,
+                "local_score_k": 1.0,
+                "global_score_i": 0.9194
+            }
+        },
+        "original_winner": "i",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_i": {
+                "removed_target": "i",
+                "new_winner": "i",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "u": {
+        "original_candidates": {
+            "u": {
+                "local_count": 3,
+                "local_score_k": 1.0,
+                "global_score_i": 0.6236
+            }
+        },
+        "original_winner": "u",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_u": {
+                "removed_target": "u",
+                "new_winner": "u",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "ㄩ": {
+        "original_candidates": {
+            "i": {
+                "local_count": 4,
+                "local_score_k": 1.0,
+                "global_score_i": 0.6467
+            }
+        },
+        "original_winner": "i",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_i": {
+                "removed_target": "i",
+                "new_winner": "i",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "a": {
+        "original_candidates": {
+            "a": {
+                "local_count": 5,
+                "local_score_k": 1.0,
+                "global_score_i": 0.847
+            }
+        },
+        "original_winner": "a",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_a": {
+                "removed_target": "a",
+                "new_winner": "a",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "e": {
+        "original_candidates": {
+            "e": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "e",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_e": {
+                "removed_target": "e",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "ai": {
+        "original_candidates": {
+            "ai": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.1767
+            }
+        },
+        "original_winner": "ai",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_ai": {
+                "removed_target": "ai",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "ao": {
+        "original_candidates": {
+            "aw": {
+                "local_count": 2,
+                "local_score_k": 0.2222,
+                "global_score_i": 0.5687
+            },
+            "au": {
+                "local_count": 6,
+                "local_score_k": 0.6667,
+                "global_score_i": 0.1994
+            },
+            "walau": {
+                "local_count": 1,
+                "local_score_k": 0.1111,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "au",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_aw": {
+                "removed_target": "aw",
+                "new_winner": "au",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.75
+            },
+            "remove_au": {
+                "removed_target": "au",
+                "new_winner": "au",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.625
+            },
+            "remove_walau": {
+                "removed_target": "walau",
+                "new_winner": "au",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.75
+            }
+        }
+    },
+    "ia": {
+        "original_candidates": {
+            "ya": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.06
+            }
+        },
+        "original_winner": "ya",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_ya": {
+                "removed_target": "ya",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "ie": {
+        "original_candidates": {
+            "iye": {
+                "local_count": 1,
+                "local_score_k": 0.3333,
+                "global_score_i": 0.1038
+            },
+            "i": {
+                "local_count": 2,
+                "local_score_k": 0.6667,
+                "global_score_i": 0.1664
+            }
+        },
+        "original_winner": "i",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_iye": {
+                "removed_target": "iye",
+                "new_winner": "i",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            },
+            "remove_i": {
+                "removed_target": "i",
+                "new_winner": "i",
+                "is_tie": true,
+                "is_stable": true,
+                "winner_local_score": 0.5
+            }
+        }
+    },
+    "iou": {
+        "original_candidates": {
+            "yu": {
+                "local_count": 2,
+                "local_score_k": 1.0,
+                "global_score_i": 0.1542
+            }
+        },
+        "original_winner": "yu",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_yu": {
+                "removed_target": "yu",
+                "new_winner": "yu",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "ian": {
+        "original_candidates": {
+            "in": {
+                "local_count": 1,
+                "local_score_k": 0.125,
+                "global_score_i": 0.1785
+            },
+            "ing": {
+                "local_count": 5,
+                "local_score_k": 0.625,
+                "global_score_i": 0.0308
+            },
+            "ingi": {
+                "local_count": 1,
+                "local_score_k": 0.125,
+                "global_score_i": 0.0
+            },
+            "ingn": {
+                "local_count": 1,
+                "local_score_k": 0.125,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "ing",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_in": {
+                "removed_target": "in",
+                "new_winner": "ing",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.7143
+            },
+            "remove_ing": {
+                "removed_target": "ing",
+                "new_winner": "ing",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.5714
+            },
+            "remove_ingi": {
+                "removed_target": "ingi",
+                "new_winner": "ing",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.7143
+            },
+            "remove_ingn": {
+                "removed_target": "ingn",
+                "new_winner": "ing",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.7143
+            }
+        }
+    },
+    "in": {
+        "original_candidates": {
+            "ing": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "ing",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_ing": {
+                "removed_target": "ing",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "ing": {
+        "original_candidates": {
+            "ing": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.6486
+            }
+        },
+        "original_winner": "ing",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_ing": {
+                "removed_target": "ing",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "ua": {
+        "original_candidates": {
+            "wa": {
+                "local_count": 2,
+                "local_score_k": 1.0,
+                "global_score_i": 0.1829
+            }
+        },
+        "original_winner": "wa",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_wa": {
+                "removed_target": "wa",
+                "new_winner": "wa",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "uo": {
+        "original_candidates": {
+            "u": {
+                "local_count": 3,
+                "local_score_k": 1.0,
+                "global_score_i": 0.294
+            }
+        },
+        "original_winner": "u",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_u": {
+                "removed_target": "u",
+                "new_winner": "u",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "uei": {
+        "original_candidates": {
+            "wasui": {
+                "local_count": 1,
+                "local_score_k": 0.5,
+                "global_score_i": 0.0
+            },
+            "wi": {
+                "local_count": 1,
+                "local_score_k": 0.5,
+                "global_score_i": 0.0993
+            }
+        },
+        "original_winner": "wi",
+        "original_is_tie": true,
+        "loo_test_results": {
+            "remove_wasui": {
+                "removed_target": "wasui",
+                "new_winner": "wi",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            },
+            "remove_wi": {
+                "removed_target": "wi",
+                "new_winner": "wasui",
+                "is_tie": false,
+                "is_stable": false,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "uan": {
+        "original_candidates": {
+            "wange": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "wange",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_wange": {
+                "removed_target": "wange",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "uang": {
+        "original_candidates": {
+            "wang": {
+                "local_count": 3,
+                "local_score_k": 1.0,
+                "global_score_i": 0.4711
+            }
+        },
+        "original_winner": "wang",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_wang": {
+                "removed_target": "wang",
+                "new_winner": "wang",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "ong": {
+        "original_candidates": {
+            "ung": {
+                "local_count": 3,
+                "local_score_k": 0.75,
+                "global_score_i": 0.5
+            },
+            "wakung": {
+                "local_count": 1,
+                "local_score_k": 0.25,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "ung",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_ung": {
+                "removed_target": "ung",
+                "new_winner": "ung",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 0.6667
+            },
+            "remove_wakung": {
+                "removed_target": "wakung",
+                "new_winner": "ung",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    },
+    "ㄩn": {
+        "original_candidates": {
+            "ing": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.0
+            }
+        },
+        "original_winner": "ing",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_ing": {
+                "removed_target": "ing",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "iong": {
+        "original_candidates": {
+            "yung": {
+                "local_count": 1,
+                "local_score_k": 1.0,
+                "global_score_i": 0.25
+            }
+        },
+        "original_winner": "yung",
+        "original_is_tie": false,
+        "loo_test_results": {
+            "remove_yung": {
+                "removed_target": "yung",
+                "new_winner": null,
+                "is_tie": false,
+                "is_stable": false,
+                "note": "Data became empty"
+            }
+        }
+    },
+    "0v": {
+        "original_candidates": {
+            "e": {
+                "local_count": 1,
+                "local_score_k": 0.5,
+                "global_score_i": 0.5875
+            },
+            "i": {
+                "local_count": 1,
+                "local_score_k": 0.5,
+                "global_score_i": 0.0176
+            }
+        },
+        "original_winner": "e",
+        "original_is_tie": true,
+        "loo_test_results": {
+            "remove_e": {
+                "removed_target": "e",
+                "new_winner": "i",
+                "is_tie": false,
+                "is_stable": false,
+                "winner_local_score": 1.0
+            },
+            "remove_i": {
+                "removed_target": "i",
+                "new_winner": "e",
+                "is_tie": false,
+                "is_stable": true,
+                "winner_local_score": 1.0
+            }
+        }
+    }
+}
