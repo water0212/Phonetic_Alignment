@@ -7,103 +7,185 @@ import Syllable_dictionary02
 current_dir = os.path.dirname(os.path.abspath(__file__))
 INPUT_FOLDER_NAME = "16族_中借詞_清洗版"
 OUTPUT_FOLDER_NAME = "Aligned_Results" # 輸出資料夾名稱
-DICT_FILENAME = "cedict_normalized.json"
+DICT_FILENAME = "ch_dict.json"
+CEDICT_FILENAME = "cedict_normalized.json"
 
-class PhoneticAligner:
-    def __init__(self):
-        self.consonant_chinese_groups = [
-            {'b', 'p'}, {'m'}, {'f'}, {'d', 't'}, {'n'}, {'l', 'r'},
-            {'g', 'k'}, {'d', 'j', 'z'}, {'h'}, {'j'}, {'x'},
-            {'t','q','c'}, {'z', 'c', 's', 'zh', 'ch', 'sh'},
-            {'d', 'j', 'z', 't', 'q', 'c'}, {'f'}
+def is_cjk_char(ch):
+    return "\u4e00" <= ch <= "\u9fff"
+
+
+def normalize_pinyin_token(token):
+    if token is None:
+        return ""
+    return token.strip().lower().replace("ü", "ㄩ")
+
+
+def strip_tone(token):
+    token = normalize_pinyin_token(token)
+    if token and token[-1].isdigit():
+        return token[:-1]
+    return token
+
+
+def parse_token_to_ift(token):
+    normalized = normalize_pinyin_token(token)
+    if not normalized:
+        return "0c", "0v", ""
+
+    tone = ""
+    base = normalized
+    if normalized[-1].isdigit():
+        tone = normalized[-1]
+        base = normalized[:-1]
+
+    initial, final = Syllable_dictionary02.split_syllable_by_initials(base)
+    if not initial:
+        initial = "0c"
+    if not final:
+        final = "0v"
+
+    return initial, final, tone
+
+
+def build_cedict_index(cedict_data):
+    index = {}
+    for entry in cedict_data:
+        traditional = entry.get("traditional", "")
+        pronunciations = entry.get("pronunciations", [])
+        if not traditional:
+            continue
+
+        if traditional not in index:
+            index[traditional] = []
+
+        for p in pronunciations:
+            index[traditional].append({
+                "pinyin": normalize_pinyin_token(p.get("pinyin", "")),
+                "initial": p.get("initial", "") or "0c",
+                "final": p.get("final", "") or "0v",
+                "tone": p.get("tone", "")
+            })
+    return index
+
+
+def get_word_pinyin_tokens(word, ch_dict):
+    entry = ch_dict.get(word)
+    if not entry:
+        return []
+
+    pinyin_value = entry.get("pinyin", "")
+    if not pinyin_value:
+        return []
+
+    if isinstance(pinyin_value, str):
+        raw_tokens = [t for t in pinyin_value.split() if t.strip()]
+        return [normalize_pinyin_token(t) for t in raw_tokens]
+
+    if isinstance(pinyin_value, list):
+        raw_tokens = []
+        for item in pinyin_value:
+            if isinstance(item, str):
+                raw_tokens.extend([t for t in item.split() if t.strip()])
+            elif isinstance(item, dict):
+                py = item.get("pinyin", "")
+                if isinstance(py, str):
+                    raw_tokens.extend([t for t in py.split() if t.strip()])
+        return [normalize_pinyin_token(t) for t in raw_tokens]
+
+    return []
+
+
+def select_pronunciation(char, target_token, cedict_index):
+    pronunciations = cedict_index.get(char, [])
+    if not pronunciations:
+        return None
+
+    target_norm = normalize_pinyin_token(target_token)
+    target_no_tone = strip_tone(target_norm)
+    target_initial, target_final, target_tone = parse_token_to_ift(target_norm)
+
+    if target_norm:
+        exact_if_candidates = [
+            p for p in pronunciations
+            if p.get("initial", "") == target_initial and p.get("final", "") == target_final
         ]
-        self.consonant_tsou_groups = [
-            {'b', 'p'}, {'m'}, {'f'}, {'d', 't'}, {'n'}, {'l', 'r'},
-            {'g', 'k', 'q', '’', '^'}, {'d', 'j', 'z'}, {'h'}, {'j'}, {'x'},
-            {'t','c'}, {'z', 'c', 's'}, {'d', 'j', 'z', 't', 'c'},
-            {'f','v', 'b'}
-        ]
-        self.vowel_map = {'w': 'u', 'y': 'i'}
+        if exact_if_candidates:
+            if target_tone:
+                for p in exact_if_candidates:
+                    if p.get("tone", "") == target_tone:
+                        return p
+            return exact_if_candidates[0]
 
-    def calculate_consonant_score(self, c_ch, c_ts):
-        if not c_ch and not c_ts: return 1
-        if not c_ch or not c_ts: return 0
-        
-        max_score = 0
-        for group_ch, group_ts in zip(self.consonant_chinese_groups, self.consonant_tsou_groups):
-            if c_ch in group_ch and c_ts in group_ts:
-                current_score = 1 if c_ch == c_ts else 0.8
-                max_score = max(max_score, current_score)
-        return max_score
+        for p in pronunciations:
+            if p.get("pinyin", "") == target_norm:
+                return p
 
-    def dice_coefficient(self, s1, s2):
-        def normalize(s): return "".join(self.vowel_map.get(c, c) for c in s.lower())
-        n1, n2 = normalize(s1), normalize(s2)
-        len1, len2 = len(n1), len(n2)
-        
-        if len1 == 0 or len2 == 0: return 0.0
+        for p in pronunciations:
+            if strip_tone(p.get("pinyin", "")) == target_no_tone:
+                return p
 
-        dp = [[0] * (len2 + 1) for _ in range(len1 + 1)]
-        for i in range(1, len1 + 1):
-            for j in range(1, len2 + 1):
-                if n1[i - 1] == n2[j - 1]:
-                    dp[i][j] = dp[i - 1][j - 1] + 1
-                else:
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
-        intersection = dp[len1][len2]
-        return 2.0 * intersection / (len1 + len2)
+    return pronunciations[0]
 
-    def calculate_similarity(self, syl_ch, syl_in):
-        score_onset = self.calculate_consonant_score(syl_ch['onset'], syl_in['onset'])
-        dice = self.dice_coefficient(syl_ch['rhyme'], syl_in['rhyme'])
-        return score_onset + dice
 
-def find_word_in_dict(word, dictionary, pinyin_info, aligner):
-    """在字典中尋找單詞，返回其拼音列表 (傳入 aligner 實例以節省開銷)"""
-    pinyin = [None] * len(word)
-    cnt = 0
-    for entry in dictionary:
-        key = entry.get("traditional", "")
-        if key in word:
-            cnt += 1
-            entry_pinyin = entry.get('pronunciations', [])
-            best_sum = -100
-            best_p_str = ""
-            
-            # 遍歷該字典詞條的所有發音組合
-            for p in entry_pinyin:
-                initial = p.get('initial', '')
-                final = p.get('final', '')
-                
-                # 與輸入的族語拼音結構進行比對
-                for info in pinyin_info:
-                    ini, fin = info.split(",") if "," in info else ("", "")
-                    sim = aligner.calculate_similarity(
-                        {'onset': initial, 'rhyme': final}, 
-                        {'onset': ini, 'rhyme': fin}
-                    )
-                    if sim > best_sum:
-                        best_sum = sim
-                        best_p_str = initial + "," + final
-            
-            # 將找到的最佳拼音填入對應位置
-            try:
-                idx = word.index(key)
-                pinyin[idx] = best_p_str
-            except ValueError:
-                pass # Should not happen if key in word
+def align_word_to_initial_final(word, ch_dict, cedict_index):
+    tokens = get_word_pinyin_tokens(word, ch_dict)
+    has_word_level_tokens = bool(tokens)
 
-        if cnt >= len(word) + 1:
-            break
-    
-    return pinyin
+    if not has_word_level_tokens:
+        fallback_tokens = []
+        for ch in word:
+            if not is_cjk_char(ch):
+                continue
+            pronunciations = cedict_index.get(ch, [])
+            if pronunciations:
+                fallback_tokens.append(pronunciations[0].get("pinyin", ""))
+        tokens = fallback_tokens
 
-def process_alignment_payload(data_list, dictionary):
-    """
-    接收 List[Dict] (來自 dictionary02 的輸出)，
-    進行拼音對齊計算
-    """
-    aligner = PhoneticAligner()
+    char_alignment = []
+    dict_pinyin = []
+
+    same_length = len(tokens) == len(word)
+    cjk_token_idx = 0
+
+    for idx, ch in enumerate(word):
+        token = ""
+
+        if same_length:
+            token = tokens[idx]
+        elif is_cjk_char(ch):
+            if cjk_token_idx < len(tokens):
+                token = tokens[cjk_token_idx]
+                cjk_token_idx += 1
+
+        if not is_cjk_char(ch):
+            continue
+
+        selected = select_pronunciation(ch, token, cedict_index)
+        if selected:
+            initial = selected.get("initial", "0c")
+            final = selected.get("final", "0v")
+            matched_pinyin = selected.get("pinyin", "")
+        else:
+            initial, final = "0c", "0v"
+            matched_pinyin = ""
+
+        char_alignment.append({
+            "char": ch,
+            "target_pinyin": token,
+            "matched_pinyin": matched_pinyin,
+            "initial": initial,
+            "final": final
+        })
+        dict_pinyin.append(f"{initial},{final}")
+
+    return {
+        "word_pinyin": " ".join(tokens),
+        "word_pinyin_tokens": tokens,
+        "char_alignment": char_alignment,
+        "dict_pinyin": dict_pinyin
+    }
+
+def process_alignment_payload(data_list, ch_dict, cedict_index):
     result = []
     
     for item in data_list:
@@ -114,14 +196,19 @@ def process_alignment_payload(data_list, dictionary):
         pinyin_info = []
         for syl in syllable_structure:
             pinyin_info.append(syl.get("split_display", ""))
-            
-        pinyin_ch = find_word_in_dict(word, dictionary, pinyin_info, aligner)
+
+        aligned = align_word_to_initial_final(word, ch_dict, cedict_index)
         
+        if not aligned["dict_pinyin"]:
+            print(f"⚠️ 無法對齊 '{word}' 的拼音，請檢查字典資料。")
+
         result.append({
             "chinese": word,
             "ch_semantic": ch_semantic,
             "pinyin_info": pinyin_info,
-            "dict_pinyin": pinyin_ch
+            # "word_pinyin": aligned["word_pinyin"],
+            # "word_pinyin_tokens": aligned["word_pinyin_tokens"],
+            "dict_pinyin": aligned["dict_pinyin"]
         })
     return result
 
@@ -130,6 +217,7 @@ def main():
     input_dir = os.path.join(current_dir, INPUT_FOLDER_NAME)
     output_dir = os.path.join(current_dir, OUTPUT_FOLDER_NAME)
     dict_path = os.path.join(current_dir, DICT_FILENAME)
+    cedict_path = os.path.join(current_dir, CEDICT_FILENAME)
 
     # 檢查輸入資料夾與字典
     if not os.path.exists(input_dir):
@@ -137,6 +225,9 @@ def main():
         return
     if not os.path.exists(dict_path):
         print(f"❌ 找不到字典檔: {dict_path}")
+        return
+    if not os.path.exists(cedict_path):
+        print(f"❌ 找不到字典檔: {cedict_path}")
         return
 
     # 建立輸出資料夾
@@ -147,8 +238,14 @@ def main():
     # 2. 預先載入字典 (只讀一次，提升效能)
     print(f"📖 正在載入字典 {DICT_FILENAME} ...")
     with open(dict_path, "r", encoding="utf-8") as f:
-        dictionary = json.load(f)
-    print("✅ 字典載入完成。")
+        ch_dict = json.load(f)
+    print("✅ ch_dict 載入完成。")
+
+    print(f"📖 正在載入字典 {CEDICT_FILENAME} ...")
+    with open(cedict_path, "r", encoding="utf-8") as f:
+        cedict_data = json.load(f)
+    cedict_index = build_cedict_index(cedict_data)
+    print("✅ cedict_normalized 載入完成。")
 
     # 3. 遍歷資料夾內所有檔案
     files = [f for f in os.listdir(input_dir) if f.endswith(".json")]
@@ -172,7 +269,7 @@ def main():
             step2_data = Syllable_dictionary02.process_structure_payload(step1_data)
 
             # Step D: 執行 Align_syllables03 (拼音對齊)
-            final_data = process_alignment_payload(step2_data, dictionary)
+            final_data = process_alignment_payload(step2_data, ch_dict, cedict_index)
 
             # Step E: 寫入結果
             with open(output_filepath, "w", encoding="utf-8") as f:
