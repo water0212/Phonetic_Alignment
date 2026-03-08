@@ -17,6 +17,8 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
     # 統計變數
     global_total = 0
     global_correct = 0
+    ini_correct_total = 0
+    fin_correct_total = 0
     language_stats = {}  # 用來記錄各族的統計資料
     
     for refined_file in refined_files:
@@ -28,7 +30,12 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
         lang_key = f"{prefix_num}_{lang_name}"
         
         if lang_key not in language_stats:
-            language_stats[lang_key] = {"total": 0, "correct": 0}
+            language_stats[lang_key] = {
+                "total": 0,
+                "correct": 0,
+                "ini_correct": 0,
+                "fin_correct": 0,
+            }
             
         loo_file = os.path.join(loo_dir, f"{prefix_num}_LOO_analysis.json")
         
@@ -47,6 +54,8 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
             alignment = entry.get("alignment", [])
             
             word_is_correct = True
+            ini_correct = True
+            fin_correct = True
             process_details = []
             
             for align in alignment:
@@ -98,6 +107,12 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
             if word_is_correct:
                 global_correct += 1
                 language_stats[lang_key]["correct"] += 1
+            if ini_correct:
+                ini_correct_total += 1
+                language_stats[lang_key]["ini_correct"] += 1
+            if fin_correct:
+                fin_correct_total += 1
+                language_stats[lang_key]["fin_correct"] += 1
                 
             all_results.append({
                 "族語": lang_key,
@@ -117,20 +132,30 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
     for lang_key, stats in language_stats.items():
         t = stats["total"]
         c = stats["correct"]
+        i = stats["ini_correct"]
+        f = stats["fin_correct"]
         acc = c / t if t > 0 else 0
         stats_rows.append({
             "族語名稱": lang_key,
             "總測試詞數": t,
+            "聲母正確數": i,
+            "聲母正確率": f"{i / t:.2%}" if t > 0 else "0.00%",
+            "韻母正確數": f,
+            "韻母正確率": f"{f / t:.2%}" if t > 0 else "0.00%",
             "完全正確詞數": c,
-            "正確率": f"{acc:.2%}"
+            "完全正確率": f"{acc:.2%}",
         })
         
     global_acc = global_correct / global_total if global_total > 0 else 0
     stats_rows.append({
         "族語名稱": "【整體總計】",
         "總測試詞數": global_total,
+        "聲母正確數": ini_correct_total,
+        "聲母正確率": f"{ini_correct_total / global_total:.2%}" if global_total > 0 else "0.00%",
+        "韻母正確數": fin_correct_total,
+        "韻母正確率": f"{fin_correct_total / global_total:.2%}" if global_total > 0 else "0.00%",
         "完全正確詞數": global_correct,
-        "正確率": f"{global_acc:.2%}"
+        "完全正確率": f"{global_acc:.2%}",
     })
     
     df_stats = pd.DataFrame(stats_rows)
