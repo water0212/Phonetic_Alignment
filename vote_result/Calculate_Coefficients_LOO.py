@@ -172,7 +172,7 @@ def main():
                 }
 
             final_output[src] = {
-                "original_candidates": original_candidates,
+                "original_stats": original_candidates,
                 "original_winner": original_winner,
                 "original_is_tie": original_is_tie, # 也記錄原始是否平手
                 "loo_test_results": loo_results

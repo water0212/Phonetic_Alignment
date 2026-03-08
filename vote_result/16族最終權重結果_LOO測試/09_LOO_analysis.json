@@ -1,6 +1,6 @@
 {
     "b": {
-        "original_candidates": {
+        "original_stats": {
             "p": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -20,7 +20,7 @@
         }
     },
     "d": {
-        "original_candidates": {
+        "original_stats": {
             "t": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -40,7 +40,7 @@
         }
     },
     "g": {
-        "original_candidates": {
+        "original_stats": {
             "k": {
                 "local_count": 2,
                 "local_score_k": 1.0,
@@ -60,7 +60,7 @@
         }
     },
     "k": {
-        "original_candidates": {
+        "original_stats": {
             "k": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -80,7 +80,7 @@
         }
     },
     "j": {
-        "original_candidates": {
+        "original_stats": {
             "c": {
                 "local_count": 2,
                 "local_score_k": 1.0,
@@ -100,7 +100,7 @@
         }
     },
     "sh": {
-        "original_candidates": {
+        "original_stats": {
             "s": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -120,7 +120,7 @@
         }
     },
     "0c": {
-        "original_candidates": {
+        "original_stats": {
             "0c": {
                 "local_count": 1,
                 "local_score_k": 0.5,
@@ -152,7 +152,7 @@
         }
     },
     "a": {
-        "original_candidates": {
+        "original_stats": {
             "a": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -172,7 +172,7 @@
         }
     },
     "ao": {
-        "original_candidates": {
+        "original_stats": {
             "a": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -192,7 +192,7 @@
         }
     },
     "ie": {
-        "original_candidates": {
+        "original_stats": {
             "e": {
                 "local_count": 1,
                 "local_score_k": 0.5,
@@ -224,7 +224,7 @@
         }
     },
     "ian": {
-        "original_candidates": {
+        "original_stats": {
             "yon": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -244,7 +244,7 @@
         }
     },
     "ua": {
-        "original_candidates": {
+        "original_stats": {
             "oa": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -264,7 +264,7 @@
         }
     },
     "un": {
-        "original_candidates": {
+        "original_stats": {
             "on": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -284,7 +284,7 @@
         }
     },
     "uang": {
-        "original_candidates": {
+        "original_stats": {
             "ang": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -304,7 +304,7 @@
         }
     },
     "ong": {
-        "original_candidates": {
+        "original_stats": {
             "o": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -324,7 +324,7 @@
         }
     },
     "ㄩn": {
-        "original_candidates": {
+        "original_stats": {
             "ying": {
                 "local_count": 1,
                 "local_score_k": 1.0,

@@ -1,6 +1,6 @@
 {
     "b": {
-        "original_candidates": {
+        "original_stats": {
             "p": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -20,7 +20,7 @@
         }
     },
     "l": {
-        "original_candidates": {
+        "original_stats": {
             "l": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -40,7 +40,7 @@
         }
     },
     "i": {
-        "original_candidates": {
+        "original_stats": {
             "i": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -60,7 +60,7 @@
         }
     },
     "a": {
-        "original_candidates": {
+        "original_stats": {
             "a": {
                 "local_count": 1,
                 "local_score_k": 1.0,

@@ -1,6 +1,6 @@
 {
     "g": {
-        "original_candidates": {
+        "original_stats": {
             "k": {
                 "local_count": 2,
                 "local_score_k": 1.0,
@@ -20,7 +20,7 @@
         }
     },
     "k": {
-        "original_candidates": {
+        "original_stats": {
             "k": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -40,7 +40,7 @@
         }
     },
     "0c": {
-        "original_candidates": {
+        "original_stats": {
             "0c": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -60,7 +60,7 @@
         }
     },
     "a": {
-        "original_candidates": {
+        "original_stats": {
             "a": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -80,7 +80,7 @@
         }
     },
     "ao": {
-        "original_candidates": {
+        "original_stats": {
             "aw": {
                 "local_count": 1,
                 "local_score_k": 1.0,
@@ -100,7 +100,7 @@
         }
     },
     "uang": {
-        "original_candidates": {
+        "original_stats": {
             "wang": {
                 "local_count": 2,
                 "local_score_k": 1.0,

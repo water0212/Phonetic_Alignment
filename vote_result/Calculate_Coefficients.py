@@ -1,18 +1,20 @@
 import json
 import os
+import copy
 
+# === 設定區 ===
 VOTE_FOLDER_NAME = '16族發音統計結果'
-# 設定 Global 檔案前綴
 GLOBAL_STATS_PREFIX = 'global_statistics_exclude_' 
 DICT_FOLDER_NAME = 'fm_dict' 
+OUTPUT_FOLDER_NAME = '16族最終權重結果_LOO測試' # 新的輸出位置
 
-# 權重設定
+# 權重設定 (用於計算 Global Score)
 RANK_WEIGHT = 0.7
 COUNT_WEIGHT = 0.3
 
 def calculate_i_score(src, tgt, global_data, global_denominators):
     """
-    輔助函式：計算全域分數 i
+    計算全域分數 i (保持不變)
     """
     if src not in global_data or tgt not in global_data[src]:
         return 0.0
@@ -31,28 +33,62 @@ def calculate_i_score(src, tgt, global_data, global_denominators):
     
     return (part_rank * RANK_WEIGHT) + (part_count * COUNT_WEIGHT)
 
-def is_target_contained_in_sentences(target, dict_data):
+def calculate_candidates_scores(src, current_targets, global_data, global_denominators):
     """
-    檢查候選發音字串是否包含在該族詞典的 fm_sentence 中
+    核心計算邏輯：傳入一組 targets (可能是原始的，也可能是減 1 後的)，
+    回傳計算好分數的候選人列表。
     """
-    if not target: return False
-    for word_entries in dict_data.values():
-        for entry in word_entries:
-            senses = entry.get('sense', [])
-            for s in senses:
-                examples = s.get('example', [])
-                for ex in examples:
-                    sentence = ex.get('fm_sentence', '')
-                    if target in sentence:
-                        return True
-    return False
+    candidates = {}
+    local_total_count = sum(current_targets.values())
+
+    for tgt, count in current_targets.items():
+        # 1. 計算 Local Score (k)
+        k_score = count / local_total_count if local_total_count > 0 else 0
+        
+        # 2. 計算 Global Score (i)
+        i_score = calculate_i_score(src, tgt, global_data, global_denominators)
+        
+        # 3. 存入資料
+        candidates[tgt] = {
+            'local_count': count,
+            'local_score_k': round(k_score, 4),
+            'global_score_i': round(i_score, 4),
+            # 這裡可以定義一個綜合分數，目前邏輯主要是看 local_count，輔以 global_i
+            # 為了方便排序，我們之後會用到 tuple
+        }
+    return candidates
+
+def get_winner(candidates_dict):
+    """
+    決定贏家是誰
+    規則：
+    1. Local Count 越高越好
+    2. 如果 Local Count 一樣，Global Score 越高越好
+    """
+    if not candidates_dict:
+        return None, 0
+        
+    # 轉成 list 進行排序: (target, data)
+    items = list(candidates_dict.items())
+    
+    # 排序鍵：(local_count, global_score_i) 都是由大到小
+    # Python 的 sort 是穩定的，且 tuple 比較是依序比較
+    items.sort(key=lambda x: (x[1]['local_count'], x[1]['global_score_i']), reverse=True)
+    
+    winner_target = items[0][0]
+    winner_data = items[0][1]
+    
+    # 這裡回傳贏家名稱，以及一個代表分數的數值(這裡暫用 local_score_k 代表信心度)
+    return winner_target, winner_data['local_score_k']
 
 def main():
     # 1. 設定路徑
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    # 假設資料夾與程式在同一層
     vote_dir = os.path.join(os.path.dirname(current_dir), VOTE_FOLDER_NAME)
-    dict_dir = os.path.join(os.path.dirname(current_dir), DICT_FOLDER_NAME)
+    output_dir = os.path.join(current_dir, OUTPUT_FOLDER_NAME)
+
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
     if not os.path.exists(vote_dir):
         print(f"❌ 錯誤: 找不到 vote 資料夾 {vote_dir}")
@@ -60,25 +96,21 @@ def main():
 
     # 2. 遍歷 vote 資料夾中的所有 JSON
     vote_files = [f for f in os.listdir(vote_dir) if f.endswith('.json')]
-    print(f"📂 找到 {len(vote_files)} 個檔案，開始計算分數...")
+    print(f"📂 找到 {len(vote_files)} 個檔案，開始執行 LOO 敏感度分析...")
 
     for filename in vote_files:
         file_path = os.path.join(vote_dir, filename)
-        
-        # --- 取得檔案編號 (例如 "01") ---
         file_id = filename.split('_')[0] 
         
-        # --- 讀取對應的 Global Statistics (Leave-One-Out) ---
+        # --- 讀取 Global Statistics ---
         global_filename = f"{GLOBAL_STATS_PREFIX}{file_id}.json"
-        # 優先找 vote_coefficient 資料夾
         global_stats_path = os.path.join(current_dir, "global_statistics", global_filename)
         
-        # 如果找不到，找當前目錄
         if not os.path.exists(global_stats_path):
-             global_stats_path = os.path.join(current_dir, global_filename)
+            global_stats_path = os.path.join(current_dir, global_filename)
 
         if not os.path.exists(global_stats_path):
-            print(f"⚠️ 警告: 找不到對應的 Global 檔 {global_filename}，跳過 {filename}")
+            print(f"⚠️ 跳過 {filename}: 找不到 Global 檔")
             continue
 
         with open(global_stats_path, 'r', encoding='utf-8') as f:
@@ -95,107 +127,83 @@ def main():
                     sum_count += stats[1]
             global_denominators[src] = {'sum_rank': sum_rank, 'sum_count': sum_count}
 
-        # --- 讀取對應詞典 ---
-        dict_data = None
-        if os.path.exists(dict_dir):
-            dict_filename = next((f for f in os.listdir(dict_dir) if f.startswith(f"{file_id}_ilrdf_dict")), None)
-            if dict_filename:
-                with open(os.path.join(dict_dir, dict_filename), 'r', encoding='utf-8') as f:
-                    dict_data = json.load(f)
-
-        # --- 讀取本地 Vote 資料 ---
+        # --- 讀取 Local Vote 資料 ---
         with open(file_path, 'r', encoding='utf-8') as f:
             local_data = json.load(f)
         
-        processed_data = {}
+        final_output = {}
 
-        # 針對該檔案的每一個 Source
+        # 針對該檔案的每一個 Source (例如 "中文發音")
         for src, targets in local_data.items():
-            temp_results = []
+            if not targets:
+                continue
 
             # ==========================================
-            # 情況 A: 本地有資料 (Local Data Exists)
+            # 步驟 1: 原始狀態計算 (Original Baseline)
             # ==========================================
-            if targets:
-                local_total_count = sum(targets.values())
+            original_candidates = calculate_candidates_scores(src, targets, global_data, global_denominators)
+            original_winner, _ = get_winner(original_candidates)
 
-                # 只遍歷「本地有出現過」的 targets
-                for tgt, count in targets.items():
-                    k_score = count / local_total_count if local_total_count > 0 else 0
-                    i_score = calculate_i_score(src, tgt, global_data, global_denominators)
-
-                    temp_results.append({
-                        'target': tgt,
-                        'local_count': count,
-                        'global_i': i_score,
-                        'data': {
-                            'local_count': count, 
-                            'local_score_k': round(k_score, 4),
-                            'global_score_i': round(i_score, 4),
-                            'note': 'Local Vote'
-                        }
-                    })
+            # ==========================================
+            # 步驟 2: Leave-One-Out 測試 (Stability Test)
+            # ==========================================
+            loo_results = {}
+            
+            # 針對每一個「有出現過」的 target，試著把它減 1
+            for remove_target in targets.keys():
+                # 深拷貝，確保不影響原始資料
+                temp_targets = copy.deepcopy(targets)
                 
-                # 排序：先比 local_count (大到小)，再比 global_i (大到小)
-                temp_results.sort(key=lambda x: (x['local_count'], x['global_i']), reverse=True)
+                # 執行減 1
+                if temp_targets[remove_target] > 0:
+                    temp_targets[remove_target] -= 1
                 
-                # 【重點】這裡不切片，保留所有本地有票的候選者
+                # 如果減完變 0，通常我們會把它從候選名單移除 (或者保留但 count=0)
+                # 這裡選擇移除，模擬「這個樣本從未存在」
+                if temp_targets[remove_target] == 0:
+                    del temp_targets[remove_target]
+                
+                # 如果全部都被刪光了 (原本只有1個樣本，減完變0)
+                if not temp_targets:
+                    loo_results[f"remove_{remove_target}"] = {
+                        "removed_target": remove_target,
+                        "new_winner": None,
+                        "is_stable": False,
+                        "note": "Data became empty"
+                    }
+                    continue
+
+                # 重新計算分數
+                new_candidates = calculate_candidates_scores(src, temp_targets, global_data, global_denominators)
+                new_winner, new_score = get_winner(new_candidates)
+                
+                # 記錄結果
+                loo_results[f"remove_{remove_target}"] = {
+                    "removed_target": remove_target,
+                    "new_winner": new_winner,
+                    "is_stable": (new_winner == original_winner), # 關鍵指標：贏家有沒有換人？
+                    "winner_local_score": new_score
+                }
 
             # ==========================================
-            # 情況 B: 本地無資料 (No Local Data) -> 查 Global
+            # 步驟 3: 組合最終結構
             # ==========================================
-            else:
-                if src in global_data and global_data[src]:
-                    candidates = []
-                    for g_tgt in global_data[src]:
-                        current_i = calculate_i_score(src, g_tgt, global_data, global_denominators)
-                        candidates.append((g_tgt, current_i))
-                    
-                    # 依全域分數由高到低排序
-                    candidates.sort(key=lambda x: x[1], reverse=True)
+            final_output[src] = {
+                "original_candidates": original_candidates,
+                "original_winner": original_winner,
+                "loo_test_results": loo_results
+            }
 
-                    best_target = None
-                    max_i_score = -1.0
-
-                    # 尋找第一個「出現在語料中」的發音
-                    for g_tgt, g_i in candidates:
-                        if dict_data is None or is_target_contained_in_sentences(g_tgt, dict_data):
-                            best_target = g_tgt
-                            max_i_score = g_i
-                            break 
-                    
-                    # 兜底：如果都沒符合，選全域第一名
-                    if best_target is None and candidates:
-                        best_target, max_i_score = candidates[0]
-
-                    if best_target is not None:
-                        temp_results.append({
-                            'target': best_target,
-                            'local_count': 0,
-                            'global_i': max_i_score,
-                            'data': {
-                                'local_count': 0,
-                                'local_score_k': 0.0,
-                                'global_score_i': round(max_i_score, 4),
-                                'note': 'Auto-filled from Global'
-                            }
-                        })
-
-            # --- 重組回字典格式 ---
-            processed_data[src] = {}
-            for item in temp_results:
-                processed_data[src][item['target']] = item['data']
-
-        # 5. 輸出結果
-        output_path = os.path.join(current_dir, filename) 
+        # 輸出結果
+        output_filename = f"{file_id}_LOO_analysis.json"
+        output_path = os.path.join(output_dir, output_filename)
         
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(processed_data, f, ensure_ascii=False, indent=4)
+            json.dump(final_output, f, ensure_ascii=False, indent=4)
             
-        status = "已校驗" if dict_data else "無字典可參考"
-        print(f"   ✅ 已輸出: {filename} (Local優先/Global補缺) | {status}")
+        print(f"   ✅ 已輸出: {output_filename}")
 
-    print("\n🎉 所有檔案處理完成！")
+    print("\n🎉 所有檔案 LOO 分析完成！")
 
 if __name__ == "__main__":
     main()
