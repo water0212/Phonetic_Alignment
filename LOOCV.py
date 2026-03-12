@@ -19,38 +19,64 @@ if MODULE_DIR not in sys.path:
 import Align_syllables03
 
 
-def get_best_phoneme(ch_phoneme, vote_data, word_deductions):
+def get_top3_phonemes(ch_phoneme, vote_data, word_deductions):
     """
-    動態計算扣除該詞發音後的最佳推薦音
+    動態計算扣除該詞發音後的所有候選音，並回傳排序後的前三名與其詳細票數變化
     """
+    # 如果這個中文音不在 vote 資料裡，回傳空陣列
     if ch_phoneme not in vote_data or not vote_data[ch_phoneme]:
-        return None
+        return []
 
     candidates = vote_data[ch_phoneme]
-    best_tgt = None
-    best_score = -1
-    best_global = -1
+    scored_candidates = []
 
+    # 走訪所有可能的族語發音候選項
     for tgt_phoneme, stats in candidates.items():
         original_count = stats.get("local_count", 0)
         
+        # 查詢這個對應 (ch_phoneme -> tgt_phoneme) 在「當前這個詞」中出現了幾次
         deduct = 0
         if ch_phoneme in word_deductions and tgt_phoneme in word_deductions[ch_phoneme]:
             deduct = word_deductions[ch_phoneme][tgt_phoneme]
 
+        # 扣除掉這個詞的出現次數 (最低為0)
         adj_count = max(0, original_count - deduct)
         global_score = stats.get("global_score_i", 0.0)
 
-        if adj_count > best_score:
-            best_score = adj_count
-            best_global = global_score
-            best_tgt = tgt_phoneme
-        elif adj_count == best_score:
-            if global_score > best_global:
-                best_global = global_score
-                best_tgt = tgt_phoneme
+        # 記錄所有詳細資訊，包含變化前後的票數
+        scored_candidates.append({
+            "phoneme": tgt_phoneme,
+            "original_count": original_count,
+            "deduct": deduct,
+            "adj_count": adj_count,
+            "global_score": global_score
+        })
 
-    return best_tgt
+    # 排序規則：優先比較剩餘票數(adj_count)降冪，若平手則比較全域分數(global_score)降冪
+    scored_candidates.sort(key=lambda x: (x["adj_count"], x["global_score"]), reverse=True)
+
+    # 回傳前三名
+    return scored_candidates[:3]
+
+def format_top3_display(top3_list):
+    """
+    將前三名的資料格式化為易讀的字串，包含 LOO 票數前後變化
+    格式範例: p(12-2=10), m(3-0=3)
+    """
+    if not top3_list:
+        return "N/A"
+        
+    formatted_items = []
+    for item in top3_list:
+        phoneme = item['phoneme']
+        orig = item['original_count']
+        deduct = item['deduct']
+        adj = item['adj_count']
+        
+        # 組合字串，例如： p(12-2=10)
+        formatted_items.append(f"{phoneme}({orig}-{deduct}={adj})")
+        
+    return ", ".join(formatted_items)
 
 def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, cedict_index):
     refined_pattern = os.path.join(refined_dir, "refined_*.json")
@@ -101,6 +127,9 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
                 print(f"⚠️ 字數不匹配跳過: '{word}' (動態:{len(char_alignments)}字 vs 標註:{len(alignment)}字)")
                 continue
 
+            # ==========================================
+            # 統計當前詞彙的發音
+            # ==========================================
             word_deductions = {}
             for dyn_char, align in zip(char_alignments, alignment):
                 ch_ini = dyn_char.get("initial", "0c")
@@ -118,6 +147,9 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
             word_is_correct = True
             process_details = []
             
+            # ==========================================
+            # 進行 LOO 預測並記錄前三名
+            # ==========================================
             for dyn_char, align in zip(char_alignments, alignment):
                 ch_ini = dyn_char.get("initial", "0c")
                 ch_fin = dyn_char.get("final", "0v")
@@ -125,20 +157,26 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
                 gt_ini = align.get("tsou_syllable", {}).get("initial", "") or "0c"
                 gt_fin = align.get("tsou_syllable", {}).get("final", "") or "0v"
                 
-                pred_ini = get_best_phoneme(ch_ini, vote_data, word_deductions)
-                pred_fin = get_best_phoneme(ch_fin, vote_data, word_deductions)
+                # 取得前三名的預測陣列
+                top3_ini = get_top3_phonemes(ch_ini, vote_data, word_deductions)
+                top3_fin = get_top3_phonemes(ch_fin, vote_data, word_deductions)
                 
-                pred_ini = pred_ini if pred_ini is not None else "N/A"
-                pred_fin = pred_fin if pred_fin is not None else "N/A"
+                # 判斷正確與否 (使用 Top 1 第一名作為標準)
+                pred_ini_top1 = top3_ini[0]["phoneme"] if top3_ini else "N/A"
+                pred_fin_top1 = top3_fin[0]["phoneme"] if top3_fin else "N/A"
                 
-                ini_correct = (pred_ini == gt_ini)
-                fin_correct = (pred_fin == gt_fin)
+                ini_correct = (pred_ini_top1 == gt_ini)
+                fin_correct = (pred_fin_top1 == gt_fin)
                 
                 if not ini_correct or not fin_correct:
                     word_is_correct = False
                     
+                # 將前三名格式化成文字 (包含票數變化)
+                str_top3_ini = format_top3_display(top3_ini)
+                str_top3_fin = format_top3_display(top3_fin)
+                
                 detail = (f"中({ch_ini},{ch_fin}) -> "
-                          f"預測({pred_ini},{pred_fin}) | "
+                          f"預測聲母:[{str_top3_ini}] 預測韻母:[{str_top3_fin}] | "
                           f"解答({gt_ini},{gt_fin})")
                 process_details.append(detail)
                 
@@ -194,12 +232,10 @@ if __name__ == "__main__":
     # ==========================================
     # 2. 設定資料夾與檔案相對路徑
     # ==========================================
-    # 以下請依照 LOOCV.py 所在的相對位置來設定
     REFINED_DIR = "Refined_Excel/"      
     VOTE_DIR = "vote_result/"             
-    OUTPUT_FILE = "LOO_WordLevel_Validation_Results.xlsx" 
+    OUTPUT_FILE = "LOOCV_Results.xlsx" 
     
-    # 假設字典檔跟模組放在同一個目錄 (MODULE_DIR)
     DICT_FILENAME = os.path.join(MODULE_DIR, "ch_dict.json")
     CEDICT_FILENAME = os.path.join(MODULE_DIR, "cedict_normalized.json")
     
