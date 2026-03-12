@@ -1,10 +1,58 @@
 import json
 import os
+import sys
 import glob
 import pandas as pd
 
-def process_loo_validation(refined_dir, loo_dir, output_excel_path):
-    # 找尋資料夾內所有的 refined_ JSON 檔案
+# ==========================================
+# 1. 動態引入其他資料夾的模組
+# ==========================================
+# 取得目前 LOOCV.py 所在的絕對路徑目錄
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
+MODULE_DIR = os.path.abspath(os.path.join(current_dir, "Ailgn_syllables")) 
+
+# 將該路徑加入 Python 的搜尋路徑中
+if MODULE_DIR not in sys.path:
+    sys.path.append(MODULE_DIR)
+
+import Align_syllables03
+
+
+def get_best_phoneme(ch_phoneme, vote_data, word_deductions):
+    """
+    動態計算扣除該詞發音後的最佳推薦音
+    """
+    if ch_phoneme not in vote_data or not vote_data[ch_phoneme]:
+        return None
+
+    candidates = vote_data[ch_phoneme]
+    best_tgt = None
+    best_score = -1
+    best_global = -1
+
+    for tgt_phoneme, stats in candidates.items():
+        original_count = stats.get("local_count", 0)
+        
+        deduct = 0
+        if ch_phoneme in word_deductions and tgt_phoneme in word_deductions[ch_phoneme]:
+            deduct = word_deductions[ch_phoneme][tgt_phoneme]
+
+        adj_count = max(0, original_count - deduct)
+        global_score = stats.get("global_score_i", 0.0)
+
+        if adj_count > best_score:
+            best_score = adj_count
+            best_global = global_score
+            best_tgt = tgt_phoneme
+        elif adj_count == best_score:
+            if global_score > best_global:
+                best_global = global_score
+                best_tgt = tgt_phoneme
+
+    return best_tgt
+
+def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, cedict_index):
     refined_pattern = os.path.join(refined_dir, "refined_*.json")
     refined_files = glob.glob(refined_pattern)
     
@@ -13,83 +61,76 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
         return
 
     all_results = []
-    
-    # 統計變數
     global_total = 0
     global_correct = 0
-    ini_correct_total = 0
-    fin_correct_total = 0
-    language_stats = {}  # 用來記錄各族的統計資料
+    language_stats = {}  
     
     for refined_file in refined_files:
         base_name = os.path.basename(refined_file)
         parts = base_name.split('_')
         prefix_num = parts[1] if len(parts) > 1 else "Unknown"
-        lang_name = parts[2] if len(parts) > 2 else f"Language_{prefix_num}"
+        lang_name = parts[2].replace(".json", "") if len(parts) > 2 else f"Language_{prefix_num}"
         
         lang_key = f"{prefix_num}_{lang_name}"
         
         if lang_key not in language_stats:
-            language_stats[lang_key] = {
-                "total": 0,
-                "correct": 0,
-                "ini_correct": 0,
-                "fin_correct": 0,
-            }
+            language_stats[lang_key] = {"total": 0, "correct": 0}
             
-        loo_file = os.path.join(loo_dir, f"{prefix_num}_LOO_analysis.json")
+        vote_file = os.path.join(vote_dir, f"{prefix_num}_output_alignment_voted.json")
         
-        if not os.path.exists(loo_file):
-            print(f"⚠️ 找不到對應的 LOO 檔案: {loo_file}，略過 {base_name}")
+        if not os.path.exists(vote_file):
+            print(f"⚠️ 找不到對應的 Vote 檔案: {vote_file}，略過 {base_name}")
             continue
             
         with open(refined_file, 'r', encoding='utf-8') as f:
             refined_data = json.load(f)
             
-        with open(loo_file, 'r', encoding='utf-8') as f:
-            loo_analysis = json.load(f)
+        with open(vote_file, 'r', encoding='utf-8') as f:
+            vote_data = json.load(f)
             
         for entry in refined_data:
             word = entry.get("chinese", "")
             alignment = entry.get("alignment", [])
             
+            # 呼叫 Align_syllables03 動態拆解該詞彙
+            dynamic_alignment_result = Align_syllables03.align_word_to_initial_final(word, ch_dict, cedict_index)
+            char_alignments = dynamic_alignment_result.get("char_alignment", [])
+            
+            # 防呆：確保動態拆解出來的字數與標註檔案中的字數一致
+            if len(char_alignments) != len(alignment):
+                print(f"⚠️ 字數不匹配跳過: '{word}' (動態:{len(char_alignments)}字 vs 標註:{len(alignment)}字)")
+                continue
+
+            word_deductions = {}
+            for dyn_char, align in zip(char_alignments, alignment):
+                ch_ini = dyn_char.get("initial", "0c")
+                ch_fin = dyn_char.get("final", "0v")
+                
+                gt_ini = align.get("tsou_syllable", {}).get("initial", "") or "0c"
+                gt_fin = align.get("tsou_syllable", {}).get("final", "") or "0v"
+                
+                if ch_ini not in word_deductions: word_deductions[ch_ini] = {}
+                word_deductions[ch_ini][gt_ini] = word_deductions[ch_ini].get(gt_ini, 0) + 1
+                
+                if ch_fin not in word_deductions: word_deductions[ch_fin] = {}
+                word_deductions[ch_fin][gt_fin] = word_deductions[ch_fin].get(gt_fin, 0) + 1
+
             word_is_correct = True
-            ini_correct = True
-            fin_correct = True
             process_details = []
             
-            for align in alignment:
-                # 取得中文拼音拆解
-                ch_syl = align.get("chinese_syllable", {})
-                ch_ini = ch_syl.get("initial", "") or "0c"
-                ch_fin = ch_syl.get("final", "") or "0v"
+            for dyn_char, align in zip(char_alignments, alignment):
+                ch_ini = dyn_char.get("initial", "0c")
+                ch_fin = dyn_char.get("final", "0v")
                 
-                # 取得標準答案的族語拼音
-                ts_syl = align.get("tsou_syllable", {})
-                gt_ini = ts_syl.get("initial", "") or "0c"
-                gt_fin = ts_syl.get("final", "") or "0v"
+                gt_ini = align.get("tsou_syllable", {}).get("initial", "") or "0c"
+                gt_fin = align.get("tsou_syllable", {}).get("final", "") or "0v"
                 
-                # ===== 預測聲母 =====
-                pred_ini = None
-                if ch_ini in loo_analysis:
-                    remove_key = f"remove_{gt_ini}"
-                    loo_res = loo_analysis[ch_ini].get("loo_test_results", {})
-                    if remove_key in loo_res:
-                        pred_ini = loo_res[remove_key].get("new_winner")
-                    else:
-                        pred_ini = loo_analysis[ch_ini].get("original_winner")
+                pred_ini = get_best_phoneme(ch_ini, vote_data, word_deductions)
+                pred_fin = get_best_phoneme(ch_fin, vote_data, word_deductions)
                 
-                # ===== 預測韻母 =====
-                pred_fin = None
-                if ch_fin in loo_analysis:
-                    remove_key = f"remove_{gt_fin}"
-                    loo_res = loo_analysis[ch_fin].get("loo_test_results", {})
-                    if remove_key in loo_res:
-                        pred_fin = loo_res[remove_key].get("new_winner")
-                    else:
-                        pred_fin = loo_analysis[ch_fin].get("original_winner")
+                pred_ini = pred_ini if pred_ini is not None else "N/A"
+                pred_fin = pred_fin if pred_fin is not None else "N/A"
                 
-                # 比對
                 ini_correct = (pred_ini == gt_ini)
                 fin_correct = (pred_fin == gt_fin)
                 
@@ -107,12 +148,6 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
             if word_is_correct:
                 global_correct += 1
                 language_stats[lang_key]["correct"] += 1
-            if ini_correct:
-                ini_correct_total += 1
-                language_stats[lang_key]["ini_correct"] += 1
-            if fin_correct:
-                fin_correct_total += 1
-                language_stats[lang_key]["fin_correct"] += 1
                 
             all_results.append({
                 "族語": lang_key,
@@ -121,9 +156,6 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
                 "是否完全正確": "是" if word_is_correct else "否"
             })
 
-    # ==========================
-    # 產生統計結果
-    # ==========================
     if global_total == 0:
         print("❌ 沒有成功處理任何資料，請檢查資料夾路徑與檔案名稱格式是否正確。")
         return
@@ -132,30 +164,20 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
     for lang_key, stats in language_stats.items():
         t = stats["total"]
         c = stats["correct"]
-        i = stats["ini_correct"]
-        f = stats["fin_correct"]
         acc = c / t if t > 0 else 0
         stats_rows.append({
             "族語名稱": lang_key,
             "總測試詞數": t,
-            "聲母正確數": i,
-            "聲母正確率": f"{i / t:.2%}" if t > 0 else "0.00%",
-            "韻母正確數": f,
-            "韻母正確率": f"{f / t:.2%}" if t > 0 else "0.00%",
             "完全正確詞數": c,
-            "完全正確率": f"{acc:.2%}",
+            "正確率": f"{acc:.2%}"
         })
         
     global_acc = global_correct / global_total if global_total > 0 else 0
     stats_rows.append({
         "族語名稱": "【整體總計】",
         "總測試詞數": global_total,
-        "聲母正確數": ini_correct_total,
-        "聲母正確率": f"{ini_correct_total / global_total:.2%}" if global_total > 0 else "0.00%",
-        "韻母正確數": fin_correct_total,
-        "韻母正確率": f"{fin_correct_total / global_total:.2%}" if global_total > 0 else "0.00%",
         "完全正確詞數": global_correct,
-        "完全正確率": f"{global_acc:.2%}",
+        "正確率": f"{global_acc:.2%}"
     })
     
     df_stats = pd.DataFrame(stats_rows)
@@ -165,19 +187,36 @@ def process_loo_validation(refined_dir, loo_dir, output_excel_path):
         df_stats.to_excel(writer, sheet_name="正確率統計", index=False)
         df_details.to_excel(writer, sheet_name="詳細結果", index=False)
         
-    print(f"✅ 已成功匯出 LOO 測試結果至: {output_excel_path}")
+    print(f"✅ 已成功匯出 Word-Level LOO 測試結果至: {output_excel_path}")
     print(f"✅ 整體總正確率為: {global_acc:.2%}")
 
 if __name__ == "__main__":
-    # --------------------------------------------------------------------
-    # 在這裡設定您的「相對路徑」
-    # ../ 代表上一層資料夾。請根據您執行 Python 腳本的「當前位置」進行修改
-    # --------------------------------------------------------------------
-    REFINED_DIR = "Refined_Excel/"      # 存放 refined_XX_XX語.json 的資料夾
-    LOO_DIR = "vote_result/16族最終權重結果_LOO測試/"             # 存放 XX_LOO_analysis.json 的資料夾
-    OUTPUT_FILE = "./LOO_Validation_Results.xlsx" # 輸出的 Excel 檔案位置
+    # ==========================================
+    # 2. 設定資料夾與檔案相對路徑
+    # ==========================================
+    # 以下請依照 LOOCV.py 所在的相對位置來設定
+    REFINED_DIR = "Refined_Excel/"      
+    VOTE_DIR = "vote_result/"             
+    OUTPUT_FILE = "LOO_WordLevel_Validation_Results.xlsx" 
     
+    # 假設字典檔跟模組放在同一個目錄 (MODULE_DIR)
+    DICT_FILENAME = os.path.join(MODULE_DIR, "ch_dict.json")
+    CEDICT_FILENAME = os.path.join(MODULE_DIR, "cedict_normalized.json")
+    
+    print(f"📖 正在從 {MODULE_DIR} 載入字典...")
+    try:
+        with open(DICT_FILENAME, "r", encoding="utf-8") as f:
+            ch_dict = json.load(f)
+        with open(CEDICT_FILENAME, "r", encoding="utf-8") as f:
+            cedict_data = json.load(f)
+        
+        cedict_index = Align_syllables03.build_cedict_index(cedict_data)
+        print("✅ 字典載入完成！")
+    except Exception as e:
+        print(f"❌ 讀取字典失敗，請確認檔案路徑是否正確: {e}")
+        exit()
+
     print(f"準備讀取 Refined 資料夾: {REFINED_DIR}")
-    print(f"準備讀取 LOO 資料夾: {LOO_DIR}")
+    print(f"準備讀取 Vote 資料夾: {VOTE_DIR}")
     
-    process_loo_validation(REFINED_DIR, LOO_DIR, OUTPUT_FILE)
+    process_word_level_loocv(REFINED_DIR, VOTE_DIR, OUTPUT_FILE, ch_dict, cedict_index)
