@@ -68,6 +68,33 @@ class PhoneticAligner:
             {'u'}, #新加入u，因為在對齊過程中發現這個韻母在某些情況下與中文的o有相似性}
             {'y','e'}
         ]
+    def reconstruct_tsou_word(self, alignment_result):
+            """
+            將對齊結果中的族語音節合併回原始單字
+            過濾規則：
+            1. 忽略 None (中文缺失的情況通常族語還在，但若族語也是 None 則忽略)
+            2. 移除 '0c' (無聲母)
+            3. 移除 '0v' (無韻母)
+            """
+            reconstructed_word = ""
+            
+            for item in alignment_result:
+                # item 結構: (ch_syllable, ts_syllable, status)
+                ts_syl = item[1]
+                
+                if ts_syl:
+                    # 取得聲母與韻母，預設為空字串以免報錯
+                    initial = ts_syl.get('initial', '')
+                    final = ts_syl.get('final', '')
+                    
+                    # 過濾 0c, 0v
+                    if initial == '0c': initial = ''
+                    if final == '0v': final = ''
+                    
+                    # 組合
+                    reconstructed_word += initial + final
+                    
+            return reconstructed_word
 
     def calculate_consonant_score(self, c_ch, c_ts):
         if c_ch == "0c" and c_ts == "0c": return 1
@@ -448,11 +475,14 @@ def process_single_file(json_file_path, output_excel_path, output_json_path):
             }
             aligned_syllables_data.append(syllable_entry)
 
+        tsou_word_reconstructed = aligner.reconstruct_tsou_word(final_alignment)
+        
         json_results.append({
             "chinese": entry.get('chinese', ''),
             "ch_semantic": entry.get('ch_semantic', ''),
             "original_pinyin_ch": raw_dict_pinyin,
             "original_pinyin_ts": raw_pinyin_info,
+            "original_tsou_word": tsou_word_reconstructed,
             "alignment": aligned_syllables_data
         })
 
