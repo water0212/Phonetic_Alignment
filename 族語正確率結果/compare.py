@@ -2,7 +2,7 @@ import pandas as pd
 import os
 current_dir = os.path.dirname(os.path.abspath(__file__))
 # 設定檔案路徑 (請修改為您實際的檔案路徑)
-file_g = os.path.join(current_dir, 'LOOCV_Results改完字典查找G.xlsx')
+file_g = os.path.join(current_dir, 'LOOCV_Results.xlsx')
 file_d = os.path.join(current_dir, 'LOOCV_Results改完字典查找D.xlsx')
 
 def compare_results(file_path_g, file_path_d):

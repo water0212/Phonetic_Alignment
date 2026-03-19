@@ -3,79 +3,30 @@
         "p": {
             "local_count": 2,
             "local_score_k": 1.0,
-            "global_score_i": 1.0,
+            "global_score_i": 0.1319,
             "note": "Local Vote"
         }
     },
-    "p": {
-        "p": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "m": {
-        "m": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "f": {
-        "h": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.3107,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "d": {
-        "t": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.969,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "t": {
-        "t": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.975,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "n": {
-        "n": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.4611,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "p": {},
+    "m": {},
+    "f": {},
+    "d": {},
+    "t": {},
+    "n": {},
     "l": {
         "l": {
             "local_count": 2,
             "local_score_k": 1.0,
-            "global_score_i": 0.8204,
+            "global_score_i": 0.2041,
             "note": "Local Vote"
         }
     },
-    "g": {
-        "k": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.9258,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "g": {},
     "k": {
         "k": {
             "local_count": 2,
             "local_score_k": 1.0,
-            "global_score_i": 1.0,
+            "global_score_i": 0.2041,
             "note": "Local Vote"
         }
     },
@@ -83,136 +34,38 @@
         "h": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.9478,
+            "global_score_i": 0.2632,
             "note": "Local Vote"
         }
     },
-    "j": {
-        "k": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.0916,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "q": {
-        "c": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "x": {
-        "s": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "zh": {
-        "n": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.0065,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ch": {
-        "s": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.1176,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "sh": {
-        "s": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.9842,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "j": {},
+    "q": {},
+    "x": {},
+    "zh": {},
+    "ch": {},
+    "sh": {},
     "r": {},
-    "z": {
-        "z": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.2462,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "c": {
-        "c": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "s": {
-        "s": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "z": {},
+    "c": {},
+    "s": {},
     "0c": {
         "0c": {
             "local_count": 2,
             "local_score_k": 1.0,
-            "global_score_i": 0.9193,
+            "global_score_i": 0.114,
             "note": "Local Vote"
         }
     },
-    "an": {
-        "an": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.5672,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "en": {
-        "en": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.62,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ang": {
-        "ang": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.6139,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "eng": {
-        "eng": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.6042,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "er": {
-        "e": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "an": {},
+    "en": {},
+    "ang": {},
+    "eng": {},
+    "er": {},
     "i": {
         "i": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.9198,
+            "global_score_i": 0.2157,
             "note": "Local Vote"
         }
     },
@@ -224,14 +77,7 @@
             "note": "Local Vote"
         }
     },
-    "ㄩ": {
-        "i": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.6881,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "ㄩ": {},
     "a": {
         "a:": {
             "local_count": 1,
@@ -245,218 +91,57 @@
         "e": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.705,
+            "global_score_i": 0.25,
             "note": "Local Vote"
         }
     },
-    "e": {
-        "e": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "e": {},
     "ai": {
         "ay": {
             "local_count": 2,
             "local_score_k": 1.0,
-            "global_score_i": 0.6595,
+            "global_score_i": 0.4444,
             "note": "Local Vote"
         }
     },
-    "ei": {
-        "ey": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.3533,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "ei": {},
     "ao": {
         "aw": {
             "local_count": 1,
             "local_score_k": 1.0,
-            "global_score_i": 0.4955,
+            "global_score_i": 0.1875,
             "note": "Local Vote"
         }
     },
-    "ou": {
-        "o": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 1.0,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ia": {
-        "iya": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.5,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "ou": {},
+    "ia": {},
     "io": {},
-    "ie": {
-        "e": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.2525,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "ie": {},
     "iai": {},
-    "iao": {
-        "iyaw": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.4111,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "iou": {
-        "iw": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.42,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ian": {
-        "in": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.1656,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "in": {
-        "in": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.83,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "iang": {
-        "yang": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.3233,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ing": {
-        "ing": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.6985,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ua": {
-        "wa": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.2659,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "uo": {
-        "o": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.3617,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "uai": {
-        "way": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.5914,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "uei": {
-        "wi": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.1516,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "uan": {
-        "wan": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.1106,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "un": {
-        "wen": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.2222,
-            "note": "Auto-filled from Global"
-        }
-    },
+    "iao": {},
+    "iou": {},
+    "ian": {},
+    "in": {},
+    "iang": {},
+    "ing": {},
+    "ua": {},
+    "uo": {},
+    "uai": {},
+    "uei": {},
+    "uan": {},
+    "un": {},
     "uang": {
         "wang": {
             "local_count": 2,
             "local_score_k": 1.0,
-            "global_score_i": 0.4767,
+            "global_score_i": 0.5,
             "note": "Local Vote"
         }
     },
-    "ong": {
-        "ong": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.2783,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ㄩe": {
-        "ye": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.5,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ㄩan": {
-        "yen": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.2706,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "ㄩn": {
-        "in": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.25,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "iong": {
-        "yong": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.4,
-            "note": "Auto-filled from Global"
-        }
-    },
-    "0v": {
-        "e": {
-            "local_count": 0,
-            "local_score_k": 0.0,
-            "global_score_i": 0.57,
-            "note": "Auto-filled from Global"
-        }
-    }
+    "ong": {},
+    "ㄩe": {},
+    "ㄩan": {},
+    "ㄩn": {},
+    "iong": {},
+    "0v": {}
 }
