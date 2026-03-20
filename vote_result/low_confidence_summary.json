@@ -1,0 +1,270 @@
+{
+    "File_01": [
+        {
+            "source_char": "ian",
+            "total_count": 9,
+            "top_percent": "33.33%",
+            "distribution": "in: 33.3% (3) | ing: 22.2% (2) | inn: 11.1% (1)"
+        },
+        {
+            "source_char": "uei",
+            "total_count": 8,
+            "top_percent": "25.00%",
+            "distribution": "wi: 25.0% (2) | uy: 25.0% (2) | oy: 25.0% (2)"
+        },
+        {
+            "source_char": "an",
+            "total_count": 6,
+            "top_percent": "50.00%",
+            "distribution": "a: 50.0% (3) | an: 33.3% (2) | y: 16.7% (1)"
+        },
+        {
+            "source_char": "ing",
+            "total_count": 6,
+            "top_percent": "50.00%",
+            "distribution": "in: 50.0% (3) | ing: 33.3% (2) | i: 16.7% (1)"
+        },
+        {
+            "source_char": "eng",
+            "total_count": 4,
+            "top_percent": "50.00%",
+            "distribution": "eng: 50.0% (2) | in: 25.0% (1) | en: 25.0% (1)"
+        },
+        {
+            "source_char": "ie",
+            "total_count": 4,
+            "top_percent": "50.00%",
+            "distribution": "i: 50.0% (2) | yi: 50.0% (2)"
+        },
+        {
+            "source_char": "ch",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "c: 50.0% (1) | : 50.0% (1)"
+        },
+        {
+            "source_char": "iang",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "yang: 50.0% (1) | iyang: 50.0% (1)"
+        },
+        {
+            "source_char": "uan",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "uwan: 50.0% (1) | un: 50.0% (1)"
+        }
+    ],
+    "File_03": [
+        {
+            "source_char": "eng",
+            "total_count": 6,
+            "top_percent": "50.00%",
+            "distribution": "eng: 50.0% (3) | in: 16.7% (1) | en: 16.7% (1)"
+        },
+        {
+            "source_char": "z",
+            "total_count": 3,
+            "top_percent": "33.33%",
+            "distribution": "c: 33.3% (1) | s: 33.3% (1) | z: 33.3% (1)"
+        },
+        {
+            "source_char": "iang",
+            "total_count": 3,
+            "top_percent": "33.33%",
+            "distribution": "yan: 33.3% (1) | iyang: 33.3% (1) | yang: 33.3% (1)"
+        },
+        {
+            "source_char": "en",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "en: 50.0% (1) | un: 50.0% (1)"
+        },
+        {
+            "source_char": "ie",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "iye: 50.0% (1) | ye: 50.0% (1)"
+        }
+    ],
+    "File_05": [
+        {
+            "source_char": "uei",
+            "total_count": 8,
+            "top_percent": "37.50%",
+            "distribution": "wéy: 37.5% (3) | uwéy: 37.5% (3) | ewéy: 25.0% (2)"
+        },
+        {
+            "source_char": "ie",
+            "total_count": 6,
+            "top_percent": "33.33%",
+            "distribution": "yé: 33.3% (2) | iyéy: 16.7% (1) | d: 16.7% (1)"
+        },
+        {
+            "source_char": "iang",
+            "total_count": 3,
+            "top_percent": "33.33%",
+            "distribution": "iyan: 33.3% (1) | yang: 33.3% (1) | iyang: 33.3% (1)"
+        },
+        {
+            "source_char": "ua",
+            "total_count": 3,
+            "top_percent": "33.33%",
+            "distribution": "uw: 33.3% (1) | wa: 33.3% (1) | uwa: 33.3% (1)"
+        },
+        {
+            "source_char": "n",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": ": 50.0% (1) | n: 50.0% (1)"
+        },
+        {
+            "source_char": "un",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "wun: 50.0% (1) | wen: 50.0% (1)"
+        }
+    ],
+    "File_06": [
+        {
+            "source_char": "uei",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "wasui: 50.0% (1) | wi: 50.0% (1)"
+        }
+    ],
+    "File_07": [
+        {
+            "source_char": "ie",
+            "total_count": 3,
+            "top_percent": "33.33%",
+            "distribution": "ie: 33.3% (1) | e: 33.3% (1) | ʉ: 33.3% (1)"
+        }
+    ],
+    "File_09": [
+        {
+            "source_char": "ie",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "e: 50.0% (1) | i: 50.0% (1)"
+        }
+    ],
+    "File_10": [
+        {
+            "source_char": "ang",
+            "total_count": 3,
+            "top_percent": "33.33%",
+            "distribution": "in: 33.3% (1) | ang: 33.3% (1) | ung: 33.3% (1)"
+        },
+        {
+            "source_char": "in",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "im: 50.0% (1) | in: 50.0% (1)"
+        },
+        {
+            "source_char": "uo",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "u: 50.0% (1) | uq: 50.0% (1)"
+        }
+    ],
+    "File_11": [
+        {
+            "source_char": "a",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "a: 50.0% (1) | ua: 50.0% (1)"
+        },
+        {
+            "source_char": "ie",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "i: 50.0% (1) | iye: 50.0% (1)"
+        },
+        {
+            "source_char": "iou",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "iw: 50.0% (1) | yu: 50.0% (1)"
+        },
+        {
+            "source_char": "uang",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "wang: 50.0% (1) | uang: 50.0% (1)"
+        },
+        {
+            "source_char": "ㄩn",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "yun: 50.0% (1) | iyun: 50.0% (1)"
+        }
+    ],
+    "File_13": [
+        {
+            "source_char": "ian",
+            "total_count": 4,
+            "top_percent": "50.00%",
+            "distribution": "in: 50.0% (2) | inn: 25.0% (1) | i: 25.0% (1)"
+        },
+        {
+            "source_char": "l",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "l: 50.0% (1) | : 50.0% (1)"
+        },
+        {
+            "source_char": "an",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "am: 50.0% (1) | ang: 50.0% (1)"
+        },
+        {
+            "source_char": "ang",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "iw: 50.0% (1) | in: 50.0% (1)"
+        },
+        {
+            "source_char": "i",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "in: 50.0% (1) | i: 50.0% (1)"
+        },
+        {
+            "source_char": "ie",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "e: 50.0% (1) | iy: 50.0% (1)"
+        },
+        {
+            "source_char": "uang",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "wang: 50.0% (1) | ung: 50.0% (1)"
+        }
+    ],
+    "File_14": [
+        {
+            "source_char": "ie",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "ye: 50.0% (1) | e: 50.0% (1)"
+        },
+        {
+            "source_char": "uang",
+            "total_count": 2,
+            "top_percent": "50.00%",
+            "distribution": "wang: 50.0% (1) | uwang: 50.0% (1)"
+        }
+    ],
+    "File_16": [
+        {
+            "source_char": "un",
+            "total_count": 3,
+            "top_percent": "33.33%",
+            "distribution": "uʉn: 33.3% (1) | uxn: 33.3% (1) | ia: 33.3% (1)"
+        }
+    ]
+}

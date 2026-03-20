@@ -10,17 +10,15 @@
     "g": {
         "k": {
             "local_count": 2,
-            "local_score_k": 1.0,
             "global_score_i": 0.2075,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "k": {
         "k": {
             "local_count": 1,
-            "local_score_k": 1.0,
             "global_score_i": 0.2,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "h": {},
@@ -34,14 +32,6 @@
     "z": {},
     "c": {},
     "s": {},
-    "0c": {
-        "0c": {
-            "local_count": 1,
-            "local_score_k": 1.0,
-            "global_score_i": 0.113,
-            "note": "Local Vote"
-        }
-    },
     "an": {},
     "en": {},
     "ang": {},
@@ -53,9 +43,8 @@
     "a": {
         "a": {
             "local_count": 1,
-            "local_score_k": 1.0,
             "global_score_i": 0.2245,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "o": {},
@@ -66,9 +55,8 @@
     "ao": {
         "aw": {
             "local_count": 1,
-            "local_score_k": 1.0,
             "global_score_i": 0.1875,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "ou": {},
@@ -91,15 +79,13 @@
     "uang": {
         "wang": {
             "local_count": 2,
-            "local_score_k": 1.0,
             "global_score_i": 0.5,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "ong": {},
     "ㄩe": {},
     "ㄩan": {},
     "ㄩn": {},
-    "iong": {},
-    "0v": {}
+    "iong": {}
 }

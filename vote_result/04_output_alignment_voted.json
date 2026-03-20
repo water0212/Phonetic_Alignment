@@ -2,9 +2,8 @@
     "b": {
         "p": {
             "local_count": 1,
-            "local_score_k": 1.0,
             "global_score_i": 0.1304,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "p": {},
@@ -16,9 +15,8 @@
     "l": {
         "l": {
             "local_count": 1,
-            "local_score_k": 1.0,
             "global_score_i": 0.2,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "g": {},
@@ -34,7 +32,6 @@
     "z": {},
     "c": {},
     "s": {},
-    "0c": {},
     "an": {},
     "en": {},
     "ang": {},
@@ -43,9 +40,8 @@
     "i": {
         "i": {
             "local_count": 1,
-            "local_score_k": 1.0,
             "global_score_i": 0.2157,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "u": {},
@@ -53,9 +49,8 @@
     "a": {
         "a": {
             "local_count": 1,
-            "local_score_k": 1.0,
             "global_score_i": 0.2245,
-            "note": "Local Vote"
+            "percent": "100.00%"
         }
     },
     "o": {},
@@ -86,6 +81,5 @@
     "ㄩe": {},
     "ㄩan": {},
     "ㄩn": {},
-    "iong": {},
-    "0v": {}
+    "iong": {}
 }
