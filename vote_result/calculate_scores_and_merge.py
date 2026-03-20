@@ -4,10 +4,10 @@ import os
 # ================= 設定區 =================
 # 設定檔案範圍
 START_INDEX = 1
-END_INDEX = 19
+END_INDEX = 16
 current_dir = os.path.dirname(os.path.abspath(__file__))
 # 設定資料夾路徑 (如果檔案都在同一層，保持預設即可)
-LOCAL_DIR = os.path.join(current_dir, "../16族發音統計結果")  # 存放 01_output_alignment_voted.json 的位置
+LOCAL_DIR = os.path.join(current_dir, "..", "16族發音統計結果")  # 存放 01_output_alignment_voted.json 的位置
 GLOBAL_DIR = os.path.join(current_dir, "global_statistics")  # 存放 global_statistics_exclude_01.json 的資料夾
 OUTPUT_DIR = current_dir  # 輸出檔案的位置
 # =========================================
