@@ -2,8 +2,9 @@
     "b": {
         "p": {
             "local_count": 2,
-            "global_score_i": 0.1319,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "note": "Local Vote"
         }
     },
     "p": {},
@@ -15,23 +16,26 @@
     "l": {
         "l": {
             "local_count": 2,
-            "global_score_i": 0.2041,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.8033,
+            "note": "Local Vote"
         }
     },
     "g": {},
     "k": {
         "k": {
             "local_count": 2,
-            "global_score_i": 0.2041,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "note": "Local Vote"
         }
     },
     "h": {
         "h": {
             "local_count": 1,
-            "global_score_i": 0.2632,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.8837,
+            "note": "Local Vote"
         }
     },
     "j": {},
@@ -44,6 +48,14 @@
     "z": {},
     "c": {},
     "s": {},
+    "0c": {
+        "0c": {
+            "local_count": 2,
+            "local_score_k": 1.0,
+            "global_score_i": 0.8976,
+            "note": "Local Vote"
+        }
+    },
     "an": {},
     "en": {},
     "ang": {},
@@ -52,47 +64,53 @@
     "i": {
         "i": {
             "local_count": 1,
-            "global_score_i": 0.2157,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.9273,
+            "note": "Local Vote"
         }
     },
     "u": {
         "o’": {
             "local_count": 1,
+            "local_score_k": 1.0,
             "global_score_i": 0.0,
-            "percent": "100.00%"
+            "note": "Local Vote"
         }
     },
     "ㄩ": {},
     "a": {
         "a:": {
             "local_count": 1,
+            "local_score_k": 1.0,
             "global_score_i": 0.0,
-            "percent": "100.00%"
+            "note": "Local Vote"
         }
     },
     "o": {},
     "ㄜ": {
         "e": {
             "local_count": 1,
-            "global_score_i": 0.25,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.6,
+            "note": "Local Vote"
         }
     },
     "e": {},
     "ai": {
         "ay": {
             "local_count": 2,
-            "global_score_i": 0.4444,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.6,
+            "note": "Local Vote"
         }
     },
     "ei": {},
     "ao": {
         "aw": {
             "local_count": 1,
-            "global_score_i": 0.1875,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.5,
+            "note": "Local Vote"
         }
     },
     "ou": {},
@@ -115,13 +133,15 @@
     "uang": {
         "wang": {
             "local_count": 2,
+            "local_score_k": 1.0,
             "global_score_i": 0.5,
-            "percent": "100.00%"
+            "note": "Local Vote"
         }
     },
     "ong": {},
     "ㄩe": {},
     "ㄩan": {},
     "ㄩn": {},
-    "iong": {}
+    "iong": {},
+    "0v": {}
 }

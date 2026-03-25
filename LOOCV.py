@@ -66,8 +66,8 @@ def get_top3_phonemes(ch_phoneme, vote_data, word_deductions, language_name):
         })
 
     # 排序：先比票數 -> 再比 Global 分數 -> 最後比字典數
-    #scored_candidates.sort(key=lambda x: (x["adj_count"], x["global_score"], x["dict_count"]), reverse=True)
-    scored_candidates.sort(key=lambda x: (x["adj_count"], x["dict_count"], x["global_score"]), reverse=True)
+    scored_candidates.sort(key=lambda x: (x["adj_count"], x["global_score"], x["dict_count"]), reverse=True)
+    #scored_candidates.sort(key=lambda x: (x["adj_count"], x["dict_count"], x["global_score"]), reverse=True)
     return scored_candidates[:3]
 
 def format_top3_display(top3_list):

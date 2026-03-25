@@ -2,30 +2,34 @@
     "b": {
         "p": {
             "local_count": 1,
-            "global_score_i": 0.1304,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "note": "Local Vote"
         }
     },
     "p": {
         "p": {
             "local_count": 1,
-            "global_score_i": 0.75,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "note": "Local Vote"
         }
     },
     "m": {},
     "f": {
         "h": {
             "local_count": 1,
-            "global_score_i": 0.25,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.1455,
+            "note": "Local Vote"
         }
     },
     "d": {
         "t": {
             "local_count": 2,
-            "global_score_i": 0.2157,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.8947,
+            "note": "Local Vote"
         }
     },
     "t": {},
@@ -34,22 +38,25 @@
     "g": {
         "k": {
             "local_count": 2,
-            "global_score_i": 0.2075,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.9298,
+            "note": "Local Vote"
         }
     },
     "k": {
         "k": {
             "local_count": 4,
-            "global_score_i": 0.2128,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "note": "Local Vote"
         }
     },
     "h": {
         "h": {
             "local_count": 1,
-            "global_score_i": 0.2632,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.8837,
+            "note": "Local Vote"
         }
     },
     "j": {},
@@ -57,8 +64,9 @@
     "x": {
         "s": {
             "local_count": 1,
-            "global_score_i": 0.2051,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 1.0,
+            "note": "Local Vote"
         }
     },
     "zh": {},
@@ -66,14 +74,23 @@
     "sh": {
         "s": {
             "local_count": 2,
-            "global_score_i": 0.1887,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.9464,
+            "note": "Local Vote"
         }
     },
     "r": {},
     "z": {},
     "c": {},
     "s": {},
+    "0c": {
+        "0c": {
+            "local_count": 4,
+            "local_score_k": 1.0,
+            "global_score_i": 0.896,
+            "note": "Local Vote"
+        }
+    },
     "an": {},
     "en": {},
     "ang": {},
@@ -83,21 +100,24 @@
     "u": {
         "u": {
             "local_count": 1,
-            "global_score_i": 0.0769,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.6783,
+            "note": "Local Vote"
         }
     },
     "ㄩ": {},
     "a": {
         "a": {
             "local_count": 4,
-            "global_score_i": 0.2391,
-            "percent": "80.00%"
+            "local_score_k": 0.8,
+            "global_score_i": 0.8679,
+            "note": "Local Vote"
         },
         "uwa": {
             "local_count": 1,
+            "local_score_k": 0.2,
             "global_score_i": 0.0,
-            "percent": "20.00%"
+            "note": "Local Vote"
         }
     },
     "o": {},
@@ -112,36 +132,41 @@
     "ie": {
         "ye": {
             "local_count": 1,
-            "global_score_i": 1.0,
-            "percent": "50.00%"
+            "local_score_k": 0.5,
+            "global_score_i": 0.0357,
+            "note": "Local Vote"
         },
         "e": {
             "local_count": 1,
-            "global_score_i": 0.8,
-            "percent": "50.00%"
+            "local_score_k": 0.5,
+            "global_score_i": 0.1786,
+            "note": "Local Vote"
         }
     },
     "iai": {},
     "iao": {
         "iyaw": {
             "local_count": 1,
-            "global_score_i": 0.375,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.3077,
+            "note": "Local Vote"
         }
     },
     "iou": {},
     "ian": {
         "en": {
             "local_count": 1,
-            "global_score_i": 0.5,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.0435,
+            "note": "Local Vote"
         }
     },
     "in": {
         "in": {
             "local_count": 1,
-            "global_score_i": 0.4118,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.8947,
+            "note": "Local Vote"
         }
     },
     "iang": {},
@@ -149,15 +174,17 @@
     "ua": {
         "uwa": {
             "local_count": 2,
-            "global_score_i": 1.0,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.0714,
+            "note": "Local Vote"
         }
     },
     "uo": {
         "o": {
             "local_count": 1,
-            "global_score_i": 0.2727,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.3929,
+            "note": "Local Vote"
         }
     },
     "uai": {},
@@ -165,21 +192,24 @@
     "uan": {
         "wan": {
             "local_count": 1,
+            "local_score_k": 1.0,
             "global_score_i": 0.0,
-            "percent": "100.00%"
+            "note": "Local Vote"
         }
     },
     "un": {},
     "uang": {
         "wang": {
             "local_count": 1,
-            "global_score_i": 0.4667,
-            "percent": "50.00%"
+            "local_score_k": 0.5,
+            "global_score_i": 0.5357,
+            "note": "Local Vote"
         },
         "uwang": {
             "local_count": 1,
-            "global_score_i": 0.25,
-            "percent": "50.00%"
+            "local_score_k": 0.5,
+            "global_score_i": 0.1429,
+            "note": "Local Vote"
         }
     },
     "ong": {},
@@ -189,8 +219,17 @@
     "iong": {
         "yong": {
             "local_count": 1,
-            "global_score_i": 1.0,
-            "percent": "100.00%"
+            "local_score_k": 1.0,
+            "global_score_i": 0.25,
+            "note": "Local Vote"
+        }
+    },
+    "0v": {
+        "u": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.0571,
+            "note": "Local Vote"
         }
     }
 }
