@@ -28,6 +28,15 @@ if MODULE_DIR not in sys.path:
 
 import Align_syllables03
 
+# 定義「中借」的關鍵字清單
+CH_LOAN_KEYWORDS = [
+    '(中譯)', '(華語借詞)', '(音譯(中借))', '(漢譯)', '(中借)',
+    '健保(中借)', '化學(中譯)肥料', '國有局(中譯)', '捷運(中借)',
+    '水利局(中譯)', '華語直譯', '電腦(中譯)', '電腦網路 (中譯)',
+    '高速公路(中借)', '高速鐵路(中借)', '中譯'
+]
+# 為了避免空白造成比對失敗，預先清除頭尾空白
+CH_LOAN_KEYWORDS = [k.strip() for k in CH_LOAN_KEYWORDS]
 
 def get_top3_phonemes(ch_phoneme, vote_data, word_deductions, language_name):
     """
@@ -65,8 +74,7 @@ def get_top3_phonemes(ch_phoneme, vote_data, word_deductions, language_name):
             "global_score": global_score
         })
 
-    # 排序：先比票數 -> 再比 Global 分數 -> 最後比字典數
-    #scored_candidates.sort(key=lambda x: (x["adj_count"], x["global_score"], x["dict_count"]), reverse=True)
+    # 排序：先比票數 -> 再比字典數 -> 最後比 Global 分數
     scored_candidates.sort(key=lambda x: (x["adj_count"], x["dict_count"], x["global_score"]), reverse=True)
     return scored_candidates[:3]
 
@@ -101,6 +109,8 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
     all_results = []
     global_total = 0
     global_correct = 0
+    global_correct_loan = 0          # 全域中借正確數
+    global_correct_unspecified = 0   # 全域未明說正確數
     language_stats = {}  
     
     for refined_file in refined_files:
@@ -112,7 +122,12 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
         lang_key = f"{prefix_num}_{lang_name}"
         
         if lang_key not in language_stats:
-            language_stats[lang_key] = {"total": 0, "correct": 0}
+            language_stats[lang_key] = {
+                "total": 0, 
+                "correct": 0,
+                "correct_loan": 0,          # 該族語中借正確數
+                "correct_unspecified": 0    # 該族語未明說正確數
+            }
             
         vote_file = os.path.join(vote_dir, f"{prefix_num}_output_alignment_voted.json")
         
@@ -131,6 +146,11 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
             # 獲取族語標準答案
             original_tsou_word = entry.get("original_tsou_word", "")
             alignment = entry.get("alignment", [])
+            
+            # 判斷中借或未明說
+            ch_semantic = entry.get("ch_semantic", "").strip()
+            is_loanword = ch_semantic in CH_LOAN_KEYWORDS
+            source_type = "中借" if is_loanword else "未明說"
             
             # 動態拆解
             dynamic_alignment_result = Align_syllables03.align_word_to_initial_final(word, ch_dict, cedict_index)
@@ -206,9 +226,18 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
                 global_correct += 1
                 language_stats[lang_key]["correct"] += 1
                 
+                # 統計中借 / 未明說
+                if is_loanword:
+                    global_correct_loan += 1
+                    language_stats[lang_key]["correct_loan"] += 1
+                else:
+                    global_correct_unspecified += 1
+                    language_stats[lang_key]["correct_unspecified"] += 1
+                
             all_results.append({
                 "族語": lang_key,
                 "中文詞彙": word,
+                "詞彙來源": source_type,
                 "是否完全正確": "是" if word_is_correct else "否",
                 "測試過程與比對": "\n".join(process_details)
             })
@@ -221,12 +250,16 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
     for lang_key, stats in language_stats.items():
         t = stats["total"]
         c = stats["correct"]
+        c_loan = stats["correct_loan"]
+        c_unsp = stats["correct_unspecified"]
         acc = c / t if t > 0 else 0
         stats_rows.append({
             "族語名稱": lang_key,
             "總測試詞數": t,
             "完全正確詞數": c,
-            "正確率": f"{acc:.2%}"
+            "正確率": f"{acc:.2%}",
+            "預測正確(中借)": c_loan,
+            "預測正確(未明說)": c_unsp
         })
         
     global_acc = global_correct / global_total if global_total > 0 else 0
@@ -234,7 +267,9 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
         "族語名稱": "【整體總計】",
         "總測試詞數": global_total,
         "完全正確詞數": global_correct,
-        "正確率": f"{global_acc:.2%}"
+        "正確率": f"{global_acc:.2%}",
+        "預測正確(中借)": global_correct_loan,
+        "預測正確(未明說)": global_correct_unspecified
     })
     
     df_stats = pd.DataFrame(stats_rows)
