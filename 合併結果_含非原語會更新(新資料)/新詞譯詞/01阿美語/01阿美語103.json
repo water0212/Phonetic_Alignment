@@ -1,0 +1,112 @@
+{
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "kosi",
+        "ch_semantic": "公司(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公司"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "kaysiya",
+        "ch_semantic": "會社(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "工廠"
+  },
+  "健保": {
+    "new_word": [
+      {
+        "fm_word": "cinpaw",
+        "ch_semantic": "健保(中借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "健保"
+  },
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": "ci’in",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "捷運"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "paya",
+        "ch_semantic": "(閩譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "招牌"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "cinkosiyo",
+        "ch_semantic": "鎮公所(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "singfong kisiya",
+        "ch_semantic": "新聞記者(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "記者會"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "holic",
+        "ch_semantic": "日譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kingkiw",
+        "ch_semantic": "日譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "tinnaw",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  }
+}

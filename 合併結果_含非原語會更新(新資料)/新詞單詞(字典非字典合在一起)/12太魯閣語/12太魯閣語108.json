@@ -1,0 +1,92 @@
+{
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "prngangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan kari namu o enduwa rmngaw ka mniq namu prngangan.",
+        "ch_sentence": "有任何意見就直接在會議室說"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "psbyaxan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tmalang bi psbyaxan ka Tumun.",
+        "ch_sentence": "Tumun 喜歡在操場跑步"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "ppatas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Usa pptas han!",
+        "ch_sentence": "去登記啊！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "dnquli",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tmquli kingal laqi ka Yabung.",
+        "ch_sentence": "Yabung 收養—個孩子"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "ppatas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Usa ppatas nhari han.",
+        "ch_sentence": "趕快去申請"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "psrus",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mowsa ku psrus han.",
+        "ch_sentence": "我先去註銷"
+      }
+    ],
+    "source_year": "108"
+  }
+}

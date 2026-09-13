@@ -1,0 +1,661 @@
+{
+  "高速公路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ima 'aleheh ka tinawae'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "展覽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maSkan kapakita'en"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "展覽館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ka'aSkanan ka kakita'en"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "科技": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'ima SaSo' katalba:awen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "媒體": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kamapakSekla ka saboeh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "貿易": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaksasapihan ka kakrangian"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "歷史": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'inkakhayza'an howaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "保育": {
+    "new_word": [
+      {
+        "fm_word": [
+          "papabasez naehan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "民主": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'iSka hin'az'azem"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "政見": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pino'oe' ka binalong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "行車記錄器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nom 'omalingo' ka pinanra:anan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憂鬱症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'akoy ka hin'az'azem kak'ayaeh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "中央政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kam'ibabaw to'oya'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kamasempeng to'oya'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高等法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kamasempeng to'oya'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "最高法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kam'ibabaw kamasempeng to'oya'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "karotonan ka kakrangi'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憲法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ima 'ibabaw pinpapoe'oe kin:at"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "判決書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sininpeng kina:at"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專利": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Sapang ma'an kinra:aman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "代言人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Sinibae:aeh kamabalong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "動土儀式": {
+    "new_word": [
+      {
+        "fm_word": [
+          "papSi'alay komowih ka rape:"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nonak tatal'awan ka rayhil"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "初賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miya'alay 'a'inola'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "決賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bi:il ila 'a'inola'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "餿水油": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinngaso'an raralas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "碩士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'ima tatoroe' ray kakiSka:atan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'ima talsekel kiniSka:at"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "村長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "noka hito' tahoki'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自助餐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pawhi:l nonak kasi'aelen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "古早味": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kakhayza'an kasi'aelen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "路邊攤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hinataS katibae:iwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "夜市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hae:wan kalawi'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "購物頻道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ray tilibi: kabae:iwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kapatkohay siyak"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "電話卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaklaleke: siyak"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "發票": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaSekla'an ka binae:iwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "收據": {
+    "new_word": [
+      {
+        "fm_word": [
+          "binae:iwan kina:at"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "熱門商品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kapapaylisin ka kakrangi'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "瑕疵品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ima 'awmomza' ka kakrangi'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "仿冒品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Sinaro:olan pinaskayzaeh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "SomowaS ka siyak"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "漲價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rompa: ka rayhil"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "降價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wawalae' ka rayhil"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "殺價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pawalae'",
+          "ka rayhil"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "存貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "minayngaso' ka kakrangi'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "囤貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "romoton ka kakrangi'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "缺貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oka' kabae:iwen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "暢銷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kayzah ka babae:aew"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "保存期限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Sinepe:an ka hinayo'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "復古": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tani kintatini'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專賣店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinoroe'an katibae:iwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "唱片行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "katibae:iwan ka kapapa:tolan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinrong kamamatawaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "kamamalahang ka SinSinraehoe' to'oya'",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

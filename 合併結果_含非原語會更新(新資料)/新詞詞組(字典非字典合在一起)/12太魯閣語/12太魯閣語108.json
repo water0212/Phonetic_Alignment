@@ -1,0 +1,1217 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "qpahan bukung ptasan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul bi musa qpahan bukung ptasan ka laqi matas.",
+        "ch_sentence": "學生都很喜歡去校長室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "qpahan kmlawa seejiq",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga ku qmeepah qpahan kmlawa seejiq.",
+        "ch_sentence": "我在人事室上班。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "qpahan kmlawa pspug pila",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Qpahan kmlawa pspug pila o aji mseelxan qpahan.",
+        "ch_sentence": "主計室不是一份容易的工作。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "qpahan kmlawa pkbiyax hiyi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mangal luqih ka laqi matas o musa qpahan kmlawa pkbiyax hiyi.",
+        "ch_sentence": "學生受傷都是去健康中心。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "sapah qlhangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mdrumut bi qmeepah sapah qlhangan ka seejiq gaga.",
+        "ch_sentence": "那個人在警衛室很認真工作。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "qpahan mtgsa pusu mdudul",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nniqan mtgsa pusu mdudul ka qpahan mtgsa pusu mdudul.",
+        "ch_sentence": "導師室是導師工作的地方。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "qpahan mtgsa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Duma mtgsa o mniq qpahan mtgsa.",
+        "ch_sentence": "有的老師在科任教師辦公室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "psrwayan tmgsa lubug ni uyas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nniqan Psrwayan tmgsa lubug ni uyas ka hiya.",
+        "ch_sentence": "那是音樂專科教室的地方。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "prwayan tgsaan rmisuh matas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul ku mniq pruway ttgsaan smisuh matas.",
+        "ch_sentence": "我喜歡在美勞專科教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "sapah ttgsaan qmita sasaw samaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Suyang bi ka sapah ttgsaan qmita sasaw samaw.",
+        "ch_sentence": "視聽教室是非常完美的地方"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "sapah tgsaan patas samaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Malu bi ka apah ttgsaan patas samaw.",
+        "ch_sentence": "電腦教室是非常好的地方"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "sapah ttgsaan ida nkiya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul su bi mniq sapah ttgsaan ida nkiya hug?",
+        "ch_sentence": "你很喜歡待在自然教室嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "sapah ttgsaan lapi empatas seanak",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan ka laqi uri mniq apah tgsaan laqi empatas smeanak hini.",
+        "ch_sentence": "有的學生在資源教室上課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "sapah ttgsaan kari rudan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Saan mu bi ka sapah ttgsaan kari rudan.",
+        "ch_sentence": "我常常去鄉土教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "qpahan euda tmgsa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pusu bi knkingal ptasan o qpahan euda tmgsa.",
+        "ch_sentence": "每個學校都有一個重要管理教學的是教務處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "qpahan ttgsaan malu kndsan laqi empatas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tmgsa bi laqi matas ka qpahan ttgsaan malu kndsan laqi empatas.",
+        "ch_sentence": "學務處是專門教學生安全、品格及社會適應的地方。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "qpahan kmlawa kana qngqaya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kmlawa kana qaya djiyun ka qpahan kmlawa kana qngqaya.",
+        "ch_sentence": "管理學校所有設備是總務處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "qpahan slingan ni mdayaw laqi empatas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan kari dha ka laqi matas o musa qpahan slingan ni mdayaw laqi empatas hiya.",
+        "ch_sentence": "學生心裡有話說都是去輔導處那裡."
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "sapah psslian patas qtaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul bi mniq sapah psslian patas qtaan ka Pisaw.",
+        "ch_sentence": "Pisaw 喜歡去圖書館"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "iyax glang tntunan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga tmaga iyax glang tntunan ka Tadaw.",
+        "ch_sentence": "Tadaw 在樓梯間那裡等"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "tg2 tntunan sapah",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga tg2 tntunan sapah hiya ka tqian mu.",
+        "ch_sentence": "我的房間在二樓"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "elug pusu ddaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Bbaraw bi ka Elug pusu ddaan",
+        "ch_sentence": "走廊很長"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "sapah truma dxgal",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ga na skuan qnqaya ka sapah truma dxgal.",
+        "ch_sentence": "他把工具豆放在地下室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "uqan nhapuy",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Usa uqan nhapuy.",
+        "ch_sentence": "去餐廳"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生厠所": {
+    "new_word": [
+      {
+        "fm_word": "saan ngangut kuyuh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Usa saan ngangut kuyuh gaga.",
+        "ch_sentence": "去女廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "saan nganut snaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Usa saan nganut snaw ka hiya.",
+        "ch_sentence": "去男廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "rdaan tdruy",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Rduwan tdruy ka rdaan tdruy.",
+        "ch_sentence": "停車場是停車的地方."
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "rwaan qurug rawa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul bi mniq rwaan qurug rawa mrawa qurug.",
+        "ch_sentence": "喜歡在籃球場打球"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "rwaan qurug sbtun",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul bi mniq rwaan qurug sbtun smbut qurug.",
+        "ch_sentence": "喜歡在棒球常打球"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "sapah qpahan patas sapah",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Wada qpahan Patas Sapah ka hiya.",
+        "ch_sentence": "他去戶政事務所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "sbiq qpahan patas sapah",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga qmeepah sbiq qpahan Patas Sapah ka Umaw.",
+        "ch_sentence": "他在戶政工作站工作."
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "jiyax qpahan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Jiyax qpahan ka sayang.",
+        "ch_sentence": "現在是辦公時間"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "klgan qpahun",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Enduwai smmalu ka klgan qpahun",
+        "ch_sentence": "服務項目要做好"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "qpahan slingan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga mhiyug qpahan slingan smiling eueuda.",
+        "ch_sentence": "他站在服務台前"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "ring tang mlawa qpahan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Paru bi hnang ka ring-tang mlawa qpahan.",
+        "ch_sentence": "呼叫鈴聲很大聲"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "rabang patas pgkla",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pusu bi o rabang patas pgkla.",
+        "ch_sentence": "印鑑是很重要的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "patas pgkla hniygan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Iya bi hmut mgay seejiq ka patas pgkla hnigan.",
+        "ch_sentence": "身分證不要亂給別人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "ppatas nniqan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mnsa su ppatas nniqan dhug?",
+        "ch_sentence": "你去設籍登記了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "ppatas hniygan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Usa ppatas hnigan su han",
+        "ch_sentence": "你先去身分登記喔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徒登記": {
+    "new_word": [
+      {
+        "fm_word": "ppatas tnhjil",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mnsasu ppatas tnhjil dhug?",
+        "ch_sentence": "你去遷徒登記嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "ppatas knpriyux,ppatas psgburah ni ppatas smrus",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ana manu ka saan mu ppatas kmpriyux, ppatas psbgurah ni ppatas smrus.",
+        "ch_sentence": "我都去做變更、更正及撤銷登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "patas rahuq na",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan kingal patas rahuq na.",
+        "ch_sentence": "握有另外的書件"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "patas sapah patas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Enduwai bi qmita ka Patas Sapah patas.",
+        "ch_sentence": "戶籍資料要好好看喔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "mtmay sapah patas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mnsa su mtmay sapah patas da?",
+        "ch_sentence": "你辦遷入了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "mlatat sapah patas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mnhdu su mlatat sapah patas da?",
+        "ch_sentence": "你辦遷出了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "knpriyux patas nniqan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mowsa ku Kmpriyux patas nniqan.",
+        "ch_sentence": "我要去辦住址變更"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "sspngan sapah rhngun",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan sspgan sapah rhngun ka sapah na da.",
+        "ch_sentence": "他的家有門牌了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "alang pncingan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Alang Miharasi ka alang pncingan mu.",
+        "ch_sentence": "見晴村是我出生的地方"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "priyux hangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Wada priyux hangan ka Icyang.",
+        "ch_sentence": "我已經更改名字了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "pelalay rmngaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Plealay rmngaw ku han.",
+        "ch_sentence": "我先預約了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "patas pgkla mstrung",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan ka patas pgkla mstrung.",
+        "ch_sentence": "有結婚證書了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "patas pgkla melalax",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Wada mangal patas pgkla mlalax.",
+        "ch_sentence": "已經拿離婚證書了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "qpahan mqlahang kkbiyax hiyi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga qnpah qpahan mqlahang pkbiyax hiyi ka hiya.",
+        "ch_sentence": "她在衛生所工作"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "seejiq pgkla qmlahang kkbiyax hiyi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Seejiq pgkla qmlahang kkbiyax hiyi ka Lituk.",
+        "ch_sentence": "Lituk 是保健員"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "mdudul mqlahang mnarux",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mdudul mqlahang mnarux ka Naci.",
+        "ch_sentence": "Nacii 是護理長"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "seejq pgkla uqun skbiyax hiyi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Seejiq pgkla uqun skbiyax hiyi ka Iming.",
+        "ch_sentence": "Iming 是營養師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "msapuh gupun",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Msapuh gupun ka Peydang.",
+        "ch_sentence": "Peydang 是牙醫師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "ptbalay patas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan nanak ptbalay patas ka ptasan.",
+        "ch_sentence": "學校有自己的平面配置圖"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "spuhan qtaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga spuhan qtaan ka Tadaw sayang.",
+        "ch_sentence": "Tadaw 現在在診療室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X 光室": {
+    "new_word": [
+      {
+        "fm_word": "saan pqita rdax liwaq",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Wada pqita saan pqita rdax liwaq ka Lowking.",
+        "ch_sentence": "Lowking 去X光室檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "ppyaan patas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga tmaga ppyaan ka hiya.",
+        "ch_sentence": "他在掛號室等"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "nuhan laqi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Munuh laqi o usa nuhan laqi hiya.",
+        "ch_sentence": "餵母奶可以去哺乳室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "sapah qlhangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nii ku mniq sapah qlhangan.",
+        "ch_sentence": "我現在在值班室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "pbtaqan qumi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga mniq pbtaqan qumika bubu.",
+        "ch_sentence": "媽媽在注射室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "sapah gnbrih malu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga mniq sapah gmbrih malu ka Aki.",
+        "ch_sentence": "Aki 在復健室那裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "sapah qqtaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ga mniq sapah qqtaan ka Iyuq.",
+        "ch_sentence": "Iyuq 在檢驗室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "skuan patas pntasan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Skuan patas pntasan ga dha skuan pusu patas.",
+        "ch_sentence": "檔案室是存放重要文件的地方"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "ngngalan sapuh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga qmeepah ngngalan sapuh ka Umin.",
+        "ch_sentence": "Umin 在藥局上班"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "sapuh pqlahang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Dsi btaq sapuh pqlahang ka laqi bilaq.",
+        "ch_sentence": "帶孩子去打疫苗"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "pqita hiyi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Rdrudan o saay bi ka pqita hiyi",
+        "ch_sentence": "年長者要做健康檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "nuda pgkla qqlahang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Qbhangi bi ka muda pgkla qqlahang.",
+        "ch_sentence": "防治宣導要注意聽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "mqlahang quwaq",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Enduwai bi muda ka qqlahang quwaq",
+        "ch_sentence": "做好口腔保健"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "halus quwaq",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Halus quwaq kika pusu qtaan.",
+        "ch_sentence": "口腔黏膜要特別注意"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "phgut dara",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Phgut dara o kika pusu bi pqita hiyi.",
+        "ch_sentence": "抽血是健康檢查最重要的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "qumi pqlahang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Saai bi pbtaq qumi pqlahang ka laqi rbnaw.",
+        "ch_sentence": "嬰孩的預防針要記得打"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "gmaaw qmita",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gmaaw ni qmita o kika pusu bi euuda.",
+        "ch_sentence": "篩檢是很重要的過程"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "sapuh sinaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Sapuh sinaw sun o aji balay bi sinaw mahan.",
+        "ch_sentence": "所謂酒精（藥用），不是真正喝的酒"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "elug hrus ungat maat",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga hiya ka elug hrus ungat maat.",
+        "ch_sentence": "無障礙坡道在那裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "saan ngangut ungat maat",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga hiya ka saan ngangut ungat maat.",
+        "ch_sentence": "無障礙廁所在那裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "mnarux nicilux",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Saw smeisug bi ka Mnarux Mcilux.",
+        "ch_sentence": "登革熱是很可怕的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "mnarux iraq",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Gaga daan meeru Mnarux Iraq ka laqi na.",
+        "ch_sentence": "他的孩子被腸病毒感染"
+      }
+    ],
+    "source_year": "108"
+  }
+}

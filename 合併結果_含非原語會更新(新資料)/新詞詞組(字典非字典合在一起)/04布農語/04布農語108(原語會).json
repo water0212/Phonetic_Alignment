@@ -1,0 +1,80 @@
+{
+  "四分之一": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maipat tu tasa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾爸、媽、兒子、女兒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paipashaal tu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "乾父",
+      "乾母",
+      "乾子",
+      "乾女"
+    ],
+    "source_year": "108"
+  },
+  "義父、母、子、女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paipasahaal tu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "義父",
+      "義母",
+      "義子",
+      "義女"
+    ],
+    "source_year": "108"
+  },
+  "養": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinaipu tu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼父、母、子、女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiningnaan tu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "繼父",
+      "繼母",
+      "繼子",
+      "繼女"
+    ],
+    "source_year": "108"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "列表機": {
+    "new_word": [
+      {
+        "fm_word": "lepeaoci",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "列表機"
+  },
+  "國道": {
+    "new_word": [
+      {
+        "fm_word": "kuotao",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "國道"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kulismasʉ"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "聖誕節"
+  },
+  "點讀筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ten'tupi"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "點讀筆"
+  },
+  "法務部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "faa'u pu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  }
+}

@@ -1,0 +1,1555 @@
+{
+  "總統府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "peyveyvatvatkan no congtong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行政院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kabedbedan no seyvo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "piyahahapan so yokoyokod"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "司法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangtepan so yokoyokod"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "考試院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kabtekan no peysisikingan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監察院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kabtekan no mapiyangangey"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外交部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no mapikagagan so teysaka pongso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no makakadey ya vazey no seyvo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "財政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no nizpi no seyvo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "經濟部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no kabtekan pininizpiyan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法務部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no kabtekan no paciciciyan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no kabtekan no avavangan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國防部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no itaysang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "文化部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no iweywawalam"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "體育署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no pazizitonan so kataotao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "警政署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no kisat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "水利局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no ranom"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "觀光局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no pilingalingayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公路局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "消防局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no manbonboy so apoy"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "林務局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no kahasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "智慧財產局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no nipeypapo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中央氣象局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no kakawan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "就業服務站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no peyveyvazayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民特考": {
+    "new_word": [
+      {
+        "fm_word": [
+          "peysisikingan no yancyomin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mazakat so kasisi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "便秘": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ji maka opot"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "痔瘡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kapazangpangen a noka"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "癌症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "jiaoliy a ingingnen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mangavavaw so jyacita ingingnen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "manavavow so macita ingingnen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "小兒科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mangavavow so kanakan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "復健科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "avavawan so kataotao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "藥劑師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomalamozong no kosozi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "麻醉師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "manhamang so tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "實習醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "macinanao a koysang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "主治醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mangavavaw a koysang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "輪椅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangalelean so meyngen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "溫度計": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tovil do omazidangdang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "手術室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pamomozitan so tao a vahey"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "急診室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "citan so neymakdeng na ingingnen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "嬰兒室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vahey ni kekey"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "救護車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangavangavangan so meyngen na tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "氧氣罩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "macitolang do ineynawan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加護病房": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ngayan da no aviyaviyain da tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "血壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rako so rala"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "人行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rarahan no tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "十字路口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "misangasanga a rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "土地權狀": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yongkad no hakawen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "元旦": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vayo wawan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公佈欄": {
+    "new_word": [
+      {
+        "fm_word": [
+          "padketan so vazavazey"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "天橋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mivolatang a rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "月台": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pananalan so motolatolang a aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "父親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ararow no kasyan no ama"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加油站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pararapan so sikyo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "平交道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tazimanan so matolatolang a aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "母親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ararow no kasyan no ina"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangongopas so malas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通管制": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangzan so miyaleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "列表機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pobotan so nivatvatkan a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "地下道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mabobo a rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "字典": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kapedpedan no vatvatek"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "扣押": {
+    "new_word": [
+      {
+        "fm_word": [
+          "jimya apen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自行車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rarahan no cyawtace"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動售票機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangangapan so kipo a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動繳費機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangongozongan so nizpi a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yaongkad no mapasongay so aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "作業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vatvatekan do piwalam"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "冷氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maparekmeh a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "吸塵器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangangazot so ibeybek"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "快車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rarahan no magza aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "受文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahap so kobong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "放大鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mapiparako so citaen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangozayan na yokoyokod"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法拍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ipanazang no pacicicyan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "待轉區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seykedan no piciciwagan no aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "春節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mapasamorang so vayo wawan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "派令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vakong no pahanhanen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "紅綠燈": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangozayan na apoy do rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "計算機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "katakatan so vilang a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "候車亭": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pananalan so aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民族日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ararow no yancyomin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "徒步區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "alalaman no tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "picitacitan so nipadket a vazey"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "烘碗機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ipangenggit so kakanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "釘書機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tetbek do vakong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除夕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kavosan no wawan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除濕機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ipangangazot so omhen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "乾衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ipangenggit so ayob"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "停止線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tovil do seykedan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "剪票口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "panedtedan so kipo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國道": {
+    "new_word": [
+      {
+        "fm_word": "neyrako na rarahan",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國慶日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ararow no kabedbedan ta seyvo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦幼節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ararow no mavakes kano kanakan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "彩色筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "migaza kozyong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "情人節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ararow no mipasngen na tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "教師節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ararow no kasyan no sinsi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "望遠鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sisiva do marai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "清明節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "piwadwad do aseb"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "視訊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "citan so kasiresireng a tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "通緝令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vakong no rakpen na tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "速限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "akenan no mapasongay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "單行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mikasa a rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "提款機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangangapan so nizpi a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "斑馬線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tovil do rarahan no tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "測速器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sisiva do magza a aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "發文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomoro no kobong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "微波爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangakowatan so kankannen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "歲時祭儀日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pamarmarngan so kanen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "禁止通行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "jimangonongi a rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cinatazak ni yeso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yongkad a vakong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "路肩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "papliplinan so aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "遊客中心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "piweywalam no tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "電梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rarahan na kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "慢車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rarahan no mapakeh aleleh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監視器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paniniva so tao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "端午節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apia vehan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "獎懲令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vakong no ipeypakatkat kono malma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駕照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yongkad no mapasongey"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "機場": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seyseykedan no sikoki"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "隨身碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangongozongan so nivatvatkan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聯絡簿": {
+    "new_word": [
+      {
+        "fm_word": [
+          "teydan so ciring"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "點讀筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "panodotodo a pivatvatek"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "轉運站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paneykedan so sakayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "雙黃線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tovil do jimiavasi a rarahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "蠟筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pisega kozyong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "顯微鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sisiva do jyacita no mata"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "戶籍謄本": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ngaran no asa ka vahey"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo nipalolo o pangozayan a ngaran mo?",
+        "ch_sentence": "你有帶戶籍謄本嗎？",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "106"
+  }
+}

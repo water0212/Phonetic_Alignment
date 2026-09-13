@@ -1,0 +1,182 @@
+{
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "marikisua",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maiatuhluhlukia maci marikisua mahlukua marikisuana, tam apaihlipihla",
+        "ch_sentence": "去二樓的時候要注意，非常危險"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "hlikitʉravahlita",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'matumuhlua ahlamʉ ma hlikiruravahlita miapipihlihli",
+        "ch_sentence": "有很多鳥在走廊上飛"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "'uluti",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'uluti saliakuna rianʉ mikua aanʉ hla mapaci",
+        "ch_sentence": "我家的地下室，全部都是食物和酒"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "tananana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uka'a marupangʉhlʉVʉ tananana ma taluavaʉlana ari",
+        "ch_sentence": "餐廳星期天沒營業"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "sipatangahla",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aucaucani cucu'u rianʉ pi ucani sipatangahla",
+        "ch_sentence": "每一個人都有一個印章"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "tumangahla",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maci tumuakia sinsi kani'i sikurarauna， mahlukua salia kapitanʉ miararuma tumangahla",
+        "ch_sentence": "如果要申請這個活動，要去里長登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "arauhlusu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa mahlukua taparana taku ' i'iarʉ ngahla pihlingi sinsi hlisuhlataisa arauhlusu",
+        "ch_sentence": "去到戶政事務所辦理遷出"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "umupangʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "umupangʉa kana'ana upatʉ sinsi ta'iarana",
+        "ch_sentence": "他收養了四個小孩"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "sinsi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muasaku mahlukua kuva sinsi ta'iarana.",
+        "ch_sentence": "我要去公司申請工作"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "sumamusu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sumamusuaku sinsi kani'i ta'iarana ",
+        "ch_sentence": "我取消申請這項工作了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "paisasavusavuana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muasaku matata paisasavusavuana",
+        "ch_sentence": "我明天要去衛生所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "sipakiaalangʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tam pakaritʉkʉhla kani' i sipakiaalangʉ",
+        "ch_sentence": "這個疫苗很特殊"
+      }
+    ],
+    "source_year": "108"
+  }
+}

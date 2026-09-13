@@ -1,0 +1,105 @@
+{
+    "b": {},
+    "p": {},
+    "m": {},
+    "f": {},
+    "d": {},
+    "t": {},
+    "n": {},
+    "l": {},
+    "g": {
+        "k": {
+            "local_count": 2,
+            "local_score_k": 1.0,
+            "global_score_i": 0.1642,
+            "note": "Local Vote"
+        }
+    },
+    "k": {
+        "k": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.1887,
+            "note": "Local Vote"
+        }
+    },
+    "h": {},
+    "j": {},
+    "q": {},
+    "x": {},
+    "zh": {},
+    "ch": {},
+    "sh": {},
+    "r": {},
+    "z": {},
+    "c": {},
+    "s": {},
+    "0c": {
+        "0c": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.0956,
+            "note": "Local Vote"
+        }
+    },
+    "an": {},
+    "en": {},
+    "ang": {},
+    "eng": {},
+    "er": {},
+    "i": {},
+    "u": {},
+    "ㄩ": {},
+    "a": {
+        "a": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.2143,
+            "note": "Local Vote"
+        }
+    },
+    "o": {},
+    "ㄜ": {},
+    "e": {},
+    "ai": {},
+    "ei": {},
+    "ao": {
+        "aw": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.2353,
+            "note": "Local Vote"
+        }
+    },
+    "ou": {},
+    "ia": {},
+    "io": {},
+    "ie": {},
+    "iai": {},
+    "iao": {},
+    "iou": {},
+    "ian": {},
+    "in": {},
+    "iang": {},
+    "ing": {},
+    "ua": {},
+    "uo": {},
+    "uai": {},
+    "uei": {},
+    "uan": {},
+    "un": {},
+    "uang": {
+        "wang": {
+            "local_count": 2,
+            "local_score_k": 1.0,
+            "global_score_i": 0.5833,
+            "note": "Local Vote"
+        }
+    },
+    "ong": {},
+    "ㄩe": {},
+    "ㄩan": {},
+    "ㄩn": {},
+    "iong": {},
+    "0v": {}
+}

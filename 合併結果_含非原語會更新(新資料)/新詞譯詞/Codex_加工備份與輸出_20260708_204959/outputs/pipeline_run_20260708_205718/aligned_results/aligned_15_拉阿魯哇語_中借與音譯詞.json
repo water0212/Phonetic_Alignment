@@ -1,0 +1,30 @@
+[
+    {
+        "chinese": "博士",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "h,a",
+            "k,a",
+            "s,i"
+        ],
+        "dict_pinyin": [
+            "b,uo",
+            "sh,0v"
+        ]
+    },
+    {
+        "chinese": "地方法院",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "h,u",
+            "0c,ing",
+            "0c,i"
+        ],
+        "dict_pinyin": [
+            "d,i",
+            "f,ang",
+            "f,a",
+            "0c,ㄩan"
+        ]
+    }
+]

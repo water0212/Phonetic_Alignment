@@ -1,0 +1,800 @@
+{
+  "碩士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "RateReq tenaqsi na ay lazat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "padames RateReq tenaqsi na ay lazat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "村長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pazasan tu damu ay lazat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "鄰長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paazasan tu qenabalang ay lazat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速鐵路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maqassiR ay saqiReb ay qitun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速公路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qasiR ay lazan na qitun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "教育部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "meRibung tu satudan ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原文會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pakelawkawayan tu waway na lazat ta ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "展覽館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qizuanan na sapaqaytan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "頒獎典禮": {
+    "new_word": [
+      {
+        "fm_word": [
+          "waway na paqawlaRan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "永續能源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mai qaRepungus ay Ribang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "傳統領域": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qenizuanan na baqi bai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "產業觀光": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yau saRasan saqawRatan ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "科技": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tasu ay sinangian"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "現代": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tangi ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "歷史": {
+    "new_word": [
+      {
+        "fm_word": [
+          "waway na masang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qenaliman ay senangian"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術家": {
+    "new_word": [
+      {
+        "fm_word": [
+          "semangsangi tu qenalimam ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自治": {
+    "new_word": [
+      {
+        "fm_word": [
+          "meRibun tu zana ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "交流道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pising na qasiR ay lazan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "手機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "azazasan ay simipilan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憂鬱症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sitaRaw tu melaydaw dames ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "中央政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Raya na lawlaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Raya na tayan ay qizuanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sepawan tu qaninanan ay Ribang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "判決書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mezukat ti sudad na lazas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "志工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "anem na kelawkaway"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "動土儀式": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sepaw tu siangatu kemutkut"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "公德心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nengi anem na"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "初賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siangatu simsuqas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "決賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Raylikuz ay simsuqasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "虛詞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mai tu imi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "餿水油": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siti na RimRim"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "代言人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dayli menanul ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sitaRaw tu qemabsi ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "公信力": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nisazmakenan ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "最高法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Raybabaw ay huing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高等法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ibabaw ay huing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huing na qizuanan tayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "宵夜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qeman tuRantuRabi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自助餐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aneman qeman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "古早味": {
+    "new_word": [
+      {
+        "fm_word": [
+          "masang ay qaqanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "路邊攤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ta lalazan ay qaqanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "夜市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tuRabi babaliw ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "販賣區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qizuanan babaliw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "購物頻道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ta tiliban baliw ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "廣告": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paRsupaR tu mazemun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nisazemakenan ay paya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "電話卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paya na simaipilan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "收據": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nisazemakenan mala tu kelisiw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "熱門商品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qalizaqan na mazemun ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "瑕疵品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sukaw ay nisangian"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "仿冒品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ni qayRuzikan semangi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paqeRis tu paya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "漲價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tumuqaz asa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "降價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "semaRuR asa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "殺價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasiyun tu asa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "存貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qatis Ribang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "囤貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "semapun tu Ribang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "缺貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mai qasemin Ribang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "暢銷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nengi baliwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "保存期限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tuzusan na dedan menebi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "復古": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qinunung tu masang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專賣店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "baliw tu tungus na ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "唱片行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "baluw tu satezayan ay tiam"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "戶籍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qizuanan na qenabinnusan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tanian qizuanan su?",
+        "ch_sentence": "你的戶籍在哪裡？"
+      }
+    ],
+    "source_year": "105"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "koosi",
+        "ch_semantic": "公司(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公司"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "burozeki’",
+        "ch_semantic": "流氓(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "幫派"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "powising",
+        "ch_semantic": "氨肥(客譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學肥料"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "wanglo’",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "kamasempen ka hongiyo'",
+        "ch_semantic": "專門職掌疫病者",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "kamamalahaeng ka 'oem'oemaeh",
+        "ch_semantic": "專門保護大地者",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "kamasempeng ka kahkahaewan",
+        "ch_semantic": "專門職掌財產者",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "kamamalahaeng kamamatawaw kakrangi'an",
+        "ch_semantic": "專門照顧工人財物者",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "kamamiyalawa' ka ralom ki 'oemaeh",
+        "ch_semantic": "專門守護、監視水及土地者",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "kamamalahang ka moto: to'oya'",
+        "ch_semantic": "專門保護、照顧客家人的政府單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "x 光": {
+    "new_word": [
+      {
+        "fm_word": "kapa'alingo' ka basang",
+        "ch_semantic": "拍照身體的",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "博士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hakasi"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "博士"
+  },
+  "村長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suʉnciu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "村長"
+  },
+  "鄰長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rinciu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "鄰長"
+  },
+  "高速鐵路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kausuutieruu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "高速鐵路"
+  },
+  "高速公路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kausuukungruu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "高速公路"
+  },
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cie'in"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "捷運"
+  },
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uangkaa"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "網咖"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sin-iʉngka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "信用卡"
+  },
+  "電話卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tienhuaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "電話卡"
+  },
+  "發票": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fapiau"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "發票"
+  },
+  "收據": {
+    "new_word": [
+      {
+        "fm_word": [
+          "socii"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "收據"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuangtie"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "刷卡"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "Ienminhui",
+        "ch_semantic": "(Iencu mincu ui-enhui)(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "原民會"
+  },
+  "纜車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "riurong"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tivaangcʉngvu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Iencuumincu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "puo'ukuan"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高等法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kautʉngva-ien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "中央政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cung-iangcʉngvu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "最高法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuikauva-ien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tivaangva-ien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": "sevʉn ’irevʉn",
+        "ch_semantic": "7-11 的音譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "便利商店"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "Uefupuu",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "衛福部"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "Huanpausu",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "環保署"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "Kuocanci",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "國產局"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "Raupauci",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "勞保局"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "Suipauci",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "水保局"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "Kʉ-ui-hui",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "客委會"
+  }
+}

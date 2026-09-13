@@ -1,0 +1,57 @@
+{
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "kanpang",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "招牌"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "bakudan",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "原子彈"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "Rulic",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "lipay",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "星期"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kingkiu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "公升": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hahaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qnjisan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "公頃": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lituk"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "分貝": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hnang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "石化燃料": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ayang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沼澤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "waciq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "海灣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "twihing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  }
+}

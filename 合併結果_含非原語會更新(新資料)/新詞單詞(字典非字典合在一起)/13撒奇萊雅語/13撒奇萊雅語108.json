@@ -1,0 +1,1277 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "saydanma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izaw ku sasaydan i sasaydanma'",
+        "ch_sentence": "校長室裡有校長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "tademawma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu tademawma' kuyda",
+        "ch_sentence": "那是人事室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "sausima'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musausuyay tu kalisiw ku sausima'",
+        "ch_sentence": "主計室是算錢的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "pakapahma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tayda i pakapahma' nida pahanhan",
+        "ch_sentence": "他去保健室休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "lubangma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tayda kita i lubamgma' milubang",
+        "ch_sentence": "我們去會議室開會"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "sebengma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izaw ku sebengma' i cacumudan",
+        "ch_sentence": "學校入口處有警衛室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "班導辦公室": {
+    "new_word": [
+      {
+        "fm_word": "pansaydanma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "miawaw ku saydan patayda i pansaydanma'",
+        "ch_sentence": "老師叫他去班導辦公室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "nusukdanma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tayda kaku i nusukdanma'",
+        "ch_sentence": "我去料任教師辦公室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "nusukdiwma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mudadiw kaku i nusukdiwma'",
+        "ch_sentence": "我在音樂專科教室唱歌"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "nusuklimama'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mikulit kaku i nusuklimama' ayda a demiad",
+        "ch_sentence": "我今天在美勞專科教室畫畫"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "dihngilma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i dihngilma' kaku mudadiw",
+        "ch_sentence": "我在視聽教室唱歌"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "tahekma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "utahekma' kuydaan",
+        "ch_sentence": "那是自然教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "aalanma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "u aalanma' kuydaan",
+        "ch_sentence": "那是資源教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "nalangawanma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "manamuh kaku minanam i nalangawanma'",
+        "ch_sentence": "我喜歡在鄉土教室學習"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "nanamcu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kay nanamcu muhalhal kisu",
+        "ch_sentence": "你在學務處等著"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "kapulungcu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "katayda i kapulungcu sa ku saydan",
+        "ch_sentence": "老師說到總務處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "ngaaycu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i nua yawan ku ngaa ycu",
+        "ch_sentence": "輔導處就在前面"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "cudacudadma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "manamuh kaku micudad i cudacudadma'",
+        "ch_sentence": "我喜歡在圖書館念書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "pilatlatan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "milatlat oida demidemiad i pilatlatan",
+        "ch_sentence": "他每天在操場運動"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "pacengan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "padeng han ku sapiasik i pacengan",
+        "ch_sentence": "把掃把放在樓梯間"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "tatunduday",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i tatudunday ku nanamcu ",
+        "ch_sentence": "學務處在二樓"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "salinging",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muculil kaku i salinging",
+        "ch_sentence": "我在走廊上走路"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "sasama'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yadah ku tuud i sasama'",
+        "ch_sentence": "很多東西在地下室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "pikanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izaw ku cacay a pakanan ni Padakaw",
+        "ch_sentence": "Padakaw 有一問餐廳"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "tataynasi'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "itida ku tataynasi'",
+        "ch_sentence": "那是女生廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "tatamasi'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "itida ku tatamasi'",
+        "ch_sentence": "那是男生廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "pakazizengan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakazizeng aku i pakazizengan",
+        "ch_sentence": "我把車停在停車場"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "nasmalian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mimali kaku i nasmalian",
+        "ch_sentence": "我在籃球場打球"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "bekmaliao",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mimali kaku i bekmalian",
+        "ch_sentence": "我在棒球場打球"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "kikasiw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tayda i kikasiw pangangan kaku",
+        "ch_sentence": "我去戶政事務所登記身分"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "kikawawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "misakakawaw kakuikikawawan",
+        "ch_sentence": "我在戶政工作站工作"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "pankungmiad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pankungmiad niyam u sakapacacay a demiad katukuh tu sakapalima a demiad",
+        "ch_sentence": "我們的辦公時間是從星期一到星期五"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "edapkawaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yadah ku edapkawaw niyam",
+        "ch_sentence": "我們的服務項目有很多"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務台": {
+    "new_word": [
+      {
+        "fm_word": "edapday",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "anu izaw ku kakaliyuhan apalita kisu i edaypday",
+        "ch_sentence": "如果有不清楚的你就去問服務台"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "edapkeling",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "anu mapingki kisu, pecen tu ku edapkeling",
+        "ch_sentence": "你如果有障礙，可以按服務鈴"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "ingkang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i cuwa ku ingkang nu maku?",
+        "ch_sentence": "我的印鑑在哪裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "mibunsiw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "idaw ku mibunsiw isu haw?",
+        "ch_sentence": "你有身分證嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "pakabit",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakabit tukika",
+        "ch_sentence": "戶籍登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "pakika",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakabitkika tu kamu haw?",
+        "ch_sentence": "你們設籍登記了嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "pangangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pangangan tu haw?",
+        "ch_sentence": "你身份登記了嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徙登記": {
+    "new_word": [
+      {
+        "fm_word": "mabulaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mabulawkabit tu haw?",
+        "ch_sentence": "你遷徙登記了嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "zumadad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "idaw ku dumadad isu haw?",
+        "ch_sentence": "你有其他的文件嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "kikacul",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "adihan aku ku kikacul isu",
+        "ch_sentence": "我看你的戶籍資料"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "pacumud",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pacumud den ku kika",
+        "ch_sentence": "把戶口遷進來"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "limad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "malimad tu ku luma' isu haw?",
+        "ch_sentence": "你家遷走了嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "sumadtidaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sumadtidaan nu misu haw?",
+        "ch_sentence": "你住址變更嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "payama'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pina ku payanan nu luma' isu",
+        "ch_sentence": "你門牌幾號"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "nilecuhan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i cuwa ku nilecuhan nu misu?",
+        "ch_sentence": "你在哪里出生的?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "nihabay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nihaba yan kisu sa",
+        "ch_sentence": "聽說你是被收養的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "sinsi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "misinsi kaku",
+        "ch_sentence": "我去申請"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "panengen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mapanengngan tu cinida",
+        "ch_sentence": "他已經被註銷了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "sumadngan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "masimadngan tu kaku",
+        "ch_sentence": "我已經改名了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "ayawcek",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "paayawcuken",
+        "ch_sentence": "先預約吧"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "lacawadad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "silacawadad kami",
+        "ch_sentence": "我們有結婚證書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "liyasdad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sili yasdad kami",
+        "ch_sentence": "我們有離婚書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "cikisiw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sicikisiw ku nyadu' haw?",
+        "ch_sentence": "部落有衛生所嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "dimelay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maladimelay kaku",
+        "ch_sentence": "我當保健員"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "dekudan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "u dekudan kuydaan baw?",
+        "ch_sentence": "她是護理師嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "dekuka",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "u dekuka kaku",
+        "ch_sentence": "我是護理長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "demudan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "u demudan kisu haw?",
+        "ch_sentence": "你是營養師嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "ngipendan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ngipendan kisu haw?",
+        "ch_sentence": "你是牙醫師嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "saazihan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mikulit kaku tu saadihan",
+        "ch_sentence": "我在畫平面配置圖"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "payuma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "katayda i payuma' paising",
+        "ch_sentence": "到診療室治療"
+      }
+    ],
+    "source_year": "108"
+  },
+  "x光室": {
+    "new_word": [
+      {
+        "fm_word": "padinguma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kay padinguma' midadingu",
+        "ch_sentence": "在x光室照x光"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "nganganma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pabangu i banguma'",
+        "ch_sentence": "到掛號室掛號"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "pacucuma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pacucu i pacucuma' tu wawa",
+        "ch_sentence": "在哺乳室哺乳嬰兒"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "simawma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tasimawma' muhalhal",
+        "ch_sentence": "去值班室等等"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "cucukma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kay cucukma' pahanhan",
+        "ch_sentence": "在注射室休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "pasusudma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": " i susudma' mususud",
+        "ch_sentence": "在復健室復健"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "kinsama'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kay kinsama' mueneng muhaLhal",
+        "ch_sentence": "就在檢驗室坐下休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "suluma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kay suluma' muhaLhal",
+        "ch_sentence": "就在檔案室等"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "sapayukyuk",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "katayda kisu i sapayukyuk",
+        "ch_sentence": "你去藥局"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "ingaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "piingawi kisu",
+        "ch_sentence": "你去打疫苗"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kinsazip",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakinsadip kisu haw?",
+        "ch_sentence": "你有健康檢查了嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "patinenglawa'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "patinenglawa' inyadu'",
+        "ch_sentence": "部落在防治宣導"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "dimelaway",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kadimelaway kisu",
+        "ch_sentence": "你有口腔保健喔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "ngangay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "singangay kisu",
+        "ch_sentence": "你有口腔黏膜"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "wada'dang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mihelupdang ayda",
+        "ch_sentence": "今天抽血日"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "laayawcuk",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "amilaayawvuk ayda",
+        "ch_sentence": "今天要打預防針"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "siwasiwsa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "misiuwasiusa ayda ademiad",
+        "ch_sentence": "今天是篩檢日"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "'pahcin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "siepahcin kisu haw?",
+        "ch_sentence": "你有酒精嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "pikingkayakay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nuayawan u pikingkayakay",
+        "ch_sentence": "前面是無障礙坡道"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "pingkisi'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "itida ku pikingsi'",
+        "ch_sentence": "那間是無障礙廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "tengkeze",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sitenkeze i Takaw",
+        "ch_sentence": "高雄有登革熱"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "sawadawak",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sisawadalwak kisu",
+        "ch_sentence": "你有腸病毒"
+      }
+    ],
+    "source_year": "108"
+  }
+}

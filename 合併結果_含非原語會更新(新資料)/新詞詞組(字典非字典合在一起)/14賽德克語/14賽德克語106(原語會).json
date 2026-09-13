@@ -1,0 +1,1869 @@
+{
+  "總統府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pusu pngalan kari"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行政院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mdudul ooda"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pheyu gaya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "司法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pndungus gaya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "考試院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mdudul psseengan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監察院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sndehu ndaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外交部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan klangun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan sqlahang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "財政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan hbangan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "經濟部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan ppyahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法務部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan mdakan gaya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan mpseelu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國防部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan gnbaang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "文化部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pddulan snkdesan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "體育署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mdudul pstarin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "警政署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mdudul kesacu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "水利局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingal ooda qsiya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "觀光局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingan psrigo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公路局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingan ooda eluw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "消防局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingal ooda pnsqama"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "林務局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingal ooda sanringka"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "智慧財產局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingan gnkela qyqeya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中央氣象局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingan pklaan karac"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "就業服務站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ssliyan skdiyan qpahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "thetur dara"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "便秘": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tqcelan quti"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "痔瘡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mtliyus puyaq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "癌症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mnarux naqah"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "流行性感冒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mtliyus mnarux"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqita mnarux hei"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqita mluqah hei"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "小兒科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqita mnarux laqi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦產科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqita mnarux mqedil"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "精神科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqita mkuni tunux"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "復健科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqita pgkere hei"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "藥劑師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mplabu iyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "麻醉師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mbetaq pchungi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "實習醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "msnegul mpuising"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "主治醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ising mqita"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "診所": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sapah ising"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "輪椅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rulu tloongan mqraqil"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "溫度計": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sseengal kntlexan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "手術室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tqiyan pgkeruc"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "急診室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tqiyan pglayun pqita"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "嬰兒室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tqiyan laqi rabu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "救護車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rulu maapa mnarux"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "氧氣罩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sepuy spooda hengak"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加護病房": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tqiyan mnarux sqlahang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "成藥": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iyu bnrigan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "血壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnlangan dara"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "傳染病": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mnarux meeru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "人行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda seediq",
+          "elug sksa seejiq",
+          "oda sediq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "十字路口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "eluw strengan",
+          "pstrngan babaw elug",
+          "ddaun pstrngan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "土地權狀": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis tndheran",
+          "patas tnpusu dxgal",
+          "patasdxral"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中秋節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smqaras idas",
+          "pnsmiyan idas",
+          "rabu idas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "元旦": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smmesung pnrdingan",
+          "smesung",
+          "priyux kngkawas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公文": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pgkela",
+          "patas pgkla",
+          "patas pklaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公佈欄": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqpahan pgklaan",
+          "pklaan",
+          "pqpahan patas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "天橋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qungaan hako",
+          "hakaw baraw",
+          "hakawbaraw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "月台": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qungaan ttaapa",
+          "tpaan rulu",
+          "twaan ppaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "父親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smqaras tama",
+          "pnsmiyan qqrasun tama",
+          "diyax qrasan tama"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加油站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tqriyan abura",
+          "qriyan gasoring",
+          "tqriyan gasoling"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "平交道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda qayu",
+          "elug strngan",
+          "oda strngan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "母親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smqaras bubu",
+          "pnsmiyan qqrasun bubu",
+          "diyax qrasan bubu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": [
+          "geluq pbhege",
+          "biyuq ssrus",
+          "wluqssru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通管制": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sqlahang ddaun",
+          "sbangan elug",
+          "sbangan ddaun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "列表機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kulu reeru pntasan",
+          "kulu mpmangal sasing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "地下道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda pnqolic",
+          "elug truma",
+          "oda blingan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "字典": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pndngusan",
+          "pklapatas",
+          "patas pnskuwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "扣押": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pdoi qnrapan",
+          "hridun",
+          "hritung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自行車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda tmediq",
+          "elug ddeynsya",
+          "oda ddeynsya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動售票機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kulu brigan kipu",
+          "bbrigan kipu",
+          "bbriyun kipu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動繳費機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kulu bbege bnrigan",
+          "psbgay pila",
+          "muway hbangan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pnrulu",
+          "patas sksarulu",
+          "patas kksaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "作業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pptasan pnyasan",
+          "pptasun",
+          "pptasan pnyasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "冷氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ptleetu kntlexan",
+          "pskuy nniqan",
+          "ptltu pspahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "吸塵器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "spheguc sntriqan",
+          "pshguc ruciq",
+          "hmuuc rtiqan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "快車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda psriko",
+          "elug tbyaxan",
+          "oda tnbyaxan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "受文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maangal patis",
+          "empeangal",
+          "mnangal patas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "放大鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gagi pgparu",
+          "gagi pkparu",
+          "wawi knpraan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pnugaya ooda",
+          "patas gaya pnowsa",
+          "waya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法拍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hirun pnbaruy",
+          "pgyaun smbarig",
+          "briwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "待轉區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "stara tqriyan",
+          "qriyan",
+          "tmawa oda"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "春節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smmesung plmukan",
+          "pnsmiyan bgurah hnkawas",
+          "smsung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "派令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pskgulan",
+          "patas ppowsa",
+          "pnskuran"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "紅綠燈": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pgyusan oda",
+          "samaw embanah",
+          "teynki mbanah mi msama"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "候車亭": {
+    "new_word": [
+      {
+        "fm_word": [
+          "luwan rulu",
+          "tgaan rulu",
+          "twaan ruru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民特考": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ssliyan Yencumin tokaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民族日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ali nSeediq",
+          "jiyaxq qrasun seejiq",
+          "diyax sngayan sediq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "徒步區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "skesa seediq",
+          "kksaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pgklaan",
+          "patas pkla",
+          "pklaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "烘碗機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pkdngeyun pngerah",
+          "pstalux pratu",
+          "dngan pngrah"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "粉筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ppatis tnmuwan",
+          "ppatas lmux",
+          "ppata stmmu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "釘書機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lhugan patis",
+          "pstucing",
+          "pndkhan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除夕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rabi mpsmesung",
+          "pnjingan hnkwasan",
+          "diyax rabi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除濕機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pkdngeyun mnsemun",
+          "psdngu",
+          "pqdnguyan hriqun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "乾衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pkdngeyun pnheyan",
+          "psdngu lukus",
+          "dngan lukus"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "停止線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnama stmaun",
+          "pnskraya nshtur",
+          "pnskraya tnama"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "剪票口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ttapan kipu",
+          "sqitan kipu",
+          "rhngun sqitan kipu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國道": {
+    "new_word": [
+      {
+        "fm_word": "eluw klangan",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國慶日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smmesung klangan",
+          "pnsmiyan pnhyugan klwaan",
+          "diyax qrasan kluwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦幼節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smqaras mqedil",
+          "pnsmiyan qqrijil ni laqi",
+          "diyax qridil mi laqi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "彩色筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ppatis psrako",
+          "ppatas rakaw",
+          "ppatas psrakaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "情人節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smqaras snkxilan",
+          "pnsmiyan mnsdangi",
+          "diyax msdangi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "教師節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smqaras mptgesa",
+          "pnsmiyan emptgsa",
+          "sngayan mptsa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "望遠鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gagi psdlingan",
+          "gagi pqita dgiyaq",
+          "wawi qmita thyaqan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "清明節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dmahur mngedang",
+          "pnsmiyan habung",
+          "dmahur mnrdang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "視訊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qnawan mpqqita",
+          "mqqita rmngaw",
+          "qnawal qtaan ndaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "通緝令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patid sqerac",
+          "patas qqrapun",
+          "pqrapan pnatas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "速限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tndkaran stalang",
+          "psdakar knbyaxan",
+          "hmkani tnbyaxan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "單行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda brexun",
+          "elug murux",
+          "oda brxun daun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "提款機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ngungalan hbangan",
+          "pseangal pila",
+          "ngngalan hbangan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "斑馬線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda seediq",
+          "pnskraya nkksa",
+          "pnskraya oda"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "測速器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smaso tnlangan",
+          "psmuung knbyaxan",
+          "smuung tnbyaxan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "發文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "meege patis",
+          "empowsa",
+          "psa patas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "微波爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kulu pstlexan",
+          "rqda pstalux",
+          "kulu pstlxan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "歲時祭儀日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dmahur pnsratuc",
+          "pnsmiyan gaya",
+          "smratuc"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "禁止通行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda pgyaun",
+          "psdakar powda",
+          "hmkan oda"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smqaras krisumasu",
+          "pnsmiyan pncinganYesu",
+          "pntingan laqi Utux Baraw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pnlawa",
+          "patas pnlawa",
+          "patas pqpahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "路肩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "eluw gnbaang",
+          "ssiyaw elug",
+          "ssiyaw elu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "遊客中心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "slingan sprigo",
+          "kskar migaw seejiq",
+          "tatat sngayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "頒布": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pklaun",
+          "pkkla",
+          "pnlawa pklaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "慢車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda stlhaun",
+          "elug thwayan",
+          "oda thwayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監視器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sqita mmhemuc",
+          "pskaway qmita",
+          "qqtaan pnsasing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "端午節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dnahur snbleyaq",
+          "pnsmiyan",
+          "cmaki"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駁回": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ini srwai",
+          "pbrnahun",
+          "bbrinah"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "獎懲令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis sdahu pnkdira",
+          "patas snadu psahug",
+          "patas pnsruwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "膠水": {
+    "new_word": [
+      {
+        "fm_word": [
+          "geluq pqapah",
+          "ssqapah",
+          "runu wluq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駕照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis mpgeriq",
+          "patas mgriq rulu",
+          "patas mriq ruru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "機場": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qnlangan skyaan",
+          "ttmaan sapah skaya",
+          "ttman hikoki"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "隨身碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gtuwan pntasan",
+          "djiyung tuwan pnatas",
+          "utuwan pntasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聯絡簿": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pggaluk",
+          "patas spkla",
+          "mswaluk"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "點讀筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ppatis stiyu",
+          "ppatas stiyug",
+          "ppatas stiyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "轉運站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "luwan pryuxan rulu",
+          "pryuxanan panan rulu",
+          "pprixan ruru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "雙黃線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oda ini sdyapi",
+          "pnskrayan dhamsaas",
+          "pnskraya msadu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "蠟筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ppatis geluq",
+          "ppatas",
+          "ppatas wluq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "顯微鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gagi pgtaso",
+          "gagi pqita",
+          "wawi qmriyan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "電梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "erebeta",
+          "sdman deyngki",
+          "hakaw teynki"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "戶籍謄本": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patis pnyahan",
+          "patas pnyahan",
+          "patas hangan nniqan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ga su psaun inu ka patis nniqan tnsapah su?",
+        "ch_sentence": "你申請的戶籍謄本放在哪裡？",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Wa su psaan inu ka nangal su pnyahan patas nniqan tnsapah su da?",
+        "ch_sentence": "你申請的戶籍謄本放在哪裡？",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Ga su psaan inu ka patas nniqan tnsapah hug?",
+        "ch_sentence": "你申請的戶籍謄本放在哪裡？",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "106"
+  }
+}

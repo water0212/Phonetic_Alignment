@@ -1,0 +1,134 @@
+{
+  "公克": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qraam"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "公噸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mata'azu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "半徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "matishfazfaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "兆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tririn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "百分比": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasiant"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "克拉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "krat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "街友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "laqsimuaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "網友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "laqsimuaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "億": {
+    "new_word": [
+      {
+        "fm_word": [
+          "birin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lhungqizi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  }
+}

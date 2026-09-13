@@ -1,0 +1,656 @@
+{
+  "飛機場": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sutanunga hikoki"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "頒獎典禮": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaisisi 'apova siohing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "永續能源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pakanuari siarupaca"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "傳統領域": {
+    "new_word": [
+      {
+        "fm_word": [
+          "niurina 'ʉnai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "傳統儀式": {
+    "new_word": [
+      {
+        "fm_word": [
+          "niurina sikaisisi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "產業觀光": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipacʉ'ʉra niimʉka"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "媒體": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinpung 'aningu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "歷史": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cini'iva siacʉvʉrʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術家": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cau patapatapasʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Cau Vuvurung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自治": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miaacara takacicin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "交流道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ta'ʉnara cacanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "影印機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siapatara'aningu sinatʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "手機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taangsua ramucu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "行車記錄器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siapatara'aningu 'unting"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憲法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ngaca'ʉ horicu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "判決書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinatʉ pancie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專利": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinatʉ nipatakicia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "代言人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pupuiri cau maakari"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "志工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cau muraranʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tumʉkʉnʉ cau aka"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "動土儀式": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaisisi maritu'usu 'ʉnai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": [
+          "takacicini maripiningi nupasʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "公德心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "putucau cʉpʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "初賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "macani arumuanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "決賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parivini arumuanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "認證": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cukanang sumaakʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憂鬱症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sukʉmʉ pamʉmʉkʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "文化": {
+    "new_word": [
+      {
+        "fm_word": [
+          "niurina siacʉvʉrʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tuncu sukʉmʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "科技": {
+    "new_word": [
+      {
+        "fm_word": [
+          "takavo'oorua siakamanʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "宵夜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kʉna vʉrʉʉngana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自助餐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patakacicin kʉmʉnʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "古早味": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sauvu miana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "路邊攤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "takʉna ciciri cacanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "夜市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapu'aa rovana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "購物頻道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapu'aa pintau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "熱門商品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pupu'ʉn nonoman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "瑕疵品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'una akain nonoman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "仿冒品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nonoman nipurusʉvʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "漲價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "moocara 'ai'i"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "降價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "morocu 'ai'i"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "殺價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'aparocu 'ai'i"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "存貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "niisʉ'a nonoman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "囤貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasatunu nonoman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "缺貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "akia nonoman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "暢銷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mamanxng 'apu'aʉn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "保存期限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tasiapeni usʉ'ʉn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "復古": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pui'i na miana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專賣店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinmung tapupu'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "唱片行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapu'a siaparacani"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "打折": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasivʉnʉ vaantuku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "餿水油": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'urai nimaarua"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "戶籍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinatukia tanasa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "esi na Kausiung sua iikita tamna huci",
+        "ch_sentence": "我們的戶籍在高雄。"
+      }
+    ],
+    "source_year": "105"
+  }
+}

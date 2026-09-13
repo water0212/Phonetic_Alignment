@@ -1,0 +1,1112 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang siaucang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "esi pa kim na'aravang siaucang makarikari",
+        "ch_sentence": "我們還在校長室談話。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang rʉnsʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "neneni putukioa sua ``'aravang rʉnsʉ``?",
+        "ch_sentence": "「人事室」做哪些工作？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang cuci",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mukusaa na'aravang cuci kesoni poiisua vaantuku tamna siasʉpʉrn",
+        "ch_sentence": "有關財物的計算，要去主計室詢問。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會計室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang kuaici",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mukusaa na'aravang kuaici kesoni poiisua vaantuku tamna siasʉpʉrn",
+        "ch_sentence": "有關財物的計算，要去會計室詢問。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang pasavuana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musuvakʉrʉ seto, tia tacucuʉn na 'aravang pasavuana",
+        "ch_sentence": "學生受傷了，要送去保健室（健康中心）。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang makarikari",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kacaua cu cau 'esi na 'aravang makarikari maritarʉ",
+        "ch_sentence": "已經很多人在會議室等候了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang kekensa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tanamaan muukusa 'aravang kekensa tikirimi",
+        "ch_sentence": "試藩去警衛室找找看。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang pantau takituturua",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Na'u, tacucuo pa sinarʉ isi na 'aravang pantau takituturua",
+        "ch_sentence": "Na'u , 請將這本書送到導師辦公室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang kʉrʉn takituturua",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "masini, 'akia pa cau na 'aravang kʉrʉn takituturua",
+        "ch_sentence": "目前科任教師辦公室裡還沒有人。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang ka'ungkaku",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "miaranau cu kita koo musikarʉ na 'aravang ka'ungkaku",
+        "ch_sentence": "我們已經很久沒有進入音樂專科教室了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang katapasʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "noo musikarʉ cu kʉ na 'aravang katapasʉ, aramanʉngʉ cu cupʉngʉ",
+        "ch_sentence": "當我進到美勞專科教室時，心情就變好了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang tatacʉ'ʉra",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia kita nukanmana tavara'ʉ 'urupaca'aravang tatacu'ʉra?",
+        "ch_sentence": "我們什麼時候可以使用視聽教室呢？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang tiennau",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia cu nura kamu tavara'ʉ 'urupaca 'aravang tiennau",
+        "ch_sentence": "明天你們才可以電腦教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang tataira",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "una na 'aravang tataira karananana kurai",
+        "ch_sentence": "自然教室裡有很多不同的昆蟲。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang papuranʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "esi ku 'aravang papuranʉ tumatuturu seto",
+        "ch_sentence": "我在資源教室上課。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang tanasʉn",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nuca'aania sumasuruvai kita 'aravang tanasʉn tumatuturu kari Kanakanavu",
+        "ch_sentence": "下午我們借鄉土教室教卡那卡那富族語。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "'ravang ciau'ucu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sʉpʉroon! papeni cau masini na 'aravang ciau'ucu",
+        "ch_sentence": "數數看！教務處現在有幾位？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "'aravang sie'ucu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sinaru isi, niaranai maku na 'aravang sie'ucu mara",
+        "ch_sentence": "這本書我從學務處拿的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "'aravang cung'ucu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia musutampe noo 'una rarima seto marisiki'aravang cung'ucu",
+        "ch_sentence": "如果有五位學生，就足夠打掃總務處了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "'aravang futaucu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aravang futaucu takituturua nimuranʉ kimia",
+        "ch_sentence": "輔導處的老師曾經幫過我們。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "'aravang sisinaru",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "iakasuin tumatacucu na 'aravang sisinatʉ",
+        "ch_sentence": "由你送去圖書館。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "sapaʉ paratʉtan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tavara'ʉa kavangvang! 'akuni musu'ʉ avara'e nakʉvʉ na saparʉ paratʉtan",
+        "ch_sentence": "大家注意！不要在樓梯間放置任何物品。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "macara cusa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "niisʉ'ʉ maku na tanasa mia macara cusa sua nonoman iisua",
+        "ch_sentence": "那些束西我放在我家的二樓。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang nakʉnakʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pani, mukusaan 'aravang nakʉnakʉ tia siarupaca",
+        "ch_sentence": "Pani,請你去地下室找工具。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "'aravang takʉkʉnʉa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kanaira pa seto masini na 'aravang takʉkʉnʉa",
+        "ch_sentence": "在餐廳的學生現在還很少。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "cikiringa nanakʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "esi tisane sua cikiringa nanakʉ",
+        "ch_sentence": "女生廁所在稍遠的那邊。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "cikiringa sarunai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cukanang isi ia, cikiringa sarunai",
+        "ch_sentence": "這個標記是男生廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "tanungu kuruma",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "itaro kui na tanungu kuruma",
+        "ch_sentence": "在停車場等我。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "tasima'ʉa rancio",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "una cu mamaan seto na tasima'ʉa rancio",
+        "ch_sentence": "已經有十位學生在籃球場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "tasima'ʉa pancio",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vo'oorua sua tarisinata mita tamna tasima'ʉa pancio",
+        "ch_sentence": "我們學校的棒球場是新的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "hucʉng sʉ'usuo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matanganai 'a'ai",
+        "ch_sentence": "為嬰兒取名，要到戶政事務所登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "hucʉng kungcuocan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia kani mapuciri hucʉng kungcuocan na puraku mita",
+        "ch_sentence": "據說要在我們的部落設立戶政工作站。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "takananga putukio",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maraini! makisavangʉ takananga putukio",
+        "ch_sentence": "抱歉！超過辦公時間了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "pangka sipuranʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Angai, tia iikasu soni moon na pangka sipuranʉ",
+        "ch_sentence": "'Angai,你今天由你在服務台。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "ca'a sipuranʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "atipiʉn mita kakiringi siruranʉ isi, tia kara 'una cau muranʉ kitana?",
+        "ch_sentence": "我們按下這服務鈴，會有人來協助我們嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "siatakici cukanang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "karakasua! niroimi mavici siatakici cukanang",
+        "ch_sentence": "糟了！忘記帶印鑑。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "tuki to'unaa tanasa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "noo tiain tuki to'unaa tanasa ia, nenei tia avicia cukanang sinatʉ?",
+        "ch_sentence": "若要設籍登記，要帶那些證件呢？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "tuki capai tina'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "poiisua tuki capai tina'an ia, ka'anʉ paira 'una",
+        "ch_sentence": "有關身分登記並不是經常有的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徒登記": {
+    "new_word": [
+      {
+        "fm_word": "tuki aravari",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia muukusa nanu tuki aravari to'unaa?",
+        "ch_sentence": "要到哪裡辦理遷徒登記呢？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更丶更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "tuki mati'ʉna",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "rapusu kara sua tuki mati'ʉna",
+        "ch_sentence": "登記變更的手續會麻煩嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "cucumem smatʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nguai kara isi sua cucumem smatʉ kisʉʉn?",
+        "ch_sentence": "其他書件是指這些嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "sinatʉ huci",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "akuni tainiʉn sua kavangvang sinatʉ huci",
+        "ch_sentence": "所有的戶籍文件都不可丟棄。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "aravari musikarʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tamara soni aravari musikarʉ",
+        "ch_sentence": "本日遷入。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "aravari arapiningi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tuki tia aravari arapiningi",
+        "ch_sentence": "登記遷出。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "mati'ʉna to'unaa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aranai nukanmana tia mati'ʉna to'unaa",
+        "ch_sentence": "何時開始住所變更？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "sʉpʉrʉ si'inʉva",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "upeni iikamu tamna sʉpʉrʉ si'inʉva",
+        "ch_sentence": "你們的門牌幾號。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "ni'unaa kamanuʉn",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ni'unaa kamanuʉn musu ia, na Kausiung",
+        "ch_sentence": "你的出生地在高雄。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "mara pacʉvʉrʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mara pacʉvʉrʉ kincaua tamna manu",
+        "ch_sentence": "收養親戚的孩子。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "mati'ʉna nganai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "una kara vanai tia mati'ʉna nganai?",
+        "ch_sentence": "更改名字有原因嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "mu'uru tumatuturu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mu'uru tumatuturu taniara",
+        "ch_sentence": "預約日期。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "cukanang muru'ucangʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cuma mataa cina cukanang muru'ucangʉ sua iisua",
+        "ch_sentence": "那是爸爸與媽媽的結婚證書。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "cukanang aratʉkʉnʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "namune'i cukanang aratʉkʉnʉ arivuvuarʉn 'apacʉ'ʉra cau",
+        "ch_sentence": "不必把離婚證書展示給他人看。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "kayupung 'iseeng",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "unava kita kayupung'iseeng",
+        "ch_sentence": "我們原來有營養師。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "anisi 'iseeng",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cucuru kani saihu sua anisi 'iseeng nesi",
+        "ch_sentence": "據說這裡的牙醫很高明。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "capai nipuciria tapasʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "una kara nesi capai nipuciria tapasʉ",
+        "ch_sentence": "這裡有平面配置圖嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang pasavuana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nesi ia'aravang pasavuana",
+        "ch_sentence": "akuninakari！這裡是診療室，不要吵!"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X光室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang x sinangʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "poon na 'aravang x sinangʉ",
+        "ch_sentence": "在X光室攝影。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang patuki",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia mavici cienpauka muukusa 'aravang patuki",
+        "ch_sentence": "要攜帶健保卡去掛號室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang pamumu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "akuni mu'upupangʉ musikarʉ na 'aravang pamumu",
+        "ch_sentence": "不可隨意進入哺乳室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang cupan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "avara'e takananga 'una cau na 'aravang cʉpan",
+        "ch_sentence": "隨時都有人在值班室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang cumacakʉpu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "makai 'akia manu sua manmaan musikarn na 'aravang cumacakʉpu",
+        "ch_sentence": "似乎沒有小孩喜歡進入注射室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang pa'intasʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tumatimana ku, 'inmaamia kani na maraa tatia piu'ing 'una sua 'aravang pa'intasʉ",
+        "ch_sentence": "我聽說只有在比較大的醫院才會設有復健室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang cienyen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "esi pa nguani 'aravang cienyen, koo pa arapipiningi",
+        "ch_sentence": "他們還在檢驗室沒有出來。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "'aravang tang'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kavangvang sinaru isi, tia tacucuʉn na 'aravang tang'an",
+        "ch_sentence": "這些所有的文件要送到檔案室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "'aravang savuana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kesoni kasua, 'esi nanu 'aravang savuana nesi",
+        "ch_sentence": "請問這裡的藥局在哪裡？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kensa tana'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "campe ku matirupangʉ kensa tana'an",
+        "ch_sentence": "我剛剛完成身體檢查。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "tumatuturu pamanʉngʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "rovana soni tia 'una kani tumatuturu pamanʉngʉ",
+        "ch_sentence": "據說今天晚上有防治宣導。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "pa'intasu ivici",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "paira pa'intasʉ ivici, tia 'akia mutuanisi",
+        "ch_sentence": "口腔保健就不會蛀牙。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "ngai matanakʉcʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia mara ngai matanakʉcʉ pakensa",
+        "ch_sentence": "要取出口腔黏膜受檢。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "mancucu nimuuru'u",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kacaua cau soni tia mancucu nimuuru'u",
+        "ch_sentence": "今天要抽血的人很多。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "cakʉpʉ paru'anivi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sua koo pa cakʉpʉ paru'anivi ia, mukusaa na 'aravang cumacakʉpu",
+        "ch_sentence": "還沒有注射預防針的，要去注射室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "pa'ici pasavuana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pa'ici pasavuana sua na to'urua musu pania",
+        "ch_sentence": "你前面的瓶子是酒精。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "samvana munasʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "campe patimanʉngʉn sua samvana munasʉ",
+        "ch_sentence": "這裡的無障礙坡道是剛剛完成的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "cikiringa munasʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cucuruana manʉng!'una cu nesi cikiringa munasʉ",
+        "ch_sentence": "真好！這裡已經有無障礙廁所了。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

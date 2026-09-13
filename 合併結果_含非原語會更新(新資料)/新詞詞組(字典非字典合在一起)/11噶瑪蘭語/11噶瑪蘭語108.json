@@ -1,0 +1,752 @@
+{
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "teqedan patudanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "qatiw pa iku sa teqedan na patutudanan",
+        "ch_sentence": "我要到科任老師辦公室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "tudan tu satetezayan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau imi ta tudan tu satetezayan satezay",
+        "ch_sentence": "我們在音樂教室唱歌。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "tudan tu qenaliliman",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau qaqa ku ta tudan tu qenaliliman",
+        "ch_sentence": "我姐姐在美勞教室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "tudan tu nipanininguan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau imi ta tudan tu nipanininguan sinanam temankebalan",
+        "ch_sentence": "我們在視聽教室學葛瑪蘭語。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "tudan tu tiyennawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau iku ta tudan tu tiyennawan sinanam tu tiyennaw",
+        "ch_sentence": "我在電腦教室學電腦。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "tudan tu maqeqati ay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ta tudan tu maqeqaqati ay yau muwaza simau, suway",
+        "ch_sentence": "在自然教室有很多花、草。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "tudan tu pedapi ay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "masuksuk ti ya tudan tu pedapi ay",
+        "ch_sentence": "資源教室被鎖住了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "tudan tu wawaway",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sinap pa iku tu tudan tu wawaway",
+        "ch_sentence": "我要去清掃鄉土教室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "papqayauan tu satudan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau iku ta papqayauan tu satudan",
+        "ch_sentence": "在教務處。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "papsasayan tu pataqsian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matutun ti ya pasayanan tu pataqsian",
+        "ch_sentence": "學務處失火了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "meRitan tu semapang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "qemuni isu matiw ta meRitan tu semapang",
+        "ch_sentence": "你去總務處做什麼？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "teqezan mezaqis",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tumqez imi ta teqezan mezaqis hibang",
+        "ch_sentence": "我們停在樓梯間休息。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "saqazusa naqetuttut",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau ta saqazusa naqetuttut leppaw ku",
+        "ch_sentence": "我家在第二層樓。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "qizuanan qeman",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau imi ta qizuanan qemqn melana timaisuan",
+        "ch_sentence": "我們在餐廳等你。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生厠所": {
+    "new_word": [
+      {
+        "fm_word": "siatisinan na tazungan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tazian ya siatisinan na tazungan",
+        "ch_sentence": "女生廁所在這裡。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "siatisinan na Runanay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tawian ya siatisinan na Runanay",
+        "ch_sentence": "男生廁所在那裏。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "teqezan tu qitun",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mai tu teqezan tu qitun tazian",
+        "ch_sentence": "這裡沒有停車場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "sapasuRemanan tu mali",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mai tu lazat ta sapasuRemanan tu mali mawRawRat",
+        "ch_sentence": "沒有人在籃球場玩耍。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "sapabeRetanan tu mali",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "melizaq imi ta sapabeRetanan tu malim mawRawRat",
+        "ch_sentence": "我們喜歡在棒球場玩耍。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "makasa ay pukikan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau iku ta makasa ay pukikan kelawkaway",
+        "ch_sentence": "我在戶政工作分站上班。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "lamangan na manmu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "naRin isu kalingu tu lamangan na manmu",
+        "ch_sentence": "你不要忘了服務項目。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "nuzekan inna",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kemilim iku tu nuzekan inna ay ku",
+        "ch_sentence": "我再找我正式的印鑑。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "semudad tu qizuanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matiw ti isu semudad tu niqizuanan ni?",
+        "ch_sentence": "你去設籍登記了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "semudad punangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mulepun ti isu semudad punangan qawka qanengi semusuR",
+        "ch_sentence": "你身分登記完才可以進入。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徒登記": {
+    "new_word": [
+      {
+        "fm_word": "semudad tu qatalinan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mulupun ti isu semudad tu qatalinan ni?",
+        "ch_sentence": "遷徒登記你辦好了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "semudad tu qaumanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "umatiw ti isu semudad tu qaumanan ni?",
+        "ch_sentence": "你去過變更登記了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "zuma sudad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "zuma sudad seppaw ika ta takanan",
+        "ch_sentence": "其他書件放在桌上。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "sudad na qenizuanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "qumni isu qatiw ala tu sudad na qenizuanan?",
+        "ch_sentence": "你什麼時候去拿戶籍資料？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "paqauman tu qenizuanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "qangid iku qatiw paqauman tu qenizuanan",
+        "ch_sentence": "我將要去變更住址。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "Rawma na leppaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yau ti Rawma na leppaw zau ni?",
+        "ch_sentence": "這間房子有門牌了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "pauman tu nangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matiw iku pauman tu nangan",
+        "ch_sentence": "我去改名字。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "sudad na qaRunanapaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matiw iku mala tu sudad na qaRunanapaw",
+        "ch_sentence": "我去拿結婚證書。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "sudad na masaRiway",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "semudad ti imu tu sudad na masaRiway ni?",
+        "ch_sentence": "你們寫了離婚證書嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "sadamesanan tu izip",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matiw iku ta sadamesanan tu izip mala tu iyu",
+        "ch_sentence": "我去了衛生所拿藥。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "mediyatip ay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mediyatip ay tina ku",
+        "ch_sentence": "我媽媽是保健員。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "pazasan tu padiyatipan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pazasan tu padiyatipan aiku",
+        "ch_sentence": "我是護理長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "papsayan tu qaqanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "papsayan tu qaqanan ay aizipna",
+        "ch_sentence": "他是營養師。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "ising na bangRaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ising na bangRaw lazat 'nay",
+        "ch_sentence": "那位是牙醫師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "tulis na baibaisan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "qatiw pa ita tayta tu tulis na baibaisan suppaR pa ita tu lazan.",
+        "ch_sentence": "我們去看平面配置圖才會知道路。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X 光室": {
+    "new_word": [
+      {
+        "fm_word": "sa X anan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "qatiw ka ta sa X anan zin na ising",
+        "ch_sentence": "醫生跟我說要到 X 光室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "alan tu iyu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "qatiw pa iku ta alan tu iyu",
+        "ch_sentence": "我要去藥局。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "kalalan iyu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "gingkiw pa tu kalalan iyu na nazau ay taRaw",
+        "ch_sentence": "要研究這種病的疫苗。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kemiyadan tu izip",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matiw sa ising kemiyadan tu izip tama ku",
+        "ch_sentence": "我爸爸到醫院健康檢查。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "paqeziyas tu satawaRan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "semanu tu satawaRan ya patudan satawaR ka zin na",
+        "ch_sentence": "老師在防治宣導要我們小心。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "pasayan tu ngibiR",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pasayan tu ngibiR na damu deddan setangi",
+        "ch_sentence": "今天是部落要口腔保健的日子。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "ngaRaz na ngibiR",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "meluzit ti ngaRaz na ngibiR ku",
+        "ch_sentence": "我嘴巴的口腔黏膜潰瘍了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "pa'tus tu Rinang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pa'tus iku tu Rinang pakiyadam",
+        "ch_sentence": "我抽血檢驗。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "tuqiq tu kalalanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tuqiq tu kalalanan setangi deddan",
+        "ch_sentence": "今天要打預防針。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "senuzazan lazan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nengi senangian na tu senuzazanan lazan",
+        "ch_sentence": "這個無障礙坡道做的很好。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "senuzazan siatisisnan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "simunan senangi na tu senuzazan siatisisnan",
+        "ch_sentence": "無阻礙的廁所做的很舒適方便。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

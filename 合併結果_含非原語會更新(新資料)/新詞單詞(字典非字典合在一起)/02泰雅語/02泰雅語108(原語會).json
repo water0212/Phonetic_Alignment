@@ -1,0 +1,119 @@
+{
+  "公克": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungko",
+          "kuramu",
+          "kungk'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "汶、萬、四、宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代表會": {
+    "new_word": [
+      {
+        "fm_word": "rayxyoka",
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "兆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "caw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、四、宜、澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "億": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ok",
+          "oku",
+          "gi'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼父": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mama",
+          "mama'",
+          "m'mama"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、澤、四",
+          "萬",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yata",
+          "yata'",
+          "m'yata"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、四",
+          "萬、汶、澤",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "smbasang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sambasang ku kanayrin niya!",
+        "ch_sentence": "他的太太是護士！"
+      }
+    ],
+    "source_year": "108"
+  }
+}

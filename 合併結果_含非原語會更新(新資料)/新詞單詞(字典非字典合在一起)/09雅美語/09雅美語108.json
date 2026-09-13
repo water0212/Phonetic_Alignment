@@ -1,0 +1,359 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "syawciangse",
+        "dialect": "椰油、朗島、東清"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mangey do syawcyangse.",
+        "ch_sentence": "我要去校長室。",
+        "dialect": "椰油、朗島、東清"
+      },
+      {
+        "fm_sentence": "ko mangay do syawcyangse.",
+        "ch_sentence": "我要去校長室。",
+        "dialect": "漁人、紅頭、野銀"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "rensese",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mangey/mangay do rensese.",
+        "ch_sentence": "我要去人事室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "pikeykaygiyan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka mangey/mangay do pikeykaygiyan?",
+        "ch_sentence": "你要去會議室嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "ciaoco",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka mivazey do ciaoco?",
+        "ch_sentence": "你在教務處上班嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "sieoco",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka mangey do sieoco?",
+        "ch_sentence": "你要去學務處？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "congoco",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "manma ka mangay do congoco.",
+        "ch_sentence": "你先去總務處。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "votawco",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo katengan o yanan no votawco?",
+        "ch_sentence": "你知道輔導處在哪裡嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "palalayowan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi tamo malovot do palalayowan.",
+        "ch_sentence": "我們大家去操場集合。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "inaorod",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ji malayo do inaorod, makapiya omalam.",
+        "ch_sentence": "不可在走廊跑步輕輕走。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "akakanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi tamo do akakanan a koman.",
+        "ch_sentence": "我們到餐廳吃飯。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "pibeybozowan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "no ya makoyab am, ko mangey do pibeybozowan a mibozo.",
+        "ch_sentence": "傍晚時我會去籃球場打球。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "padketen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo nipadketen o ngaran mo?",
+        "ch_sentence": "你的名字已經登記了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "makeyriyras",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi ka pa do vocenseosow padketen mo kani makeyriyras.",
+        "ch_sentence": "你去戶政事務所辦理登記遷入。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "meylis",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "si meylis ka do jya am, mi mo padketen do vocen seosow.",
+        "ch_sentence": "你若要遷出這裡先去戶政事務所辦理。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "nikatazakan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nikatazakan ko am, do Irala Jiyayo.",
+        "ch_sentence": "我出生在蘭嶼椰油部落。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "alamen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na alamen o rarakeh ori, ta yabo yamasi niya.",
+        "ch_sentence": "他收養那老人因無人關心。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "ipangakdey",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko ipangakdey o vahey namen so apoyan.",
+        "ch_sentence": "(漁人) 我向鄉公所申請住家用電。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "",
+        "ch_sentence": "(漁人) 我向鄉公所申請住家用電。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "opasen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "opasen ko pa o ko nipadket.",
+        "ch_sentence": "我登記的我要註銷。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "pinaziman",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko pinaziman jya, ko kapangap so libangbang.",
+        "ch_sentence": "我和她預約好，我要飛魚。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "oysensow",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi ka do oysensow to mita so kataotao mo.",
+        "ch_sentence": "你去衛生所看身體。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "pawcianyan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pawcianyan ya do pangavavawan.",
+        "ch_sentence": "他是醫院的保健員。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "kinsaen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "o rala mo yam, kinsaen am, yapya pa.",
+        "ch_sentence": "你血液篩檢結果很好。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "cyocin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kozisan ko o noka mo no cyocin an.",
+        "ch_sentence": "我用酒精擦你的瘡好嗎？"
+      }
+    ],
+    "source_year": "108"
+  }
+}

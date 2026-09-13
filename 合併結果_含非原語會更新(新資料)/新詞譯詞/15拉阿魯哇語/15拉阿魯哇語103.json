@@ -1,0 +1,57 @@
+{
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "kusi",
+        "ch_semantic": "公司(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公司"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "kuuva",
+        "ch_semantic": "工廠(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "工廠"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "kukusiu",
+        "ch_semantic": "鄉公所(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "hulicu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kingkiu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "一甲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tata ziaa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "一吋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tata sun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "一坪": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tata pin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "上弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "faqlhu a furaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "下弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sasaziza wa furaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "土星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pruq a kilhpuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "大氣層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mara'in makinpizaiza wa shnaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "公轉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suun a minalash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "太陽能": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tilhaz a kushwit"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "日蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tilhaz kaanin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "月蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "furaz kaanin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "木星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kawi a kilhpuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "水星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sazum a kilhpuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apuy a hudun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山灰": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apuy a hunun a bulbul"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apuy a kilhpuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "主菜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "punuq a pania'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "加工食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uqtha kinalawa wa akanin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "北半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fafaw a fazfaz a qarimusuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "北回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mushuqish fafaw a sinay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "奶精": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tutu a puqin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "石化燃料": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhuaa apashnara wa aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "冰山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ulhza wa hudun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "名產": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maqitan a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "西半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tana'aylhi fazfaz a qarimusuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "冷凍食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shimzawin sa akanin a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bunaz a maza"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙洲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bunaz a pruq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙漠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bunaziniza wa pruq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "赤道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pruq sa fazfaz a sinay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "季風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mashashu qali a fari"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "岩岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fatu a maza"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "東半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tanaduu fazfaz a qarimusuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沼澤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahunuq a pruq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "金星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dimrath a kilhpuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "南半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tanaraus fazfaz a qarimusuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "南回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mushuqish tanaraus a sinay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "炸雞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zaa ranaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "盆地": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maruqruq a pruq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "紅外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hungwai a sinay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "料理包": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pukaanan wa kushuman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "氣流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shnaw murushrush"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "海灣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wazaqan a tawkiwar"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "素食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shanglaw a akanin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "臭氧層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shazkin a makimpizaiza wa shnaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "副食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "latusha wa akanin a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "基改食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "antu ianauran akanin a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "速食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mabiskaw a akanin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "寒流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "matithi a murushrush"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "紫外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ziway a sinay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "溫室效應": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miazai maqalhuuz a itaun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "葷食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bunlhaz a akanin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "滿月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maqarimusuz a furaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "酸雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "manishir a qusaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "潟湖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "itmaz a wazaqan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "潮汐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "anafaw numa anaraus a shiqamish"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "震央": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rinuzin a ifazfaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "斷層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mutun a pruq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  }
+}

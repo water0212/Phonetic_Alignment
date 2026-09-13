@@ -1,0 +1,593 @@
+{
+  "一甲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sakubu",
+          "sakuvu",
+          "sakobu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一吋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sainci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南、西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一坪": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sacebu",
+          "sacevu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Co"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "二氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Co2"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "大西洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tasiyang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "公分": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sekiyan",
+          "seki",
+          "hamayan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公升": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bisin",
+          "visin"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kelawangan",
+          "kelawang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南、建",
+          "西、知"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公頃": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kubu",
+          "kuvu",
+          "Ha",
+          "kobu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "分貝": {
+    "new_word": [
+      {
+        "fm_word": [
+          "trangerian",
+          "kaselralre'itr",
+          "cilre'isan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "太平洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taypingyang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kazang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "主菜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kairupanan",
+          "kairupanan",
+          "kasiyawan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "北冰洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pēypingyang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "可樂": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kola"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "奶精": {
+    "new_word": [
+      {
+        "fm_word": [
+          "naycing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "石化燃料": {
+    "new_word": [
+      {
+        "fm_word": [
+          "imar",
+          "imar",
+          "lrawlraw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "立方公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "livangkongce"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南、西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "印度洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "intuyang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "汞": {
+    "new_word": [
+      {
+        "fm_word": "Hg",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙洲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mubulubulud",
+          "mupulupulud"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙漠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "budebudek",
+          "vutrevutrek",
+          "vucevucek"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "季風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "civong"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沼澤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nemnem",
+          "danadanaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "盆地": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kelinulinung",
+          "muvavak"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "紅外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hungwaysiyēn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "素食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinakulakulang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "臭氧層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "coyangceng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "紫外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cewaysiyēn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鈣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Ca"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "溫室效應": {
+    "new_word": [
+      {
+        "fm_word": [
+          "unsesiyaw_ing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鉛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "timera"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "漢堡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hanpaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "潟湖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mubenabenaw",
+          "muveneng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "鋁": {
+    "new_word": [
+      {
+        "fm_word": [
+          "arumi",
+          "alumi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南、西",
+          "知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "鋅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Zn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "輻射": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vuse"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Sn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Mn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "斷層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "muselretak",
+          "salretak",
+          "musilretak"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "礦物": {
+    "new_word": [
+      {
+        "fm_word": [
+          "barasa",
+          "varasa'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "taylin",
+        "ch_semantic": "大人(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "警察"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "kongli",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公里"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "kongcin",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公斤"
+  },
+  "化學": {
+    "new_word": [
+      {
+        "fm_word": "huwsiyē",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學"
+  },
+  "鄉公所": {
+    "new_word": [
+      {
+        "fm_word": "siyankongso",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "鄉公所"
+  },
+  "鎮公所": {
+    "new_word": [
+      {
+        "fm_word": "cenkongso",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "鎮公所"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "sekongso",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "yiēncetan",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "原子彈"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "huwsiyē dradradurk",
+        "ch_semantic": "化學(中譯)肥料",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學肥料"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "tinnaw",
+        "ch_semantic": "電腦(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  }
+}

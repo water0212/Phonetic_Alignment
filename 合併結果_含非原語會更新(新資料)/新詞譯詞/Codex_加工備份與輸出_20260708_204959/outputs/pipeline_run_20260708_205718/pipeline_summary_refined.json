@@ -1,0 +1,103 @@
+{
+  "run_dir": "C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\pipeline_run_20260708_205718",
+  "refined_dir": "C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\pipeline_run_20260708_205718\\refined_excel",
+  "files": [
+    {
+      "input": "aligned_01_阿美語_中借與音譯詞.json",
+      "json": "refined_01_阿美語_中借與音譯詞.json",
+      "xlsx": "refined_01_阿美語_中借與音譯詞.xlsx",
+      "items": 58
+    },
+    {
+      "input": "aligned_02_泰雅語_中借與音譯詞.json",
+      "json": "refined_02_泰雅語_中借與音譯詞.json",
+      "xlsx": "refined_02_泰雅語_中借與音譯詞.xlsx",
+      "items": 7
+    },
+    {
+      "input": "aligned_03_排灣語_中借與音譯詞.json",
+      "json": "refined_03_排灣語_中借與音譯詞.json",
+      "xlsx": "refined_03_排灣語_中借與音譯詞.xlsx",
+      "items": 67
+    },
+    {
+      "input": "aligned_04_布農語_中借與音譯詞.json",
+      "json": "refined_04_布農語_中借與音譯詞.json",
+      "xlsx": "refined_04_布農語_中借與音譯詞.xlsx",
+      "items": 1
+    },
+    {
+      "input": "aligned_05_卑南語_中借與音譯詞.json",
+      "json": "refined_05_卑南語_中借與音譯詞.json",
+      "xlsx": "refined_05_卑南語_中借與音譯詞.xlsx",
+      "items": 79
+    },
+    {
+      "input": "aligned_06_魯凱語_中借與音譯詞.json",
+      "json": "refined_06_魯凱語_中借與音譯詞.json",
+      "xlsx": "refined_06_魯凱語_中借與音譯詞.xlsx",
+      "items": 36
+    },
+    {
+      "input": "aligned_07_鄒語_中借與音譯詞.json",
+      "json": "refined_07_鄒語_中借與音譯詞.json",
+      "xlsx": "refined_07_鄒語_中借與音譯詞.xlsx",
+      "items": 8
+    },
+    {
+      "input": "aligned_08_賽夏語_中借與音譯詞.json",
+      "json": "refined_08_賽夏語_中借與音譯詞.json",
+      "xlsx": "refined_08_賽夏語_中借與音譯詞.xlsx",
+      "items": 7
+    },
+    {
+      "input": "aligned_09_雅美語_中借與音譯詞.json",
+      "json": "refined_09_雅美語_中借與音譯詞.json",
+      "xlsx": "refined_09_雅美語_中借與音譯詞.xlsx",
+      "items": 7
+    },
+    {
+      "input": "aligned_10_邵語_中借與音譯詞.json",
+      "json": "refined_10_邵語_中借與音譯詞.json",
+      "xlsx": "refined_10_邵語_中借與音譯詞.xlsx",
+      "items": 25
+    },
+    {
+      "input": "aligned_11_噶瑪蘭語_中借與音譯詞.json",
+      "json": "refined_11_噶瑪蘭語_中借與音譯詞.json",
+      "xlsx": "refined_11_噶瑪蘭語_中借與音譯詞.xlsx",
+      "items": 20
+    },
+    {
+      "input": "aligned_12_太魯閣語_中借與音譯詞.json",
+      "json": "refined_12_太魯閣語_中借與音譯詞.json",
+      "xlsx": "refined_12_太魯閣語_中借與音譯詞.xlsx",
+      "items": 2
+    },
+    {
+      "input": "aligned_13_撒奇萊雅語_中借與音譯詞.json",
+      "json": "refined_13_撒奇萊雅語_中借與音譯詞.json",
+      "xlsx": "refined_13_撒奇萊雅語_中借與音譯詞.xlsx",
+      "items": 11
+    },
+    {
+      "input": "aligned_14_賽德克語_中借與音譯詞.json",
+      "json": "refined_14_賽德克語_中借與音譯詞.json",
+      "xlsx": "refined_14_賽德克語_中借與音譯詞.xlsx",
+      "items": 23
+    },
+    {
+      "input": "aligned_15_拉阿魯哇語_中借與音譯詞.json",
+      "json": "refined_15_拉阿魯哇語_中借與音譯詞.json",
+      "xlsx": "refined_15_拉阿魯哇語_中借與音譯詞.xlsx",
+      "items": 2
+    },
+    {
+      "input": "aligned_16_卡那卡那富語_中借與音譯詞.json",
+      "json": "refined_16_卡那卡那富語_中借與音譯詞.json",
+      "xlsx": "refined_16_卡那卡那富語_中借與音譯詞.xlsx",
+      "items": 64
+    }
+  ],
+  "errors": []
+}

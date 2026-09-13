@@ -1,0 +1,232 @@
+{
+  "local_vote": [
+    {
+      "id": "01",
+      "refined_files": [
+        "refined_01_阿美語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 51,
+      "total_counts": 321,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "02",
+      "refined_files": [
+        "refined_02_泰雅語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 21,
+      "total_counts": 30,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "03",
+      "refined_files": [
+        "refined_03_排灣語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 53,
+      "total_counts": 390,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "04",
+      "refined_files": [
+        "refined_04_布農語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 4,
+      "total_counts": 4,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "05",
+      "refined_files": [
+        "refined_05_卑南語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 54,
+      "total_counts": 445,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "06",
+      "refined_files": [
+        "refined_06_魯凱語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 47,
+      "total_counts": 169,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "07",
+      "refined_files": [
+        "refined_07_鄒語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 21,
+      "total_counts": 40,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "08",
+      "refined_files": [
+        "refined_08_賽夏語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 21,
+      "total_counts": 32,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "09",
+      "refined_files": [
+        "refined_09_雅美語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 24,
+      "total_counts": 28,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "10",
+      "refined_files": [
+        "refined_10_邵語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 39,
+      "total_counts": 140,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "11",
+      "refined_files": [
+        "refined_11_噶瑪蘭語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 36,
+      "total_counts": 102,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "12",
+      "refined_files": [
+        "refined_12_太魯閣語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 6,
+      "total_counts": 8,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "13",
+      "refined_files": [
+        "refined_13_撒奇萊雅語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 24,
+      "total_counts": 46,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "14",
+      "refined_files": [
+        "refined_14_賽德克語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 38,
+      "total_counts": 128,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "15",
+      "refined_files": [
+        "refined_15_拉阿魯哇語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 6,
+      "total_counts": 6,
+      "skipped_missing_words": 0
+    },
+    {
+      "id": "16",
+      "refined_files": [
+        "refined_16_卡那卡那富語_中借與音譯詞.json"
+      ],
+      "nonempty_sources": 55,
+      "total_counts": 390,
+      "skipped_missing_words": 0
+    }
+  ],
+  "global_statistics_files": 16,
+  "vote_result": [
+    {
+      "id": "01",
+      "nonempty_sources": 51,
+      "targets": 107
+    },
+    {
+      "id": "02",
+      "nonempty_sources": 21,
+      "targets": 25
+    },
+    {
+      "id": "03",
+      "nonempty_sources": 53,
+      "targets": 101
+    },
+    {
+      "id": "04",
+      "nonempty_sources": 4,
+      "targets": 4
+    },
+    {
+      "id": "05",
+      "nonempty_sources": 54,
+      "targets": 114
+    },
+    {
+      "id": "06",
+      "nonempty_sources": 47,
+      "targets": 80
+    },
+    {
+      "id": "07",
+      "nonempty_sources": 21,
+      "targets": 28
+    },
+    {
+      "id": "08",
+      "nonempty_sources": 21,
+      "targets": 28
+    },
+    {
+      "id": "09",
+      "nonempty_sources": 24,
+      "targets": 26
+    },
+    {
+      "id": "10",
+      "nonempty_sources": 39,
+      "targets": 60
+    },
+    {
+      "id": "11",
+      "nonempty_sources": 36,
+      "targets": 57
+    },
+    {
+      "id": "12",
+      "nonempty_sources": 6,
+      "targets": 6
+    },
+    {
+      "id": "13",
+      "nonempty_sources": 24,
+      "targets": 38
+    },
+    {
+      "id": "14",
+      "nonempty_sources": 38,
+      "targets": 62
+    },
+    {
+      "id": "15",
+      "nonempty_sources": 6,
+      "targets": 6
+    },
+    {
+      "id": "16",
+      "nonempty_sources": 55,
+      "targets": 91
+    }
+  ],
+  "warnings": []
+}

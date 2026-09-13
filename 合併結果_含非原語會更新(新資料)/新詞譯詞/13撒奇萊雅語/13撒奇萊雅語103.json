@@ -1,0 +1,90 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "tailing",
+        "ch_semantic": "(閩借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "警察"
+  },
+  "原文會": {
+    "new_word": [
+      {
+        "fm_word": "inwenhuy",
+        "ch_semantic": "(中借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "原文會"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "kusi",
+        "ch_semantic": "(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公司"
+  },
+  "健保": {
+    "new_word": [
+      {
+        "fm_word": "cinpaw",
+        "ch_semantic": "(中借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "健保"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "papelu",
+        "ch_semantic": "(英譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "記者會"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "hulic",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kingkiw",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "tinnaw",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  }
+}

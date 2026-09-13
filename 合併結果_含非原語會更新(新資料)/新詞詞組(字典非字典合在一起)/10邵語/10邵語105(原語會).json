@@ -1,0 +1,848 @@
+{
+  "碩士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "manasha sa ininfazaq a thau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mathuaw ma'ania wa thau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "村長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kataunan a shanautuan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "鄰長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "munshirishiri a thau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速鐵路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lamabiskaw mapalhitulhituz a barimbin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速公路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lamabiskaw saranan barimbin a saran"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "教育部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lhungqizi fuifuilh a malhkakrikriw a taun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "展覽館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pariqaz aniamin a taun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "傳統領域": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tu tanatuqash inin'ianan a pruq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "傳統儀式": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tiasasaz a kazakazash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "科技": {
+    "new_word": [
+      {
+        "fm_word": [
+          "thuini a ininfazaq a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "電影": {
+    "new_word": [
+      {
+        "fm_word": [
+          "makakakri a bahi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "貿易": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fariw numa fariwin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "歷史": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tiakahiwan a lalawa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "minmiahala inai a thau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "minmiahala inai a thau a qbit"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自由": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shana sa suma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自治": {
+    "new_word": [
+      {
+        "fm_word": [
+          "min'ananak lhungqizi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "交流道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mabiskaw saran lhumpana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "影印機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmash a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "手機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rima wa lingwa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憂鬱症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "masalpu a shiz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shiz a kumahin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ipruq a shimaitatnur"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高等法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "marutaw a shimaitatnur"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "最高法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mathuaw marutaw a shimaitatnur"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pariqaz aniamin a taun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憲法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mathuaw mara'in a kazash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "判決書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shimaitatnur a patashan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": [
+          "naur sa thau a palhkakrikriw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專利": {
+    "new_word": [
+      {
+        "fm_word": [
+          "min'ananak a u'araan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "代言人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ṟmia'awan malhinuna wa thau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "志工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miaqay mindahidahip a thau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ananak apiaruruun a tuali"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "公德心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iaqitan a shnaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pishfazaq numa fariwin sa aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "初賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mutal a malantatnur"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "決賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sundaiza wa malantatnur"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "虛詞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "antu sunda wa patashan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "餿水油": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mingqaizu a lhimash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "中央政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ifazfaz a singfuu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iprug a singfuu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "文化": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ininthawan a kazakazash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術家": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mathuaw ma'ania malhkakrikriw a thau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mathuaw maqitan a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "宵夜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mintanafazfaz a akanin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自助餐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "in'ananak kunthi a pania'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "古早味": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tiasasaz a shazik"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "路邊攤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "isa saran a pashatalha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "夜市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahumhumiza wa pashatalha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kafii dawaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "販賣區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fariwan a qbit"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "購物頻道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tiansi a farifariwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "纜車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mungqaqaudin a barimbin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnuran a khaa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "電話卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lingwa wa khaa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "發票": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fariwin a taqal"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "收據": {
+    "new_word": [
+      {
+        "fm_word": [
+          "finariwan a taqal"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "熱門商品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maqitan fariwin a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "瑕疵品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "antu maqitan a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "仿冒品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pintataiwar a aniamin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "漲價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "putnasha tuali"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "降價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "put'uka tuali"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "殺價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "put'ukawan sa tuali"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "暢銷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mathuaw fariwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "保存期限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "puilin a qali"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專賣店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "naur farifariwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "唱片行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "quyash khaa wa farifariwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "臨時工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mimbun a malhkakrikriw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "戶籍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ita tata taun a lhanaz pinatqal"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nisiya kinokira:a 'an kinrowaSek ray lamsong..",
+        "ch_sentence": "他的戶籍在南庄。"
+      }
+    ],
+    "source_year": "105"
+  }
+}

@@ -1,0 +1,1710 @@
+{
+  "總統府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taparana kapitanʉ taku'i'iarʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行政院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "langica maiatuhluhlu taiaratahlana hlakʉsaiana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "langica parana sipiatʉtʉra sipakatʉra"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "司法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "langica parana pitʉtʉrʉ pakatʉra hlipasapua"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "考試院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "langica parana tumamahlʉngʉ sikiatararia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監察院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "langica parana kumikikita hlitakumia upatʉtarʉana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外交部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "takuamia siarupakaria tʉkʉhlʉ tahlana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kumakikita umuhlunu taiara kapitanʉ miararuma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "財政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maiatuhluhlu hlupasʉ tahlana hlakʉsaiana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "經濟部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu tarʉtatʉkʉhlʉ taiara kuusi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法務部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu sipakatʉra takacicihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maiatuhluhlu sitakuamia salakikucu tahlana hlakʉsaiana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國防部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu siarasʉkʉcana tahlana hlakʉsaiana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "文化部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu sitaiara vunguka tahlana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "體育署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu cucu'u sitakuatipatipa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "警政署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu sitakuamia 'aumu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "水利局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu sahlumu sasakʉrahlʉa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "觀光局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu sitakuamia takualiliungana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公路局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu sitakuamia sala'akikucu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "消防局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'aumu maiatuhluhlu maiaʉsʉpʉ apuhlu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "林務局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu vuvulunga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "智慧財產局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana maiatuhluhlu hlitamahlʉnga pahlivinga tahlana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中央氣象局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiahlahlahlamu pahlumiamia langica"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "就業服務站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parana tumalʉlʉvʉ ukikirimi taiara"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民特考": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pakaritʉkʉhlana sikiatarari cucu'uvuvulunga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "過敏": {
+    "new_word": [
+      {
+        "fm_word": [
+          "macarʉmʉ patuaraima tihla'ahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tʉkʉcala cara'ʉ ʉmʉngʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "痔瘡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tuhluka'a matʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "癌症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tamhlatakuliacʉ macʉrʉmʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "savuanʉ sipaisasavusavuanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipaisasavusavuanʉ hlipaʉa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "小兒科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapaisasavusavuana mamaini"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦產科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapaisasavusavuana ahlainia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "精神科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapaisasavusavuana macarʉmʉ tʉkʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "復健科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sitalʉlʉva palaili mahlatʉra tihla'ahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "藥劑師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mairahlu maiatuhluhlu savuanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "麻醉師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mairahlu maiatuhluhlu sipararatunga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "實習醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "musuatuturu mara maisasavusavuanʉ mamaini"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "主治醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapaisasavusavuana ucaningahlana macarʉmʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "診所": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mataingalʉ mikasʉkasʉ parana maisavusavuana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "輪椅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ta'ʉhla pilingicihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "溫度計": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siacʉpʉngʉ macicitihla'ahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "手術室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'avangana parana upaʉʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "急診室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'avangana sipaikakʉrʉkʉra maisavusavuana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "嬰兒室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'avangana parana maiatuhluhlu vua'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "救護車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mairahlu malialilikihli macarʉmʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "氧氣罩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cavungusu uvura siriavacanga varatʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加護病房": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'avangana sipaipapuhla maiatuhluhlu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "成藥": {
+    "new_word": [
+      {
+        "fm_word": [
+          "savuanʉ acahli takacicihli pu'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "血壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "macarʉmʉ 'uracʉcara'ʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "細菌": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ahlangʉanga paracarʉmʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "傳染病": {
+    "new_word": [
+      {
+        "fm_word": [
+          "macarʉmʉ apiatuva cucu'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "流行性感冒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apiatuva ravunguta"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "人行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sala'a cucu'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "十字路口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sala'a maruahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "土地權狀": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ sasaruana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中秋節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa talihlʉlʉhla vulahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "元旦": {
+    "new_word": [
+      {
+        "fm_word": [
+          "varu'u ucaniari"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公文": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ tumatuturu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公佈欄": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paicacakicia taiiara"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "天橋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "langica tukusu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "月台": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sasaruana siapaparu likihli apuhlu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "水土保持局": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu kuapiavangarʉ sarʉ ʉmʉhlarʉ",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "父親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa ama'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加油站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taluavaʉ mikakua urai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "平交道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sala'a maruahlʉ likihli apuhlu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "母親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa ina'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siasuhlatʉ sumasamusu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通管制": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maiatuhluhlu sala'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "列表機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai sumasuhlatʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "地下道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sala'a makalaluihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "字典": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siakikilimi siasuhlatʉ kuacahli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自行車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uamiaisa likihli umarua sapahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動售票機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai siala suhlatʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動繳費機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai aihlana vahlituku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ likihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "冷氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai pamasarʉmʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "吸塵器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai mariamucucu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "快車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sala'a mariahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "受文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "umala siatuturu suhlatʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "放大鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'ahlingu pataisa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "便秘": {
+    "new_word": [
+      {
+        "fm_word": [
+          "makakilingi su'ʉtʉnga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "客家委員會": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu tahlana puutu takacicihli",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "待轉區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iaungana sakuapikulu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "春節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "varu'u caihlana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "派令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ umauhlumuaku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "紅綠燈": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kima'a matavuhliu malangihlu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "計算機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siaiapu vahlituku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "候車亭": {
+    "new_word": [
+      {
+        "fm_word": [
+          "salia siapaparu likihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民族日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa cucuvuvulunga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "徒步區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uamia musalasala"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipatakua cahlia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "烘碗機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai paraparapa takupihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "粉筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siasuhlatʉ vukuvuku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "釘書機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai sipakuakʉtʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除夕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malavalava ucaniari"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除濕機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai paraparapa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "乾衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai paraparapa tikuru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "剪票口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tapala latipa suhlatʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國有財產局": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu sasaruana tahlana hlakʉsaiana",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國道": {
+    "new_word": [
+      {
+        "fm_word": "sala'a taisa ulima",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國慶日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa tauhlu'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦幼節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa ina'a mamaini"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "彩色筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siasuhlatʉ tumapaʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "情人節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa tahlivaʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "授予": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tuahliusau taku'i'iarʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "教師節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa pakiaturua"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "望遠鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipia 'ahlingu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "清明節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taruacuvunga hlimusala cucu'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "視訊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "arukapakita ahlingu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "通緝令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ matiasangalʉ takuliacʉ cucu'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "速限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "likihli picʉpʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "勞工保險局": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu sitakua'i'iarana",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "單行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ucani sala'a uamia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "提款機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siala vahlituku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "斑馬線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uamiaisa cucu'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "測速器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "piahlingu likihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "發文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uvura siatuturu suhlatʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "微波爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai paracici"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "歲時祭儀日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa kialiali"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "禁止通行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuacahli umia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa iʉsu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ hlipara'iahlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "路肩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sala'a patʉkʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "遊客中心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taluavaʉlana takuliliungu cucu'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "電梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hluvu'u hlipailailʉngʉsa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "慢車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sala'a muamuamuarʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監視器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai piaahlingu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "端午節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aarisa hlicavucavu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "獎懲令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ mavacangʉ takuliacʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "膠水": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miacakici sahlumu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "衛生福利部": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu sitakua mahlatʉra cucu'u",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駕照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ siaulikihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "機場": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pararanaisa salia miapihlihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "隨身碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aiiaiahlana kikai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "環境保護署": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu mahlicungu liliunga miararuma",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聯絡簿": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siasuhlatʉ apata kuacahlia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "點讀筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siasuhlatʉ umani"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "轉運站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taluavaʉlana likihli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "雙黃線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "usua mahlisarʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "蠟筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siasuhlatʉ tapaʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "顯微鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siakita kupuamahlʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "戶籍謄本": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhlatʉ ngahla ucanipihlingi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tuahlʉ umahlikua taparana taku'i'iarʉ ngahla pihlingi sinsi parikiangahlia suhlatʉ ngahla parana",
+        "ch_sentence": "可以向戶政事務所申請戶籍跨本"
+      }
+    ],
+    "source_year": "106"
+  }
+}

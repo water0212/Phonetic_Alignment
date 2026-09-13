@@ -1,0 +1,744 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "kuciusic",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na kasi ku-ciu-sic aken ka sauna.",
+        "ch_sentence": "我剛才去了校長室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "zinzisic",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i zin-zi-sic aken tucu.",
+        "ch_sentence": "我現在在人事室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室": {
+    "new_word": [
+      {
+        "fm_word": "siukisic",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i siu-ki-sic ti hi-siu",
+        "ch_sentence": "秘書在主計室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會計室": {
+    "new_word": [
+      {
+        "fm_word": "kaikisic",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sema kai-ki-sic aken a malap tua ce-piaw",
+        "ch_sentence": "我去會計室拿支票",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "tatarivakan",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uri sema kipulaing tua tarivakan aken a kivada' tua siki pualjisan.",
+        "ch_sentence": "我要去健康中心詢問裝置假牙問題。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "kakaigian",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka-kai-gi-an i gu-ku-siw",
+        "ch_sentence": "鄉公所的會議室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "tjatjepesan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tjatjepesan nua kin-si-hu aicu imaza",
+        "ch_sentence": "這裡是縣政府的警衛室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "'unggakukiusic",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kakituluan tua patjageljay aicua'ung-ga-ku kiu-sic",
+        "ch_sentence": "這間音樂專科教室是學習演奏的教室。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "setingciawse",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakatua tiribiribi itjen a kitulu nuyi se-ting ciaw-se itken",
+        "ch_sentence": "我們是透過電視等資訊學習於視聽教室。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "puvadanqan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tjuruvu a situ a sema puvadangan a cemikicuk a kitulu",
+        "ch_sentence": "很多學生上圖書館研究學習",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "unduziu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tjaljiqaca aravac aicu a unduziu",
+        "ch_sentence": "這一座操場很大",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "tjinaljejaljan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "djinumuljan tua nemanga a tjinaljetjaljan",
+        "ch_sentence": "樓梯間堆積了一些物品",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "nikay",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "itua nikay a ku kinaizuanan",
+        "ch_sentence": "我住二樓",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "kacasavan",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Naqemiladj amen i kacasavan a kivalivali",
+        "ch_sentence": "我們坐在走廊乘涼",
+        "dialect": "北南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "tisiase",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "miseleman a i ti-sia-se",
+        "ch_sentence": "地下室很暗",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "kakanan",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nguljingulj a vali a nakemasi kakanan",
+        "ch_sentence": "從餐廳漂來一股香味",
+        "dialect": "北南東"
+      },
+      {
+        "fm_sentence": "salum a vali a nakemasi kakanan",
+        "ch_sentence": "從餐廳漂來一股香味",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "lalanciuan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "namaqepuqepu a maqacuvucuvung itua lalancian",
+        "ch_sentence": "年輕人在籃球場聚集",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "yayakiuan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kivangavang aicu a kakeriyan i yaya-kiu-an",
+        "ch_sentence": "小朋友在棒球場玩耍。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "sisangpangan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pinnet si-sang-pang-an nua sinsi.",
+        "ch_sentence": "老師辦公時間有規定。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "kakasengesengin",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aicu i guhusiu lualua 'a'asengesengen",
+        "ch_sentence": "鄉公所服務項目很少。",
+        "dialect": "中"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "kakivadaqan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aicu a gakku na lemindjej tua kakivadaqan",
+        "ch_sentence": "這所學校設有服務臺",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "'ingkang",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "masu kim ti paules tua ing-kang ni madju.",
+        "ch_sentence": "包樂絲找不到她的印鑑",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "mibunsiu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na pautjez anga cavilj ni vikar pavecik tua mi-bun-siu",
+        "ch_sentence": "菲卡勒已屆齡申請身分證。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "kipavecik",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nakipuvecik-sun ta siunting?",
+        "ch_sentence": "你申請鶯照了嗎？"
+      },
+      {
+        "fm_sentence": "na kipavecik ti vikar tua sialap pakata zuling a pasu",
+        "ch_sentence": "菲卡勒有去登記禁伐補償"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "kinipualjakan",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'izainu a su kinipualjakan",
+        "ch_sentence": "你的出生地是在哪裡？",
+        "dialect": "北南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "semanaljak",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "neka aljak ni camak, manasika na semanaljak cimadju.",
+        "ch_sentence": "camak 沒有孩子，因此收養他",
+        "dialect": "北南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "kivecik",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kipuvecik tua patjavat ta sengesengan timadju.",
+        "ch_sentence": "他提出調職申請",
+        "dialect": "東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "cemun",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu tjaivililj a qiljas maqati anga itjen a cemun a pasusangas tua zua biuing nu uri vaik itjen a kipucemel,",
+        "ch_sentence": "那家醫院將於下月起，開放電話預約掛號的服務",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "'isisiu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vaiksun sema 'i-si-siu nusauni?",
+        "ch_sentence": "你等下會去衛生所嗎？",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "hukinging",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hu-king-ing a sengesengan nimadju.",
+        "ch_sentence": "他目前從事保健員的工作",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "gusiciu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "namangetjez a gusi-ciu kemasi pingtung tatiaw?",
+        "ch_sentence": "昨天護理長有從屏東來嗎？",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "iyusinsi",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "temulutulu a iyu-sinsi tu anema kanen a bulay.",
+        "ch_sentence": "營養師教導吃甚麼好",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "papucemelan",
+        "dialect": "北中南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ljetaladj-tjen a kipapucemel ta papucemelan.",
+        "ch_sentence": "我們要進入診療室接受治療",
+        "dialect": "北中南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X光室": {
+    "new_word": [
+      {
+        "fm_word": "palingtugingan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vaiku anan sema papalingtugingan.",
+        "ch_sentence": "你先去 x 光室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "qaqetiman",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "karim tua qaqetiman nu muri patutu tua aljak.",
+        "ch_sentence": "為孩子哺乳時可以到哺乳室",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "'itjusengesenganan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izua caucau a zemazang tua biuing i 'itjusengesenganan",
+        "ch_sentence": "有人在值班室顧醫院",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "caciusiaan",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sema cacmsiaan tiamdju a kiciusia.",
+        "ch_sentence": "他到注射室打針",
+        "dialect": "北南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "hukkingsik",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vaivaik-aken sema huk-king-sik a huk-king ljemita qiljas..",
+        "ch_sentence": "我每個月會去復健室復健",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "kakikeljangan",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sema kakinsaan ti vuvu a keminsa ta djamuq.",
+        "ch_sentence": "vuvu到檢驗室驗血"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "sitavatavalj",
+        "dialect": "北中南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu lumamate a tja ijake naquwaq a tja pa sitavatavalj a camel.",
+        "ch_sentence": "",
+        "dialect": "北中南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "kidjamuq",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kidjamuqan a ken ni gusi-sinsi sa kinsai a ku djamuq.",
+        "ch_sentence": "護理長阿姨給我抽血檢查",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "yubungciusia",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vaik nu tiyau ti Muakai a sema qi-si-siu a kitece tua yubung-ciusia.",
+        "ch_sentence": "Muakai 明天要去衛生所打預防針",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "papapiliq",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i 'isisiu a ken aki papapiliq tua ku djamuq.",
+        "ch_sentence": "我在醫浣進行血液篩檢",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "'arukuru",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu semenau itje tua vangavangan nanguaq a djuasan tua 'arukuru.",
+        "ch_sentence": "清洗玩具時要用酒精擦拭",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "tengkere",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu kaljazalangzangan tevuta liyaw a sulapeljan a ten-ke re.",
+        "ch_sentence": "夏天會有許多登革熱的病媒蚊出現",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "cangpingtu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu cang-ping-tu a kakedrian nanguwaq a pitjumaqen.",
+        "ch_sentence": "孩子得了腸病毒要在家休息",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  }
+}

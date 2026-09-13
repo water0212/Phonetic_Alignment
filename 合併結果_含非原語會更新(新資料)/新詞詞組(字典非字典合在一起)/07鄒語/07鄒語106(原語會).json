@@ -1,0 +1,1628 @@
+{
+  "總統府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona no tmuoteuna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行政院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tumuoteuna no 'oyona tmopsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmuoteuna no 'oyona letoʉsvʉsʉtʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "司法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmuoteuna no smoesasvʉtʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "考試院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmouteuna no letosvʉtʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監察院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmuoteuna no lepocengi ta 'oyona tmopsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外交部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu miafo ci 'oyona tmopsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhucu mi'ayumonʉ ci 'oyona tomopʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "財政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu 'oyona tmopsx no leaʉt'ʉcʉ no mayuyupsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "經濟部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu leaʉt'ʉcʉ no oh'a'ausna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu leaʉt'cʉ ta meceoceona"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國防部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu 'oyona tmopsʉ no aʉtʉ'cʉ ta hpʉhpʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "文化部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu 'oyona tmopsʉ leaʉt'ʉcʉ no kukucnguhu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "體育署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona tmopsʉ no yupa toosa'o"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "警政署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona tmopsʉ no tmoteuna no lesmo'eisi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "水利局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ateunu 'oyona tmopsʉ no titho ta chumu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "觀光局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona tmopʉ no bobaito"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公路局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona tmopsʉ ta toehungu ceonʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "消防局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona tmopsʉ no le mot'afso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "林務局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona tmopʉ ta lepocengi e'evi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "智慧財產局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu 'oyona tmopsʉ no tov'oha ci to'tohʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中央氣象局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu 'oyona tmopsʉ no le eʉsvʉtʉ ta a'ausna ta hpʉhpʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "就業服務站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona tmopsʉ ta le ma'cohio note hioa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民特考": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tosvʉtʉ ta cou"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sngʉsnga na ceono hmuyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "癌症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuci tma'congo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "流行性感冒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mateobango ci songʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le baito mʉ'eona ta feango"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le baito yafana ta feango"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "小兒科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le pemo s'os'o oko"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦產科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le pemo s'os'o maamespingi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "精神科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le pocengi ma'tʉtʉs'ʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "復健科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le poa yuovei ʉmʉnʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "藥劑師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le aangae s'os'o"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "麻醉師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le poa ma'payo'ʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "實習醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aʉsvʉsvʉtʉ lepemo s'oso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "主治醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu lepemo s'oso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "診所": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oko no le'a'aothomʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "輪椅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuluma ci ca'hʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "溫度計": {
+    "new_word": [
+      {
+        "fm_word": [
+          "letosvʉtʉ noyano"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "手術室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oyona maapaso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "急診室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oyona akokameosʉ amamio"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "嬰兒室": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oyona ko'ini"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "救護車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuyai no amamio"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "氧氣罩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yuopica nsou"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加護病房": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oyona na'no tma'congo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "成藥": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aʉnʉpʉnʉpʉ s'os'o"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "血壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oh'ausnu hmuyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "傳染病": {
+    "new_word": [
+      {
+        "fm_word": [
+          "poezuhu ci amamio"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "人行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono yatatiskova"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "十字路口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yupa smofeti ci ceonʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "土地權狀": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no ceoa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中秋節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no meefeohʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "元旦": {
+    "new_word": [
+      {
+        "fm_word": [
+          "faeva tonsoha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公文": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no 'oyonatmopsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公佈欄": {
+    "new_word": [
+      {
+        "fm_word": [
+          "toopca tposʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "天橋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiapeoza no emoepe"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "月台": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona bohsifou no kuyai no yaapuzua"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "水土保持局": {
+    "new_word": [
+      {
+        "fm_word": "'oyona tmopsʉ no lepocengi ta chumu ho ceoa",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "父親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no mee'amo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加油站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lesovaho hʉsʉ no kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "平交道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yupa emofeeti ci ceonʉ no kuyai ho kuyai no yaapuzua"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "母親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no mee'iino"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": [
+          "o'eomiana smafsusu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通管制": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tomʉti 'e ceonʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "地下道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono mine mʉ'eona"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "字典": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sku'u no tposʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "扣押": {
+    "new_word": [
+      {
+        "fm_word": [
+          "t'tpʉta ci macucuma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自行車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono zitensa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動售票機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no mihia ki'pu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動繳費機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no tasu no peisu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "作業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no hootosvoa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "冷氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no koa coheʉceʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "吸塵器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no esusu ca'i"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "快車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono smomayahe ci kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "受文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mayo no tposʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "放大鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huo'onka no smo'eumeoisi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "h'oesʉvʉta ta 'oyona tposʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法拍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yaa ta hooin ho phieni"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "客家委員會": {
+    "new_word": [
+      {
+        "fm_word": "atuhcu 'oyona tmopsʉ no khe'eanga",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "待轉區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona emoezuhu kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "春節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pa'kiau no puutu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "派令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no smuhnu ta 'oyona tmopsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "紅綠燈": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huomia e'ohʉ ci puzu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "計算機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no tamsvʉtʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "候車亭": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona mooteo kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民族日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "heisi no meecou"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "徒步區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona coeconʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no psoyom'o"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "烘碗機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no koa tmapeapo 'ootohva"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "釘書機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "o'eomiana titʉkcʉ tposʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除夕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tan'esi no pa'kiau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除濕機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no koa o'te sof'u"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "乾衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no tma'oemi'mi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "停止線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no toosva"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "剪票口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oyona mano ki'pu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國有財產局": {
+    "new_word": [
+      {
+        "fm_word": "'oyona tmopsʉ no leaʉt'ʉcx macucuma ta hpʉhpʉngʉ",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國慶日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no meehpʉhpʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦幼節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no na'ina"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "彩色筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pʉv'ʉ ci hakuvoku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "情人節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no na'ʉmnʉa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "教師節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no meelema'cohio"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "望遠鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huo'onka no smo'eumcovhi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "清明節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no meekuici ceoa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "通緝令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no tʉtpʉʉtʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "速限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "esvʉta na hia smomayahe"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "勞工保險局": {
+    "new_word": [
+      {
+        "fm_word": "'oyona tmopsʉ no aʉt'ʉcʉ no leahioa",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "單行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono emhocni"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "提款機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no mayo no peisu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "斑馬線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ta lapha ci ceonʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "測速器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huo'onka no h'osmomayhea"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "發文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mofi no tposʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "視訊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huo'onka no yupa smo'eʉlʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "微波爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no psoenoyano"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "歲時祭儀日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "heisi no h'omeesia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "禁止通行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "poa o'te mieni"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no smuhnu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "路肩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aaskiti ta ceonʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "遊客中心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oeuhtuyuna tola mimio ci yatatiskova"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "電梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no yoni ohvavovei"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "慢車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono smopoha'o ci kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監視器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no smo'eufafeoyʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "端午節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hiesi no meepackanga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "獎懲令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no esvʉʉtʉ no kuzo ho ʉmnʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "膠水": {
+    "new_word": [
+      {
+        "fm_word": [
+          "toopca ci chumu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "衛生福利部": {
+    "new_word": [
+      {
+        "fm_word": "atuhcu 'oyona tmopsʉ no peiseayayokeo",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駕照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no poʉt'ʉcʉ no kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "機場": {
+    "new_word": [
+      {
+        "fm_word": [
+          "toosva emoo no toesoso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "環境保護署": {
+    "new_word": [
+      {
+        "fm_word": "atuchu 'oyona tmopsʉ no aʉt'cʉ ta aukukuyungu",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聯絡簿": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no e'evaho"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "轉運站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oyona suezuhu kuyai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "雙黃線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smo'eiepohʉ ci tahof'oya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "蠟筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "eomiana zunga ci hakuvoko"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "顯微鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huo'onka no smo'eusansano"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "戶籍謄本": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tposʉ no conoemoo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la ti 'upu to tavahi ci toposʉ yatatiskova honciko m'eothomʉ",
+        "ch_sentence": "你申請要拿戶籍謄本"
+      }
+    ],
+    "source_year": "106"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "dry_run": false,
+  "output_root": "C:\\Users\\小菜\\Desktop\\台灣南島語新詞專題\\新詞新舊資料合併\\合併結果_含非原語會更新",
+  "new_source_root": "C:\\Users\\小菜\\Desktop\\台灣南島語新詞專題\\新詞新舊資料合併\\新資料",
+  "backup_root": "C:\\Users\\小菜\\Desktop\\台灣南島語新詞專題\\新詞新舊資料合併\\合併結果_含非原語會更新_年度修正前備份_01",
+  "repair_policy": "Use each tribe/category merged_output file as the source of truth, match each merged entry against new data year files, and rewrite the yearly files with the merged entry in the matched year. Entries not found in new data keep the merged source_year or their previous year location.",
+  "stats": {
+    "aggregate_files_processed": 48,
+    "aggregate_files_written": 48,
+    "assigned_payload_match_phrase": 7,
+    "assigned_payload_match_single": 1,
+    "assigned_single_match_phrase": 3931,
+    "assigned_single_match_single": 1851,
+    "assigned_single_match_translation": 333,
+    "kept_not_found_source_year_phrase": 1938,
+    "kept_not_found_source_year_single": 1131,
+    "kept_not_found_source_year_translation": 186,
+    "merge_entries_processed_phrase": 5876,
+    "merge_entries_processed_single": 2983,
+    "merge_entries_processed_translation": 519,
+    "new_duplicate_key_category_records": 8,
+    "new_index_entries_phrase": 4666,
+    "new_index_entries_single": 2158,
+    "new_index_entries_translation": 393,
+    "new_keys_with_multiple_years": 8,
+    "new_origin_files_indexed": 64,
+    "year_files_written": 336
+  }
+}

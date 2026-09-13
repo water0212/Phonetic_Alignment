@@ -1,0 +1,54 @@
+{
+  "過敏": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mssima"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "細菌": {
+    "new_word": [
+      {
+        "fm_word": [
+          "stliyus"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "計算機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sspegan",
+          "pspgan",
+          "sspuwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "授予": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sbege",
+          "mgay",
+          "sbuway"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  }
+}

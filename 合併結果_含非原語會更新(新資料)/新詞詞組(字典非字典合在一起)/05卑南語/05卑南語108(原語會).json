@@ -1,0 +1,1763 @@
+{
+  "千萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kudrulr kudraw",
+          "kuzulr kuzaw",
+          "kudulr kudaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "口譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mitrepa pakitalrudr dra ngai",
+          "na mitrepa pakitalruz za ngai",
+          "na micepa marengay pakitalrud"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "工讀生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "temakesi aw melalibun na temakakesi",
+          "temakakesi zi muwavales na trau",
+          "muwavales zi temakakesi",
+          "na muwavales di temakakesi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "中央部會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cungyang puhuēy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "文件夾": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na ngangetipan dra tilin",
+          "na pangtipan za valray",
+          "na 'angangetrip za valray",
+          "na angangetipan da valray"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "月光族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na kemipetedr dra kawniw",
+          "na 'azi muwasama' tu kawniyu",
+          "na 'azi muwasama' tu kawniw",
+          "na adi musasama' tu kawniyu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "主任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuzen wēywēn",
+          "tinuma'izang na iing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、知本、建和",
+          "西群"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "主播": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mitrepa benabati patrirebeng",
+          "na venavati patrireveng",
+          "na venavati patireveng",
+          "na micepa venavati pakireveng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na patalru temililr",
+          "na patalru venavalray",
+          "parvuli venavalray",
+          "daysiwning"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na patatalru",
+          "na paruveli",
+          "na parvuli",
+          "na pareveli na cau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理孕母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na patalu miwalrak",
+          "na paruveliyay malii",
+          "na parvuliyay malii",
+          "na pareveli malii"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na patalru meniwan",
+          "na parevuli meniwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群",
+          "知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "出納員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na demadikes kana paisu",
+          "na demikes kana paisu",
+          "na madikes kana paisu",
+          "na micepa demikes kana paisu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "半徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parekadruwa tu ikadrekan dra tralaw",
+          "parekazuwa tu kalawas kana tralaw",
+          "parkazuwa tu ikalawas na tralaw",
+          "pancing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "四分之一": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tu saya dra pinarekaapat",
+          "tu saya na pinarkapat",
+          "pinarkaapat mu saya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "外送員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mitrepa matedr dra akanan",
+          "na maatez za akanan",
+          "na maateatez kana akanen",
+          "na micepa maated da akanen"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "必修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "adrikaadriyan temakesi",
+          "'azika'aziyan temakesi",
+          "adikaadiyan temakesi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "交換生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na pinadradrulun na temakesi",
+          "mavavulas na temakesi",
+          "pinarvulas na temakakesi",
+          "ciyawhuwanseng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "全職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na pinutrengtrengan dra kiyakarunan",
+          "na pinatrengtrengan za kiyakarunan",
+          "na pinucengcengan da kiyakarunan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "宅配人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mitrepa emateatedr",
+          "na mitrepa matez",
+          "na maated za ipaated",
+          "na micepa ematemated"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "百分比": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leman pinakamunuma",
+          "leman pinakapida"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "百萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leman kudraw",
+          "leman kuzaw",
+          "leman kudaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "耳機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyalrengawan i trangila",
+          "kiyangeran i tralinga",
+          "erci",
+          "kiyangeran i calingaeci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "行動電源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinakasu na battili",
+          "inaurunga na battili",
+          "inaada na batili",
+          "inaada na battili"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "別針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daum na pakaketingan",
+          "dawum na pakiyalrakilr",
+          "pingciyam"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "助理": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na kiyakarunan dra papulrang",
+          "na puwaalrang za kiyakarunan",
+          "na kiyakarun za puwaalrang",
+          "na pulraalrang kiyakarun da vavalrain"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "吹風機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na paarum dra arebu",
+          "na patrarangtrang za 'arevu",
+          "na pakatrarangtrang kana 'arevu",
+          "na pakacarangcang da 'arevu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "快遞人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na kimaari ematedr",
+          "na dikadika matez",
+          "na kemadika mated",
+          "na micepa kemadika mated"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "批發業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra wakasayan matrimatrima",
+          "kiyakarunan kana wakasayan matrimatrima'",
+          "kiyakarunan da pinukasa macimacima'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "更生人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mupatraran lra na inimengan",
+          "na mupatraran lra i imengan",
+          "na mupatraran lra na muimeng",
+          "na mupacalan lra na inimengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "受刑人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na muimeng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房仲業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "puwatenuk dra matrimatrima dra ruma",
+          "puwapaduk za matrimatrima' za ruma'",
+          "puwapaduk da macimacima' a ruma'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房東": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na pababulas na miyaruma",
+          "na pavulas za miraruma'",
+          "na pavavulas na miyaruma'",
+          "na pavavulas na miraruma'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房務人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mitrepa pareapetr dra kiyaulrayan",
+          "na maapetr za kiyaulrayan",
+          "na paraapetr za kiyawlrayan",
+          "na micepa maapec da kiyaulrayan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "承包商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na benabaw dra kiyakarunan",
+          "na benabaw za kiyakarunan",
+          "na benabaw da kiyakarunan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "法官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na parisarisan i hoing",
+          "na paresaresan i hoing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "直系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "inutrungulran dra damuk",
+          "inutrungulran za dara', damuk",
+          "inutrungulran za dara'",
+          "inucungulran da dara'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "空服員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na kiyakarun i isatr kana hikuki",
+          "na kiyakarun i itras kana hikuki",
+          "na kiyakarun i itras kana hikoki",
+          "na kiyakarun i icas kana hikuki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "金融業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra paisuisu",
+          "kiyakarunan za paisuisu",
+          "kiyakarunan da paysuysu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "便利貼": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kalreayan padreketr",
+          "kalre'ayan pazeketr",
+          "kalre'ayan palreketr",
+          "kalre'ayan palrekec"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na penailrang dra walrak",
+          "na penailrang za alrak",
+          "na penailran za alrak",
+          "na paailran da alrak"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保險員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na kiyakarun dra hukēng",
+          "na kiyakarun za hokēng",
+          "na kiyakarun za pawsiyēn",
+          "na kiyakarun da hukēng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na pinutuwasay",
+          "pawcengzen",
+          "hosiyoning"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "兼職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na paalialiw dra kiyakarunan",
+          "na pa'ali'aliw za kiyakarunan",
+          "na pa'ali'aliw da kiyakarunan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "旁系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mupesi dra damuk",
+          "musepi' za dara' damuk",
+          "musepi' za trungulran za dara'",
+          "musepi' da cungulrang da dara'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "書法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinililr dra hudē",
+          "vinavalray za hudē",
+          "vinavalray da hudē"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "消防員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na maebut dra apuy",
+          "na 'ema'evut za apuy",
+          "na ema'evut kana apuy",
+          "na 'ema'evut da apuy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "消保官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na miyaalaw dra matrimatrima",
+          "na iya'elaw kana matriyamatrima'",
+          "miyaelaw kana trematrima'",
+          "siyawpawkuwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "烘衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na paarum dra kiruwan",
+          "na pakatrarangtrang za kavang",
+          "kiping",
+          "na pakacarangcang da kavang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "西群",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "畜牧業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra purarikan",
+          "kiyakarunan za purarikan",
+          "kiyakarunan na purarikan",
+          "kiyakarunan da purarikan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒測器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bakakesiw dra sinaerawan",
+          "venakesiw kana mitrinekelan za kutra",
+          "vakakesiw kana mitrinekelan",
+          "vakesiw da micinekelan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾兒子": {
+    "new_word": [
+      {
+        "fm_word": "tinualrak na mainaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾女兒": {
+    "new_word": [
+      {
+        "fm_word": "tinualrak na babaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "專任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinutrepayan na wēywēn",
+          "pinutrepayan na iing",
+          "cuwanzen wēywēn"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、知本",
+          "西群",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "族群委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tu wēywēn dra mawan",
+          "tu iing za mawan",
+          "tu wēywēn za mawan",
+          "tu wēyēn na mawan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "創業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "parebuwa dra kiyakarunan",
+          "parevuwa' za kiyakarunan",
+          "parevuwa' da kiyakarunan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "測謊器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patalraman dra benabetra",
+          "patalraman kana venavetra'",
+          "patatalraman kana venavetra'",
+          "patalraman da venaaveca'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "街友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na dremelalengan",
+          "na zemelalengan",
+          "na demelalengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳播業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra patriyarebengan",
+          "kiyakarunan kana pakiyarevengan",
+          "kiyakarunan na patiyarevengan",
+          "kiyakarunan da pakiyarevengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "暖氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikay na pakasadeku",
+          "kuwareduwan",
+          "pakasadadeku",
+          "kikay a kuwareduwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "會計師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mitrepa dra kuwayci",
+          "na mitrepa za kuwayci",
+          "na micepa da kuwayci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "滅火器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aebutan dra apuy",
+          "'a'evut kana apuy",
+          "'avutan da apuy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義子": {
+    "new_word": [
+      {
+        "fm_word": "pinuriwalrakan na mainaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義女": {
+    "new_word": [
+      {
+        "fm_word": "pinuriwalrakan na babaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "解說人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na benatibati pakalradram",
+          "na venativati pakelrazam",
+          "na venavati pakazalram",
+          "na venativati pakadalram"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "零售業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra menaniwan",
+          "kiyakarunan kana tratriima'an",
+          "kiyakarunan kana menaniwan",
+          "kiyakarunan da menaniwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電子工業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra tiēynce",
+          "kiyakarunan za tiyēnce",
+          "diēnce koba"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電扶梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tadretadran na midinki",
+          "sekayan na midingki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電動機車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinakawang dra dingki na utubay",
+          "pinakawang za dingki na otobay",
+          "otobay na pinakawang da dingki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電磁爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "likedran na midinki",
+          "likezan na mi dingki",
+          "'avuwan na midingki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "監考員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na temaranau kana palralrimawan",
+          "temarana'u kana patalram",
+          "na temarana'u kana patalram",
+          "na temarana'u kana palralrimawan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "監護人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na emaalaw dra lralrak",
+          "na iya'elaw kana alrak",
+          "na 'ema'elaw kana alrak"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "製造業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra dadawayan",
+          "kiyakarunan za dadawayan",
+          "kiyakarunan da demadaway"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "領隊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na kemakedreng dra lepun",
+          "na kemakezeng za lepun",
+          "na kemakedeng da lepun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養父": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na temurialrak i ama"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na temurialrak i ina"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養子": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinuriwalrak na mainayan",
+          "tinurialrak na ma'inayan",
+          "tinurialrak na ma'inay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinuriwalrak na babayan",
+          "tinurialrak na vavayan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "機師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na puwabii dra hikuki",
+          "na puwavii za hukuki",
+          "na puwavii za hikoki",
+          "na puwavii da hikoki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "選修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pamilian temakesi",
+          "palimi' temakesi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "應徵者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na muka kiparelrimawa dra kiyakarunan",
+          "na mukuwa kipalimi'a za kiyakarunan",
+          "na mukuwa kipalimi'a da kiyakarunan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢察官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na meliyaeli i hoing",
+          "ciyēncakuwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群",
+          "知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "翻譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mitrepa pakitalrudr dra tilin",
+          "na mitrepa pakitalruz za valray",
+          "na mitrepa pakitalruz za valray",
+          "na micepa venavalray pakitalrud"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "雙面膠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "niraetreban dra padradreketran",
+          "pazeketr mara'etrev",
+          "pinara'etrevan palreketr",
+          "palralrekecan a pinara'ecev"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "獸醫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tu ising dra garamgaman",
+          "tu ising za haramhaman",
+          "tu ising da haramhaman"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mutuwasay",
+          "na pakumamau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群",
+          "知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼父": {
+    "new_word": [
+      {
+        "fm_word": "na benulas i am",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼母": {
+    "new_word": [
+      {
+        "fm_word": "na benulas i in",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼子女": {
+    "new_word": [
+      {
+        "fm_word": "tu walrak kananku kataguwi",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mareaalaw i salikidr",
+          "na ki'alra'alra i salikiz",
+          "na ma'elaw i salikid"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "觀光業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyakarunan dra kuwngkuwang",
+          "kiyakarunan za kuwankuwang",
+          "kiyakarunan da kuwankuwang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "外籍生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wayciseng",
+          "kemay zuma kanatal na temaekesi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、知本、建和",
+          "西群"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "迴紋針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rangetripan",
+          "angangetip na daum",
+          "huwiwencen"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "替代役": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titayyi",
+          "paruveli mutuhitay",
+          "parvuli mutuhitay",
+          "na titayi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "教練": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rusaw",
+          "na pananadam"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、知本",
+          "西群、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "留學生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "liyugakusē, liyusiyēseng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "新住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sincumin",
+          "vekaln na 'inalrayan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、知本、建和",
+          "西群"
+        ]
+      }
+    ],
+    "source_year": "108"
+  }
+}

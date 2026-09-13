@@ -1,0 +1,2137 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "siyaw-cang-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kadruwan a labang i siyaw-cang-se.",
+        "ch_sentence": "校長室有很多來賓。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kazuwan a lavang i siyaw-cang-se.",
+        "ch_sentence": "校長室有很多來賓。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kazuwan a 'alra'alra i siyaw-cang-se.",
+        "ch_sentence": "校長室有很多來賓。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "kaduwan a ukiyakusang i siyawcangse.",
+        "ch_sentence": "校長室有很多來賓。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "zen-se-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na zen-se cu-zen i takesian i, uniyan i zen-se-se garem.",
+        "ch_sentence": "人事主任現在不在人事室。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na zen-se cu-zen i takesiyan mu, uniyan i zen-se-se haram.",
+        "ch_sentence": "人事主任現在不在人事室。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na zen-se cu-zen i takesiyan mu, uniyan i zen-se-se.",
+        "ch_sentence": "人事主任不在人事室。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "na zen-se cu-zen i kungkuwan mu, uniyan i zensese.",
+        "ch_sentence": "人事主任不在人事室。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室": {
+    "new_word": [
+      {
+        "fm_word": "cu-ci-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uwa i cu-ci-se putililr dra kiyaberayan dra paisu!",
+        "ch_sentence": "去主計室(會計室)申請經費！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "uwa i cu-ci-se puvalray za kiyakarunan za paisu!",
+        "ch_sentence": "去主計室(會計室)申請經費！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "uwa i cu-ci-se puvalray za kiyakarunan za paisu!",
+        "ch_sentence": "去主計室(會計室)申請經費！",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "uwa i cucise puvalray da kiyakarunan da paisu!",
+        "ch_sentence": "去主計室(會計室)申請經費！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會計室": {
+    "new_word": [
+      {
+        "fm_word": "kuway-ci-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uwa i kuway-ci-se putililr dra kiyaberayan dra paisu!",
+        "ch_sentence": "去主計室(會計室)申請經費！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "uwa i kuway-ci-se puvalray za kiyakarunan za paisu!",
+        "ch_sentence": "去主計室(會計室)申請經費！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "uwa i kuwaycise puvalray da kiyakarunan da paisu!",
+        "ch_sentence": "去主計室(會計室)申請經費！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心": {
+    "new_word": [
+      {
+        "fm_word": "ciēn-kang cung-sin",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kurepanana i Akay. pilrangu muka i ciyēn-kang cung-sin kiputremela.",
+        "ch_sentence": "Akay 受傷了，請帶她去健康中心治療。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kurepanana i Akay. pilralrangu muwaka i ciēn-kang cung-sin kiputremela.",
+        "ch_sentence": "Akay 受傷了，請帶她去健康中心治療。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "mupanana i Akay. pilralrangu mukuwa i ciēn-kang-cung-sin.",
+        "ch_sentence": "Akay 受傷了，請帶她去健康中心治療。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "kurepanan i Akay. pilrangu mukuwa i ciyēnkang cungsin kipucemela.",
+        "ch_sentence": "Akay 受傷了，請帶她去健康中心治療。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健室": {
+    "new_word": [
+      {
+        "fm_word": "paw-ciēn-se",
+        "dialect": "知本"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mupanana i Akay. pilralrangu mukuwa i paw-ciēn-se.",
+        "ch_sentence": "Akay 受傷了，請帶她去保健室治療。",
+        "dialect": "知本"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "taw-se-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ulraya i taw-se-se naniyam sinsi.",
+        "ch_sentence": "我們老師在導師辦公室。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "ulra i taw-se-se naniyam sinsi.",
+        "ch_sentence": "我們老師在導師辦公室。",
+        "dialect": "初鹿、知本"
+      },
+      {
+        "fm_sentence": "ulra i pankungse da tawse naniyam sinsi.",
+        "ch_sentence": "我們老師在導師辦公室。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "ke-zen sinsi-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an katalaulepan temakesi i, temalaulep ku i ke-zen-sinsi-se.",
+        "ch_sentence": "下課時，我在科任教師辦公室休息。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu katalaulepan temakesi mu, temalaulep ku i ke-zen-sinsi-se.",
+        "ch_sentence": "下課時，我在科任教師辦公室休息。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu katalaulepan temakesi mu, temalaulep ku i ke-zen-sinsi-se.",
+        "ch_sentence": "下課時，我在科任教師辦公室休息。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu katalaulepan temakesi mu, temalaulep ku i pan-kung-se da ke-zen sinsi.",
+        "ch_sentence": "下課時，我在科任教師辦公室休息。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "takakesian dra sasenayan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ulraya i katatelu tadraran tu takakesian dra sasenayan kandri na takesian.",
+        "ch_sentence": "這所學校的音樂專科教室在三樓。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "ulra i telu tre'elr tu talrevaw za sasenayan kanini na takesiyan.",
+        "ch_sentence": "這所學校的音樂專科教室在三樓。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "ulra i telu tre'elr tu takakesiyan za sasenayan kanini na kungkuwan.",
+        "ch_sentence": "這所學校的音樂專科教室在三樓。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "ulra i pukatelu ce'elran tu takesiyan da sasenayan kanini na kungkuwan..",
+        "ch_sentence": "這所學校的音樂專科教室在三樓。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "takakesian dra niyalimayan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an muketrep tuki i, kaadru ta i takakesian dra niyalimayan temakesi.",
+        "ch_sentence": "十點我們要在美勞專科教室上課。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu muketrep tuki mu, kaazu ta i tralrevaw za lalimayan temakesi.",
+        "ch_sentence": "十點我們要在美勞專科教室上課。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu muketrep tuki mu, kaazu ta i takakesiyan za lalimayan temakesi.",
+        "ch_sentence": "十點我們要在美勞專科教室上課。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu mukecep tuki mu, kaazu ta i takakesiyan za lalimayan temakesi.",
+        "ch_sentence": "十點我們要在美勞專科教室上課。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "takakesian dra vidio",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sagar mi kadru i takakesian dra vidio temakesi.",
+        "ch_sentence": "我們喜歡在視聽教室上課。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "sahar mi kazu i tralrevaw za vidio temakesi.",
+        "ch_sentence": "我們喜歡在視聽教室上課。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "sahar mi kazu i takakesiyan za vidio temakesi.",
+        "ch_sentence": "我們喜歡在視聽教室上課。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "sahar mi kadu i takesiyan da vidio temakesi.",
+        "ch_sentence": "我們喜歡在視聽教室上課。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "takakesian dra tinnaw",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sadru a tinnaw kana takakesian dra tinnaw.",
+        "ch_sentence": "電腦教室有很多電腦。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "sazu a tinnaw kantri na tralrevaw za tinnaw.",
+        "ch_sentence": "電腦教室有很多電腦。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "sazu a tinnaw kana takakesiyan za tinnaw.",
+        "ch_sentence": "電腦教室有很多電腦。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "sadu a tinnaw kani i takesiyan da tinnaw.",
+        "ch_sentence": "電腦教室有很多電腦。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "takakesian dra ce-zan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an paelipas dra karealriyan dra druwaya tuki i, kararadruk ta i takakesian dra cezan.",
+        "ch_sentence": "下午兩點我們要在自然教室集合。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu 'emelivat za kare'alriyan za zuwaya tuki mu, uwaazuk ta i tralrevaw za ce-zan.",
+        "ch_sentence": "下午兩點我們要在自然教室集合。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu piya ta kara'alri nu zuwaya tuki mu, waparazuk ta i takakesiyan za ce-zan.",
+        "ch_sentence": "下午兩點我們要在自然教室集合。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu piya ta kare'alri nu duwaya tuki mu, muwaduka ta i takesiyan da ce-zan.",
+        "ch_sentence": "下午兩點我們要在自然教室集合。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "takakesian dra matrelre dra temakakesi",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na walrak na adri pakakurenang dratu risarisan i, maka kurenanga kana takakesian dra matrelre dra temakakesi meladaladama.",
+        "ch_sentence": "在學習上較跟不上的孩子，會到資源教室學習。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "makuwa ku kana tralrevaw za 'azi kalre'ayan temakesia.",
+        "ch_sentence": "我要去資源教室讀書。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na palrivak na takesiyan kazi i Papulu ulra a takakesiyan za 'azi kalre'ayan na temakakesi.",
+        "ch_sentence": "寶桑國小有資源教室。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "temakakesi i ce-yuen ciyaw-se tu alrak na sinsi.",
+        "ch_sentence": "老師的孩子在資源教室讀書。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "takakesian dra kakuwayanan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na takesian i Puyuma i, salaw barawang tu takakesian dra kakuwayanan i!",
+        "ch_sentence": "南王國小的鄉土教室特別的寬敞啊！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na takesiyan i Puyuma mu, salaw lawas tu talrevaw za kakuwayanan awa!",
+        "ch_sentence": "南王國小的鄉土教室特別的寬敞啊！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na takesiyan i Puyuma mu, salaw alaway tu takakesiyan za kakuwayanan!",
+        "ch_sentence": "南王國小的鄉土教室特別的寬敞啊！",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "na kungkuwan i Puyuma mu, salaw varawang tu takesiyan da kakuwayanan!",
+        "ch_sentence": "南王國小的鄉土教室特別的寬敞啊！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "ciyaw-u-cu",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "\"alamu i ciyaw-u-cu.\" kema na sinsi kanu.",
+        "ch_sentence": "老師要你到教務處。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "alamu i ciyaw-u-cu kema na sinsi kaninu.",
+        "ch_sentence": "老師要你到教務處。",
+        "dialect": "初鹿、知本"
+      },
+      {
+        "fm_sentence": "kadika i ciyaw-u-cu kema na sinsi kaninu.",
+        "ch_sentence": "老師要你到教務處。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "siyē-u-cu",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ulraya i siyē-u-cu na sinsi.",
+        "ch_sentence": "老師在學務處。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "ulra i siyē-u-cu nanta sinsi.",
+        "ch_sentence": "我們的老師在學務處。",
+        "dialect": "初鹿、知本、建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "cung-u-cu",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muka ku i cung-u-cu malaka dra saselrap.",
+        "ch_sentence": "我去總務處拿掃把。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "mukuwa ku i cung-u-cu melaka za idap.",
+        "ch_sentence": "我去總務處拿掃把。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "mukuwa ku i cung-u-cu melaka da idap.",
+        "ch_sentence": "我去總務處拿掃把。",
+        "dialect": "建和"
+      },
+      {
+        "fm_sentence": "Wada mtbeku mqlahang qyqeya hiya ka laqi muuyas, mmaha mangal sskesik daha.",
+        "ch_sentence": "我到總務處領掃把。",
+        "dialect": "知本"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "vu-taw-cu",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muka ku i vu-taw-cu kiumalra kana sinsi draku aukayan temakesia an meretra ku i takesian.",
+        "ch_sentence": "我去輔導處請教老師畢業後升學的方向。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "mukuwa ku i vu-taw-cu kiumalra zaku takakesiyan nu kaidaidan.",
+        "ch_sentence": "我去輔導處請教未來求學的方向。",
+        "dialect": "初鹿、知本"
+      },
+      {
+        "fm_sentence": "mukuwa ku i vu-taw-cu kiumalra daku takakesiyan nu kaaidaidan.",
+        "ch_sentence": "我去輔導處請教未來求學的方向。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "tu-su-kuwan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sadru a tilitilin a nanauwan i tu-su-kuwan.",
+        "ch_sentence": "圖書館很多閱讀書籍。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "sazu a valray i tu-su-kuwan.",
+        "ch_sentence": "圖書館很多書籍。",
+        "dialect": "初鹿、知本"
+      },
+      {
+        "fm_sentence": "sadu a valray i tu-su-kuwan.",
+        "ch_sentence": "圖書館很多書籍。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "sede dra tadretadran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "adri kaadru dratu sede dra tadretadran kabekas!",
+        "ch_sentence": "別在樓梯間跑步！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "ilalihis i sede' za sasekayan!",
+        "ch_sentence": "別在樓梯間跑步！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "ilalihis i sede' da sasekayan!",
+        "ch_sentence": "別在樓梯間跑步！",
+        "dialect": "建和"
+      },
+      {
+        "fm_sentence": "amanan na pavekavekas i sasekayan!",
+        "ch_sentence": "不要在樓梯間跑步！",
+        "dialect": "知本"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "kadradruwa tadraran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ulraya kana kadradruwa tadraran naniyam takakesian.",
+        "ch_sentence": "我們的教室在二樓。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "ulra naniyan tralrevaw i pukazuwa tre'elr.",
+        "ch_sentence": "我們的教室在二樓。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "ulra naniyan takakesiyan i pukazuwa tre'elr.",
+        "ch_sentence": "我們的教室在二樓。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "ulra naniyam takesiyan i pukaduwa ce'elr.",
+        "ch_sentence": "我們的教室在二樓。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "makadare na ruma",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "adri inaba an ta pikubawaw i makadare na ruma.",
+        "ch_sentence": "把地下室當倉庫是不佳的。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "ulra naniyam aekaekanan i makadare' na ruma'.",
+        "ch_sentence": "我們的餐廳在地下室。",
+        "dialect": "初鹿、知本"
+      },
+      {
+        "fm_sentence": "ulra naniyam akaakanan i makadare' na ruma'.",
+        "ch_sentence": "我們的餐廳在地下室。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "puwaserengan dra babayan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "a basay na temakakesi na babayan. pilrangu muka dratu puwatraiyan dra babayan.",
+        "ch_sentence": "女學生尿急，帶她們去女廁所。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "uwa idapi na uwatra'iyan za vavayan!.",
+        "ch_sentence": "去清掃女生廁所！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "uwa idapi na tavunan za vavayan!",
+        "ch_sentence": "去清掃女生廁所！",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "uwa idapi na caca'iyan da vavayan!",
+        "ch_sentence": "去清掃女生廁所！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "puwaserengan dra mainayan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maebut tu lrawlraw kana puwatraiyan dra mainayan.",
+        "ch_sentence": "男生廁所的電燈熄滅了。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "muvatri' tu lrawlraw/ tinghuy kana uwatra'iyan za ma'inayan.",
+        "ch_sentence": "男生廁所的電燈燒掉了。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "muvati' tu dinki kana tavunan za ma'inay.",
+        "ch_sentence": "男生廁所的電燈燒掉了。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "muvaci' tu lrawlraw kana caca'iyan da ma'inayan.",
+        "ch_sentence": "男生廁所的電燈燒掉了。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "malimalian dra lan-ciw",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ulraya a munuma a malimalian dra lan-ciw kanemu takesian?",
+        "ch_sentence": "你們學校有幾個籃球場？",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "pidaya nanmu mamaliyan za lan-ciw i takesiyan?",
+        "ch_sentence": "你們學校有幾個籃球場？",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "pidaya nanmu mamaliyan za lanciw i takesiyan?",
+        "ch_sentence": "你們學校有幾個籃球場？",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "pidaya nanmu mamaliyan da lanciw i kungkuwan?.",
+        "ch_sentence": "你們學校有幾個籃球場？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "tratrepukan dra yakkiw",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tu pilrangaw mi kana sinsi muka kana tratrepukan dra mali/ yakkiw meladaladama tremepuk dra mali.",
+        "ch_sentence": "老師帶我們到棒球場練習擊球。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "tu pilralarangaw mi kana sinsi mukuwa kana tratrepukan za yakkiw menadanadama tremepuk za mali.",
+        "ch_sentence": "老師帶我們到棒球場練習擊球。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "tu adayaw mi na sinsi mukuwa kana tratrepukan za yakkiw menadama tremepuk za mali.",
+        "ch_sentence": "老師帶我們到棒球場練習。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "tu adayaw mi na sinsi mukuwa kana cacepukan da yakkiw menadama cemepuk da mali.",
+        "ch_sentence": "老師帶我們到棒球場練習。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "hu-ceng se-u-suwo",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kadruwan a trau na muka melaka dra tilin i hu-ceng se-u-suwo.",
+        "ch_sentence": "很多人去戶政事務所領表件。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kana hu-ceng se-u-suwo kazuwan a trau i savak mukuwa kiyaveray za valray.",
+        "ch_sentence": "戶政事務所裡很多人去領表件。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kana huceng-se-u-suwo kazuwan a trau i savak mukuwa kiveraya za valray.",
+        "ch_sentence": "戶政事務所裡很多人去領表件。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "kana huceng-se-u-suwo kaduwan a cau i savak uwa alak da valray!",
+        "ch_sentence": "戶政事務所裡很多人去領表件吧！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "hu-ceng kung-cuwo-can",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na kadruwan tu pinitrauwan dra drekalr i, mipinaraganan dra hu-ceng kung-cuwo-can.",
+        "ch_sentence": "人口很多的社(住)區有設置戶政工作站。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na kazuwan tu trau na kinaazuwan mu, ulra pinarahan a hu-ceng kung-cuwo-can.",
+        "ch_sentence": "人口很多的住區有設置戶政工作站。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na kazuwan tu trau na kinazuwan mu ulra pinarahan a hu-ceng kung-cuwo-can.",
+        "ch_sentence": "人口很多的住區有設置戶政工作站。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu kaduwan tu cau na kinaduwan mu, ulra tu pinarahan da hu-ceng kung-cuwo-can.",
+        "ch_sentence": "人口很多的住區有設置戶政工作站。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "waluwan dra kiyakarunan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tu padreketranay i libeng pakalradram dratu waluwan dra kiyakarunan.",
+        "ch_sentence": "將上班時間張貼公布在牆上。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "tu pazeketranay i liveng pakalrazam kanta zatu tuki za kiyakarunan.",
+        "ch_sentence": "他把上班時間張貼在牆上讓我們知道。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "tu pakepelray i liveng pakazalram kanta za tu tuki za kiyakarunan.",
+        "ch_sentence": "他把上班時間張貼在牆上讓我們知道。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "tu palrekecay i liveng pakadalram datu waluwan da kiyakarunan.",
+        "ch_sentence": "他把上班時間張貼在牆上公布。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "kiyaumalran dra kiyapulrangan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tu aukayan dra kadruwadruwan dra trau i, ulraya tu kiyaumalran dra kiyapulrangan dar.",
+        "ch_sentence": "有很多人去的地方就會有服務台的。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "mukuwa ta kana kazuwazuwan na trau mu, kaulra izu na kiyaumalran za kiyapulragan.",
+        "ch_sentence": "我們到很多人去的地方會有服務台的。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "mukuwa ta kana kazuwazuwan na trau na mukakuwa mu ka'ulra izu na kiyaumalran kiyapulragan.",
+        "ch_sentence": "我們到很多人去的地方會有服務台的。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "mukuwa ta kana kaduwaduwan na cau na mukakuwa mu, kaulra idu na kiyaumalran kiyapulragan.",
+        "ch_sentence": "我們到很多人去的地方會有服務台的。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "patreringan dra kiyapulrangan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tu saesa dra kualengan i paisingan kadri libeng i, ulraya a kakedrengan a patreringan dra kiyapulrangan.",
+        "ch_sentence": "醫院裡的病床牆上有拉線的服務鈴。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kana biyoing i savak kanantu liveng kana kiya'ezengan kana mikuwalengan, ulra a patreringan za kiyapulrangan.",
+        "ch_sentence": "在醫院裡病床的牆上有服務鈴。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kana biyoing savak kanantu kiya'ezengan na mikualengan i liveng, ulra a kinakezeng a patreringan za kiyapulrangan.",
+        "ch_sentence": "在醫院裡病床的牆上有服務鈴。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "kana biyoing savak kanantu kiya'edengan na mikualengan i liveng mu, ulra a kinakedeng a paceringan da kiyapulrangan.",
+        "ch_sentence": "在醫院裡病床的牆上有服務鈴。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "in-ciyēn",
+        "dialect": "南王、初鹿、知本、建和"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "salaw padrangal na dadupu na in-ciyēn. adri aatelri!",
+        "ch_sentence": "印鑑章很重要，別掉了！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "murung ta zata dadepu zi mukuwa ta i hu-ceng se-u-suwo kipuvalraya mu, ini na dadepu mu, iwasay lra za mau nanta in-ciēn.",
+        "ch_sentence": "我們拿一顆印章到戶政事務所裡辦印鑑證明，那麼這顆印章就是我們的印鑑。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "melak ta za ta hang zi mukuwa ta i huceng-se-u-suwo kipuvalraya mu ini na hang mu iwasay lra za maw nanta in-ciēn.",
+        "ch_sentence": "我們拿一顆印章到戶政事務所裡辦印鑑證明，那麼這顆印章就是我們的印鑑。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "melak ta data hang di mukuwa ta i huceng-se-u-suwo kipuvalraya, ini na hang mu, iwasay lra da mau nanta in-ciēn.",
+        "ch_sentence": "我們拿一顆印章到戶政事務所裡辦印鑑證明，那麼這顆印章就是我們的印鑑。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "pakumauwan dra trau",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an uwaisatr ta dra hikuki i, adriadri ta dar kemasu drata pakumauwan dra trau.",
+        "ch_sentence": "如果要搭乘飛機一定要帶身分證。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu uwaitras ta za hikuki mu, 'azi ta ka'azi murung za pakumawan za trau.",
+        "ch_sentence": "如果要搭乘飛機一定要帶身分證。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu waitras ta za hikuki mu ka'azi ta mada za pakumawan za trau.",
+        "ch_sentence": "如果要搭乘飛機一定要帶身分證。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu waicas ta da hikuki mu, kaadi ta minada da pakumauwan da cau.",
+        "ch_sentence": "如果要搭乘飛機一定要帶身分證。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "putililr dra kinakadruwan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muruma ku wadi na babayan kemay i Takaw. putililr dratu kaadruwan lra.",
+        "ch_sentence": "",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "muasalr ku za ruma' zi puvalray ku za kinaazuwan kana vekal na ruma'.",
+        "ch_sentence": "我搬家了我戶籍登記在新家。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "mukuwani i wadilri zi puvalray zatu kinakaazuwan maw kaniyam.",
+        "ch_sentence": "妹妹回來設籍登記在我家。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "mukuwani i wadilri di puvalray da kinkaduwan kaniyam.",
+        "ch_sentence": "妹妹回來設籍登記在我家。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "putililr dra kinaretigiran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na piniwalrakan, na minatray, na marekataguwin, na maretinuwas i, a murabak kana putililr dra kinaretigiran.",
+        "ch_sentence": "凡出生、死亡、結婚、離婚等涉及身分的變更，均屬於身分登記的範圍。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na pinialrakan, na minatray, na mare'azin, na mareveruk mu, mau na muravak kana puvalray zantu kinatikeziran.",
+        "ch_sentence": "凡出生、死亡、結婚、離婚等涉及身分的變更，均屬於身分登記的範圍。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na pinialrakan, na minatray, na pinakaetim, na marevuruk mu, maw na muravk kana puvalray za tu pinitikerizan.",
+        "ch_sentence": "凡出生、死亡、結婚、離婚等涉及身分的變更，均屬於身分登記的範圍。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "na pinialrakan, na minacay, na pinakactim, na mareparuwaday lra mu, mau na muravak kana puvalray da kinatikediran.",
+        "ch_sentence": "凡出生、死亡、結婚、離婚等涉及身分的變更，均屬於身分登記的範圍。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徙登記": {
+    "new_word": [
+      {
+        "fm_word": "putililr dra inuasalran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an muasalr ta muka kikadruwa i Tainan i, auka ta i hu-ceng se-u-suwo putililra dra inuasalran. aw padrulun ta dra pakumauwan dra trau.",
+        "ch_sentence": "我們搬家到台南居住，要到戶政事務所辦理遷徙登記，然後換身分證。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu puvalray za inuasalran za kinaazuwan mu, kiveray pavalis ta za pakumawan za trau.",
+        "ch_sentence": "如果我們辦理遷徙登記要換領身分證。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu puvalray za inupasalran ta mu, padulun ta za pakumawan za trau.",
+        "ch_sentence": "如果我們辦理遷徙登記要換領身分證。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu puvalray da inupasalran ta mu, padulun ta da pakumawan da cau.",
+        "ch_sentence": "如果我們辦理遷徙登記要換領身分證。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "pubalis, emasalr aw emitrul dratu pinutililran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an patrepa dra pubalis, emasalr aw emitrul dra pinutililran i, adri kaabalu muka putililra.",
+        "ch_sentence": "若遇到變更、更正及撤銷資料事宜時，別忘了去登記。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu patrepa za pavalis, masalr, mivas za ipuvalray mu, 'azi ta ka'azi mimanay zanta valray na vinavalray, nu 'azi mu, 'azi ta ikararuwa puvalray.",
+        "ch_sentence": "若遇到變更、更正及撤銷登記一定要用我們的文字書寫，否則不予登記。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "valisaw, asalraw, mivas za pinivalrayan ka'azi ta venalray kana ta vinavalray na valray, nu melri mu 'azi wawai puvalray.",
+        "ch_sentence": "變更、更正及撤銷登記一定要用我們的文字書寫，否則不予登記。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu pavalis, masalr di mivas da pinuvalrayan mu, ta tarena'uway, na vinavalrayan penauwa nay?",
+        "ch_sentence": "變更、更正及撤銷登記一定要仔細看，資料是否填正確？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "na druma na pinutililran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an auka ta putililra dratu ngalad kana manuden i, kemasu ta dratu ngalad aw tu wasay dra pinialrakan i paisingan.",
+        "ch_sentence": "我們要辦嬰兒出生登記時，要帶嬰兒的名字及醫院的出生證明。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu auwa ta kipuvalraya zatu ngadan na mau ziya pinialrak na ve'enin mu, na zuma na valray mu, mau nantu wasay za inupanayan i biyoing.",
+        "ch_sentence": "我們要辦嬰兒出生登記時，嬰兒的名字及其他書件如醫院的出生證明。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu awa ta kipuvalray za tu ngadan na maw ziya pinialrakan na vu'enin na zuma na valray mu maw na tu wasay na biyoing zatu inupanayan.",
+        "ch_sentence": "我們要辦嬰兒出生登記時，嬰兒的名字及其他書件如醫院的出生證明。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "ini mu hu-ci teng-pen, ulra diya na duma na pinuvalrayan?",
+        "ch_sentence": "這是戶籍謄本，還有其他書件嗎？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "pinutililr dra hu-ci",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kemasu yu dranu pinutililr dra hu-ci?",
+        "ch_sentence": "你有帶著戶籍資料嗎？",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "miinurung u kanannu valray za hu-ci?",
+        "ch_sentence": "你有帶著戶籍資料嗎？",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "miinada u kananu valray za hu-ci?",
+        "ch_sentence": "你有帶著戶籍資料嗎？",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "miinada u kananu valray da hu-ci?",
+        "ch_sentence": "你有帶著戶籍資料嗎？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "muasalr druwa musabaka",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na Sunay sarumaenan i, muasalr druwa musabaka kikadru kana drekalr i Puyuma.",
+        "ch_sentence": "Sunay 全家遷入 Puyuma 部落。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "muasalr zuwa musavaka saruma'enan na Saninay.",
+        "ch_sentence": "Saninay 一家全部搬移進來這裡住。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "zuwa mupasalra kikazuwa kani nazu mapiya.",
+        "ch_sentence": "他們全部搬移進來這裡住。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "mupasalr duwa musavaka kikaduwa kanni nadu mapiya.",
+        "ch_sentence": "他們全部搬移進來這裡住。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "muasalr mupatraran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muasalr mupatraran dratu kinakaduwan idru na trau.",
+        "ch_sentence": "那個人搬移他所住的地方。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "muasalr mupatraran kantu kinaazuwan izu na trau.",
+        "ch_sentence": "那個人搬移出去他所住的地方。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "mupasalr mupatraran kantu kinikazuwan izu na trau.",
+        "ch_sentence": "那個人搬移出去他所住的地方。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "mupasalr mupacaran kantu kinkaduwan idu na cau.",
+        "ch_sentence": "那個人搬移出去他所住的地方。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "emasalr putililr dratu kaadruwan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "alra emasalr putililr dratu kaadruwan maku!? driyama ku adri pakatrebung kantaw!",
+        "ch_sentence": "可能是住址變更！？所以我找不到他呢！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "pavalis za kinaazuwan semeneng 'azi ku pakatrevung kantaw.",
+        "ch_sentence": "他可能是住址變更，所以我找不到！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "pavalis za kaazuwan yawlra zi, 'azi ku pakaaya'.",
+        "ch_sentence": "他可能是住址變更，所以我找不到！",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "pavalis da kaaduwan awlra di, adi ku pakaaya'.",
+        "ch_sentence": "他可能是住址變更，所以我找不到！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "aaipan dra ruma",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "a bekalan driya idru na ruma. adri driya pinadreketran tu banggo dra ruma.",
+        "ch_sentence": "那是新蓋的房子，還沒貼上門牌。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "uniyan tu banggo za ruma', semeneng 'azi ta pakatrevung.",
+        "ch_sentence": "他沒有門牌號碼，所以我們找不到！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "uniyan tu banggo za ruma', 'azi ku pakaaya'.",
+        "ch_sentence": "他沒有門牌號碼，所以我們找不到！",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "uniyan tu banggo da ruma', adi ta pakaaya'.",
+        "ch_sentence": "他沒有門牌號碼，所以我們找不到！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "emasalr dra ngalad",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "emasalr dratu ngalad na sinsi. malradram yu kantu ngalad garem?",
+        "ch_sentence": "老師改名了，你知道現在的名字嗎？",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "tu asalraw tu ngadan kananta sinsi harem, malrazam u kanantu ngadan harem?",
+        "ch_sentence": "我們的老師改名了，你知道現在的名字嗎？",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nanta sinsi emasalr za ngadan harem, mazalram u kantu ngadan harem.",
+        "ch_sentence": "我們的老師改名了，你知道現在的名字嗎？",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nanta sinsi masalr da ngadan harem, madalram u kanantu ngadan harem?",
+        "ch_sentence": "我們的老師改名了，你知道現在的名字嗎？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "wasay dra marekataguwin",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kasuyu mu wasay dra marekataguwin na tilin. uwa i hu-ceng se-u-suwo putililra.",
+        "ch_sentence": "攜帶你們的結婚證書，去戶政事務所登記。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "pupana ta ziya za wasay za pinare' azinan zi, karuwa ta lra puvalray za mare'azin.",
+        "ch_sentence": "先拿結婚證書，才能登記結婚。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "pupana ta ziya za wasay za maresaruma'an, karuwa ta lra puvalray za pinakaetim.",
+        "ch_sentence": "先拿結婚證書，才能登記結婚。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "pupana ta diya da wasay da mareturuma'an, karuwa ta lra pusavak da mareturuma'an.",
+        "ch_sentence": "先拿結婚證書，才能登記結婚。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "wasay dra maretinuwas",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maretinuwas nadru na miyadruwa. menau ku dra wasay dra maretinuwas kantu papadraran.",
+        "ch_sentence": "他們倆個離婚了，我在她的桌上看到離婚證書。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "pupanayu nanmu wasay za mareveruk, pukatatena'a ku kannu.",
+        "ch_sentence": "拿出你們的離婚證書，我才相信。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "pupanayu nanu wasay za marevuruk masaluwa ku kannu.",
+        "ch_sentence": "拿出你的離婚證書，我才相信。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "pupanayu nanu wasay da maruwaday masaluwa ku kannu.",
+        "ch_sentence": "拿出你的離婚證書，我才相信。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "wēy-seng-so",
+        "dialect": "南王、初鹿、知本"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maruwa ta muka i wēy-seng-suwo kiberaya dra puwatremel.",
+        "ch_sentence": "我們可以到衛生所領取藥物。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "maruwa ta mukuwa i wēy-seng-suwo kiveraya za puwatremel.",
+        "ch_sentence": "我們可以到衛生所領取藥物。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "maruwa ta mukuwa i wēy-seng-suwo kiveraya za patremer.",
+        "ch_sentence": "我們可以到衛生所領取藥物。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "maruwa ta mukuwa i wēy-seng-suwo kiveraya da pacemer.",
+        "ch_sentence": "我們可以到衛生所領取藥物。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "paw-ciyēn-yuēn",
+        "dialect": "南王、初鹿、知本、建和"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na mauka kurenanga dra padrangal dra marepaukauka merenadr i, adriadri penilrang dra paw-ciyen-yuen.",
+        "ch_sentence": "參加重要競技比賽的隊伍，一定有隨隊保健員的。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na paw-ciyen-yuen i takesiyan karuwa putremel kanta nu mavuli' ta.",
+        "ch_sentence": "如果我們受傷了學校的保健員能為我們敷藥。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na paw-ciyen-yuen i kungkuwan karuwa putremel kanta nu mavuli' ta.",
+        "ch_sentence": "如果我們受傷了學校的保健員能為我們敷藥。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "adiyu diya uniyan mi da kangguhu i kukuwan, ulra na paw-ciyen-yuen.",
+        "ch_sentence": "以前我們學校沒有護士，只有保健員。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "tinutaudrung dra kangguhu",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "raemetr aw malubis dra trau i Sukudri. garem i, tu tinutaudrung lra dra kangguhu kana paisingan i Ma-cie.",
+        "ch_sentence": "Sukudri 工作認真又熱心，現在是馬偕醫院的護理長了呢！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "zuwa merengaya na tinuma'izang na kangguhu kaninku za karuwa ku lra muruma'.",
+        "ch_sentence": "護理長來告訴我可以回家了。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "zuwa marengaya na tinuma'izang na kangguhu kaninku za karuwa ku lra muruma'.",
+        "ch_sentence": "護理長來告訴我可以回家了。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "sawariyan lra kani idu na kangguhu, mau lra na tinuma'idang na kangguhu harem kemaku.",
+        "ch_sentence": "那位護士在這裡待很久了，我想他應該是護理長了吧！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "ing-yang-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i tanataw kan Uka i, a ing-yang-se.",
+        "ch_sentence": "Uka 的媽媽是營養師。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "i tainataw ni Ukak mu, a ing-yang-se.",
+        "ch_sentence": "Ukak 的媽媽是營養師。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "varivariw ku zi tu pauwayaw ku kana ing-yang-se kipanadam za akanen.",
+        "ch_sentence": "我太瘦了醫師安排我到營養師那裏了解學習認識食物。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "sayhu cimima' da tatusiyawan na ing-yang-se.",
+        "ch_sentence": "營養師很懂得購買料理品。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "ising dra walri",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "idru na ising dra walri. salaw paseket an menau.",
+        "ch_sentence": "那位牙醫師看診很仔細。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na lralrak makaud kina'u kana ising za walri.",
+        "ch_sentence": "小孩子害怕給牙醫師看。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na lralrak makauz kina'u kana ising za walri.",
+        "ch_sentence": "小孩子害怕給牙醫師看。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "uwa kina'u kana ising da walri, amana pakalrawalrawayaw nu nanayan.",
+        "ch_sentence": "去給牙醫看診吧！不要放任不管你的病痛。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "kalradraman dra pinaraganan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kay ta driya kiumalra kandriyu na trau. alra ulraya isuwa a kalradraman dra pinaraganan.",
+        "ch_sentence": "我們去問那個人，看看哪兒有平面配置圖。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kay ta ziya kiumalra kaniziyu na trau, ulra i iyan a kalrazaman za pinarahanan.",
+        "ch_sentence": "我們去問那個人，看看哪兒有平面配置圖。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na ma'izang na pinarahan kaulra tu kazalraman za pinarahan.",
+        "ch_sentence": "大型的建築物都會有平面配置圖。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "miinada u kana kadalraman da pinarahan pana'u kaniyum?",
+        "ch_sentence": "你有帶平面配置圖給我們看嗎？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X 光室": {
+    "new_word": [
+      {
+        "fm_word": "pasasingan dra X kuwang",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakireb ku ruud aw dremiyadriyalr ku. muka ku kana matrina na paisingan kipasasinga dra X-kuwang.",
+        "ch_sentence": "我感冒很嚴重又一直咳，就到大醫院照 X 光。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "tu puelringay dra banin dra arumi na kiyasasingan dra X-kuwang.",
+        "ch_sentence": "X 光室以鋁板作為牆壁。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "tu pulivengay za vanin za arumi na kiyasasingan za X-kuwang.",
+        "ch_sentence": "X 光室以鋁板作為牆壁。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "madalru' ku zi tu pasasiyangan za X kuwang mu mazalram za muritru' tu ukak ku lima.",
+        "ch_sentence": "我跌跤了到 X 光室遺照知道我的手骨折。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "kemay u i pasasiyangan da X kuwang duwa kani?",
+        "ch_sentence": "你是從 X 光室過來這裡的嗎？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "ce-pan-se",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kanemu takesian i, ulraya a ce-pan-se?",
+        "ch_sentence": "你們學校有值班室嗎？",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "temalaulep na ising i ce-pan-se.",
+        "ch_sentence": "醫生在值班室休息。",
+        "dialect": "南王、初鹿"
+      },
+      {
+        "fm_sentence": "na ising kana wari ziya mavulavulas kazu kana ce-pan-se.",
+        "ch_sentence": "醫師每日輪流在值班室值班。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "ulra kana ce-pan-se nanu inaaya' na cau.",
+        "ch_sentence": "你在找的人在值班室。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "pakaarekedran dra dradrek",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "adri driya kainabayan ku kinurepananayan aw muka ku kana pakaarekedran dra dradrek merenadra.",
+        "ch_sentence": "我的傷勢還沒有痊癒，我到復健室復健。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "muka ku kikedrenga kanku paparetran i pakaarekedran dra dradrek.",
+        "ch_sentence": "我去復健室牽引我的腰椎。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "mukuwa ku kikezenga zaku zakur i pakaarekezan za zazek.",
+        "ch_sentence": "我去復健室牽引我的腰椎。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "pilralrang ku kani alraklri mukuwa i pakaarekezan za zazek.",
+        "ch_sentence": "我陪我的孩子到復健室。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "surimet mukuwa kipucemera kantu kuwi kana pakaarekedan da dadek i valri na ma'inay.",
+        "ch_sentence": "哥哥很認真去復健室治療他的腳傷。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "raretraan dra tinatililran",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu apetraw lra na tilitilin kana raretraan dra tinatililran?",
+        "ch_sentence": "檔案室的書你整理好了嗎？",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu epetraw lra na raretra'an za vinavalrayan?",
+        "ch_sentence": "檔案室你整理好了嗎？",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "i biyoing ulra tu rinaretra'an za vinavalrayan.",
+        "ch_sentence": "醫院裡有檔案室。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nantu kuwalengan ulra ipuvalray inapec kana tang-an-se peniya.",
+        "ch_sentence": "他們的病歷都登記保管在檔案室裡。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "aalakan dra puwatremel",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "a n peniya menau na ising i, tu berayay ta dra tilin. aw muka ta malaka dra puwatremel kana aalakan dra puwatremel.",
+        "ch_sentence": "醫生看過病就開處方籤，我們就到藥局領藥。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kana aalaken dra puwatremel i, ulraya a sadru a marekamenimeni a pawatremel.",
+        "ch_sentence": "藥局裡有各種藥品。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kana alaken za patremel i savak ulra sazu a marekamelrimelri a patremel.",
+        "ch_sentence": "藥局裡有各種藥品。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kana alaken za patremel i savak ulra sazu a marekamelrimelri a patremel.",
+        "ch_sentence": "藥局裡有各種藥品。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "kana alaken da pucemel i savak ulra sadu a marekamelrimelri a pacemal.",
+        "ch_sentence": "藥局裡有各種藥品。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "i-miyaw",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kitusuk ta kana i-miyaw i, karuwa pakatala dra kualengan.",
+        "ch_sentence": "接種疫苗可以預防疾病。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kitusuk ta kana i-miyaw mu, karuwa patala za kuwalengan..",
+        "ch_sentence": "接種疫苗可以預防疾病。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kitusuk ta kana i-miyaw pakatala' za kuwalengan.",
+        "ch_sentence": "接種疫苗可以預防疾病。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "kitusuk ta kana i-miyaw pakatala' da kuwalengan.",
+        "ch_sentence": "打疫苗是為預防疾病。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kikinsa dra salikesikan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kay ta i paisingan kikinsaa dra dradrek dra kasaliyakesian.",
+        "ch_sentence": "我們去醫院做健康檢查。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "kikinsa ta dra dradredradrek i, karuwa ta malradram drata kualengan aw palamu ta kiputremel.",
+        "ch_sentence": "健康檢查早期發現早期治療。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu kikinsa ta za dalikedikan mu, dika ta malrazam zata kuwalengan zi dika ta kiputremel.",
+        "ch_sentence": "健康檢查早期發現早期治療。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kikinsa za dalikedikan mu dika ta mazalram za ta kuwalengan zi dika ta kiputremel.",
+        "ch_sentence": "健康檢查早期發現早期治療。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu kikinsa da dalikedikan mu, dika madalram kumuda tu dadekan, di dikaya kipucemel.",
+        "ch_sentence": "健康檢查能知身體狀況，好提早治療。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "patrirebeng patala dra kuwatisan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sadru a patratrirebengan patala dra kuwatisan. ta kalradramaw i, kainaba ta.",
+        "ch_sentence": "很多的防治宣導，我們要充分了解才好。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "sazu a patrirevung patatala' za kakuwatrengan, ta kalrazamaw mu, ka'inava ta.",
+        "ch_sentence": "很多的防治宣導我們要了解才好。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "sazu a patrirevung patatala' za kakuwatrengan ta kazalramaw mu ka'inava ta.",
+        "ch_sentence": "很多的防治宣導我們要了解才好。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "na pacirevung patatala' da kuwacengan, ta kadalramaw mu, ka'inava.",
+        "ch_sentence": "防治宣導，我們要了解才好。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "paw-ciyen dra indan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "temaranapaw ta dra indan. misaus ta dra walri kana wawariwari driya. adri kasasadrui meleel dra puran.",
+        "ch_sentence": "注意口腔保健，天天刷牙，不嚼過多的檳榔。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "temaranapaw ta za paw-ciyen za udung, amanan na malalup misaus za walri!",
+        "ch_sentence": "我們要注意口腔的保健，不要忘記刷牙！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "taranapaw ta paw-ciyen za udung amanan na malalup mengangisil.",
+        "ch_sentence": "我們要注意口腔的保健不要忘記刷牙。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "taranapawan ta da paw-ciyen da udung, amana malalup kimingisil.",
+        "ch_sentence": "口腔保健，不要忘記刷牙。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "bululr i indan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na bululr i indan i, a emaalaw dra indan. sadru lra dradru an emeleel ta dra puran i, a meraranak(pakakuwatis) dra bululr i indan.",
+        "ch_sentence": "口腔黏膜是保護口腔的，嚼太多檳榔會破壞口腔黏膜的。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu palavat ta mapur za puran mu, uwaranak nanta luvit i udung.",
+        "ch_sentence": "嚼檳榔過多會損壞口腔黏膜。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu paramur ta mapur za puran mu waranak na ta luvitr za udung.",
+        "ch_sentence": "嚼檳榔過多會損壞口腔黏膜。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu paravat ta mapur da puran mu, pakakuwaceng data ruvic i udung.",
+        "ch_sentence": "過度吃檳榔，會破壞身體健康。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "pasirep dra damuk",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an pasirep ta dra damuk i, marainabanaba an semaluwan dra adri ta driya mekan.",
+        "ch_sentence": "抽血最好在早上空腹時。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "nu pasirep ta za dara'/damuk mu, mara'inavanava nu semavalr za 'azi ta ziya kenama.",
+        "ch_sentence": "抽血最好在早上空腹時。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu semavalr zi nu alusu a kadaw pasirep za dara' mu kirpauwa",
+        "ch_sentence": "抽血在早晨及下午比較適合。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu yawa ta pasirep da dala' mu, 'inava nu 'imiway ta diya.",
+        "ch_sentence": "若要去抽血還是空腹會比較好。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "tatusuk dra patatala",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakanguwayan ta kitusuk dra patatala dra kualengan i, adri ta mulelep dra elungan.",
+        "ch_sentence": "事先打預防針，就不易罹患傳染病。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "pakangaway ta kitusuk za tatusuk za patatala' za kuwalengan mu, 'azi ta mulelep za alung.",
+        "ch_sentence": "事先打預防針，就不易罹患傳染病。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "awa i biyoing patusuk kana tu alrak za tatusuk za patatala'i intaw.",
+        "ch_sentence": "他要去醫院給孩子打預防針。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "nu yawa ta pasirep da dara' mu, 'inava nu 'imiway ta diya.",
+        "ch_sentence": "預防針對嬰兒及老人是非常好的。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "pamili kinsa",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tu pamiliaw na kininsaan aw malradram lra dra kakudayan.",
+        "ch_sentence": "檢驗後經過篩檢才知道該如何了。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na kininsayan lra mu, tu palimi'aw kinsa mu, malrazam lra za kuwadakudayan.",
+        "ch_sentence": "檢驗後經過篩檢才知道該如何了。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "nu liyusan nem zazuwa na dusiya na ising i zekalr palimi'kinsa za mikuwalengan.",
+        "ch_sentence": "星期六會有醫療車來我們部落篩檢有病的。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "tu asalraw pinalimi' kinsa tu kuwalengan mu, patulre'ay lra kipucemel.",
+        "ch_sentence": "他經過篩檢過後，才對症下藥的醫治病情。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "dalan dra adri kalreayan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pudalan dra parupaybaybalr dra dalan. tu kakalrangan dra adri kalreayan.",
+        "ch_sentence": "鋪設斜坡路提供殘障者使用。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na auwayan kana tratrautrau ziya mu, tu pudalanay za dalan kana 'azi kalre'ayan.",
+        "ch_sentence": "眾人去的場所會設置無障礙坡道。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na awayan na tratrautrau ziya mu demaway za dalan za 'azi kalre'ayan.",
+        "ch_sentence": "眾人去的場所會設置無障礙坡道。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "na dalan na pakalrang kana adi kalre'ayan na cau mu, ta pungadanay da dalan kana adi kalre'ayan.",
+        "ch_sentence": "行動不便者的道路，我們稱它無障礙坡道。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "puwaserengan dra adri kalreayan",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tu puwatraiyan dra adri kalreayan i, ulraya kana tadretadran i saninin.",
+        "ch_sentence": "無障礙廁所在樓梯旁邊。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "na auwayan kana tratrautrau ziya mu, parahan za uwatra'iyan kana 'azi kalre'ayan.",
+        "ch_sentence": "眾人去的場所都會建無障礙廁所。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "na awayan na tratrautrau ziya mu parahan za tavunan za 'azi kalre'ayan.",
+        "ch_sentence": "眾人去的場所都會建無障礙廁所。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "ulra mu caca'iyan da adi kalre'ayan?",
+        "ch_sentence": "你們有無障礙廁所嗎？",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "teng-ke-ze",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "an tu karatraw ta kana samekan na kiibulr i, mikualengan ta dra teng-ke-ze dar!",
+        "ch_sentence": "被有毒的蚊子咬到會得登革熱呢！",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "taranapaw kana kengkeng munu tu elepaw ta za teng-ke-ze!",
+        "ch_sentence": "要留心蚊子免得得了登革熱！",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kilrivak kana pedped munu tu alepaw ta za teng-ke-ze.",
+        "ch_sentence": "要留心蚊子免得得了登革熱。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "sayhu ta kimirungec i ruma' paliwliyus mu, adi ta makaud da teng-ke-ze.",
+        "ch_sentence": "懂得整理周邊環境衛生，就不怕登革熱。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "alung dra trinai",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "temaranapaw ta dra akanan. an raemetr ta semabesab dra lima i, adri ta mulelep dra alung dra trinai.",
+        "ch_sentence": "注意飲食！勤洗手就不會感染腸病毒。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "temaranapaw ta za aekanan! nu ra'emetr ta muras za lima mu, 'azi ta mudanin za alung za trina'i.",
+        "ch_sentence": "注意飲食！勤洗手就不會感染腸病毒。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "kana mualep kana alung za trina'i mu, paziyazi za pituwariyan ini na yociyeng.",
+        "ch_sentence": "這所幼稚園因為有腸病毒的案例停課七天。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "melri nu patatiwlayan na alung da cina'i.",
+        "ch_sentence": "腸病毒不能不在乎。",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  }
+}

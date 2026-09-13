@@ -1,0 +1,116 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "tjaljavavavan itua sihu a remasurasudj tua sikudan nua kapaiwanan",
+        "ch_semantic": "在政府原住民最高的管理者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": "semuvetjek a kisia",
+        "ch_semantic": "走捷徑的火車",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suljasulja pana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "鄉公所": {
+    "new_word": [
+      {
+        "fm_word": "tjaljatekutekuan a sasususan",
+        "ch_semantic": "最低的執行公家事務的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "temevetevelj ta sinbung kisia",
+        "ch_semantic": "召集新聞記者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "lemuiluv ta +",
+        "ch_semantic": "看查 受格",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "patidetideq a saliman",
+        "ch_semantic": "經常臨時的工作",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "kinateveteveljan na nanakuyakuyan",
+        "ch_semantic": "不良的很多人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "動土儀式": {
+    "new_word": [
+      {
+        "fm_word": "semu paljiq",
+        "ch_semantic": "去除負面的能量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "siniljakev nu sepakakuda",
+        "ch_semantic": "用來保護變成意外的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "inia katjedukuan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

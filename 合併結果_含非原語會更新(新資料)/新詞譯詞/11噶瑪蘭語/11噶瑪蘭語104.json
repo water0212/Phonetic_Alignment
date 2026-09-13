@@ -1,0 +1,46 @@
+{
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "kuyuci",
+        "ch_semantic": "國有局(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "國產局"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "lawpawci",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "勞保局"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "suylici",
+        "ch_semantic": "水利局(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "水保局"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "keuyhuy",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "客委會"
+  }
+}

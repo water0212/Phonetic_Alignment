@@ -1,0 +1,98 @@
+{
+  "過敏": {
+    "new_word": [
+      {
+        "fm_word": [
+          "peasima"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "痔瘡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "h'oh'o"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "細菌": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuisi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "便秘": {
+    "new_word": [
+      {
+        "fm_word": [
+          "smi'oyʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "粉筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hakuvoku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "授予": {
+    "new_word": [
+      {
+        "fm_word": [
+          "faeni"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "頒布": {
+    "new_word": [
+      {
+        "fm_word": [
+          "psoyom'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駁回": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pa'ivoveia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  }
+}

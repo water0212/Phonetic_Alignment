@@ -1,0 +1,174 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "mapidailaz tu sasaipuk",
+        "ch_semantic": "使有秩序的看顧者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "sasaipuk nanu tu takisiancin malmihumis tu bunun",
+        "ch_semantic": "原先在這裡大便生活的人的管理部門",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "dadangian kanli dangian haimangsut tu lumah",
+        "ch_semantic": "管理工具的家的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "dangian haimangsut tu lumah",
+        "ch_semantic": "工具的家",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原住民": {
+    "new_word": [
+      {
+        "fm_word": "nanu tu takisiancin malmihumis tu bunun",
+        "ch_semantic": "原先這在這裡大便生活的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "lukis minnunghanu",
+        "ch_semantic": "流出去的木頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "hudan daingaz",
+        "ch_semantic": "大雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "hudan pasha",
+        "ch_semantic": "傾倒的雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aul maipaav"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "talah ispus",
+        "ch_semantic": "地球最頂點",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "talah takliis",
+        "ch_semantic": "地球最底端",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "鄉公所": {
+    "new_word": [
+      {
+        "fm_word": "asang sasaipuk",
+        "ch_semantic": "聚落的照顧者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "pishaiap isuampuk",
+        "ch_semantic": "告知會議",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "政策": {
+    "new_word": [
+      {
+        "fm_word": "sintu tailaz",
+        "ch_semantic": "已講的條文",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "聽證會": {
+    "new_word": [
+      {
+        "fm_word": "mincivi mininuma",
+        "ch_semantic": "探勘被破壞處",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "mincivi mininuma",
+        "ch_semantic": "探勘被破壞處",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "malka-",
+        "ch_semantic": "用力研究",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

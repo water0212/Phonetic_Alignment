@@ -1,0 +1,26 @@
+{
+    "博士": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "hakasi"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "地方法院": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "huingi"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    }
+}

@@ -1,0 +1,162 @@
+{
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "miyarana",
+        "ch_semantic": "生鏽了",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "tumuwa",
+        "ch_semantic": "招呼",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "miabak",
+        "ch_semantic": "(物的生產)有裝",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "珊蝴": {
+    "new_word": [
+      {
+        "fm_word": "taretar",
+        "ch_semantic": "珊瑚",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "arus",
+        "ch_semantic": "海嘯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "ragiyan",
+        "ch_semantic": "法律",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "kinuretan",
+        "ch_semantic": "已經約定的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "pinakalrangan",
+        "ch_semantic": "所走過的; 所經過的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "relreng",
+        "ch_semantic": "責任",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "saliyusan",
+        "ch_semantic": "一週",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "temarematra",
+        "ch_semantic": "用眼睛",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "pamamilian",
+        "ch_semantic": "甄選",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kemiangeanger",
+        "ch_semantic": "一直用心想",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "kinasaiguwan",
+        "ch_semantic": "所會的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "meniwan",
+        "ch_semantic": "(指可買賣的)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公信力": {
+    "new_word": [
+      {
+        "fm_word": "katalrimayan",
+        "ch_semantic": "要信任",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

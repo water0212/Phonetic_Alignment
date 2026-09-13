@@ -1,0 +1,758 @@
+{
+  "一坪": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cono tipuska"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "一氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahi'o ci peucu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "二氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "psoyafa ci peucu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "上弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "faoinana ci feohʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "下弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hoeʉpngʉ ci feohʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "大氣層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maikuyungu ta hpʉhpʉʉngʉ ci peucu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "太陽能": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuveu no hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "日蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mocoi 'o hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "月蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mcoi 'e feohʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "puzu ci hcuyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山灰": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yonpuhu no puzu no hcuyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "主菜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu 'oopaskana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "加工食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "teoteocvahi ci 'oanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "北半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hpici ta omiasi ta hpʉhpʉʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "北冰洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sonoteufia ci etʉpʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "北回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "omia no ceono hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "奶精": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atvohneni ci miluku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "石化燃料": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ei'imiyi no puzu ci macucuma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "立方公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sʉptʉ no tinsoha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "冰山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yuho ci hcuyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "名產": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhca ci tov'oha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "地震帶": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono motoevi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "西元": {
+    "new_word": [
+      {
+        "fm_word": [
+          "h'otmasvʉtʉ no 'angmu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "西半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hpici ta meoovia hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "低氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pahu no koa coheʉceʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "冷凍食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "p'ocoheʉcea ci 'oanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fuefu'u ci aaskiti"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙漠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yonpuhu ci hpʉhpʉʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "赤道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taico no ceono hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "季風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "meiav'ov'o ci poepe"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "岩岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fafatu ci aasikit"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "東半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hpici ta eosmomha hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "直徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "h'otacvoh'a no esngʉcvi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "南半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hpici ta oi'isi ta hpʉhpʉʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "南回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oi'i no ceono hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "洋流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hia aot'ou ta etʉpʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "炸雞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tohʉsvi ci teo'ua"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "紅外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fʉhngoya ci so'eumia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "料理包": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa mafe no 'oanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "氣流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aotu'ou ci pahu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "海灣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmohkon'i no etʉpʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "素食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oanʉ maos'os'o"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "臭氧層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmamʉtʉ ta hpʉhpʉʉngʉ ci peucu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "高氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pahu no koa mu'ei"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "基改食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "poa tmoezuhu ci oanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "速食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sonʉ ci 'oanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "寒流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pahu no soyʉmʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "紫外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa bohi'h'oh'o ci hie"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鈣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa mahtʉicʉ no cʉehʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "溫室效應": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa noyano ta hpʉhpʉʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "經度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huomia emoyovcu ta hpʉhpʉʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "葷食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'oanʉ 'onapnopʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "酸雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "masʉecʉ ci tnʉyʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "潟湖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "youu no etʉpʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "潮汐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hia se'suhcu no etʉpʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "緯度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huomia emofeoyʉ ta hpʉhpʉʉngʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鋅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa o'te fkxngeo no memeeno"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "震央": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taicosi no motoevi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "輻射": {
+    "new_word": [
+      {
+        "fm_word": [
+          "psoyom'o cimo toku ci tiskova"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa o'te ton'on'o no meemeno"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa mahtxicx no memeeno"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "斷層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tosizozʉ ci ceoa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "礦物": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmumahtʉicʉ ci mafafatu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  }
+}

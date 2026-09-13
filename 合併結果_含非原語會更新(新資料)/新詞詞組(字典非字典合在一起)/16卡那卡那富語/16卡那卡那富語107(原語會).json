@@ -1,0 +1,578 @@
+{
+  "一甲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ucani cia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "一吋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ucani cuʉn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "一坪": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ucani ping"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "一氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'iyang huatan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "二氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'ayang huatan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "上弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vuanʉ macara"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "下弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vuanʉ marocu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "土星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tamtasai 'ʉnai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "日蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taniarʉ nikʉnʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "月蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vuanʉ nikʉnʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "木星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tamtasai karu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "水星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tamtasai canumu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ta'apuru cimʉrʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山灰": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'umpu 'apuru cimʉrʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "火星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tamtasai 'apuru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "主菜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "camai cucuru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "加工食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciakung kʉkʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "北回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pehui kuisien"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "石化燃料": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sʉhua siatupuru"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "立方公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rifang kungcʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "冰山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cimʉrʉ ra'ʉrʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "地震帶": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tavukua umunini"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "西元": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cenana 'amirika"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "冷凍食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nipatʉricang kʉkʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciciri taravuku"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙洲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cakʉrʉn raravukua"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "赤道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tavʉcʉka 'ʉnai mari"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "岩岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciciri raparʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "直徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "punasʉ casin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "金星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tamtasai cing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "南回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nanhui kuisien"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "炸雞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ningʉra tarukuka"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "盆地": {
+    "new_word": [
+      {
+        "fm_word": [
+          "matanuku 'ʉnai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "海灣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tavunua 'umi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "副食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siapucamai kʉkʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "基改食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cikai kʉkʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鈣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'arumi kai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "溫室效應": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uʉnsʉ siau'ing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鉛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'arumi cien"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "滿月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "matapʉkʉ vuanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "酸雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'ʉcanʉ mapaa'ici"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "潟湖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taciria canumu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鋁": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'arumi ri"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鋅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'arumi sin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "震央": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tavʉcʉka umunini"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'arumi si"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'arumi mʉng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "斷層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tarapʉngcʉ 'ʉnai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  }
+}

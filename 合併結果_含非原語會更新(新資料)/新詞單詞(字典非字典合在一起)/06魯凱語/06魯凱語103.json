@@ -1,0 +1,284 @@
+{
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "takauaungane",
+        "ch_semantic": "專門工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "門檻": {
+    "new_word": [
+      {
+        "fm_word": "sapalribatane",
+        "ch_semantic": "要跨過的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "sapatuthingalane",
+        "ch_semantic": "做紀錄",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "telregane",
+        "ch_semantic": "重量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "twataleke",
+        "ch_semantic": "很多豐收(農作物)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "ata",
+        "ch_semantic": "被河沖走的木材",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "maumumuku",
+        "ch_semantic": "在下大雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "taliviri",
+        "ch_semantic": "北邊",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "talivanale",
+        "ch_semantic": "南邊",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "bikabiki",
+        "ch_semantic": "特別大的浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "kakudhane",
+        "ch_semantic": "制度",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "pwacacugane",
+        "ch_semantic": "經驗豐富(N)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "aungane",
+        "ch_semantic": "工作的種類(V)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "wababangge",
+        "ch_semantic": "向人家討",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "nimakapitulane",
+        "ch_semantic": "一個星期",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "twaagrau",
+        "ch_semantic": "擴大",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "matiaukuludru",
+        "ch_semantic": "非常可怕",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "tarapasiavavava",
+        "ch_semantic": "表演的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "tarasenasenai",
+        "ch_semantic": "專門唱歌的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "twadringelrese",
+        "ch_semantic": "做公正的人(N)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "kyapuaungane",
+        "ch_semantic": "被賦予工作的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "tanganganga",
+        "ch_semantic": "一群很壞的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "動土儀式": {
+    "new_word": [
+      {
+        "fm_word": "kyaabisane",
+        "ch_semantic": "儀式(例如挖土)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "wapilri",
+        "ch_semantic": "做選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "syaalrima",
+        "ch_semantic": "很有一手",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "wathathakai",
+        "ch_semantic": "介紹產品",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公信力": {
+    "new_word": [
+      {
+        "fm_word": "pawtenga",
+        "ch_semantic": "相信",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kalrangeane"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

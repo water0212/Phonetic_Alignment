@@ -1,0 +1,86 @@
+{
+  "過敏": {
+    "new_word": [
+      {
+        "fm_word": [
+          "matinzashuzashuq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "痔瘡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "unlhaqlhaqan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "扣押": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sapukiza"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "作業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apinatash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "便秘": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sakisan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "授予": {
+    "new_word": [
+      {
+        "fm_word": [
+          "alhay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駁回": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pushuqishiniza"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  }
+}

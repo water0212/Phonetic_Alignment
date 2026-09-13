@@ -1,0 +1,669 @@
+{
+  "工讀生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kongtuseng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "公克": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kongke"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "公噸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kongton"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "公職人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "komoing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "月光族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yekongcu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "毛筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huti^"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代表會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taypiyawhoy"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taysiuning"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "midayliay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taylisang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "半徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "litosa^"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "外籍生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wayciseng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "兆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "caw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "百分比": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasinto"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "耳機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "satatengilan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "行動電源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wikidfatili"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "克拉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kela"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "別針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kafitrinom"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "助理": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tahic"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "吹風機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuyfengci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "投影機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "toinci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "更生人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "masafa^lohay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "受刑人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "marofoay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "房東": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciloma'ay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "法官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "misawkitay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "直轄市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cesiyase^"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "空服員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kongfuyin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "保證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mihusiway"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "律師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pingkosi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "書法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mihuti^an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "留學生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "liyosyiseng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "記者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinfunkisya"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾爸、媽、兒子、女兒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malomama",
+          "maloina",
+          "malowawa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "乾父",
+      "乾母",
+      "乾子",
+      "乾女"
+    ],
+    "source_year": "108"
+  },
+  "副教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fucyawso^"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "基金會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cicinghoy"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "掃描機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sawmyawci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cyawso^"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "替代役": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titayi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "黑板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kokofang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳真機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuwancenci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "義父、母、子、女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pimamaan",
+          "piinaan",
+          "nisawawaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "義父",
+      "義母",
+      "義子",
+      "義女"
+    ],
+    "source_year": "108"
+  },
+  "解說人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "painiay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "電動機車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dingtofay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "電磁爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tincelo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "僑生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cyawseng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "億": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'ok"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "導演": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tawyin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "燒錄機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sawloci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢察官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kici"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mihusiway"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cinwoy"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "護貝機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fupeci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "讀卡機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tokaci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "kangkufu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O kangkufu no woy-sen-su cingra",
+        "ch_sentence": "她是衛生所的護理師"
+      }
+    ],
+    "source_year": "108"
+  }
+}

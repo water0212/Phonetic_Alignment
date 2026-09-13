@@ -1,0 +1,215 @@
+{
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "pakyalan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakyalan yayuwaw ku hani!",
+        "ch_sentence": "這是聚集研討議題的地方！",
+        "dialect": "澤"
+      },
+      {
+        "fm_sentence": "sami sa pelahuyan te qutux kira.",
+        "ch_sentence": "我們今天會在第一會議室開會。",
+        "dialect": "賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "ppalawan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ki matayuwaw kakiyan ppalawa' ku la'i mu.",
+        "ch_sentence": "我的孩子在警衛室工作。",
+        "dialect": "澤"
+      },
+      {
+        "fm_sentence": "squliq ka pklahang koba ga cyux mhngaw sa pr'ra'an.",
+        "ch_sentence": "公司警衛在警衛室休息。",
+        "dialect": "賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "panahan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ki manawu panahan ku lala'i ki!",
+        "ch_sentence": "小孩們在操場玩呦！",
+        "dialect": "澤"
+      },
+      {
+        "fm_sentence": "musa sami pspung mqenah sa pqnahan.",
+        "ch_sentence": "我們要去運動場上比賽賽跑。",
+        "dialect": "賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "nani'an",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nani'an na pakaba'an biru' ku hani.",
+        "ch_sentence": "這是學校用餐的地方。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "nniqan ga pqaniq niqun.",
+        "ch_sentence": "餐廳是用餐的地方。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "minbunsyu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kiy inu ku minbunsiyu?",
+        "ch_sentence": "我的身分證在哪裡？",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "musa su yubingkyoku p'agal su snatu nha snbwan ga, psnan su nha mibunsyo.",
+        "ch_sentence": "到郵局去領包裹，會要你出示身分證。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "pabiru",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hali pabiru ku lalu rawq su yu!",
+        "ch_sentence": "你要去登記你的土地名稱呦！",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "msqun qu laqi su ru ina su lga, musa pbiru pbrwan kni'an la.",
+        "ch_sentence": "你兒子和媳婦成婚後，要到戶政事務所去登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "tamuwang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nisa tumuwang qalang ta ku babuwan ni Kaynu Kagi.",
+        "ch_sentence": "Kaynu Kagi 的家戶新遷入我們的部落。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "tahzi'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aruwa' maqaqawh sumhahi binah qalang i Payan Watan la!",
+        "ch_sentence": "Payan Watan 已經遷出其他部落了！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "kinlahangan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kinlahangan ni Watan Baysu ku Pasang hani!",
+        "ch_sentence": "這個 Pasang 是 Watan Baysu 收養的！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "pbiru",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa pabiru hitay ku ulaqi mu la!",
+        "ch_sentence": "我的孩子要去申請登記入軍營囉！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "ami'ing",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hali pasawm lalu su ki!",
+        "ch_sentence": "你要去註銷你的名字嘿！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "pabayta'an",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pabaita' su ga, isi ki musa su ik na babita'an hasa.",
+        "ch_sentence": "要打針的話，你必須到那間注射室。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

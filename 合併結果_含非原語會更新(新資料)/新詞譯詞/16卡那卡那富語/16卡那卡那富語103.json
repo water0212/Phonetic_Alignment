@@ -1,0 +1,46 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "kesacu",
+        "ch_semantic": "警察(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "警察"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "kokosio",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "saipang",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "裁判"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kenkio",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  }
+}

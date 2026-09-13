@@ -1,0 +1,164 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "aumu’",
+        "ch_semantic": "穿制服的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "cupungu",
+        "ch_semantic": "尺",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "tingatinga",
+        "ch_semantic": "秤(V)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀/獎盃/獎牌": {
+    "new_word": [
+      {
+        "fm_word": "cukahlangu",
+        "ch_semantic": "獎品; 記號(例如贏的記號)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "paumamaini",
+        "ch_semantic": "生孩子",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "miataisa",
+        "ch_semantic": "下大雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "miangangatu",
+        "ch_semantic": "非常很嚴重的雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "umalakari",
+        "ch_semantic": "接收資料的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "lisuvakutangu",
+        "ch_semantic": "圓形的炸彈",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "takuari",
+        "ch_semantic": "巡;看",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "hliaracahlia",
+        "ch_semantic": "所會的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "patuanmacu",
+        "ch_semantic": "很信任的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "maakini",
+        "ch_semantic": "收受",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "認證": {
+    "new_word": [
+      {
+        "fm_word": "hlipataruhla",
+        "ch_semantic": "所獲得的結果",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "tiapili",
+        "ch_semantic": "選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kupisavuanʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

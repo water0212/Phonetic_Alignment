@@ -1,0 +1,1070 @@
+{
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no nizpi do jiya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mivazey/mivazay do tomalamozong no nizpi do jiya.",
+        "ch_sentence": "我在會計室上班。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "pangavavawan do jiya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "angey do pangavavwan a mamahamaha.",
+        "ch_sentence": "請到保健室休息。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "pamzamzatan do jiya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pamzamzatan do jiya.",
+        "ch_sentence": "這裡是警衛室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "pivazayan no mangananao do jiya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pivazayan no mangananao do jiya.",
+        "ch_sentence": "這裡是導師辦公室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "yanan no mikasa so ipangananao a sinsi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko kalahen o yanan no mikasa so ipangananao a sinsi.",
+        "ch_sentence": "我找科任教師辦公室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "ingye cwanke ciawse ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi tamo na do ingye cwanke ciawse macinanao do miyanoanood.",
+        "ch_sentence": "我們去音樂教室唱歌。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "meylaw cwanke ciawse ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mangey do meylaw cwanke ciawse a macinanao.",
+        "ch_sentence": "我去美勞專科教室學習。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "panitan a pangamizngan do jiya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "do jiya am, panitan a pangamizngan.",
+        "ch_sentence": "這裡是視聽室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "tiannaw ciawse",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "iya am, ya amyan do tiannaw ciawse.",
+        "ch_sentence": "他在電腦教室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "ceran ciawse",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko miyan do ceran ciawse.",
+        "ch_sentence": "我在自然教室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "ceyan ciawse",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mangey do ceyan ciawse.",
+        "ch_sentence": "我要到資源教室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "pangananawan so ciriciring kano ioywawalam do jiya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko ikakza mangey macinanao do pangananawan so ciriciring kano ioywawalam.",
+        "ch_sentence": "我喜歡到鄉土教室上課。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "panonokzan so vakong",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mangey do panokzan so vakong.",
+        "ch_sentence": "我到圖書館去。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "mikazazakdangan a rarahan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya meylid o mikazazakdangan a rarahan do jya.",
+        "ch_sentence": "這裡樓梯間很窄。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "kavava no vahay",
+        "dialect": "漁人、紅頭、野銀"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko tomanggeh do kavava no vahay a mikaygi.",
+        "ch_sentence": "我上二樓去開會。",
+        "dialect": "漁人、紅頭、野銀"
+      },
+      {
+        "fm_sentence": "ko tomanggeh do kavava no vahey a mikaygi.",
+        "ch_sentence": "我上二樓去開會。",
+        "dialect": "椰油、朗島、東清"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "do bo no vahay",
+        "dialect": "漁人、紅頭、野銀"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko nipasdep o alele do bo no vahay.",
+        "ch_sentence": "我將車開進地下室。",
+        "dialect": "漁人、紅頭、野銀"
+      },
+      {
+        "fm_sentence": "ko nipasdep o alele do bo no vahey.",
+        "ch_sentence": "我將車開進地下室。",
+        "dialect": "椰油、朗島、東清"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "pioywadwadan no mavakes",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pioywadwadan no mavakes am, mitket do kawanan.",
+        "ch_sentence": "女廁所在右邊。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "pioywadwadan no mehakay",
+        "dialect": "漁人、紅頭、野銀"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pioywadwadan no mahakey am, mitket do kaozi.",
+        "ch_sentence": "男廁所靠左邊。",
+        "dialect": "漁人、紅頭、野銀"
+      },
+      {
+        "fm_sentence": "pioywadwadan no mahakey am, mitket do kaozi.",
+        "ch_sentence": "男廁所靠左邊。",
+        "dialect": "椰油、朗島"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "paseseykedan so aleleh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "angay paseyked o aleleh mo do paseseykedan so aleleh.",
+        "ch_sentence": "請你把車開到停車場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "panipzotan so bozo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi tamo do panipzotan so bozo.",
+        "ch_sentence": "大家一起去棒球場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "padkedketan so ngaran do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mi padketen o ngaran no anak ko do padkedketan so ngaran.",
+        "ch_sentence": "我要去戶政事務所辦理登記我小孩名字。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "pivazayan no mapadkedket so ngaran a vahay",
+        "dialect": "野銀漁人、紅頭、野銀"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya apiya sira o tao do padkedket so ngaran a vahay.",
+        "ch_sentence": "戶政工作站的人員很親切。",
+        "dialect": "野銀漁人、紅頭、野銀"
+      },
+      {
+        "fm_sentence": "ya apiya sira o tao do padkedket so ngaran a vahay.",
+        "ch_sentence": "戶政工作站的人員很親切。",
+        "dialect": "朗島、東清、椰油"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "jikang no ipivazey",
+        "dialect": "椰油、朗島、東清"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ga pqpahan rhengun ka pntaali qqpahan.",
+        "ch_sentence": "你辦公時間到了。",
+        "dialect": "椰油、朗島、東清"
+      },
+      {
+        "fm_sentence": "Wa pqyaan siyaw rhngun ka diyax qpahun.",
+        "ch_sentence": "你辦公時間到了。",
+        "dialect": "漁人、紅頭、野銀"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "nidadey a ipanidong",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "oya am, nidadey a ipanidong.",
+        "ch_sentence": "這是服務項目。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "oya am, nidadey a ipanidong.",
+        "ch_sentence": "這是服務項目。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "pacicyan so vazey",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "do wanjin o pacicyan so vazey?",
+        "ch_sentence": "服務台在哪裡？",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "do wanjin o pacicyan so jyatengi a vazay?",
+        "ch_sentence": "服務台在哪裡？",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "ipanidong a pakzikzingen",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "paseben mo o ipanidong a pakzikzingen, kai no tao.",
+        "ch_sentence": "你按服務鈴就會有人來。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "paseben mo o pakzikzingen a ipatao, kai no tao.",
+        "ch_sentence": "你按服務鈴就會有人來。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "tovil no patotodo do vakong",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tovil do patotodo mo do ibinkiok kano patotodo ya malas.",
+        "ch_sentence": "你郵局印鑑和這印章不對。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "",
+        "ch_sentence": "你郵局印鑑和這印章不對。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "likey a ngaran",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya nimabo o likey a ngaran ko.",
+        "ch_sentence": "我的身分證遺失了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "padketen o ngaran namen do dang",
+        "dialect": "漁人"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo nipadketen o mo piilian?",
+        "ch_sentence": "我設籍在我們的部落。",
+        "dialect": "漁人"
+      },
+      {
+        "fm_sentence": "mo nipadketen o mo piilian?",
+        "ch_sentence": "我設籍在我們的部落。",
+        "dialect": "椰油"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "padketen o ngaran",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mangey padketen o ngaran ko do padkedketan so ngaran/vocen seosow",
+        "ch_sentence": "我要去戶政事務所辦理登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徙登記": {
+    "new_word": [
+      {
+        "fm_word": "padketen o ospowan",
+        "dialect": "椰油、野銀"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "",
+        "ch_sentence": "(漁人) 我要辦遷徙登記。",
+        "dialect": "椰油、野銀"
+      },
+      {
+        "fm_sentence": "mo nipadketen o mo ospowan rana?",
+        "ch_sentence": "(漁人) 我要辦遷徙登記。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "ablisen o nipadket",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ablisen ko pa o ko nipadket.",
+        "ch_sentence": "我將撤銷所設定的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "karowan no vakong",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "do wanjin pangayan so karowan no vakong ya?",
+        "ch_sentence": "這其他書件放哪裡呢？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "pangozayan a rakowa ngaran",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pangozayan a rakowa ngaran namen o ya.",
+        "ch_sentence": "(漁人) 這是我們的戶籍資料。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "",
+        "ch_sentence": "(漁人) 這是我們的戶籍資料。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "mablis o banggo no vahay ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na nimablis o banggo no vahay nyo?",
+        "ch_sentence": "你們住址變更了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "ngaran no pangnengneban",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ngaran no pangnengneban nyo ya?",
+        "ch_sentence": "這是你家門牌呢？",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "ngaran no vahay nyo ya?",
+        "ch_sentence": "這是你家門牌嗎？",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "ablisen o ngaran",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na niablis o ngaran na.",
+        "ch_sentence": "他已改名了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "ozay do pineysinmoan a vakong",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "o vakong am ozay do da pineysinmoan.",
+        "ch_sentence": "這是我們的結婚證書。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "",
+        "ch_sentence": "這是我們的結婚證書。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "ozay do nipikaro a vakong",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "o vakong ya am ozay do nipikaro da.",
+        "ch_sentence": "(漁人) 這張是他們的離婚證書。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "",
+        "ch_sentence": "(漁人) 這張是他們的離婚證書。",
+        "dialect": "漁人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no karyos do pangavavawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "iya am tomalamozong no karyos do pangavavawan.",
+        "ch_sentence": "他是醫院護理長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "mapikineynana so kanen no tao",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "o notan ipanci no mapikineynana so kanen no tao.",
+        "ch_sentence": "要聽營養師說的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "manita so ngepen a koysang",
+        "dialect": "日語用法"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "iya am, manita so ngepen a koysang.",
+        "ch_sentence": "他是牙醫師。",
+        "dialect": "日語用法"
+      },
+      {
+        "fm_sentence": "iya am, manitanita so ngepen a tao.",
+        "ch_sentence": "他是牙醫師。",
+        "dialect": "族語用法"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "katawatawan no ratey na",
+        "dialect": "椰油、朗島"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "oya am, katawatawan no ratey no pangavavawan.",
+        "ch_sentence": "這是醫院的平面配置圖。",
+        "dialect": "椰油、朗島"
+      },
+      {
+        "fm_sentence": "oya am, katawatawan no ratey no pangavavawan.",
+        "ch_sentence": "這是醫院的平面配置圖。",
+        "dialect": "漁人、紅頭"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "pangavavawan do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi ka do jya do pangavavawan.",
+        "ch_sentence": "請你到這裏的診療室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X 光室": {
+    "new_word": [
+      {
+        "fm_word": "yeskowang do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi ka do yeskowang jito.",
+        "ch_sentence": "請到你到 X 光室那邊。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "padketan so katwatontonan do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "apen o cianpawka yangey do padketan so katwatontonan.",
+        "ch_sentence": "拿你的健保卡至掛號室登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "pasososwan do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya amyan do pasososwan si ina.",
+        "ch_sentence": "媽媽在哺乳室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "pivazayan no mivazey a tao do jya",
+        "dialect": "椰油"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "do jya am, pivazayan no mivazey a tao.",
+        "ch_sentence": "這裡是工作人員值班的地方。",
+        "dialect": "椰油"
+      },
+      {
+        "fm_sentence": "do jya am, pivazayan no mivazey a tao.",
+        "ch_sentence": "這裡是工作人員值班的地方。",
+        "dialect": "漁人、紅頭"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "panonozokan do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya myan o anak ko do panonozokan a da tozoken.",
+        "ch_sentence": "我小孩在注射室打針。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "gonagonayan so kataotao do jya ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yangey ta imo do gonagonayan so kataotao.",
+        "ch_sentence": "我帶你去復健室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "panonovilan do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Yangey mo o rala mo do panonovilan.",
+        "ch_sentence": "你的血拿到檢驗室。 (漁人、紅頭)"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "panokozan so makekdeng a vakong",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko mangey do panokozan so makekdeng a vakong.",
+        "ch_sentence": "我要去檔案室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "pangapan so kosozi do jya",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pangapan so kosozi do jya?",
+        "ch_sentence": "這裡是藥局？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "pangazazat a kosozi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ikong o pangazazat a kosozi.",
+        "ch_sentence": "什麼是疫苗？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "icita so kapiya no kataotao ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko pa mangey do pangavavawan citaen o kapiya no kataotao ko.",
+        "ch_sentence": "我要去醫院健康檢查。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "mapaziman so kapya no kataotao nyo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "o koysang am, ya mai simaraw, ya mapaziman so kapya no kataotao nyo.",
+        "ch_sentence": "衛生所將要來做身體保健宣導。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "apzatan o ngoso",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "apzatan o ngoso am, ya makdeng.",
+        "ch_sentence": "口腔保健很重要。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "bonbon no ngoso",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ko jyatenngi o bonbon no ngoso.",
+        "ch_sentence": "我不知道口腔黏膜。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "kazoten o rala",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mai ka do jya kazoten o rala mo.",
+        "ch_sentence": "請你這邊來抽血。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "totozok a ipaziman so ingingnen ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ji mo aoniban.",
+        "ch_sentence": "你不要害怕。這是預防針。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "apiya a rarahan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yapiya a rarahan do dang.",
+        "ch_sentence": "那裏是無障礙坡道。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "apiya a piwadwadan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "apiya a piwadwadan do dang.",
+        "ch_sentence": "那裡是無障礙廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "tengkere ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "no manongit o tamonong am azimanen mo ta meylaktat.",
+        "ch_sentence": "若被蚊子叮到小心傳病蚊。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "ingingnen do cinai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "no masazi o ingingnen do cinai am, pazidangdangen na kapikavoa votok no kataotao.",
+        "ch_sentence": "若得腸病毒會有發燒、起疹子。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "高等法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taka huing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "餿水油": {
+    "new_word": [
+      {
+        "fm_word": [
+          "simal pun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "padengan tu aadihan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "行車記錄器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sasulut tuniculilan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自助餐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kunida kanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "販賣區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pa cakayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sa kalisiu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "熱門商品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kay bangan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民族委員會": {
+    "new_word": [
+      {
+        "fm_word": "pancah ay",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

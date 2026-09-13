@@ -1,0 +1,245 @@
+{
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciyeing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "捷運"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "puukwange"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "博物館"
+  },
+  "志工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cekung"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "志工"
+  },
+  "決賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisiu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "決賽"
+  },
+  "廣告": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kwangkau"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "廣告"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "singyungka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "信用卡"
+  },
+  "電話卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinghwaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "電話卡"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kwangti"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "swaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "刷卡"
+  },
+  "碩士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suse"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "duku"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "村長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sungciyu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "puse"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速公路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kausukunglu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "戶籍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kusiki"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai betakane ki ina piainu tuki ku kusiki ini.",
+        "ch_sentence": "阿姨的戶籍設籍在哪裡?"
+      }
+    ],
+    "source_year": "105"
+  },
+  "電影": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iga"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "鄰長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lringciyu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速鐵路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kauti"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "手機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

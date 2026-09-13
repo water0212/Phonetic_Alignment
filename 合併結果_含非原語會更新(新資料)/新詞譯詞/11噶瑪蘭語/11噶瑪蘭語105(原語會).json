@@ -1,0 +1,102 @@
+{
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cieyun"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "捷運"
+  },
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wangka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "網咖"
+  },
+  "纜車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "liwlung"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "纜車"
+  },
+  "發票": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huapiaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "發票"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuangtiye"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "yenminhuy",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "原民會"
+  },
+  "原住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yan-cu-min"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "影印機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "quppi"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

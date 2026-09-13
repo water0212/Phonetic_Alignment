@@ -1,0 +1,30 @@
+{
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "hurisu",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Hurisu nii we asi ka mnangal patis pnseengan kwocya.",
+        "ch_sentence": "護理師是要通過國家考試的。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Mpqlahang mnarux nii u asi ka nudu mangal pspung klwaan.",
+        "ch_sentence": "護理師是要通過國家考試的。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Hurise ksun o asi ka mnangal pnsseung patas.",
+        "ch_sentence": "護理師是要通過國家考試的。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "護理師"
+  }
+}

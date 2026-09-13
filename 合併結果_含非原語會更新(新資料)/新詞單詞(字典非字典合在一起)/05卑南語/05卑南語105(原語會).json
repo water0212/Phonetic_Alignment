@@ -1,0 +1,74 @@
+{
+  "貿易": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mareniwaniwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "販賣區": {
+    "new_word": [
+      {
+        "fm_word": [
+          "naniwaniwanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "瑕疵品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "misawi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "暢銷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "muniwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "夜市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yēse"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dinawadaway"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

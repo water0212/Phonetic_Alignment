@@ -1,0 +1,789 @@
+{
+  "村長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "san kilalaing tua qinaljan a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "鄰長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "san kilalaing tua talingan a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速鐵路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maqati tu djaljau a kisiya djalan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速公路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maqati tu djaljau a palidring a djalan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "教育部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaljavavavan a palaingan ta temulu a gimeng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原文會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaljavavavan itua sihu a uri patudur tua sikudan nua kacalisian"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "展覽館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinan papaljizavan tua nemangamanga umaq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "頒獎典禮": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pagaugau ta kazalan a kakudan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "永續能源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "inika uri maqulip a kasizuan a qapulu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "產業觀光": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipaljizaljizau a kinasengesengsn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "媒體": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisan qemqti ta sinbung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "現代": {
+    "new_word": [
+      {
+        "fm_word": [
+          "situcuan a cavilj"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "貿易": {
+    "new_word": [
+      {
+        "fm_word": [
+          "marepaveli ta racev"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "歷史": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cinalivatan a namakakaizuazua pacugan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinapebulay a paridiu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自由": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemaing ta vinarungan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "手機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinitalima dingwa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "行車記錄器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sasingki na palidring"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "憂鬱症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sadjelung a vinarungan a saqetjuan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na paljeqaca a qudjalj"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kudrakudral a ludeludan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "中央政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaljavavavan a sihu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaljatekuan a gimeng"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "最高法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaljavavavan a huing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "代言人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinanpapatukuljan a matjakay a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "志工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinasivarung a pusalad ta sengsengan a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "決賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "viliviljan a malalumalj"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "餿水油": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinusakuyanga a abura"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "認證": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kipakeljang ta caquanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "初賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sangasangasan a malalemu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kemavulj a qempu ta paisu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專利": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kitjuvudilj a zaquanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sasqetjan ta paridiu a sicuacuayan a nanemanga umaq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術家": {
+    "new_word": [
+      {
+        "fm_word": [
+          "san papebulayn ta paridiu a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "duku na satjean"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaimazan a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "交流道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patjatjaulivatan a djalan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "公信力": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na makisaluan ta mapuljat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisanpadrangan a qacaqudjalj"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "展覽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zematjak sa paljizaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinitjukakudan a paisu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "宵夜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kakanen nu salilim"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "自助餐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cimpeng a pucidilj a kakanen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "古早味": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sadjamayan na sicuacuayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "路邊攤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kakanan a kemadjalanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "夜市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vavelian nu qezemezemetj"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "購物頻道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siveliyan a pingtau"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "廣告": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipakeljakeljang a vecik"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinasaluan a kaping"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "電話卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipadinguangua a kaping"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "收據": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vecik na ginaugavan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "熱門商品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "maveliveli a racev"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "瑕疵品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinunakuya racev"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "仿冒品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "inia kaqulidan a racev"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "漲價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mepazangal a veli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "降價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "memadjulu a veli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "殺價": {
+    "new_word": [
+      {
+        "fm_word": [
+          "papemadjuluin a veli"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "存貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na maputjeza racev"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "囤貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qimilja penadjeng ta racev"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "缺貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "neka racev"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "保存期限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinnetjan ta sipadjengan a qadaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "復古": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kipacikel ta sinicuacuayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專賣店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sanpaveli ta masanitalj a racev a tjiyam"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "唱片行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vaveliyan ta rikudu a tjiyam"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "戶籍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vecik na tjumaq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izainu a su ku-si-ki?",
+        "ch_sentence": "你的戶籍在哪裡？",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "105"
+  }
+}

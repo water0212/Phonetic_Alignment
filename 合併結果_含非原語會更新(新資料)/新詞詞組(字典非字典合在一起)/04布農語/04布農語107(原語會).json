@@ -1,0 +1,877 @@
+{
+  "一甲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tastu-kubu",
+          "tastusipal",
+          "ta'a kuvu'",
+          "tas'akuvu'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、丹",
+          "巒",
+          "卓",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mabas iviv",
+          "mabaas tu hivhiv",
+          "hivhivbac",
+          "babas hivhiv"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、卡",
+          "丹"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "二氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuang iviv",
+          "hivhivdikla",
+          "hivhivdikla'",
+          "dikla hivhiv"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、卡",
+          "丹"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "太陽能": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bahis vali",
+          "baqisvali",
+          "valimangan",
+          "baqais vali",
+          "baqecvali'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "日蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paian vali",
+          "liqelangan a vali",
+          "qailangan vali",
+          "qelanganvali'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "月蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paian buan",
+          "liqelangan a buan",
+          "qailangan buan",
+          "qelanbuan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sapuz ludun",
+          "sapuzludun",
+          "disbungludun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、卓、丹",
+          "巒",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山灰": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pushu sapuz ludun",
+          "pusqusapuzludun",
+          "pusqu sapuz ludun",
+          "doqdoqsapuz"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "加工食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaibahluan kakaunun",
+          "titinas-i tu nakonun",
+          "pinibaqlu kakaunun",
+          "kaibaqluan kakaunun",
+          "sintas'i"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "北半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "antandaza vali",
+          "antanba-avvali",
+          "mantanvanas vali",
+          "antadaza vali'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、丹",
+          "巒",
+          "卓",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "北回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "manbah valihais",
+          "manhaul tu qaissanvali-an",
+          "pantavananas vali qais",
+          "manbav vali qais",
+          "qaisvali'daza'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "冰山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Pav ludun",
+          "paavludun",
+          "pavludun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、卓、丹",
+          "巒",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "西半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "antan'uhaivas vali",
+          "antan-uqevanvali",
+          "manhaan uqaivas vali",
+          "antan'uqaivan vali",
+          "antan'uqevan vali'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "低氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kazav iviv",
+          "hivhivkazhav",
+          "hivhivkazhav",
+          "kazhav hivhiv"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、卡",
+          "丹"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "汞": {
+    "new_word": [
+      {
+        "fm_word": "danum-binsa",
+        "ch_semantic": "",
+        "dialect": [
+          "郡、丹",
+          "巒",
+          "卓",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hais masuzaas",
+          "silasbunuk",
+          "bunukcilaz",
+          "qais bunuk",
+          "mabunukan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙洲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ningav bunuk",
+          "bunuksilasning-av",
+          "labunukan",
+          "kabunuk"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、丹",
+          "巒",
+          "卓",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "赤道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hais mishang",
+          "tunmisqangan i vali",
+          "tunmicqangas vali",
+          "qais misqang",
+          "qaismicqang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "東半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "antansumas vali",
+          "antan-insuma-anvali",
+          "manhaan intasalas vali",
+          "antansuma vali",
+          "antansuman vali'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "南半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "antanbah vali",
+          "antanhaulvali",
+          "mantanvilis vali",
+          "antanbaq vali",
+          "antannastu vali'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "南回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "manbav vali hais",
+          "manba-av tu qaissanvali-an",
+          "pantavili'as vali qais",
+          "manbav vali qais",
+          "qaisvali'nastu'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "洋流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ningav haizuzu",
+          "ning-avqezuzut",
+          "unqanuas ningav",
+          "ningav qaizuzut",
+          "danqezuzu'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "炸雞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinpula maitulkuk",
+          "sinislak tu metulkuk",
+          "sinkalba' qasutulkuk",
+          "tititulkuk"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、丹",
+          "巒",
+          "卓",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "紅外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuang bahis",
+          "baqisdangqas",
+          "baqecdikla'",
+          "diklan baqais"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、卡",
+          "丹"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "氣流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan iviv",
+          "daanhivhiv",
+          "daan hivhiv",
+          "danhivhiv"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "海灣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ning'av makavungan",
+          "zekuning-av",
+          "ningav kaivungan",
+          "zekuning'av"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、卓",
+          "巒",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "臭氧層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hais bahis",
+          "qaisbaqis",
+          "sinmu'us baqaic",
+          "qais baqais",
+          "dudungbaqec"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "高氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bahis iviv",
+          "hivhivbaqis",
+          "hivhiv baqaic",
+          "baqais hivhiv",
+          "hivhivbaqec"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "基改食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaihnan kakaunun",
+          "kinaqna tu nakonun",
+          "qaiqna'an kakaunun",
+          "qaiqnan kakaunun",
+          "kiningnan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "紫外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuang bahis",
+          "baqisqehav",
+          "baqecdikla'",
+          "dikla baqais"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、卡",
+          "丹"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "經度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sanvalian hais",
+          "qaissanvali-an",
+          "qais sanvali'an",
+          "qaisdesqang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、丹",
+          "巒",
+          "卓",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "葷食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahul cici",
+          "taltititi",
+          "maqul qasu'",
+          "maqul titi",
+          "maqultiti'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "酸雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "haizu-hudan",
+          "qudanqezu",
+          "qudan qaizu'",
+          "qaizu qudan",
+          "qudantaqdung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "潮汐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ningav cinpah",
+          "ning-avsinsunbang",
+          "pandipas ningav",
+          "ningav tinpaq",
+          "tipaqning'av"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "緯度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bahis hais",
+          "qaisbaqis",
+          "qaisbaqaic",
+          "baqais qais",
+          "qaismaklang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "震央": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mishang unul",
+          "tangqapuhunul",
+          "tuss hunul",
+          "misqang hunul",
+          "danqapuhunul"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "斷層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan unul",
+          "daanhunul",
+          "daan hunul",
+          "danhunul"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓、丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "副食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "unukakaunun",
+          "ikngununu-un tu nakonun",
+          "duma kakaunun",
+          "hunut kaunun",
+          "kaka'un"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "主菜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ishultuza",
+          "ikqundu-un tu pan-e-an",
+          "nanu' ququl",
+          "isqultuza",
+          "nanukonun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "上弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mintasal",
+          "mintekukutu ka buan",
+          "mismuq buan",
+          "mintikukutu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡、丹",
+          "巒",
+          "卓",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "下弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mintuhun",
+          "minkuis a buan",
+          "minkuis buan",
+          "muvanaq buan",
+          "mintikukutu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公轉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taspainsanan",
+          "moktaspensanan",
+          "tisucanas vali",
+          "taispunsanan",
+          "tasqamisang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "郡",
+          "巒",
+          "卓",
+          "丹",
+          "卡"
+        ]
+      }
+    ],
+    "source_year": "107"
+  }
+}

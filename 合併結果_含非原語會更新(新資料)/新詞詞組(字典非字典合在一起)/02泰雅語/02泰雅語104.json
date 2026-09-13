@@ -1,0 +1,74 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "thelaw bbiran"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "smsum zywaw kinbleqan qnxan",
+        "ch_semantic": "整理/執行事務的美好生活",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "smsum zywaw kinbleqan kki'an",
+        "ch_semantic": "整理/執行事務的美好居住環境",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "pklahang qeqaya' pinbahuw",
+        "ch_semantic": "使管理物品/財產",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "pklahang ppcywagan",
+        "ch_semantic": "使管理工作",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "pklahang rhzyal",
+        "ch_semantic": "使管理土地",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "smsum zywaw Kmukan",
+        "ch_semantic": "整理/執行事務的客家人",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

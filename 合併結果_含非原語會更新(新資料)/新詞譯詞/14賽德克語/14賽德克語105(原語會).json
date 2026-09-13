@@ -1,0 +1,266 @@
+{
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Tihuwanghuwayen"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "地方法院"
+  },
+  "高等法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Kawtunghuwayen"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "高等法院"
+  },
+  "最高法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Cuwekawhuwayen"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "最高法院"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Poukwan"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "博物館"
+  },
+  "憲法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Senhuwa"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "憲法"
+  },
+  "夜市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yesu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "夜市"
+  },
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wangka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "網咖"
+  },
+  "信用卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinyongka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "信用卡"
+  },
+  "電話卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tenhuwaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "電話卡"
+  },
+  "發票": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huwapiyaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "發票"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuwangte"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suwaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "刷卡"
+  },
+  "碩士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "swosu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Yencuming"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "地方政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Tihuwangcunghu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "博士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pwosu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "教育部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Ciyawyipo"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原住民族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yencumingcu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "科技": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "中央政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Congyangcunghu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "原文會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Yeunhuwe"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

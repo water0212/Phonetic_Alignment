@@ -1,0 +1,101 @@
+{
+  "total_skipped": 12,
+  "by_file": {
+    "refined_02_泰雅語_中借與音譯詞.json": 1,
+    "refined_03_排灣語_中借與音譯詞.json": 1,
+    "refined_05_卑南語_中借與音譯詞.json": 2,
+    "refined_06_魯凱語_中借與音譯詞.json": 1,
+    "refined_09_雅美語_中借與音譯詞.json": 1,
+    "refined_10_邵語_中借與音譯詞.json": 1,
+    "refined_11_噶瑪蘭語_中借與音譯詞.json": 1,
+    "refined_13_撒奇萊雅語_中借與音譯詞.json": 2,
+    "refined_14_賽德克語_中借與音譯詞.json": 1,
+    "refined_15_拉阿魯哇語_中借與音譯詞.json": 1
+  },
+  "items": [
+    {
+      "file": "refined_02_泰雅語_中借與音譯詞.json",
+      "word": "地方法院",
+      "char_alignment_len": 4,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "ho’ing"
+    },
+    {
+      "file": "refined_03_排灣語_中借與音譯詞.json",
+      "word": "十字路口",
+      "char_alignment_len": 4,
+      "refined_alignment_len": 3,
+      "original_tsou_word": "secluku"
+    },
+    {
+      "file": "refined_05_卑南語_中借與音譯詞.json",
+      "word": "光碟",
+      "char_alignment_len": 2,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "cd"
+    },
+    {
+      "file": "refined_05_卑南語_中借與音譯詞.json",
+      "word": "流行性感冒",
+      "char_alignment_len": 5,
+      "refined_alignment_len": 2,
+      "original_tsou_word": "kanmaw"
+    },
+    {
+      "file": "refined_06_魯凱語_中借與音譯詞.json",
+      "word": "高速鐵路",
+      "char_alignment_len": 4,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "kauti"
+    },
+    {
+      "file": "refined_09_雅美語_中借與音譯詞.json",
+      "word": "地方政府",
+      "char_alignment_len": 4,
+      "refined_alignment_len": 2,
+      "original_tsou_word": "seyvo"
+    },
+    {
+      "file": "refined_10_邵語_中借與音譯詞.json",
+      "word": "聖誕節",
+      "char_alignment_len": 3,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "kristmas"
+    },
+    {
+      "file": "refined_11_噶瑪蘭語_中借與音譯詞.json",
+      "word": "影印機",
+      "char_alignment_len": 3,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "quppi"
+    },
+    {
+      "file": "refined_13_撒奇萊雅語_中借與音譯詞.json",
+      "word": "便利商店",
+      "char_alignment_len": 4,
+      "refined_alignment_len": 3,
+      "original_tsou_word": "ipinli"
+    },
+    {
+      "file": "refined_13_撒奇萊雅語_中借與音譯詞.json",
+      "word": "地方法院",
+      "char_alignment_len": 4,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "huing"
+    },
+    {
+      "file": "refined_14_賽德克語_中借與音譯詞.json",
+      "word": "公斤",
+      "char_alignment_len": 2,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "kg"
+    },
+    {
+      "file": "refined_15_拉阿魯哇語_中借與音譯詞.json",
+      "word": "地方法院",
+      "char_alignment_len": 4,
+      "refined_alignment_len": 1,
+      "original_tsou_word": "huingi"
+    }
+  ]
+}

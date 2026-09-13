@@ -1,0 +1,158 @@
+{
+  "現代": {
+    "new_word": [
+      {
+        "fm_word": [
+          "thuini"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "紀念": {
+    "new_word": [
+      {
+        "fm_word": [
+          "inangqtu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "化石": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mininfatu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "動土儀式": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmaukazash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "媒體": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pishfazaqan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "展覽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pariqaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "廣告": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pishfazaq"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinuqlhup"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "talhana'iutuan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "存貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "minuntnash"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "囤貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinakinsuniza"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "缺貨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ukaiza"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "復古": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tiakahiwanuan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

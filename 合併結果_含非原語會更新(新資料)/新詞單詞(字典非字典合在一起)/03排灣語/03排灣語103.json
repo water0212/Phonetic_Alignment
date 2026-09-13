@@ -1,0 +1,232 @@
+{
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "kipaqaljupaljudj",
+        "ch_semantic": "隨著浪漂流",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "djekuacan",
+        "ch_semantic": "跨步的距離",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "sadjelungan",
+        "ch_semantic": "很重的量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "kiqinuman",
+        "ch_semantic": "(物的生產) 收穫量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀/獎盃/獎牌": {
+    "new_word": [
+      {
+        "fm_word": "pakaleva",
+        "ch_semantic": "被給快樂/驚喜",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "珊蝴": {
+    "new_word": [
+      {
+        "fm_word": "puq",
+        "ch_semantic": "石灰質(比石頭還軟的物質)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "ramalj",
+        "ch_semantic": "漂流木",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "virivirian",
+        "ch_semantic": "最北",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "navanavaljan",
+        "ch_semantic": "最南",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "kakudan",
+        "ch_semantic": "制度;法律",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "kakudan",
+        "ch_semantic": "制度;法律",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "pinacalivat",
+        "ch_semantic": "經歷過的事",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "cavulid",
+        "ch_semantic": "扛",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "tamiciuan",
+        "ch_semantic": "一個星期",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "papirazek",
+        "ch_semantic": "使推動/發展",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "rugikigiki",
+        "ch_semantic": "專門表演的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "rusenasenai",
+        "ch_semantic": "專門唱歌的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "kisasusu",
+        "ch_semantic": "裁判(動詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "peniliq",
+        "ch_semantic": "選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kilingav",
+        "ch_semantic": "測試",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公德心": {
+    "new_word": [
+      {
+        "fm_word": "nasesazua",
+        "ch_semantic": "有用的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "pucaquan",
+        "ch_semantic": "很多知識的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "網路": {
+    "new_word": [
+      {
+        "fm_word": "tinnaw",
+        "ch_semantic": "電腦",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

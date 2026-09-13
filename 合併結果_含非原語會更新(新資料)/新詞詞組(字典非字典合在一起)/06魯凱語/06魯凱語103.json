@@ -1,0 +1,114 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "tangadrane ki kacalrisiane",
+        "ch_semantic": "原住民的源頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原文會": {
+    "new_word": [
+      {
+        "fm_word": "tarakadrekadrenge ki kakwakudhane ki lakacalhisiane",
+        "ch_semantic": "管理原住民文化的專門單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "malrisi ka lamanemane",
+        "ch_semantic": "不好的東西",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "dailane ka kadalranane",
+        "ch_semantic": "路很遠",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學": {
+    "new_word": [
+      {
+        "fm_word": "kyamwa ki malisi",
+        "ch_semantic": "被壞的東西沾到",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "maadrau ka umuku",
+        "ch_semantic": "不好的天氣很大",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apasabu ka kadravane"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "walrikape ki taumukane",
+        "ch_semantic": "拜訪經過災難的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "得到證照": {
+    "new_word": [
+      {
+        "fm_word": "wamalra ku sikake",
+        "ch_semantic": "認證",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "統治者是外來的": {
+    "new_word": [
+      {
+        "fm_word": "singibadhane ka vaerece",
+        "ch_semantic": "殖民者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "saudripi ka pausing",
+        "ch_semantic": "逃過一劫的保險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

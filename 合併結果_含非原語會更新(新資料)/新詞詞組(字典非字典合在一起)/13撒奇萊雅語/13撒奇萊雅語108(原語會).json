@@ -1,0 +1,50 @@
+{
+  "四分之一": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sepat tucacay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "義父、母、子、女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "misikulayawama misikulayawina nisikalanawawa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "義父",
+      "義母",
+      "義子",
+      "義女"
+    ],
+    "source_year": "108"
+  },
+  "乾爸、媽、兒子、女兒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pawamay pawynay nisawawan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "乾父",
+      "乾母",
+      "乾子",
+      "乾女"
+    ],
+    "source_year": "108"
+  }
+}

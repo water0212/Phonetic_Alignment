@@ -1,0 +1,256 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "mrhuw klahang alang",
+        "ch_semantic": "保護部落的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "mrhuw na klahang yancumin",
+        "ch_semantic": "照顧原住民的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "傳統儀式": {
+    "new_word": [
+      {
+        "fm_word": "gaga kinraran",
+        "ch_semantic": "過去最大的法律規範",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "健保": {
+    "new_word": [
+      {
+        "fm_word": "plahang hi’ hoken",
+        "ch_semantic": "保護身體的保險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "gmluw sbas bsilung",
+        "ch_semantic": "跟著海浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "sinragan koba’",
+        "ch_semantic": "工廠的汙染",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "pyang blaq",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "qhuniq minqlywi’",
+        "ch_semantic": "木頭漂流",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "sn’iyal iyal",
+        "ch_semantic": "更加大的豪雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "llyung tlaka'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "bu na cinbwanan",
+        "ch_semantic": "世界的頂端",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "klbu’ na cinbwanan",
+        "ch_semantic": "世界的底部",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "tora bsiliung",
+        "ch_semantic": "巨的海浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "條文": {
+    "new_word": [
+      {
+        "fm_word": "pinqtuxan gaga’",
+        "ch_semantic": "一條規範",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "聽證會": {
+    "new_word": [
+      {
+        "fm_word": "mung pinlhoyan",
+        "ch_semantic": "聽的聚會",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "gmuyaw hinriqan",
+        "ch_semantic": "巡視受災地",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "squliq psibay",
+        "ch_semantic": "演戲的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "squliq tnu’ mtzyo",
+        "ch_semantic": "被派工作的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "商業化": {
+    "new_word": [
+      {
+        "fm_word": "m’syobay iyal",
+        "ch_semantic": "更加成為商店的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "金曲獎": {
+    "new_word": [
+      {
+        "fm_word": "qnabu na qwas",
+        "ch_semantic": "歌的獎",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "baq pposa’",
+        "ch_semantic": "好的通路",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "pslhul qsya’ na kopu",
+        "ch_semantic": "使水暖的杯子",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "pklahang ese",
+        "ch_semantic": "管理衛生",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "smi hokeng",
+        "ch_semantic": "(投保) --> 裡面包含所有的險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ini' psi iyu'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

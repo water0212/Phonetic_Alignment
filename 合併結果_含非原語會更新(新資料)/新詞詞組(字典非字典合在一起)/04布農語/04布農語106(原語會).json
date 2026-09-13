@@ -1,0 +1,1255 @@
+{
+  "總統府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "takdangian cntung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行政院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mumu tu singcngin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mumu tu lippuiing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "司法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tainidailaz tu mumu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "監察院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sailang kumuing"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外交部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka isuuskun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka ilumahan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "財政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka cinbusan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "經濟部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka kasusui"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法務部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka dailaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka isudadaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "文化部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka palihumisan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "體育署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malka isuundu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "警政署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tainiunis Kisacu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "消防局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mamashus sapuz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "智慧財產局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siakut palihumasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中央氣象局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "malsailang tusa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "就業服務站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patahuas kukuzan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民特考": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pistanamas bunun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tisqat",
+          "cik-tas ulat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "流行性感冒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "muzuzungzung kambu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "內科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "halang hubung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "外科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "halang luluh"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "小兒科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "halang vaaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦產科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "halang nauaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "精神科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "halang nanual"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "藥劑師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "masubus iu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "實習醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pisqanciap tu isang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "主治醫師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mapaius bunun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "溫度計": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ispacihal bahis"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "救護車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "amas dahpaun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "血壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kais huhuas haidang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "癌症": {
+    "new_word": [
+      {
+        "fm_word": [
+          "halang dikla"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "人行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan bunun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "中秋節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan buan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "元旦": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pavilung lipung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "公佈欄": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taubdatan pishaiiap"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "天橋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan atal"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "月台": {
+    "new_word": [
+      {
+        "fm_word": [
+          "astalan tunlailai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "父親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan tama"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "加油站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "balivas silu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "平交道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ahnut daan tunghusulan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "母親節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan cina"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ispaia paitlivan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "交通管制": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahais tundazan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "列表機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ismin patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "地下道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan kasiuhan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "字典": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiliman patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自行車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan tampu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動售票機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "anakan baliv kibpu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "自動繳費機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "anakan saiv sui"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "行照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mashal tundazaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "作業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ilumah patasun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "吸塵器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "isipzup pushu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "快車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dann biskav"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "受文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "saivas patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "放大鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ispacidaing sadu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "法拍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kasaan ispabaliv"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "派令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iaskalun patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "紅綠燈": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mashal singhal"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "候車亭": {
+    "new_word": [
+      {
+        "fm_word": [
+          "astalan tundaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "原住民族日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan incumin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pishaiiap patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "烘碗機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ispishaliv balukan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "粉筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apul ispapatas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "釘書機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ituhtuh ahil"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除夕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pavilung ikit"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "除濕機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "issihaliv makuma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "乾衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ispishaliv ulus"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "停止線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan panutungan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "剪票口": {
+    "new_word": [
+      {
+        "fm_word": [
+          "halcisan kipu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國道": {
+    "new_word": [
+      {
+        "fm_word": "daan kavius",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "國慶日": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan kuka"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "婦幼節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan uvaz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "彩色筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nauaz ispapatas"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "情人節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan pakadu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "教師節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan masnanava"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "清明節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahusvang sabung"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "視訊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tunkatu palihansiap"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "通緝令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "issinap patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "速限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paskaupan biskav"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "單行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "makintasa lahaiban"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "斑馬線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dhnutan bunun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "測速器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sihaningu biskav"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "發文者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "masaiv patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "微波爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iscikiv anat"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "禁止通行": {
+    "new_word": [
+      {
+        "fm_word": [
+          "masamu lahaip"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan kulisimasu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patasan mashal"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "路肩": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan sila"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "遊客中心": {
+    "new_word": [
+      {
+        "fm_word": [
+          "islunghuan bunun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "頒布": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pishaiiap patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "慢車道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan daukdauk"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "端午節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lusan paksang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "獎懲令": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iskasahtu patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "膠水": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasibdat danum"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "駕照": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mashal isunding"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "機場": {
+    "new_word": [
+      {
+        "fm_word": [
+          "katdas kusbabai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "隨身碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tausdipaun sangkunan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "聯絡簿": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pakiliman patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "點讀筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ispatnu patasan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "雙黃線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daan diavhais"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "顯微鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "issihal ikit"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "戶籍謄本": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patasan katdaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "adasav a paitasansiki hai",
+        "ch_sentence": "一定要帶戶籍資料喔"
+      }
+    ],
+    "source_year": "106"
+  }
+}

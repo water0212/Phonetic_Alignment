@@ -1,0 +1,317 @@
+{
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "kosi",
+        "ch_semantic": "公司(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公司"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "kozyo",
+        "ch_semantic": "工廠(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "工廠"
+  },
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": "ceyun",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "捷運"
+  },
+  "術科": {
+    "new_word": [
+      {
+        "fm_word": "gigit",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "術科"
+  },
+  "手機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "soci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "手機"
+  },
+  "天線": {
+    "new_word": [
+      {
+        "fm_word": "antenna’",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "天線"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "koli",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公里"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "koking",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公斤"
+  },
+  "訂單": {
+    "new_word": [
+      {
+        "fm_word": "cyumon",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "訂單"
+  },
+  "化學": {
+    "new_word": [
+      {
+        "fm_word": "hwasye",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ho'ing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "地方法院"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "gokosyo",
+        "ch_semantic": "（日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "linhuyan sinbung kisya’",
+        "ch_semantic": "新聞記者聚會 (日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "記者會"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "gensi bakurang",
+        "ch_semantic": "原子炸彈（日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "原子彈"
+  },
+  "憲法": {
+    "new_word": [
+      {
+        "fm_word": "kite",
+        "ch_semantic": "（日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "憲法"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "horit",
+        "ch_semantic": "（日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "揭牌": {
+    "new_word": [
+      {
+        "fm_word": "pkita’ kanpang",
+        "ch_semantic": "使看的招牌 （日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "揭牌"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "sekining",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "責任"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "abunay",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "危機"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "gluw loman",
+        "ch_semantic": "幫派 (閩譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "幫派"
+  },
+  "政治": {
+    "new_word": [
+      {
+        "fm_word": "sezi’",
+        "ch_semantic": "（日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "政治"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kenkyuw",
+        "ch_semantic": "（日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "xiryo",
+        "ch_semantic": "註: 肥料都是化學做的（日譯）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學肥料"
+  },
+  "電腦網路": {
+    "new_word": [
+      {
+        "fm_word": "tennaw wanglu’",
+        "ch_semantic": "電腦網路 (中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦網路"
+  },
+  "核廢料": {
+    "new_word": [
+      {
+        "fm_word": "syup gensi",
+        "ch_semantic": "原子垃圾(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "核廢料"
+  },
+  "核電廠": {
+    "new_word": [
+      {
+        "fm_word": "gensi’ hacytensyo",
+        "ch_semantic": "原子發電所 (日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "核電廠"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kwangte"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "電影": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ega'"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

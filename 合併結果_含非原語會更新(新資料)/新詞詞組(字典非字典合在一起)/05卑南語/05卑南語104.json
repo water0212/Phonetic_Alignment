@@ -1,0 +1,27 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tiyam a kalreayanan",
+          "tiyam a kalre'ayanan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "打折": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nilegetran linehetran linehecan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

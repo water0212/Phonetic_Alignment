@@ -1,0 +1,47 @@
+{
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "pyatpunu' ma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "katayni i pyatpunu'ma' kisu",
+        "ch_sentence": "你來電腦教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "subana' cu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "milubang ku saydan niyam i subanacu",
+        "ch_sentence": "我們的老師在教務處開會"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "sumad kabit",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sumad kabit ayda",
+        "ch_sentence": "現在變更資料"
+      }
+    ],
+    "source_year": "108"
+  }
+}

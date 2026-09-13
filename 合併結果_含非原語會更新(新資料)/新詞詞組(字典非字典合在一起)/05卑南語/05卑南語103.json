@@ -1,0 +1,269 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "mitrepa kemerut kana kadrekalran",
+        "ch_semantic": "專門管理各部落的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "makasatr dra demadaway",
+        "ch_semantic": "製作地方的上一層",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "kaadruan dra kiyakarun",
+        "ch_semantic": "工作者所住的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原住民": {
+    "new_word": [
+      {
+        "fm_word": "beltrengalan na kaadru kadri",
+        "ch_semantic": "住在這裡很久的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "tremungaa tra kelun",
+        "ch_semantic": "去衝浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行車記錄器": {
+    "new_word": [
+      {
+        "fm_word": "kikay na tematilir dratu kinakawangan",
+        "ch_semantic": "記錄他行駛狀況的機器",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀/獎盃/獎牌": {
+    "new_word": [
+      {
+        "fm_word": "pakasagar na tilin",
+        "ch_semantic": "獎勵的紙/盃/牌",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "makaenay na kawli",
+        "ch_semantic": "經過水的樹",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "matrina na udalr",
+        "ch_semantic": "大的水",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "pakired na udalr",
+        "ch_semantic": "猛的水",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "na mutukoli na inayan",
+          "na mutukoli na zinanuman",
+          "na mutukoli na dinanuman"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "i amiami dra intrab",
+        "ch_semantic": "地球的最北",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "i timutimul dra intrab",
+        "ch_semantic": "地球的最南",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "warenagan kana patriyarebeng",
+        "ch_semantic": "正在宣傳的聚在一起",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "pakumauwa dra kuwatisan",
+        "ch_semantic": "去確認壞的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "kipulranga dra paisu",
+        "ch_semantic": "要祈求得到幫助的錢",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "kiyanedangan na kuwaatisan",
+        "ch_semantic": "會害怕的災難",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "mitrepa pantiti na trau",
+        "ch_semantic": "專門演戲的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "mitrepa semenay na trau",
+        "ch_semantic": "專門唱歌的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "pinakarunan dra palamu",
+        "ch_semantic": "使工作一下下",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "kuwatis na miyamunan",
+        "ch_semantic": "壞的組織",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "semasime pamarimumu na takilr",
+        "ch_semantic": "使它溫溫的杯子",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "sasimean dra kababawaan na maair",
+        "ch_semantic": "管理愛乾淨的生活",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "tilin na mualiyw dra kuwatisan",
+        "ch_semantic": "牽扯到不好的書",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uniyan dra ibulr 'azi midawak",
+          "adi midawak"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核廢料": {
+    "new_word": [
+      {
+        "fm_word": "kaduresiresi na karimerimek",
+        "ch_semantic": "使人噁心的很多垃圾",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

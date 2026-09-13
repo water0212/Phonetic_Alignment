@@ -1,0 +1,86 @@
+{
+  "打折": {
+    "new_word": [
+      {
+        "fm_word": [
+          "popsu vovoha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sonʉ ci momhino"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "atuhcu oyona tmopsʉ no peiseayayokeo",
+        "ch_semantic": "主要為健康的辦公處所",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "atuchu oyona tmopsʉ no aʉt’cʉ ta aukukuyungu",
+        "ch_semantic": "維護環境者的主要辦公處所",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "oyona tmopsʉ no leaʉt’ʉcx macucuma ta hpʉhpʉngʉ",
+        "ch_semantic": "管理國家財產者的辦公處所",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "oyona tmopsʉ no aʉt’ʉcʉ no leahioa",
+        "ch_semantic": "照顧勞動者的辦公處所",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "oyona tmopsʉ no lepocengi ta chumu ho ceoa",
+        "ch_semantic": "管理水、土地者的辦公處所",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "atuhcu oyona tmopsʉ no khe’eanga",
+        "ch_semantic": "客家人主要的辦公處所",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

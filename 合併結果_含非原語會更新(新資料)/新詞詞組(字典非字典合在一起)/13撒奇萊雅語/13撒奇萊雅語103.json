@@ -1,0 +1,122 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "mikuwnay tu kalubinacadan a saupu",
+        "ch_semantic": "原住民團體的管理者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "門檻": {
+    "new_word": [
+      {
+        "fm_word": "taawasan nu kalukawan",
+        "ch_semantic": "事情的關卡",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "sakatineng a paya",
+        "ch_semantic": "使知道的牌子",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "mianin tu kalisiw",
+        "ch_semantic": "要錢",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "cecay lipay",
+        "ch_semantic": "一個星期",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "pataluday a tademaw",
+        "ch_semantic": "臨時的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": "nu teked a kalisiw",
+        "ch_semantic": "自己的錢",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "lingahaway tananuman",
+        "ch_semantic": "溫溫的喝的容器",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "nilaabihan a damek",
+        "ch_semantic": "加工品的肥料",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "amana ka salungidac",
+        "ch_semantic": "不要髒",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "kabahalan a huking",
+        "ch_semantic": "突然的保險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核廢料": {
+    "new_word": [
+      {
+        "fm_word": "siledekay a damud",
+        "ch_semantic": "有毒的垃圾",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

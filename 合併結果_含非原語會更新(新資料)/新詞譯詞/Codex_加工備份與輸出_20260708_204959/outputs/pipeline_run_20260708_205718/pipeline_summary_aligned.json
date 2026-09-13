@@ -1,0 +1,105 @@
+{
+  "run_dir": "C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\pipeline_run_20260708_205718",
+  "input_dir": "C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\16族_中借詞_清洗版_flattened",
+  "aligned_dir": "C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\pipeline_run_20260708_205718\\aligned_results",
+  "files": [
+    {
+      "file": "01_阿美語_中借與音譯詞.json",
+      "entries": 58,
+      "aligned_items": 58,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "02_泰雅語_中借與音譯詞.json",
+      "entries": 7,
+      "aligned_items": 7,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "03_排灣語_中借與音譯詞.json",
+      "entries": 67,
+      "aligned_items": 67,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "04_布農語_中借與音譯詞.json",
+      "entries": 1,
+      "aligned_items": 1,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "05_卑南語_中借與音譯詞.json",
+      "entries": 79,
+      "aligned_items": 79,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "06_魯凱語_中借與音譯詞.json",
+      "entries": 36,
+      "aligned_items": 36,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "07_鄒語_中借與音譯詞.json",
+      "entries": 8,
+      "aligned_items": 8,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "08_賽夏語_中借與音譯詞.json",
+      "entries": 7,
+      "aligned_items": 7,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "09_雅美語_中借與音譯詞.json",
+      "entries": 7,
+      "aligned_items": 7,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "10_邵語_中借與音譯詞.json",
+      "entries": 25,
+      "aligned_items": 25,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "11_噶瑪蘭語_中借與音譯詞.json",
+      "entries": 20,
+      "aligned_items": 20,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "12_太魯閣語_中借與音譯詞.json",
+      "entries": 2,
+      "aligned_items": 2,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "13_撒奇萊雅語_中借與音譯詞.json",
+      "entries": 11,
+      "aligned_items": 11,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "14_賽德克語_中借與音譯詞.json",
+      "entries": 23,
+      "aligned_items": 23,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "15_拉阿魯哇語_中借與音譯詞.json",
+      "entries": 2,
+      "aligned_items": 2,
+      "empty_dict_pinyin": 0
+    },
+    {
+      "file": "16_卡那卡那富語_中借與音譯詞.json",
+      "entries": 64,
+      "aligned_items": 64,
+      "empty_dict_pinyin": 0
+    }
+  ],
+  "total_items": 417,
+  "errors": []
+}

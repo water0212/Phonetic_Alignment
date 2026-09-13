@@ -1,0 +1,917 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "no siyawcang a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Natayra kako i riwang no syawcang",
+        "ch_sentence": "我曾去過校長室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "mikuwanay to matayalay a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O mikowanay to matayalay a riwang koraw",
+        "ch_sentence": "那是人事室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "no kayky a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Katayra i riwang no kaykye",
+        "ch_sentence": "去會計室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "o pipaisingan a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira i pipaisingan a riwang kako",
+        "ch_sentence": "我在保健室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "pikayki'an a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nani pikaykian a riwang kako",
+        "ch_sentence": "我從會議室來"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "o misefengay a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Itira cingra i pisefengan a riwang",
+        "ch_sentence": "他一直在警衛室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "katayalan no singsi a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O katayalan no singsi a riwang koni",
+        "ch_sentence": "這是導師辦公室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "kasaopo'an no sing'si a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mikilim kako to singsi",
+        "ch_sentence": "我要找老師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "karumadiwan a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "karumadiwan a riwang a minanam to radiw",
+        "ch_sentence": "在音樂教室練歌"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "pirenafan a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra kako i pirenafan a riwang",
+        "ch_sentence": "我去美勞專科教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "pinengnengan to yika a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O payikaan konini a riwang",
+        "ch_sentence": "這是視聽教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "pinanaman to tingnaw a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Minanam kami to kampiwta",
+        "ch_sentence": "我們在學電腦"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "pinanaman to sclayan a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Masa'opo^ko sito i pinanaman to serayan a riwang.",
+        "ch_sentence": "學生在自然教室集合"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "o pikidafongan a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira i pikidaftf'an a riwang ko lalosidan",
+        "ch_sentence": "工具在資源教室裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "pinanaman to sakiniyaro'a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Maca'it i pinanaman to sakiniyaro'a riwang ko losid no Yin-cu-min.",
+        "ch_sentence": "原住民的傳統服飾被掛在鄉土教室裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "ciyaw-u-cu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira i ciyaw-u-cu ko singsi",
+        "ch_sentence": "老師都在教務處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "si-u-cu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra kako i si-u-cu",
+        "ch_sentence": "我去學務處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "cung-u-cu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira i cung-u-cu ko singsiako",
+        "ch_sentence": "我的老師在總務處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "fu-taw-cu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tala fu-taw-cu kako i dafak",
+        "ch_sentence": "早上我去輔導處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "tu-su-kuwan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O picaliwan to codad ko tu-su-kuwan",
+        "ch_sentence": "圖書館是借書的地方"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "kacakatan a kaydang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Na'oncn ko rakat i kacakatan a kaydang",
+        "ch_sentence": "在樓梯間走路要小心"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "saka tosa^ tongroh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "I saka tosa^ tongroh ko lama' ako",
+        "ch_sentence": "我住在二樓"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生厠所": {
+    "new_word": [
+      {
+        "fm_word": "kamisi'an no falahian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O kamisi'an no fafahian kora",
+        "ch_sentence": "那是女生廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "kamisi'an no fh'inayan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O kamisi'an no fa'inayan koni",
+        "ch_sentence": "這是男生廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "patelian to paliding",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "I kalaeno ko patelian to paliding",
+        "ch_sentence": "停車場在地下室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "fucen-kongcwo-can",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O fucen-kongcwo-can koraw",
+        "ch_sentence": "那是戶政工作站"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "katayalan a widi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O pi'arawan to katayalan a widi koni",
+        "ch_sentence": "這是辦公時間看板"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "pangangan to kamaro'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mipangangan to kamaro'an kako",
+        "ch_sentence": "我在登記住址"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徒登記": {
+    "new_word": [
+      {
+        "fm_word": "pangangan to kalinah",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mipangangan kako a malinah tayni",
+        "ch_sentence": "我登記遷入到這裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "o pangangan to pifalic, palisomad ato palasawad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O pangangan to pifalic, palisomad ato palasawad konini.",
+        "ch_sentence": "這是變更、更正及撤銷登記之處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "roma a codad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O roma a codad patayniento",
+        "ch_sentence": "其他書件也要帶來"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "fuci celiw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O fuci celiw iso konini haw?",
+        "ch_sentence": "這是你的戶籍資料嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "malinah tayni",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Halafinto na malinah tayni kako",
+        "ch_sentence": "我遷入這裡很久了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "malinah a masadak",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Malinah a masadak koni a feyaw",
+        "ch_sentence": "這鄰居已遷出了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "mafalic ko fangku no kamaro'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mafalic ko fangku no kamaro'an ako",
+        "ch_sentence": "我的住址變更了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "fangku no loma'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pina ko fangku no loma' iso?",
+        "ch_sentence": "你家的門牌幾號？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "mafalic ko ngangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra i syang-kong-su a mafalic ko ngangan",
+        "ch_sentence": "到鄉公所改名"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "pali'ayaw pangangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pali'ayawen to a pangangan ta ira ko kamaro'an",
+        "ch_sentence": "必須預約才有位子"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "sapawacay to ramod a codad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O sapawacay to maramoday konini a codad",
+        "ch_sentence": "這是結婚當事者的證書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "sapawacay to nikalaliyas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O sapawacay to nikalaliyas konini a codad",
+        "ch_sentence": "這是離婚當事者的證書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "woy-sen-su",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Icowa ko woy-sen-su no namo?",
+        "ch_sentence": "你們的衛生所在那裡？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "paw-cen-yin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O paw-cen-yin ko widang ako",
+        "ch_sentence": "我的朋友是保健員"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "o a'isidan no kangkufu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O a'isidan no kangkufu ko kaka ako",
+        "ch_sentence": "我的姊姊是護理長"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "ingyang-se",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O ingyang-se ko fafahi ningra",
+        "ch_sentence": "他的太太是營養師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "no wadis a ising",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ono wadis a ising ko kaka ako",
+        "ch_sentence": "我的哥哥是牙醫師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "sapabana tu liklik a mamelawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O sapabana tu liklik a mamelawan konian",
+        "ch_sentence": "這是平面配置圖"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "pipa^yoan a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira i pipa^yoan a riwang ci mama ako",
+        "ch_sentence": "我的爸爸在診療室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X 光室": {
+    "new_word": [
+      {
+        "fm_word": "pieskangan a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Katayra kiso i pieskangan a riwang",
+        "ch_sentence": "你去 X 光室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "pacoco^an a riwang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira ko pacoco^an a riwang itini haw?",
+        "ch_sentence": "這裡有哺乳室嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "taterungan tu kadademakan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira i taterungan tu kadademakan ko kaka ako",
+        "ch_sentence": "我的哥哥在值班室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "sakanarikay nu nikelapan tu tireg",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'aloman ko tamdaw i fucyin-se a mifucyin",
+        "ch_sentence": "復健室有很多的人在復健"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "sasingaan tu nisinsian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mataring ko ngangan no adadaay i Tang-an-se",
+        "ch_sentence": "病人的病歷都堆積在檔案室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "aalaan tu sapaeyu'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra i pialaan to sapaeyo^a miala to sapaiyo^",
+        "ch_sentence": "去藥局拿藥"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "sakacaay kararid a sacucuk",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pali'ayawen a miciwsa to i-mi-yaw ko wawa ta caay kaadada",
+        "ch_sentence": "小孩子預先打疫苗才不會生病"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "mikinsa'tu tireng",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mikinsa' to tiring i woy-sen-su",
+        "ch_sentence": "在衛生所健康檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "pabana' tu sakacaay kangaleb nu adada",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O pasifana'ay cingra to sakaterep no adada",
+        "ch_sentence": "他是防治宣導人員"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "kucyang-pawcin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kalalok a mikucyang-pawcin ta tanektek ko tireng",
+        "ch_sentence": "要認真做口腔保健身體才健康"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "kucyang-niynmu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kinsaen no ising ko kucyang-niynmu iso",
+        "ch_sentence": "醫生檢查你的口腔黏膜"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "mifitay a mikinsa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Fitayen no ising ko remes ako a mikinsa",
+        "ch_sentence": "醫生篩檢我的血"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "kacalowayan a cakatlan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O karomakatan no adadaay koni a kacalowayan a cakatlan",
+        "ch_sentence": "無障礙坡道是病人專用道路"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "kacalowayan a finciw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O kamisi'an no adadaay koni a kacalowayan a finciw",
+        "ch_sentence": "無障礙廁所是病人專用廁所"
+      }
+    ],
+    "source_year": "108"
+  }
+}

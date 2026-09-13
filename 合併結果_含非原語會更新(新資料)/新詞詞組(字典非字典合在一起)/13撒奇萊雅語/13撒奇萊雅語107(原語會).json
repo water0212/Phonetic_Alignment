@@ -1,0 +1,38 @@
+{
+  "葷食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titiyay kan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "漢堡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tukun kan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "輻射": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kalat cilal"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  }
+}

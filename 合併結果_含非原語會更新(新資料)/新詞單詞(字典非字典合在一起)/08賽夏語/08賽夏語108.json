@@ -1,0 +1,437 @@
+{
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "kapak'iyakaliyaehan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kapak'iyakaliyaehan komalahang ka kamakiSka:at ka basang pak'iyakaliyaeh.",
+        "ch_sentence": "健康中心/保健室是照顧學生的身體健康。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "ka'a'iyalaehoe:an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mae'iyaeh So: 'am maehrahrang ila ma' rima' ray ka'a'iyalaehoe:an.",
+        "ch_sentence": "人們若要商討時都會到會議室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "ka'iyalawa'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka'iyalawa'an ray kati'aelae' ray kapatawawan",
+        "ch_sentence": "警衛室在工作場所前面。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "kakiSSinSinrahoe'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray kakiS SinSinrahoe'an 'inaSkan kapakSekla'ka kamakiSka:at hini kin'i'iyaehan 'oemaeh kakrangi'an ki kaspengan.",
+        "ch_sentence": "在鄉土教室展示我們生活的土地上的文物及風俗習慣。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "kahayawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray kap'ae'ae:aewan hayza' haeba:an ka korkoring 'am makakSiyae'.",
+        "ch_sentence": "在操場上有很多小孩在嬉戲。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "minaypoSal",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ma'an taew'an 'ima minaypoSal",
+        "ch_sentence": "我家是二樓的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "ka:Seb",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'izi' ray ka:Seb 'ae'ae:aew.",
+        "ch_sentence": "不要在走廊跑步。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "kasi'aelan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "rareme:an 'oka' ka kasi'aelan",
+        "ch_sentence": "向天湖沒有餐廳。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "kapatawawen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nimon kapatawawen hayza' ka kano'? kayzaeh ay pakSekla' 'iyakin?",
+        "ch_sentence": "你們的服務項目有那些?可以讓我了解嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "kasingozawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Sa' ila ray kasingozawan singozaw ka kapapama'an 'am 'inowan potngor?",
+        "ch_sentence": "去服務臺詢問車子什麼時候會到?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "kapaSkira:a'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'am rima' paSkira:a' 'izi' ngowip 'araS ka kapaSkira:a'",
+        "ch_sentence": "要去投票別忘了帶印鑑。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "kira:a'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'inmana'a kinira:a' kinrowaSekan 'izi' kira:a' kansiya taew'an.",
+        "ch_sentence": "我的戶籍不要登記在他家。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "pakaS'abo'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "siya rima' ray kakira:a'an ka raro:o' pa'alo' ka pakaS'abo'.",
+        "ch_sentence": "他到戶政事務所申請遷入。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "bowaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "siya rima' ray kakira:a'an ka raro:o' pa'alo' ka nom bowaw.",
+        "ch_sentence": "他到戶政事務所申請遷出。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "hinbasezan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ni koko' ka hinbasezan ray kilapa:.",
+        "ch_sentence": "祖母的出生地在五峰。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "'a'olo'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "siya 'okay 'a'olo' ka korkoring.",
+        "ch_sentence": "他沒有收養孩子。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "pa'alo'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So'o Sa'ila ray kakira:a'an kararo:o' pa'alo' ka 'inalingo' ka kinira:a' kinrowaSekan kina:at.",
+        "ch_sentence": "你到戶政事務所去申請戶籍謄本。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "tiSko'awan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: 'am rima' pahebel ka ngepen 'inSa'la' tiSko'awan.",
+        "ch_sentence": "若要去拔牙請先預約。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "'aesaeSiyo'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray 'aesaeSiyo' hayza' ka sinsang ki kamamalahang nom min'ae:aew ka kak'iyakaliyaeh noka 'asang.",
+        "ch_sentence": "在衛生所裡有醫生和護士維護居民的健康。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "kamapak'iyakaliyaeh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray kam'ol'olae'an ka kakiSka:atan 'ana 'oka' hayza' 'aehae' ka kamapak'iyakaliyaeh nom komalahang ka kamakiSka:at.",
+        "ch_sentence": "在小學裡至少都有一位保健員照護學生。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X 光室": {
+    "new_word": [
+      {
+        "fm_word": "kapa'alingo'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya:o honaehnge: ila 'ima halehez noka sinsang Sitorong ray kapa'alingo'an 'am pa'alingo' ka ka:ra'.",
+        "ch_sentence": "我咳了很久醫生要我去 X 光室照胸部(X 光) 。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "katiSko'awanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakita' ka sinsang miSa'la' ray katiSko'awanan kira:a' ka raro:o' mobe:ay ka rayhil 'isa:a' mayna:a' ila.",
+        "ch_sentence": "看醫生要先在掛號室登記繳費然後等候(看病)。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "kapahoehoe'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray kapahoehoe'an 'okik Si:wa' SikaS'abo' noka kamamanra:an.",
+        "ch_sentence": "在哺乳室禁止男士進入。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "ka'ihi:an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hae:wan sinsang ray ka'ihi:an minaSangay, So: mowa:i' ka 'ima 'ayaeh 'isa:a' min'itol komita' ila ka 'ima 'ayaeh hopay a tomal.",
+        "ch_sentence": "夜間醫生在值班室休息，當有病人來室就要起來看病人非常辛苦。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "kapahazaban",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maya' maraS ka korkoring rima' ray kapahazaban pahazab nom komonroe' ka bingi'.",
+        "ch_sentence": "maya'帶小接去注射室打預防針。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "kapa'iyakaliyaehan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'obay noka kak'ayaeh haSa' manra:an noka sinsang torongon ray kapa'iyakaliyaehan lomoelohay manra:an.",
+        "ch_sentence": "'obay 因為疾病不會走路被醫生安排去復健室練習走路。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "kakinsa'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kakinsa'an noka sinsangan nom pamari' ka ramo' ki nom talzi:iz.",
+        "ch_sentence": "醫院的檢驗室是抽血和篩檢的地方。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "talzi:iz",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: 'am makaksi'ael ila 'inSa'la' kinsa' ka basang talzi:iz ka kaka'ayeh kayzaeh no mayhael.",
+        "ch_sentence": "如果要結婚了，先檢查身體作疾病篩檢才有幸福的未來。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "ma:tango:",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: tango:en 'iya'azem 'am rempe' ka ma:tango.",
+        "ch_sentence": "如果被蚊子叮到小心成染登革熱。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

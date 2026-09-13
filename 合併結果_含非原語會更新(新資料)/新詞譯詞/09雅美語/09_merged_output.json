@@ -1,0 +1,93 @@
+{
+  "鄰長": {
+    "new_word": [
+      {
+        "fm_word": [
+          "loncyo"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "鄰長"
+  },
+  "健保": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cyanpaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "健保"
+  },
+  "地方政府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seyvo"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "地方政府"
+  },
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceyin"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "捷運"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kangti"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "soaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "刷卡"
+  },
+  "公文": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kobon"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "公文"
+  }
+}

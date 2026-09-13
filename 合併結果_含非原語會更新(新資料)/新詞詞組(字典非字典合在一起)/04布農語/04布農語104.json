@@ -1,0 +1,84 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "balivan du'haz"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "Malka iskakaun",
+        "ch_semantic": "執行飲食的事務",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "sasaipuk bukzavan",
+        "ch_semantic": "專屬保護環境",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "Taini-unis pa-cilasan",
+        "ch_semantic": "掌管小米倉 庫儲的事務",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "Taini-unis kuzkuzzaun",
+        "ch_semantic": "掌管工作機會的業務",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "Malsasailang dalah",
+        "ch_semantic": "監看土地的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "liskada-n kai’lang",
+        "ch_semantic": "意:客家人的正要會所",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "x 光": {
+    "new_word": [
+      {
+        "fm_word": "ispaci-singhal",
+        "ch_semantic": "照亮身體",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "口譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lema'cinghi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "公克": {
+    "new_word": [
+      {
+        "fm_word": [
+          "konk"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "公噸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "meetoluto"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "月光族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "matintxhx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "主任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuuzen'ueyen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代表會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taihiokae"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "teezento"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "半徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aatiski"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "四分之一": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sihanci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "外送員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemahafo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "平板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "phinpan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "兆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "coo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "百分比": {
+    "new_word": [
+      {
+        "fm_word": [
+          "phasenteezi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "克拉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kala'to"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "別針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hali"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "承包商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "teeya'kokʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "法官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leesvʉtx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "直轄市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cʉsiasʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "社團": {
+    "new_word": [
+      {
+        "fm_word": [
+          "eou"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "保證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hoseonin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "書法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siozo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "記者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisea"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾爸、媽、兒子、女兒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "teai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "乾父",
+      "乾母",
+      "乾子",
+      "乾女"
+    ],
+    "source_year": "108"
+  },
+  "基金會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cicinhoe"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "專任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuazen'ueyen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiozi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "族群委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuucin'ueyen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "替代役": {
+    "new_word": [
+      {
+        "fm_word": [
+          "thitai'i"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "黑板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hokuvan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "會計師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "letmasvtx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "滑鼠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hoasu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "義父、母、子、女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "teai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "義父",
+      "義母",
+      "義子",
+      "義女"
+    ],
+    "source_year": "108"
+  },
+  "解說人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leesvʉtx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "僑生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "chiasʉn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "網友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uanyio"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢察官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kensa'kan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "鍵盤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cienphan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "雙面膠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suanmencao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼父、母、子、女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pop'e"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "related_keys": [
+      "繼父",
+      "繼母",
+      "繼子",
+      "繼女"
+    ],
+    "source_year": "108"
+  },
+  "警衛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lepocengi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "律師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pen-ngosi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "消保官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siao-pao-kuan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  }
+}

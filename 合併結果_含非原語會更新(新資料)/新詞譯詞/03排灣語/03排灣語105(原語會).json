@@ -1,0 +1,166 @@
+{
+  "博士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hakasi"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "博士"
+  },
+  "電影": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iga"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "電影"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cihu huing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "地方法院"
+  },
+  "高等法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kutu huing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "高等法院"
+  },
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wangka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "網咖"
+  },
+  "發票": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huapiau"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "發票"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuangtiye"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suaka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "刷卡"
+  },
+  "珊瑚": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sanhu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "珊瑚"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "yenminhuy",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "原民會"
+  },
+  "纜車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lance"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "科技": {
+    "new_word": [
+      {
+        "fm_word": [
+          "keci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "化石": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huase"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

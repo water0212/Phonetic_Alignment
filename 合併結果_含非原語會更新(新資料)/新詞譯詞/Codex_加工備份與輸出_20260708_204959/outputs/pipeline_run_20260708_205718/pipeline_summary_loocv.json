@@ -1,0 +1,5 @@
+{
+  "output_excel": "C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\pipeline_run_20260708_205718\\loocv\\LOOCV_Results.xlsx",
+  "stdout_tail": "⚠️ 字數不匹配跳過: '地方法院'\n⚠️ 字數不匹配跳過: '十字路口'\n⚠️ 字數不匹配跳過: '光碟'\n⚠️ 字數不匹配跳過: '流行性感冒'\n⚠️ 字數不匹配跳過: '高速鐵路'\n⚠️ 字數不匹配跳過: '地方政府'\n⚠️ 字數不匹配跳過: '聖誕節'\n⚠️ 字數不匹配跳過: '影印機'\n⚠️ 字數不匹配跳過: '便利商店'\n⚠️ 字數不匹配跳過: '地方法院'\n⚠️ 字數不匹配跳過: '公斤'\n⚠️ 字數不匹配跳過: '地方法院'\n✅ 已成功匯出結果至: C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\pipeline_run_20260708_205718\\loocv\\LOOCV_Results.xlsx\n✅ 整體總正確率為: 33.83%",
+  "error": null
+}

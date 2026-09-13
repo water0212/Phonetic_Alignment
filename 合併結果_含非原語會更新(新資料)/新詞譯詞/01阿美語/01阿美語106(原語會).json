@@ -1,0 +1,480 @@
+{
+  "總統府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "congtongfu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "總統府"
+  },
+  "行政院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sincenyin"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "行政院"
+  },
+  "立法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lifayin"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "立法院"
+  },
+  "司法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sefayin"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "司法院"
+  },
+  "考試院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kawseyin"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "考試院"
+  },
+  "監察院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kansacyin"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "監察院"
+  },
+  "體育署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ondoso"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "體育署"
+  },
+  "警政署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cincengso"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "警政署"
+  },
+  "水利局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "soylici"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "水利局"
+  },
+  "觀光局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "konkwangci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "觀光局"
+  },
+  "公路局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kongloci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "公路局"
+  },
+  "中央氣象局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "congyangcisiyangci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "中央氣象局"
+  },
+  "就業服務站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciwyifo^ocan"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "就業服務站"
+  },
+  "中風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "congfong"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "中風"
+  },
+  "藥劑師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yawcise"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "藥劑師"
+  },
+  "麻醉師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "macoyse"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "麻醉師"
+  },
+  "診所": {
+    "new_word": [
+      {
+        "fm_word": [
+          "censo"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "診所"
+  },
+  "加護病房": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciyafopinfang"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "加護病房"
+  },
+  "血壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siya"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "血壓"
+  },
+  "平交道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "piciyawtaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "平交道"
+  },
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": "sasipasip",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "立可白"
+  },
+  "字典": {
+    "new_word": [
+      {
+        "fm_word": [
+          "citing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "字典"
+  },
+  "作業": {
+    "new_word": [
+      {
+        "fm_word": "coyi",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "作業"
+  },
+  "放大鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fangtacing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "放大鏡"
+  },
+  "紅綠燈": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hongliteng"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "紅綠燈"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "haypao"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "海報"
+  },
+  "國道": {
+    "new_word": [
+      {
+        "fm_word": "kotaw",
+        "ch_semantic": "(sakalima) (音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "國道"
+  },
+  "單行道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tasintaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "單行道"
+  },
+  "斑馬線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pamasiyen"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "斑馬線"
+  },
+  "微波爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wiypolo"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "微波爐"
+  },
+  "電梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "elifita"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "電梯"
+  },
+  "聯絡簿": {
+    "new_word": [
+      {
+        "fm_word": [
+          "linlopo"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "聯絡簿"
+  },
+  "點讀筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tintopi"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "點讀筆"
+  },
+  "顯微鏡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "singwicing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "顯微鏡"
+  },
+  "精神科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cingsenke"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  },
+  "戶籍謄本": {
+    "new_word": [
+      {
+        "fm_word": [
+          "focicenpen"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Alaen ko fuci cenpen",
+        "ch_sentence": "要携帶戶籍謄本"
+      }
+    ],
+    "source_year": "106"
+  },
+  "復健科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fociynke"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "le-smo’eisi",
+        "ch_semantic": "專門抓人的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "oyona tmopsʉ ta cou",
+        "ch_semantic": "原住民的專門地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "oyona yaahiona",
+        "ch_semantic": "工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "oyona yaahiona",
+        "ch_semantic": "工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koyu no televi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yuho va'hʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "cono taucunu",
+        "ch_semantic": "一個組織",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "hoken no kukuici",
+        "ch_semantic": "想不到的很多壞的事情的保險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核廢料": {
+    "new_word": [
+      {
+        "fm_word": "koa mahiz'o",
+        "ch_semantic": "有毒的原因",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}
