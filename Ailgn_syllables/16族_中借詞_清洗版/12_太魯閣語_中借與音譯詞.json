@@ -2,21 +2,25 @@
     "網咖": {
         "new_word": [
             {
-                "fm_word": "Wang Ka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "Wang Ka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "廣告": {
         "new_word": [
             {
-                "fm_word": "Kwang Kaw",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "Kwang Kaw"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     }
 }

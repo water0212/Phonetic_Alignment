@@ -1,5 +1,5 @@
 {
-    "網路": {
+    "電腦": {
         "new_word": [
             {
                 "fm_word": "wanglo’",
@@ -12,12 +12,38 @@
     "網咖": {
         "new_word": [
             {
-                "fm_word": "wangka:",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "wangka:"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
+    },
+    "纜車": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "liwlong"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "光碟": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "Siti:"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
     },
     "立可白": {
         "new_word": [
@@ -32,7 +58,21 @@
     "海報": {
         "new_word": [
             {
-                "fm_word": "haypaw",
+                "fm_word": [
+                    "haypaw"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "聖誕節": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "koriSmaS"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

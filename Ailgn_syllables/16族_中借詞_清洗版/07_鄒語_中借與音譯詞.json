@@ -2,12 +2,14 @@
     "捷運": {
         "new_word": [
             {
-                "fm_word": "ciein",
-                "ch_semantic": "(中譯)",
+                "fm_word": [
+                    "ciein"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "103"
+        "source_year": "105"
     },
     "公里": {
         "new_word": [
@@ -49,10 +51,36 @@
         ],
         "source_year": "106"
     },
+    "聖誕節": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kulismasʉ"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
     "點讀筆": {
         "new_word": [
             {
-                "fm_word": "ten’tupi",
+                "fm_word": [
+                    "ten'tupi"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "法務部": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "faa'u pu"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

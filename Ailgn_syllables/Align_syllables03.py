@@ -8,7 +8,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 INPUT_FOLDER_NAME = "16族_中借詞_清洗版"
 OUTPUT_FOLDER_NAME = "Aligned_Results" # 輸出資料夾名稱
 DICT_FILENAME = "ch_dict.json"
-CEDICT_FILENAME = "cedict_normalized.json"
+CEDICT_FILENAME = "cedict_parsed_custom.json"
 
 def is_cjk_char(ch):
     return "\u4e00" <= ch <= "\u9fff"
@@ -245,7 +245,7 @@ def main():
     with open(cedict_path, "r", encoding="utf-8") as f:
         cedict_data = json.load(f)
     cedict_index = build_cedict_index(cedict_data)
-    print("✅ cedict_normalized 載入完成。")
+    print("✅ cedict_parsed_custom 載入完成。")
 
     # 3. 遍歷資料夾內所有檔案
     files = [f for f in os.listdir(input_dir) if f.endswith(".json")]

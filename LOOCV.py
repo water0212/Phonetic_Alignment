@@ -114,6 +114,10 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
     global_correct = 0
     global_correct_loan = 0          # 全域中借正確數
     global_correct_unspecified = 0   # 全域未明說正確數
+    global_initial_total = 0
+    global_initial_correct = 0
+    global_final_total = 0
+    global_final_correct = 0
     language_stats = {}  
     
     for refined_file in refined_files:
@@ -129,7 +133,11 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
                 "total": 0, 
                 "correct": 0,
                 "correct_loan": 0,          # 該族語中借正確數
-                "correct_unspecified": 0    # 該族語未明說正確數
+                "correct_unspecified": 0,   # 該族語未明說正確數
+                "initial_total": 0,
+                "initial_correct": 0,
+                "final_total": 0,
+                "final_correct": 0
             }
             
         vote_file = os.path.join(vote_dir, f"{prefix_num}_output_alignment_voted.json")
@@ -168,9 +176,12 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
             for dyn_char, align in zip(char_alignments, alignment):
                 ch_ini = dyn_char.get("initial", "0c")
                 ch_fin = dyn_char.get("final", "0v")
-                
-                gt_ini = align.get("tsou_syllable", {}).get("initial", "") or "0c"
-                gt_fin = align.get("tsou_syllable", {}).get("final", "") or "0v"
+
+                tsou_syllable = align.get("tsou_syllable") or {}
+                if not tsou_syllable:
+                    continue
+                gt_ini = tsou_syllable.get("initial", "") or "0c"
+                gt_fin = tsou_syllable.get("final", "") or "0v"
                 
                 if ch_ini not in word_deductions: word_deductions[ch_ini] = {}
                 word_deductions[ch_ini][gt_ini] = word_deductions[ch_ini].get(gt_ini, 0) + 1
@@ -180,13 +191,19 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
 
             process_details = []
             predicted_full_word = "" # 用來存放合併後的預測字串
+            word_initial_total = 0
+            word_initial_correct = 0
+            word_final_total = 0
+            word_final_correct = 0
             
             for dyn_char, align in zip(char_alignments, alignment):
                 ch_ini = dyn_char.get("initial", "0c")
                 ch_fin = dyn_char.get("final", "0v")
-                
-                gt_ini = align.get("tsou_syllable", {}).get("initial", "") or "0c"
-                gt_fin = align.get("tsou_syllable", {}).get("final", "") or "0v"
+
+                tsou_syllable = align.get("tsou_syllable") or {}
+                has_ground_truth = bool(tsou_syllable)
+                gt_ini = tsou_syllable.get("initial", "") or "0c"
+                gt_fin = tsou_syllable.get("final", "") or "0v"
                 
                 top3_ini = get_top3_phonemes(ch_ini, vote_data, word_deductions, lang_name)
                 top3_fin = get_top3_phonemes(ch_fin, vote_data, word_deductions, lang_name)
@@ -194,6 +211,23 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
                 # 取第一名作為預測結果
                 pred_ini_top1 = top3_ini[0]["phoneme"] if top3_ini else "N/A"
                 pred_fin_top1 = top3_fin[0]["phoneme"] if top3_fin else "N/A"
+
+                if has_ground_truth:
+                    word_initial_total += 1
+                    global_initial_total += 1
+                    language_stats[lang_key]["initial_total"] += 1
+                    if pred_ini_top1 == gt_ini:
+                        word_initial_correct += 1
+                        global_initial_correct += 1
+                        language_stats[lang_key]["initial_correct"] += 1
+
+                    word_final_total += 1
+                    global_final_total += 1
+                    language_stats[lang_key]["final_total"] += 1
+                    if pred_fin_top1 == gt_fin:
+                        word_final_correct += 1
+                        global_final_correct += 1
+                        language_stats[lang_key]["final_correct"] += 1
                 
                 # 過濾預測佔位符並拼接成完整字串
                 ini_str = "" if pred_ini_top1 in ["0c", "N/A"] else pred_ini_top1
@@ -242,6 +276,12 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
                 "中文詞彙": word,
                 "詞彙來源": source_type,
                 "是否完全正確": "是" if word_is_correct else "否",
+                "聲母測試數": word_initial_total,
+                "聲母正確數": word_initial_correct,
+                "聲母正確率": word_initial_correct / word_initial_total if word_initial_total > 0 else None,
+                "韻母測試數": word_final_total,
+                "韻母正確數": word_final_correct,
+                "韻母正確率": word_final_correct / word_final_total if word_final_total > 0 else None,
                 "測試過程與比對": "\n".join(process_details)
             })
 
@@ -256,11 +296,19 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
         c_loan = stats["correct_loan"]
         c_unsp = stats["correct_unspecified"]
         acc = c / t if t > 0 else 0
+        initial_acc = stats["initial_correct"] / stats["initial_total"] if stats["initial_total"] > 0 else None
+        final_acc = stats["final_correct"] / stats["final_total"] if stats["final_total"] > 0 else None
         stats_rows.append({
             "族語名稱": lang_key,
             "總測試詞數": t,
             "完全正確詞數": c,
             "正確率": f"{acc:.2%}",
+            "聲母測試數": stats["initial_total"],
+            "聲母正確數": stats["initial_correct"],
+            "聲母正確率": initial_acc,
+            "韻母測試數": stats["final_total"],
+            "韻母正確數": stats["final_correct"],
+            "韻母正確率": final_acc,
             "預測正確(中借)": c_loan,
             "預測正確(未明說)": c_unsp
         })
@@ -271,6 +319,12 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
         "總測試詞數": global_total,
         "完全正確詞數": global_correct,
         "正確率": f"{global_acc:.2%}",
+        "聲母測試數": global_initial_total,
+        "聲母正確數": global_initial_correct,
+        "聲母正確率": global_initial_correct / global_initial_total if global_initial_total > 0 else None,
+        "韻母測試數": global_final_total,
+        "韻母正確數": global_final_correct,
+        "韻母正確率": global_final_correct / global_final_total if global_final_total > 0 else None,
         "預測正確(中借)": global_correct_loan,
         "預測正確(未明說)": global_correct_unspecified
     })
@@ -284,6 +338,8 @@ def process_word_level_loocv(refined_dir, vote_dir, output_excel_path, ch_dict, 
         
     print(f"✅ 已成功匯出結果至: {output_excel_path}")
     print(f"✅ 整體總正確率為: {global_acc:.2%}")
+    print(f"✅ 聲母正確率為: {global_initial_correct / global_initial_total:.2%}")
+    print(f"✅ 韻母正確率為: {global_final_correct / global_final_total:.2%}")
 
 if __name__ == "__main__":
     # 路徑設定
@@ -292,7 +348,7 @@ if __name__ == "__main__":
     OUTPUT_FILE = os.path.join(current_dir, "LOOCV_Results.xlsx") 
     
     DICT_FILENAME = os.path.join(MODULE_DIR, "ch_dict.json")
-    CEDICT_FILENAME = os.path.join(MODULE_DIR, "cedict_normalized.json")
+    CEDICT_FILENAME = os.path.join(MODULE_DIR, Align_syllables03.CEDICT_FILENAME)
     
     print(f"📖 載入字典中...")
     try:

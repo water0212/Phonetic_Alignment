@@ -2,82 +2,110 @@
     "行政院": {
         "new_word": [
             {
-                "fm_word": "Sintsungyan",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "sintsungyan"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "立法院": {
         "new_word": [
             {
-                "fm_word": "Lifayan",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "lifayan"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "司法院": {
         "new_word": [
             {
-                "fm_word": "Sufayan",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "sufayan"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "外交部": {
         "new_word": [
             {
-                "fm_word": "Waikaupuu",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "waikaupuu"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
+    },
+    "經濟部": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kingqipuu"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
     },
     "法務部": {
         "new_word": [
             {
-                "fm_word": "Fawupuu",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "fawupuu"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "交通部": {
         "new_word": [
             {
-                "fm_word": "Kautungpuu",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kautungpuu"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "國防部": {
         "new_word": [
             {
-                "fm_word": "Qufangpuu",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "qufangpuu"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "文化部": {
         "new_word": [
             {
-                "fm_word": "Bunhuapuu",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "munhuapuu"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "衛福部": {
         "new_word": [
@@ -92,12 +120,14 @@
     "體育署": {
         "new_word": [
             {
-                "fm_word": "Tiyuqsuu",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "tiyuqsuu"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "環保署": {
         "new_word": [
@@ -112,52 +142,62 @@
     "水利局": {
         "new_word": [
             {
-                "fm_word": "Suilikiuq",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "suilikiuq"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "觀光局": {
         "new_word": [
             {
-                "fm_word": "Kuanqungkiuq",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kuanqungkiuq"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "公路局": {
         "new_word": [
             {
-                "fm_word": "Qungrukiuq",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "qungrukiuq"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "消防局": {
         "new_word": [
             {
-                "fm_word": "Siaufungkiuq",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "siauhungkiuq"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "林務局": {
         "new_word": [
             {
-                "fm_word": "Limbukiuq",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "limbukiuq"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "國產局": {
         "new_word": [
@@ -202,7 +242,9 @@
     "法令": {
         "new_word": [
             {
-                "fm_word": "faliing",
+                "fm_word": [
+                    "faliing"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -212,7 +254,21 @@
     "視訊": {
         "new_word": [
             {
-                "fm_word": "susiin",
+                "fm_word": [
+                    "susiin"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "聖誕節": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kristmas"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -222,7 +278,9 @@
     "電梯": {
         "new_word": [
             {
-                "fm_word": "tiantii",
+                "fm_word": [
+                    "tiantii"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

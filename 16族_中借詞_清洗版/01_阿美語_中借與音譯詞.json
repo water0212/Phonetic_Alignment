@@ -32,62 +32,74 @@
     "路邊攤": {
         "new_word": [
             {
-                "fm_word": "lopita",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "lopita"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "網咖": {
         "new_word": [
             {
-                "fm_word": "wang-ka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "wangka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "廣告": {
         "new_word": [
             {
-                "fm_word": "kuwang-kaw",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kuwangkaw"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "信用卡": {
         "new_word": [
             {
-                "fm_word": "sinyongka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "sinyongka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "發票": {
         "new_word": [
             {
-                "fm_word": "fapiyaw",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "fapiyaw"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "刷卡": {
         "new_word": [
             {
-                "fm_word": "sewaka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "sewaka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "全家": {
         "new_word": [
@@ -112,52 +124,74 @@
     "總統府": {
         "new_word": [
             {
-                "fm_word": "Congtong fu",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "congtongfu"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "行政院": {
         "new_word": [
             {
-                "fm_word": "Sincen Yin",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "sincenyin"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "立法院": {
         "new_word": [
             {
-                "fm_word": "Lifa Yin",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "lifayin"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "司法院": {
         "new_word": [
             {
-                "fm_word": "Sefa Yin",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "sefayin"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "考試院": {
         "new_word": [
             {
-                "fm_word": "Kawse Yin",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "kawseyin"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
+    },
+    "監察院": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kansacyin"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
     },
     "衛福部": {
         "new_word": [
@@ -169,15 +203,29 @@
         ],
         "source_year": "104"
     },
-    "警政署": {
+    "體育署": {
         "new_word": [
             {
-                "fm_word": "cinceng su",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "ondoso"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
+    },
+    "警政署": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "cincengso"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
     },
     "環保署": {
         "new_word": [
@@ -192,42 +240,38 @@
     "水利局": {
         "new_word": [
             {
-                "fm_word": "suyli ci",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "soylici"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "觀光局": {
         "new_word": [
             {
-                "fm_word": "kunkwang ci",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "konkwangci"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "公路局": {
         "new_word": [
             {
-                "fm_word": "konglo ci",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "kongloci"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
-    },
-    "消防局": {
-        "new_word": [
-            {
-                "fm_word": "siyawfang ci",
-                "ch_semantic": "華語直譯",
-                "dialect": []
-            }
-        ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "國產局": {
         "new_word": [
@@ -259,11 +303,11 @@
         ],
         "source_year": "104"
     },
-    "智慧財產局": {
+    "客委會": {
         "new_word": [
             {
-                "fm_word": "na’cay ci",
-                "ch_semantic": "音譯（縮略）",
+                "fm_word": "hakawiyin hoy",
+                "ch_semantic": "音譯",
                 "dialect": []
             }
         ],
@@ -272,82 +316,98 @@
     "中央氣象局": {
         "new_word": [
             {
-                "fm_word": "congyangcisiyang ci",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "congyangcisiyangci"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "就業服務站": {
         "new_word": [
             {
-                "fm_word": "ciwyifu^u can",
-                "ch_semantic": "華語直譯",
+                "fm_word": [
+                    "ciwyifo^ocan"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "中風": {
         "new_word": [
             {
-                "fm_word": "congfong",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "congfong"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "藥劑師": {
         "new_word": [
             {
-                "fm_word": "yawcise",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "yawcise"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "麻醉師": {
         "new_word": [
             {
-                "fm_word": "macoyse",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "macoyse"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "診所": {
         "new_word": [
             {
-                "fm_word": "censo",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "censo"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "加護病房": {
         "new_word": [
             {
-                "fm_word": "ciyafupinfang",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "ciyafopinfang"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "血壓": {
         "new_word": [
             {
-                "fm_word": "siya",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "siya"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
     "原民會": {
         "new_word": [
@@ -362,7 +422,19 @@
     "平交道": {
         "new_word": [
             {
-                "fm_word": "piciyawtaw",
+                "fm_word": [
+                    "piciyawtaw"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "立可白": {
+        "new_word": [
+            {
+                "fm_word": "sasipasip",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -372,7 +444,9 @@
     "字典": {
         "new_word": [
             {
-                "fm_word": "citing",
+                "fm_word": [
+                    "citing"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -392,7 +466,9 @@
     "放大鏡": {
         "new_word": [
             {
-                "fm_word": "fangtacing",
+                "fm_word": [
+                    "fangtacing"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -402,7 +478,9 @@
     "紅綠燈": {
         "new_word": [
             {
-                "fm_word": "hongliteng",
+                "fm_word": [
+                    "hongliteng"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -412,7 +490,9 @@
     "海報": {
         "new_word": [
             {
-                "fm_word": "haypao",
+                "fm_word": [
+                    "haypao"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -432,7 +512,9 @@
     "單行道": {
         "new_word": [
             {
-                "fm_word": "tasintaw",
+                "fm_word": [
+                    "tasintaw"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -442,7 +524,9 @@
     "斑馬線": {
         "new_word": [
             {
-                "fm_word": "pamasiyen",
+                "fm_word": [
+                    "pamasiyen"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -452,7 +536,9 @@
     "微波爐": {
         "new_word": [
             {
-                "fm_word": "wiypolo",
+                "fm_word": [
+                    "wiypolo"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -462,7 +548,9 @@
     "電梯": {
         "new_word": [
             {
-                "fm_word": "elifita",
+                "fm_word": [
+                    "elifita"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -472,7 +560,9 @@
     "聯絡簿": {
         "new_word": [
             {
-                "fm_word": "linlopo",
+                "fm_word": [
+                    "linlopo"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -482,7 +572,9 @@
     "點讀筆": {
         "new_word": [
             {
-                "fm_word": "tintopi",
+                "fm_word": [
+                    "tintopi"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -492,7 +584,81 @@
     "顯微鏡": {
         "new_word": [
             {
-                "fm_word": "singwicing",
+                "fm_word": [
+                    "singwicing"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "碩士": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "sowse"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "精神科": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "cingsenke"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "博士": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "pose"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "戶籍謄本": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "focicenpen"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "權利": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kinli"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "復健科": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "fociynke"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }

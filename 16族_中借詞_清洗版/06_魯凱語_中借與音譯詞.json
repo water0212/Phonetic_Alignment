@@ -12,12 +12,14 @@
     "捷運": {
         "new_word": [
             {
-                "fm_word": "ciyeing",
-                "ch_semantic": "(中譯)",
+                "fm_word": [
+                    "ciyeing"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "103"
+        "source_year": "105"
     },
     "天線": {
         "new_word": [
@@ -29,35 +31,41 @@
         ],
         "source_year": "103"
     },
-    "憂鬱症": {
-        "new_word": [
-            {
-                "fm_word": "yuiceng",
-                "ch_semantic": "(中譯)",
-                "dialect": []
-            }
-        ],
-        "source_year": "103"
-    },
     "博物館": {
         "new_word": [
             {
-                "fm_word": "puukwange",
-                "ch_semantic": "(中譯)",
+                "fm_word": [
+                    "puukwange"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "103"
+        "source_year": "105"
     },
     "志工": {
         "new_word": [
             {
-                "fm_word": "cekung",
-                "ch_semantic": "(中譯)",
+                "fm_word": [
+                    "cekung"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "103"
+        "source_year": "105"
+    },
+    "決賽": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kisiu"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
     },
     "電腦": {
         "new_word": [
@@ -69,75 +77,65 @@
         ],
         "source_year": "103"
     },
-    "網咖": {
-        "new_word": [
-            {
-                "fm_word": "wangka",
-                "ch_semantic": "音譯",
-                "dialect": []
-            }
-        ],
-        "source_year": "104"
-    },
     "廣告": {
         "new_word": [
             {
-                "fm_word": "kwangkau",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kwangkau"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "信用卡": {
         "new_word": [
             {
-                "fm_word": "singyungka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "singyungka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "電話卡": {
         "new_word": [
             {
-                "fm_word": "tinghwaka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "tinghwaka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "光碟": {
         "new_word": [
             {
-                "fm_word": "kwangti",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kwangti"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "刷卡": {
         "new_word": [
             {
-                "fm_word": "swaka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "swaka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
-    },
-    "公路局": {
-        "new_word": [
-            {
-                "fm_word": "swa kungluci",
-                "ch_semantic": "音譯",
-                "dialect": []
-            }
-        ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "勞保局": {
         "new_word": [
@@ -162,7 +160,9 @@
     "中秋節": {
         "new_word": [
             {
-                "fm_word": "cungcyuci",
+                "fm_word": [
+                    "cungcyuci"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -172,7 +172,9 @@
     "字典": {
         "new_word": [
             {
-                "fm_word": "ziting",
+                "fm_word": [
+                    "ziting"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -192,7 +194,9 @@
     "紅綠燈": {
         "new_word": [
             {
-                "fm_word": "hunglriteng",
+                "fm_word": [
+                    "hunglriteng"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -202,7 +206,7 @@
     "國道": {
         "new_word": [
             {
-                "fm_word": "kutau",
+                "fm_word": "kutau5",
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -212,7 +216,9 @@
     "彩色筆": {
         "new_word": [
             {
-                "fm_word": "caisepi",
+                "fm_word": [
+                    "caisepi"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -222,7 +228,9 @@
     "斑馬線": {
         "new_word": [
             {
-                "fm_word": "pangmasing",
+                "fm_word": [
+                    "pangmasing"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -232,7 +240,21 @@
     "微波爐": {
         "new_word": [
             {
-                "fm_word": "wipulu",
+                "fm_word": [
+                    "wipulu"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "聖誕節": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kulrisemase"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -242,7 +264,9 @@
     "電梯": {
         "new_word": [
             {
-                "fm_word": "tingti",
+                "fm_word": [
+                    "tingti"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -258,5 +282,137 @@
             }
         ],
         "source_year": "106"
+    },
+    "急診室": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "cicengse"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "碩士": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "suse"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "病毒": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "duku"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "村長": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "sungciyu"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "博士": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "puse"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "高速公路": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kausukunglu"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "戶籍": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kusiki"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "電影": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "iga"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "鄰長": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "lringciyu"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "高速鐵路": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kauti"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "手機": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "suci"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
     }
 }

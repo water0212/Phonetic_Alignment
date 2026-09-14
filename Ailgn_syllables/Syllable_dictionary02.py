@@ -16,6 +16,8 @@ def split_syllable_by_initials(syllable):
         return "", ""
 
     syllable = syllable.lower()
+    if syllable == "ng":
+        return "", "ng"
     curr_initial = ""
     curr_final = syllable
 

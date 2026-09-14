@@ -12,12 +12,14 @@
     "手機": {
         "new_word": [
             {
-                "fm_word": "soci",
-                "ch_semantic": "(中譯)",
+                "fm_word": [
+                    "soci"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "103"
+        "source_year": "105"
     },
     "化學": {
         "new_word": [
@@ -28,6 +30,18 @@
             }
         ],
         "source_year": "103"
+    },
+    "地方法院": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "ho'ing"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
     },
     "電腦網路": {
         "new_word": [
@@ -42,11 +56,25 @@
     "光碟": {
         "new_word": [
             {
-                "fm_word": "kwangte",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kwangte"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
+    },
+    "電影": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "ega'"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
     }
 }

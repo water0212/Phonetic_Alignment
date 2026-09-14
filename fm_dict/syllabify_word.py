@@ -2,58 +2,25 @@ import json
 import re
 import os
 from collections import Counter
+from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'Ailgn_syllables'))
+from Syllable_decomposition01 import VOWELS, get_syllables
 
 # ===========================
 # 1. 設定與規則
 # ===========================
 
 # 定義母音 (包含特殊符號)
-VOWELS = "aeiouʉéɨ"
+# 母音集合與主流程共用
 # 建立正則表達式，不區分大小寫
-VOWEL_PATTERN = re.compile(f"[{VOWELS}]", re.IGNORECASE)
+VOWEL_PATTERN = re.compile(f"[{''.join(sorted(VOWELS))}]", re.IGNORECASE)
 
 def syllabify_word(word):
-    """
-    對單一單字進行音節切割
-    回傳格式: "jaq-u"
-    """
-    if not VOWEL_PATTERN.search(word):
-        return word
-    
-    vowel_matches = list(VOWEL_PATTERN.finditer(word))
-    
-    if len(vowel_matches) <= 1:
-        return word
+    """使用主流程規則，保留字典原始大小寫，回傳連字號分隔的音節。"""
+    return "-".join(get_syllables(word, preserve_case=True))
 
-    syllables = []
-    start_idx = 0
-    
-    for i in range(len(vowel_matches)):
-        current_vowel = vowel_matches[i]
-        v_start = current_vowel.start()
-        
-        if i == 0:
-            pass
-        else:
-            prev_vowel = vowel_matches[i-1]
-            prev_v_end = prev_vowel.end()
-            middle_segment = word[prev_v_end : v_start]
-            
-            onset_len = 0
-            if len(middle_segment) == 0:
-                onset_len = 0
-            else:
-                if middle_segment.lower().endswith("ng"):
-                    onset_len = 0 
-                else:
-                    onset_len = 1
-            
-            cut_point = v_start - onset_len
-            syllables.append(word[start_idx : cut_point])
-            start_idx = cut_point
-            
-    syllables.append(word[start_idx:])
-    return "-".join(syllables)
 
 def split_initial_final(syllable):
     """
@@ -97,102 +64,107 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 output_cut_folder = os.path.join(current_dir, "音節切割結果")
 output_stat_folder = os.path.join(current_dir, "音節統計結果")
 
-if not os.path.exists(output_cut_folder):
-    os.makedirs(output_cut_folder)
-if not os.path.exists(output_stat_folder):
-    os.makedirs(output_stat_folder)
+def main():
+    if not os.path.exists(output_cut_folder):
+        os.makedirs(output_cut_folder)
+    if not os.path.exists(output_stat_folder):
+        os.makedirs(output_stat_folder)
 
-print(f"正在讀取檔案... (目錄: {current_dir})")
+    print(f"正在讀取檔案... (目錄: {current_dir})")
 
-processed_count = 0
+    processed_count = 0
 
-for input_file, base_name in file_mapping.items():
-    input_path = os.path.join(current_dir, input_file)
+    for input_file, base_name in file_mapping.items():
+        input_path = os.path.join(current_dir, input_file)
     
-    if os.path.exists(input_path):
-        print(f"正在處理: {base_name} ({input_file})...")
+        if os.path.exists(input_path):
+            print(f"正在處理: {base_name} ({input_file})...")
         
-        with open(input_path, 'r', encoding='utf-8') as f:
-            try:
-                data = json.load(f)
+            with open(input_path, 'r', encoding='utf-8') as f:
+                try:
+                    data = json.load(f)
                 
-                cut_result_dict = {}
+                    cut_result_dict = {}
                 
-                # 準備 4 個計數器
-                syllable_counter = Counter()        # 1. 完整音節
-                initial_counter = Counter()         # 2. 聲母
-                final_counter = Counter()           # 3. 韻母
-                merged_components_counter = Counter() # 4. 聲韻母合併
+                    # 準備 4 個計數器
+                    syllable_counter = Counter()        # 1. 完整音節
+                    initial_counter = Counter()         # 2. 聲母
+                    final_counter = Counter()           # 3. 韻母
+                    merged_components_counter = Counter() # 4. 聲韻母合併
                 
-                for key in data.keys():
-                    sub_words = key.split(' ')
-                    processed_sub_words = []
+                    for key in data.keys():
+                        sub_words = key.split(' ')
+                        processed_sub_words = []
                     
-                    for w in sub_words:
-                        cut_word = syllabify_word(w)
-                        processed_sub_words.append(cut_word)
+                        for w in sub_words:
+                            cut_word = syllabify_word(w)
+                            processed_sub_words.append(cut_word)
                         
-                        syllables = cut_word.split('-')
-                        for s in syllables:
-                            s = s.strip()
-                            if s:
-                                # 1. 統計完整音節
-                                syllable_counter[s] += 1
+                            syllables = cut_word.split('-')
+                            for s in syllables:
+                                s = s.strip()
+                                if s:
+                                    # 1. 統計完整音節
+                                    syllable_counter[s] += 1
                                 
-                                # 拆解聲韻母
-                                ini, fin = split_initial_final(s)
+                                    # 拆解聲韻母
+                                    ini, fin = split_initial_final(s)
                                 
-                                # 2. 統計聲母
-                                if ini: 
-                                    initial_counter[ini] += 1
-                                    # 4. 加入合併統計
-                                    merged_components_counter[ini] += 1
+                                    # 2. 統計聲母
+                                    if ini: 
+                                        initial_counter[ini] += 1
+                                        # 4. 加入合併統計
+                                        merged_components_counter[ini] += 1
                                     
-                                # 3. 統計韻母
-                                if fin: 
-                                    final_counter[fin] += 1
-                                    # 4. 加入合併統計
-                                    merged_components_counter[fin] += 1
+                                    # 3. 統計韻母
+                                    if fin: 
+                                        final_counter[fin] += 1
+                                        # 4. 加入合併統計
+                                        merged_components_counter[fin] += 1
                     
-                    processed_key = ' '.join(processed_sub_words)
-                    cut_result_dict[key] = processed_key
+                        processed_key = ' '.join(processed_sub_words)
+                        cut_result_dict[key] = processed_key
                 
-                # --- 輸出 0: 切割結果 JSON (原始功能) ---
-                cut_filename = f"{base_name}_音節切割.json"
-                with open(os.path.join(output_cut_folder, cut_filename), 'w', encoding='utf-8') as out_f:
-                    json.dump(cut_result_dict, out_f, ensure_ascii=False, indent=2)
+                    # --- 輸出 0: 切割結果 JSON (原始功能) ---
+                    cut_filename = f"{base_name}_音節切割.json"
+                    with open(os.path.join(output_cut_folder, cut_filename), 'w', encoding='utf-8') as out_f:
+                        json.dump(cut_result_dict, out_f, ensure_ascii=False, indent=2)
                 
-                # --- 輸出 1: 完整音節統計 ---
-                syl_stat_filename = f"{base_name}_音節統計.json"
-                sorted_syl = dict(syllable_counter.most_common())
-                with open(os.path.join(output_stat_folder, syl_stat_filename), 'w', encoding='utf-8') as out_f:
-                    json.dump(sorted_syl, out_f, ensure_ascii=False, indent=2)
+                    # --- 輸出 1: 完整音節統計 ---
+                    syl_stat_filename = f"{base_name}_音節統計.json"
+                    sorted_syl = dict(syllable_counter.most_common())
+                    with open(os.path.join(output_stat_folder, syl_stat_filename), 'w', encoding='utf-8') as out_f:
+                        json.dump(sorted_syl, out_f, ensure_ascii=False, indent=2)
 
-                # --- 輸出 2: 聲母統計 ---
-                ini_stat_filename = f"{base_name}_聲母統計.json"
-                sorted_ini = dict(initial_counter.most_common())
-                with open(os.path.join(output_stat_folder, ini_stat_filename), 'w', encoding='utf-8') as out_f:
-                    json.dump(sorted_ini, out_f, ensure_ascii=False, indent=2)
+                    # --- 輸出 2: 聲母統計 ---
+                    ini_stat_filename = f"{base_name}_聲母統計.json"
+                    sorted_ini = dict(initial_counter.most_common())
+                    with open(os.path.join(output_stat_folder, ini_stat_filename), 'w', encoding='utf-8') as out_f:
+                        json.dump(sorted_ini, out_f, ensure_ascii=False, indent=2)
 
-                # --- 輸出 3: 韻母統計 ---
-                fin_stat_filename = f"{base_name}_韻母統計.json"
-                sorted_fin = dict(final_counter.most_common())
-                with open(os.path.join(output_stat_folder, fin_stat_filename), 'w', encoding='utf-8') as out_f:
-                    json.dump(sorted_fin, out_f, ensure_ascii=False, indent=2)
+                    # --- 輸出 3: 韻母統計 ---
+                    fin_stat_filename = f"{base_name}_韻母統計.json"
+                    sorted_fin = dict(final_counter.most_common())
+                    with open(os.path.join(output_stat_folder, fin_stat_filename), 'w', encoding='utf-8') as out_f:
+                        json.dump(sorted_fin, out_f, ensure_ascii=False, indent=2)
 
-                # --- 輸出 4: 聲韻母合併統計 ---
-                merged_stat_filename = f"{base_name}_聲韻母合併統計.json"
-                sorted_merged = dict(merged_components_counter.most_common())
-                with open(os.path.join(output_stat_folder, merged_stat_filename), 'w', encoding='utf-8') as out_f:
-                    json.dump(sorted_merged, out_f, ensure_ascii=False, indent=2)
+                    # --- 輸出 4: 聲韻母合併統計 ---
+                    merged_stat_filename = f"{base_name}_聲韻母合併統計.json"
+                    sorted_merged = dict(merged_components_counter.most_common())
+                    with open(os.path.join(output_stat_folder, merged_stat_filename), 'w', encoding='utf-8') as out_f:
+                        json.dump(sorted_merged, out_f, ensure_ascii=False, indent=2)
                 
-                processed_count += 1
+                    processed_count += 1
                 
-            except json.JSONDecodeError:
-                print(f"❌ 格式錯誤 (JSON Decode Error): {input_file}")
-    else:
-        print(f"⚠️ 找不到檔案: {input_file}")
+                except json.JSONDecodeError:
+                    print(f"❌ 格式錯誤 (JSON Decode Error): {input_file}")
+        else:
+            print(f"⚠️ 找不到檔案: {input_file}")
 
-print("="*30)
-print(f"處理完成！共處理 {processed_count} 個檔案。")
-print(f"所有統計結果已存入: {output_stat_folder}")
+    print("="*30)
+    print(f"處理完成！共處理 {processed_count} 個檔案。")
+    print(f"所有統計結果已存入: {output_stat_folder}")
+
+
+if __name__ == "__main__":
+    main()

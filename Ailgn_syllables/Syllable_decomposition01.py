@@ -1,97 +1,58 @@
 import json
 import re
-import os
+import unicodedata
 
-def get_syllables(word):
-    """
-    拆解規則修正版:
-    1. 找出母音 (包含擬母音 Syllabic Nasal: 前面無母音的 n/ng)。
-    2. 切割規則：
-       - 如果核心是擬母音 (n/ng): 強制在該 n/ng 結束處切斷 (視為音節結尾)。
-       - 如果核心是標準母音: 
-         (a) 優先檢查後方是否有 n/ng 作為 Coda。
-         (b) 否則採用一般規則 (保留子音給下個音節)。
+VOWELS = frozenset('aeiouʉéɨ')
+CODAS = frozenset(('y', 'w', 'n', 'ng'))
+
+
+def get_syllables(word, *, preserve_case=False):
+    """以八個母音估計音節；韻尾 y/w/n/ng 後立即切開。
+
+    ng 視為單一單位。沒有緊接母音的 n/ng 保留為可獨立的子音
+    音節結尾；y/w 位於音節開頭時仍可接母音。其他音節沿用
+    母音間保留最後一個子音給下一音節的規則。韻尾後剩餘的
+    無母音片段獨立保留，不重新接回已結束的音節。
     """
     if not word:
         return []
-
-    word = word.lower()
-    vowels = set('aeiouʉéɨywx')
-    raw_parts = re.split(r'[ \-]+', word)
-    all_syllables = []
-
-    for part in raw_parts:
-        if not part: continue
-        
-        v_indices = []
-        skip_next = False 
-
-        for i, char in enumerate(part):
-            if skip_next:
-                skip_next = False
-                continue
-            if char in vowels:
-                v_indices.append(i)
-                continue
-            if part[i:i+2] == 'ng':
-                is_preceded_by_vowel = (i > 0 and part[i-1] in vowels)
-                if not is_preceded_by_vowel:
-                    v_indices.append(i)
-                skip_next = True 
-                continue
-            if char == 'n':
-                is_preceded_by_vowel = (i > 0 and part[i-1] in vowels)
-                if not is_preceded_by_vowel:
-                    v_indices.append(i)
-                continue
-
-        if not v_indices:
-            all_syllables.append(part)
+    word = unicodedata.normalize('NFC', word)
+    if not preserve_case:
+        word = word.lower()
+    syllables = []
+    for part in re.split(r'[\s-]+', word):
+        if not part:
             continue
-            
-        start_idx = 0
-        for i, current_v_idx in enumerate(v_indices):
-            end_idx = len(part)
-            is_syllabic = part[current_v_idx] not in vowels
-            
-            if is_syllabic:
-                if part[current_v_idx:current_v_idx+2] == 'ng':
-                    end_idx = current_v_idx + 2
-                else:
-                    end_idx = current_v_idx + 1
-            elif i + 1 < len(v_indices):
-                next_v_idx = v_indices[i+1]
-                if (current_v_idx + 2 < len(part)) and \
-                   (part[current_v_idx+1 : current_v_idx+3] == 'ng') and \
-                   (current_v_idx + 3 <= next_v_idx):
-                    end_idx = current_v_idx + 3
-                elif (current_v_idx + 1 < len(part)) and \
-                     (part[current_v_idx+1] == 'n') and \
-                     (current_v_idx + 2 <= next_v_idx):
-                    end_idx = current_v_idx + 2
-                else:
-                    cut_candidate = next_v_idx - 1
-                    if cut_candidate in v_indices or part[cut_candidate] in vowels:
-                        end_idx = next_v_idx
-                    else:
-                        end_idx = cut_candidate
-            
-            if end_idx < start_idx:
-                end_idx = start_idx
-
-            syllable = part[start_idx:end_idx]
-            if syllable:
-                all_syllables.append(syllable)
-            start_idx = end_idx
-            
-        if start_idx < len(part):
-            remainder = part[start_idx:]
-            if all_syllables:
-                all_syllables[-1] += remainder
+        # 先綁定 ng，避免切割點落在 n 與 g 之間。
+        tokens = re.findall(r'ng|.', part, flags=re.IGNORECASE)
+        lowered = [token.lower() for token in tokens]
+        nuclei = []
+        for i, token in enumerate(lowered):
+            if token in VOWELS:
+                nuclei.append(i)
+            elif token in ('n', 'ng') and (i == 0 or lowered[i - 1] not in VOWELS):
+                nuclei.append(i)
+        if not nuclei:
+            syllables.append(part)
+            continue
+        start = 0
+        for pos, nucleus in enumerate(nuclei):
+            if lowered[nucleus] in ('n', 'ng'):
+                end = nucleus + 1
+            elif nucleus + 1 < len(tokens) and lowered[nucleus + 1] in CODAS:
+                end = nucleus + 2
+            elif pos + 1 < len(nuclei):
+                following = nuclei[pos + 1]
+                end = following if following == nucleus + 1 else following - 1
             else:
-                all_syllables.append(remainder)
+                end = len(tokens)
+            if end > start:
+                syllables.append(''.join(tokens[start:end]))
+            start = end
+        if start < len(tokens):
+            syllables.append(''.join(tokens[start:]))
+    return syllables
 
-    return all_syllables
 
 def process_data_payload(data):
     """
@@ -105,14 +66,19 @@ def process_data_payload(data):
             for item in content["new_word"]:
                 fm_word = item.get("fm_word", "")
                 ch_semantic = item.get("ch_semantic", "")
-                if fm_word:
+                fm_words = fm_word if isinstance(fm_word, list) else [fm_word]
+
+                for current_fm_word in fm_words:
+                    if not isinstance(current_fm_word, str) or not current_fm_word:
+                        continue
+
                     # 取得音節列表 (全小寫)
-                    sylls = get_syllables(fm_word)
+                    sylls = get_syllables(current_fm_word)
                     
                     # 建立單字資料物件
                     word_entry = {
                         "chinese_word": ch_word,
-                        "amis_word": fm_word,       # 保留原始大小寫
+                        "amis_word": current_fm_word,  # 保留原始大小寫
                         "ch_semantic": ch_semantic,
                         "syllables": sylls,         # 音節陣列
                         "syllable_count": len(sylls)

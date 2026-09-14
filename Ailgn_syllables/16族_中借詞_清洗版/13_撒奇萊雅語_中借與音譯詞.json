@@ -1,24 +1,4 @@
 {
-    "碩士": {
-        "new_word": [
-            {
-                "fm_word": "sose",
-                "ch_semantic": "(中借)",
-                "dialect": []
-            }
-        ],
-        "source_year": "103"
-    },
-    "鄰長": {
-        "new_word": [
-            {
-                "fm_word": "linciw",
-                "ch_semantic": "(中借)",
-                "dialect": []
-            }
-        ],
-        "source_year": "103"
-    },
     "原文會": {
         "new_word": [
             {
@@ -32,28 +12,20 @@
     "紀念": {
         "new_word": [
             {
-                "fm_word": "kinin",
-                "ch_semantic": "(中借)",
+                "fm_word": [
+                    "kinin"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "103"
+        "source_year": "105"
     },
     "健保": {
         "new_word": [
             {
                 "fm_word": "cinpaw",
                 "ch_semantic": "(中借)",
-                "dialect": []
-            }
-        ],
-        "source_year": "103"
-    },
-    "捷運": {
-        "new_word": [
-            {
-                "fm_word": "ceyun",
-                "ch_semantic": "(中譯)",
                 "dialect": []
             }
         ],
@@ -72,42 +44,50 @@
     "網咖": {
         "new_word": [
             {
-                "fm_word": "wangka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "wangka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
-    "看板": {
+    "廣告": {
         "new_word": [
             {
-                "fm_word": "kampang",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kampang"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "發票": {
         "new_word": [
             {
-                "fm_word": "hapiyaw",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "hapiyaw"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "光碟": {
         "new_word": [
             {
-                "fm_word": "kungtiy",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kungtiy"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "便利商店": {
         "new_word": [
@@ -118,5 +98,29 @@
             }
         ],
         "source_year": "104"
+    },
+    "地方法院": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "huing"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "刷卡": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "suwat"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
     }
 }

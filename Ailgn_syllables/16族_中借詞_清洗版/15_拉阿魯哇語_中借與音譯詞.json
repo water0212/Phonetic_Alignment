@@ -1,9 +1,9 @@
 {
-    "網咖": {
+    "博士": {
         "new_word": [
             {
                 "fm_word": [
-                    "Wang Ka"
+                    "hakasi"
                 ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
@@ -11,11 +11,11 @@
         ],
         "source_year": "105"
     },
-    "廣告": {
+    "地方法院": {
         "new_word": [
             {
                 "fm_word": [
-                    "Kwang Kaw"
+                    "huingi"
                 ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []

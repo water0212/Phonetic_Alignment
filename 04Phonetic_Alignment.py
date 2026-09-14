@@ -241,7 +241,9 @@ class PhoneticAligner:
         if middle_part in ['0c', '0v']: 
             middle_part = ''
         
-        new_final = syl_base['final'] + middle_part + syl_append['final']
+        base_final = '' if syl_base['final'] == '0v' else syl_base['final']
+        append_final = '' if syl_append['final'] == '0v' else syl_append['final']
+        new_final = base_final + middle_part + append_final or '0v'
         new_pinyin = syl_base.get('pinyin', '') + syl_append.get('pinyin', '')
         return {
             'initial': syl_base['initial'],
@@ -250,7 +252,7 @@ class PhoneticAligner:
         }
 
     def refine_alignment(self, original_alignment):
-        current_alignment = original_alignment
+        current_alignment = list(original_alignment)
         merge_history = [] 
         
         while True:
@@ -323,9 +325,15 @@ class PhoneticAligner:
                         i += 1
                         continue
                         
-                    if delta_left >= delta_right:
+                    # 忽略顯示用的 0c/0v，依實際拼寫判斷落單音節。
+                    orphan_text = ''.join(
+                        orphan.get(key, '') for key in ('initial', 'final')
+                        if orphan.get(key, '') not in ('0c', '0v')
+                    ).lower()
+                    prefer_left = orphan_text.startswith(('y', 'w')) and merged_left_ts is not None
+                    if prefer_left or delta_left >= delta_right:
                         # 決定向左
-                        log_entry["decision"] = "向左合併"
+                        log_entry["decision"] = "向左合併(y/w開頭)" if prefer_left else "向左合併"
                         log_entry["merged_result"] = merged_left_ts['pinyin']
                         merge_history.append(log_entry)
                         

@@ -2,14 +2,16 @@
     "捷運": {
         "new_word": [
             {
-                "fm_word": "ziyun",
-                "ch_semantic": "(中譯)",
+                "fm_word": [
+                    "cieyun"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "103"
+        "source_year": "105"
     },
-    "禮拜": {
+    "星期": {
         "new_word": [
             {
                 "fm_word": "lipay",
@@ -22,54 +24,112 @@
     "網咖": {
         "new_word": [
             {
-                "fm_word": "wangka",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "wangka"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
-    "流籠": {
+    "纜車": {
         "new_word": [
             {
-                "fm_word": "liwlung",
-                "ch_semantic": "流籠(音譯)",
+                "fm_word": [
+                    "liwlung"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "發票": {
         "new_word": [
             {
-                "fm_word": "huapiaw",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "huapiaw"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
     "光碟": {
         "new_word": [
             {
-                "fm_word": "kuangtiye",
-                "ch_semantic": "音譯",
+                "fm_word": [
+                    "kuangtiye"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "105"
     },
-    "外交部": {
+    "水利局": {
         "new_word": [
             {
-                "fm_word": "wayciawpu",
-                "ch_semantic": "中譯",
+                "fm_word": [
+                    "suylikiyuk"
+                ],
+                "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
-        "source_year": "104"
+        "source_year": "106"
     },
-    "國有局": {
+    "觀光局": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kuwngkuwngkiyuk"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "公路局": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "kunglukiyuk"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "消防局": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "siawbangkiyuk"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "林務局": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "linliwku"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "106"
+    },
+    "國產局": {
         "new_word": [
             {
                 "fm_word": "kuyuci",
@@ -89,7 +149,7 @@
         ],
         "source_year": "104"
     },
-    "水利局": {
+    "水保局": {
         "new_word": [
             {
                 "fm_word": "suylici",
@@ -122,7 +182,9 @@
     "視訊": {
         "new_word": [
             {
-                "fm_word": "sesiyun",
+                "fm_word": [
+                    "sesiyun"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
@@ -132,11 +194,37 @@
     "微波爐": {
         "new_word": [
             {
-                "fm_word": "uypulu",
+                "fm_word": [
+                    "uypulu"
+                ],
                 "ch_semantic": "(音譯詞)",
                 "dialect": []
             }
         ],
         "source_year": "106"
+    },
+    "原住民": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "yan-cu-min"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
+    },
+    "影印機": {
+        "new_word": [
+            {
+                "fm_word": [
+                    "quppi"
+                ],
+                "ch_semantic": "(音譯詞)",
+                "dialect": []
+            }
+        ],
+        "source_year": "105"
     }
 }

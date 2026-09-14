@@ -85,7 +85,8 @@ def vote_alignment_individual():
                         # 邏輯：如果漢語聲母是 None 或空字串，視為 "0c"
                         target_ch_initial = initial_ch if initial_ch and initial_ch.strip() else "0c"
                         
-                        # 確保這個聲母在我們的 order 列表中才統計 (避免髒資料)
+                        # order 只決定顯示順序；自訂字典新增的聲母也必須計票。
+                        vote_count.setdefault(target_ch_initial, {})
                         if target_ch_initial in vote_count:
                             # 處理族語對應：如果是 None，視為 "0c"
                             t_init = tsou_initial if tsou_initial is not None else "0c"
@@ -100,7 +101,9 @@ def vote_alignment_individual():
                         # === 修改 3: 處理韻母 (包含 0v) ===
                         # 邏輯：如果漢語韻母是 None 或空字串，視為 "0v"
                         target_ch_final = final_ch if final_ch and final_ch.strip() else "0v"
-
+                        
+                        # 保留新字典的原始韻母寫法，例如 yuan、wang、u:。
+                        vote_count.setdefault(target_ch_final, {})
                         if target_ch_final in vote_count:
                             # 處理族語對應
                             t_final = tsou_final if tsou_final is not None else "0v"
