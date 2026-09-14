@@ -1,0 +1,722 @@
+{
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "takivagavagane'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka takivagavagane,tabekele ka tarakauaungu.",
+        "ch_sentence": "人事室的工作人員很少。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "takisulrasulravane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sa lailailai ka lasu,mwa adreke si kadula,la iluku iniane ka singsi mwa takisulrasulravane kisulrau.",
+        "ch_sentence": "他在跑步的時摔傷了，老師帶他到保健室治療。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "takaigigiane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka la singsi lrimua takaigigiane kaigi.",
+        "ch_sentence": "老師們要去會議開會。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "takadrekadrengane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pa swalanai mua takadrekadrengane kipacase, ala kipaubangalre mudane gaku.",
+        "ch_sentence": "我們先在警衛室登記才獲准進入學校。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "taigaigane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "madadalamenganai ikai taigaigane kibulru.",
+        "ch_sentence": "我們最喜歡在視聽教室上課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "suababulruane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka singsi nai wamua ki swa babulruane madradrekase ki siwningi.",
+        "ch_sentence": "老師去教務處找主任商量。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "takipaulecelecegane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai dramare kai,ka takipaulecelecegane lri paka lrwalrumale mitaane abubulru.",
+        "ch_sentence": "這個月學務處要舉辦說故事比賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "suatakeLretane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lu mua ki swa takelretane malra ku la saswaswapane amiya ka singsita.",
+        "ch_sentence": "老師叫我們到總務處領取清潔用具。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "takitumasane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "luki pa kwalriane kai ki dremedreme madu, wa mua madu taki tumasane la kisasa.",
+        "ch_sentence": "心理憂傷的時候要去輔導室尋求安慰。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "tahunguane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ikai tahunguane, sia lrigu madu ku makalra ku hungu, si laki salru madu iluku putavanane.",
+        "ch_sentence": "在圖書館可以閱覽很多的書籍，也可以借書帶回家。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "takivavavangane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "swatiki kai takivavanganenai",
+        "ch_sentence": "我們的操場很小。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "taubelebelengane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kadrwa ku taubelebelengane kai danenai",
+        "ch_sentence": "我們住的房子沒有樓梯間。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "nikai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yakai nikai ku danenai.",
+        "ch_sentence": "我們家在二樓"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "ruka",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "malragi kai ruka kai gaku.",
+        "ch_sentence": "學校走廊很長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "makadringane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kadrwa ku makadringane ki danenai.",
+        "ch_sentence": "我們家沒有地下室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "tagaane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "walrevanai mutagaane kane ku aga.",
+        "ch_sentence": "我們很少去餐廳吃飯。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "tarangcingcivane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka tarangcingcivane gaku niarakaiyane ku kabane tudane.",
+        "ch_sentence": "學校籃球場是用鐵皮加蓋的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "tapangcingcivane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai cekelenai kadrwa ku tapangcingcivane.",
+        "ch_sentence": "部落沒有棒球場"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "suakusiki",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai suakusiki yakai Kabalelradhane cekele.",
+        "ch_sentence": "鄉內的戶政事務所在神山部落"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "apasikaiane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai apasikaiyane kaungu ki cekeLe kyarakete madu.",
+        "ch_sentence": "部落的服務工作要積極"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務台": {
+    "new_word": [
+      {
+        "fm_word": "tapasikaikaiyane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lwikaiyane ki tapsikaikaiyane ngyadademele madu silaimai.",
+        "ch_sentence": "坐在服務台穿著要體面。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "sapakalringkingane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yakai isisiu ku sapakalringkingane lukacaemane.",
+        "ch_sentence": "到衛生所看病時備有急診服務鈴"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "ingkang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lu malalangadhane ku daane arakay madu ku kahangeane patuthingale.",
+        "ch_sentence": "買賣房屋要用印鑑作證。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "nibungsiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lu darurunga ki mangeale si lrima ka caili,wamalranga madu ku nibungsiu.",
+        "ch_sentence": "到了十五歲才可已申請身分證。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "tuki",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lulrikisingkivane ki guciw watuki madu mu gukusiu.",
+        "ch_sentence": "參選鄉長必須到鄉公所登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "muadane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai caili kai lrimuadaane mu Akau ku kusuki ki umu.",
+        "ch_sentence": "今年爺爺的戶籍要遷入屏東。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "patalula",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tuapelaku ku taikaikai yaneli, lai kipacasaku patalula. ",
+        "ch_sentence": "我已更改了新的住址，所以要辦理遷出。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "sialalake",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "silalakeke ku vaeva ku ababai sa kaimakatulalake ku takaru dranganelini.",
+        "ch_sentence": "結婚已久的夫妻，因為未生育，所以收養了一個女孩。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "wasingsi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lulangadhane ku didiwsa wasingsi madu tu zalsange.",
+        "ch_sentence": "購買車輛要申請財產登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "wasupilri",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "wasupilringa ku takipacasane, amani sangilribatenga ku tasingsingsiane.",
+        "ch_sentence": "申請期限已過，所以要註銷資料。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "pasualanga",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ku akisulravaneli lubibilrili pasualangaku ku zikange.",
+        "ch_sentence": "下回看病的日期我已經預約好了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "sangbasang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sualraelrapelane turamuru lukaungu ka sangbasang lakikadalame.",
+        "ch_sentence": "護理師的工作態度和藹可親，讓人喜愛。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "kanggusange",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kiasamula turamuru lu kaungu ka kanggusange lakiusakene.",
+        "ch_sentence": "護理工作盡責受人尊敬"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "tasulrasulravane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "macaeme ku ama, lamubiwingi si mua tasulrasulravane kisulrau.",
+        "ch_sentence": "爸爸因病住院，在診療室治療。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "takuahahavane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lu mubiwingane kisulrau,paswalanamadu mua takuahahavane kuahau.",
+        "ch_sentence": "到醫院看診，要先到掛號室掛號。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "tapathuthuthuane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ku kaka yakai tapathuthuthuane pathuthuthu ki daini .",
+        "ch_sentence": "在哺乳室哺乳嬰兒"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "tatucucukane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ku dingva tatucucukane lrimaka kisalrumadu?",
+        "ch_sentence": "值班室的電話可以借用嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "takicucuikane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sana mudanaku ki takicuicuikane,mabithengelraku.",
+        "ch_sentence": "我一進入注射室就頭暈"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "takipaungdungduane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ka takipaungdungduane tapangale ku umawmase ku waungdngdu.",
+        "ch_sentence": "復健室有許多人在做復健。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "takikingsaisane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kaidu wacapange mudane ki takikingsaisane.",
+        "ch_sentence": "不可以隨便進入檢驗室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "tasasulravanane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lu malrane ku sasulravane wamwamadu tasasulravanane ",
+        "ch_sentence": "拿藥要到藥局"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kiakingsa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lu arukadrau ku cailimadu,aru tuakucingaLremadu kikai kiakingsa. ",
+        "ch_sentence": "年紀越大，健康檢查更重要。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "ngalruthu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai ngalruthu wasaela ku caemane, lakaidu sungalray capange.",
+        "ch_sentence": "口腔黏膜也是病毒傳染媒介，所以不可隨地吐痰"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "yubuciusa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai tarudraudrange si lavavalake lri kicuiki ki yubuciusa.",
+        "ch_sentence": "老人小孩都要打流感預防針"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "muancaemane",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kai kwisang tualai ki duku ki macaeme muaricaemane, thingale ku pakacaeme iniane.",
+        "ch_sentence": "醫師從病人身上取出病毒篩檢，以判定病因"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "'arukuru",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lulri cwikane paswalanamadu arakai ku arukuru sakkidri ku baikingi.",
+        "ch_sentence": "你打針前要用酒精消毒。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "tengkere",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "luswapane lripethele lralringulane, kaidu kiapucaemane ki tengkere.",
+        "ch_sentence": "清掃整理周遭環境，可以防止登革熱傳染"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "kiacaeme",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lu taulrimalrimane pakabula lrimaka kidailimadu ki kiacaeme ki barange.",
+        "ch_sentence": "常洗手可以遠離腸病毒"
+      }
+    ],
+    "source_year": "108"
+  }
+}

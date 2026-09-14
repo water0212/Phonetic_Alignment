@@ -1,0 +1,262 @@
+{
+  "傳統領域": {
+    "new_word": [
+      {
+        "fm_word": [
+          "auesisihupa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "媒體": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leevaho"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "紀念": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ta'voveia"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "藝術家": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lesmohsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "影印機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmas'onko"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mahiz'o",
+          "mahi'o"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "特富野",
+          "達邦"
+        ]
+      }
+    ],
+    "source_year": "105"
+  },
+  "化石": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmufatu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tosmʉyʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "志工": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leto'unu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "初賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "teshoi",
+          "toohoi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "達邦",
+          "特富野"
+        ]
+      }
+    ],
+    "source_year": "105"
+  },
+  "決賽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tootavey",
+          "teestotavey"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "特富野",
+          "達邦"
+        ]
+      }
+    ],
+    "source_year": "105"
+  },
+  "碩士": {
+    "new_word": [
+      {
+        "fm_word": [
+          "soosʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "高速公路": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ceono-smomacongo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "纜車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ayavisi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "廣告": {
+    "new_word": [
+      {
+        "fm_word": [
+          "psoyom'a"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "保存期限": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nococ'xha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "專賣店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemomhino"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "購物頻道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taomia",
+          "momhino"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "獎品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hnoo",
+          "tohnoi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "戶籍": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oyona"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la asansana na tposʉ no 'oyona ta macicihi",
+        "ch_sentence": "要清楚每個人的戶籍"
+      }
+    ],
+    "source_year": "105"
+  }
+}

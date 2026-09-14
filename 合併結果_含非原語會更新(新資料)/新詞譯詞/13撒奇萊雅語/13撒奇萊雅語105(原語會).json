@@ -1,0 +1,91 @@
+{
+  "紀念": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinin"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "紀念"
+  },
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wangka"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "網咖"
+  },
+  "廣告": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kampang"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "廣告"
+  },
+  "發票": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hapiyaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "發票"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungtiy"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  },
+  "刷卡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suwat"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

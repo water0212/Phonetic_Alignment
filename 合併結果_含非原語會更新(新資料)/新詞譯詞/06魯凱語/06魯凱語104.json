@@ -1,0 +1,24 @@
+{
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "swa laupauci",
+        "ch_semantic": "音譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "勞保局"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "swa suipauci",
+        "ch_semantic": "音譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "水保局"
+  }
+}

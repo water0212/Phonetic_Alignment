@@ -1,0 +1,938 @@
+{
+  "千萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "posipopsohx posimaskx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "工讀生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aasvtx yaahioa ci oko no tmopsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "中央部會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu 'oyona tmopsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "公職人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "senkioa ci 'oyona tmopsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "文件夾": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sko'eapco matpotposx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "毛筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yam'um'a ci yomiatmopsʉ"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "主播": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhcu lemo'engho"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leto'unu tmotmopsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理孕母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "to'unu mahmahfo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leto'unu momhino"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "出納員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemofi yuapsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "外籍生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmopsx ci oko no h'unasi hpxhpxhpxngx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "必修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhca aiti ci tposx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "交換生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yupa mexe ci oko no tmopsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "全職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atuhca hioa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "宅配人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemahafo macucuma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "百萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "se'conia no posimaskx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "耳機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa tmasansano"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "行動電源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titha po'unu tenki"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "助理": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leto'unu moyai tposx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "吹風機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa tmapeapo f'xsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "快遞人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mayahe ci lemahafo macucuma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "批發業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemomhino ma'maica"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "投影機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiaki no thou'in"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "更生人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "poyafa ci oho poekotva"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "受刑人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "poekotva ci yatatiskova"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "房仲業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemomhino emoo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "房東": {
+    "new_word": [
+      {
+        "fm_word": [
+          "himho emoo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "房務人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemoyai hopo no liokan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "直系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cono hmuyu ci 'oahngx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "空服員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leyahioa emoo no toesoso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "金融業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leaxt'xcx peisu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "便利貼": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sonx ci topceni"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "保母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leaxt'xcx 'o'oko"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "保險員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leeahioa no pao-sien"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "兼職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "peisvavov'o ci hioa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "旁系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ea 'oahngx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "消防員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemot'afso puzu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "烘衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa oemi'mi ci kiaki"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "留學生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uhno h'unasi hpxhpxngx ho tmopsx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "畜牧業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leaxt'xcx snosnoecavx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "秘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leto'unu yaahioai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "迴紋針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sko'eapco ci memeno"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒測器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titha smʉfʉtʉx no hia moyomo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "副教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fuku kiozi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "掃描機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no saomiao"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "教練": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lema'cohio peistothomx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "創業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "moyai hi'hioa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "測謊器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titha smʉfʉtʉ no hia efnaso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "街友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uk'a emoo ci yatatiskova"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳真機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no chancxn"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳播業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lekoabochio na 'a'ausna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "新住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "faeva ci mopungu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "暖氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koa noyano ci kikai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "滅火器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titha mot'afso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "零售業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "momhino ma'maica"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "電子工業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titneki ci hioa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "電扶梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titenki ci p'etotonga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "電動機車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titenki ci 'otovai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "電磁爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titenki ci so'eoi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "監考員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lepocengi hxsfxta"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "監護人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leaxt'xcx mahsxsxftx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "製造業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemoyai macucuma"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "領隊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemahafo bobaito"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "億": {
+    "new_word": [
+      {
+        "fm_word": [
+          "posimaskx no posimaskx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "養": {
+    "new_word": [
+      {
+        "fm_word": [
+          "axt'xcx ci"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "學歷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hia tmac'xhi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "導演": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lemoyai 'einga"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "機師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lepoxt'xcx emoo no toesoso"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "燒錄機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no saolu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "選修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "epei no aiti ci tposx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "應徵者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ea note hioa ci cou"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "翻譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "le ma'cinghi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "獸醫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leaothomx snosnoecavx"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "to'unu esansano"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "護貝機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no hupei"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "讀卡機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikai no tuukha"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  },
+  "觀光業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "leahioa no bobaito"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "108"
+  }
+}

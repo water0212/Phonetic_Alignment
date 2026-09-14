@@ -1,0 +1,99 @@
+[
+    {
+        "chinese": "捷運",
+        "ch_semantic": "(中譯)",
+        "pinyin_info": [
+            "c,e",
+            "0c,y",
+            "0c,un"
+        ],
+        "dict_pinyin": [
+            "j,ie",
+            "0c,ㄩn"
+        ]
+    },
+    {
+        "chinese": "手機",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "s,o",
+            "c,i"
+        ],
+        "dict_pinyin": [
+            "sh,ou",
+            "j,i"
+        ]
+    },
+    {
+        "chinese": "化學",
+        "ch_semantic": "(中譯)",
+        "pinyin_info": [
+            "h,w",
+            "0c,a",
+            "s,y",
+            "0c,e"
+        ],
+        "dict_pinyin": [
+            "h,ua",
+            "x,ㄩe"
+        ]
+    },
+    {
+        "chinese": "地方法院",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "h,o",
+            "’,ing"
+        ],
+        "dict_pinyin": [
+            "d,i",
+            "f,ang",
+            "f,a",
+            "0c,ㄩan"
+        ]
+    },
+    {
+        "chinese": "電腦網路",
+        "ch_semantic": "電腦網路 (中譯)",
+        "pinyin_info": [
+            "t,en",
+            "n,0v",
+            "0c,a",
+            "0c,w",
+            "0c,w",
+            "0c,ang",
+            "l,u’"
+        ],
+        "dict_pinyin": [
+            "d,ian",
+            "n,ao",
+            "0c,uang",
+            "l,u"
+        ]
+    },
+    {
+        "chinese": "光碟",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "k,w",
+            "0c,ang",
+            "t,e"
+        ],
+        "dict_pinyin": [
+            "g,uang",
+            "d,ie"
+        ]
+    },
+    {
+        "chinese": "電影",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "0c,e",
+            "g,a’"
+        ],
+        "dict_pinyin": [
+            "d,ian",
+            "0c,ing"
+        ]
+    }
+]

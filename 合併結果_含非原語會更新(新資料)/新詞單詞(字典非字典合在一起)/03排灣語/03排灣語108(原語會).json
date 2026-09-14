@@ -1,0 +1,646 @@
+{
+  "中央部會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciuyubukay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "公克": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungke"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "公噸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungtun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "毛筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hudi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代表會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daihiyukay",
+          "taipiyauhuy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "daysiu",
+          "daysiw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "半徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasasivatj"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "平板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinpan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "兆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "caw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "百分比": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasasuiday"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "克拉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kela"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "助理": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tarang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "投影機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tu'ingci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房東": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kapuuma'an",
+          "'apuumaqan",
+          "puumaq",
+          "kapuumaqan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "法官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huakuan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "直系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kasinevalitan",
+          "sinivalitan",
+          "kasevalitan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、東",
+          "中",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "直轄市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cesiyase"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paumu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保險員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hoki'ing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "husiuning"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "律師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lise"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "旁系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjinuljaran"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "消防員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siubu'ing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "消保官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siuhukang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東、南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "留學生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "liugakusyi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "秘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rutarevan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "副教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huciawsu",
+          "fuciawsu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "基金會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikingkay",
+          "cicinhuy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中",
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "掃描機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "saumiyawci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciawsu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "教練": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciawlin"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "替代役": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titay'i"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "黑板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kukubang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳真機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuwancenci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "會計師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaikisinsi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電磁爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tiencelu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "僑生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciauseng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養子女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinanalja'",
+          "sinanaljak"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "中",
+          "北、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "學歷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinituluanan",
+          "'inituluanan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "燒錄機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sauljuci",
+          "sauluci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢察官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kansackang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東、南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pupinacunan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rutavangan",
+          "rutjavangan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "gusisinsi",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izua gusi-sinsi i 'i-si-siu.",
+        "ch_sentence": "衛生所有護理師",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  }
+}

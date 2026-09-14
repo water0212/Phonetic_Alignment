@@ -1,0 +1,182 @@
+{
+  "門檻": {
+    "new_word": [
+      {
+        "fm_word": "sinnualan",
+        "ch_semantic": "同意的點",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "kmloh",
+        "ch_semantic": "收成",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀": {
+    "new_word": [
+      {
+        "fm_word": "qnabu’",
+        "ch_semantic": "獎賞",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "sn’iyal",
+        "ch_semantic": "豪雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": "khu’",
+        "ch_semantic": "倉庫",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "單位": {
+    "new_word": [
+      {
+        "fm_word": "kki’an",
+        "ch_semantic": "工作單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "gaga’",
+        "ch_semantic": "習俗，律法",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "規範": {
+    "new_word": [
+      {
+        "fm_word": "gaga’",
+        "ch_semantic": "規範",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "qinbaqan",
+        "ch_semantic": "所經驗的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "基礎": {
+    "new_word": [
+      {
+        "fm_word": "puqing",
+        "ch_semantic": "根基，源頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核定": {
+    "new_word": [
+      {
+        "fm_word": "sinnwalan",
+        "ch_semantic": "允許,答應",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "rehay",
+        "ch_semantic": "天",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "rmur",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "殖民者": {
+    "new_word": [
+      {
+        "fm_word": "mlahang",
+        "ch_semantic": "殖民",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "ppqwas",
+        "ch_semantic": "唱歌的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "pspung",
+        "ch_semantic": "裁判",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "gmwayaw",
+        "ch_semantic": "選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "qinbaqan",
+        "ch_semantic": "所會的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

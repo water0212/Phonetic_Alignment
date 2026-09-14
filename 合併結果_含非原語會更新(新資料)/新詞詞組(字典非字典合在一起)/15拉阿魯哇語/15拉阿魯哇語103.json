@@ -1,0 +1,156 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "maiatuhluhlu cucu vulunga",
+        "ch_semantic": "照顧原住民的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "電車": {
+    "new_word": [
+      {
+        "fm_word": "likihli umarua hluvu'u",
+        "ch_semantic": "使用充電的車",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "palanhaha shiqamish",
+        "ch_semantic": "衝浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "calinga ahlingu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "kiu'u hlimuahlusu",
+        "ch_semantic": "漂流的木頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sahlumu marauruhla"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "hlingua'u taisa",
+        "ch_semantic": "大的浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "ucani taluavaulana",
+        "ch_semantic": "一個休息(循環)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "hlitakumia cucu'u",
+        "ch_semantic": "表現的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "macahlia pahlusahli",
+        "ch_semantic": "很會唱歌的(人)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "ikaru muakamuhlu",
+        "ch_semantic": "臨時的工人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "cucuucani taruana",
+        "ch_semantic": "一群人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": "takacicihli makialangu",
+        "ch_semantic": "自己準備",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "acahlisa mumua",
+        "ch_semantic": "他全部會",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "網路": {
+    "new_word": [
+      {
+        "fm_word": "sarapu tenau",
+        "ch_semantic": "網子的電腦",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

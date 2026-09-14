@@ -1,0 +1,257 @@
+{
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "yoyasva",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lamia yonto yoyasva ho peispak'i",
+        "ch_sentence": "我們在操場上玩"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "hocnguha",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yonta peohna ta hocnguha ho pasunaeno",
+        "ch_sentence": "在走廊下唱歌"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "'inka",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "teav'a payo'a 'o 'inka",
+        "ch_sentence": "不要將印鑑遺失"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "tposi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "man'i 'ote tposi ci tposʉ",
+        "ch_sentence": "要登記很多文件"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "tma'usnu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mohta tma'usnu ne mohin'icu navconga",
+        "ch_sentence": "她結婚後遷入"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "tmayafo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mohta la tmayafo ne teta toposʉ",
+        "ch_sentence": "他因為讀書而遷出"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "tmaezuhu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "momiacu noana'o huomia zoman' i ta emoo",
+        "ch_sentence": "我們很早就住址變更"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "m'eothomʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uhta 'oyonatmopsʉ ho m'eothomʉ note ceonʉ",
+        "ch_sentence": "到公家單位申請道路"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "afsusa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "afsusa 'o ngko taini",
+        "ch_sentence": "把他的名字註銷"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "toezuhi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "o'ala 'ahʉya asngʉca toezuhi 'e ongko",
+        "ch_sentence": "不需要一直改名"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "eoca",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "eoca na tena hia poa baito",
+        "ch_sentence": "預約下次的檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "lepoʉsʉsʉzʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "a haocngʉ 'o lepoʉsʉsʉzʉ",
+        "ch_sentence": "保健員是男性"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "kanvofu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mitacu nona'o ho mita kanvofu",
+        "ch_sentence": "他當護士很久了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "tmoh'a'ausna",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "zunga na tmoh'a'ausna ta emoo",
+        "ch_sentence": "把房子的平面配置圖畫下來"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "yoahmuyu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la yoahmuyua hote poa aitneni 'e feango",
+        "ch_sentence": "檢查身體要抽血"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "epei",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la epei namo koakuzo ta feango",
+        "ch_sentence": "把身體有害的東西篩檢出來"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "esoskungi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aeno mo'eocʉ 'ola koa esoskungi",
+        "ch_sentence": "蚊子是造成登革熱的原因"
+      }
+    ],
+    "source_year": "108"
+  }
+}

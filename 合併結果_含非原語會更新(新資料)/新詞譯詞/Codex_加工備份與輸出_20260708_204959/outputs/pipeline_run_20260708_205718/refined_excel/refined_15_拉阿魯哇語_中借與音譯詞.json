@@ -1,0 +1,75 @@
+[
+    {
+        "chinese": "博士",
+        "ch_semantic": "(音譯詞)",
+        "original_pinyin_ch": [
+            "b,uo",
+            "sh,0v"
+        ],
+        "original_pinyin_ts": [
+            "h,a",
+            "k,a",
+            "s,i"
+        ],
+        "original_tsou_word": "hakasi",
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "b",
+                    "final": "uo",
+                    "pinyin": "buo"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "aka",
+                    "pinyin": "haka"
+                }
+            },
+            {
+                "status": "已匹配",
+                "chinese_syllable": {
+                    "initial": "sh",
+                    "final": "",
+                    "pinyin": "sh"
+                },
+                "tsou_syllable": {
+                    "initial": "s",
+                    "final": "i",
+                    "pinyin": "si"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "地方法院",
+        "ch_semantic": "(音譯詞)",
+        "original_pinyin_ch": [
+            "d,i",
+            "f,ang",
+            "f,a",
+            "0c,ㄩan"
+        ],
+        "original_pinyin_ts": [
+            "h,u",
+            "0c,ing",
+            "0c,i"
+        ],
+        "original_tsou_word": "huingi",
+        "alignment": [
+            {
+                "status": "已匹配(合併)",
+                "chinese_syllable": {
+                    "initial": "",
+                    "final": "ㄩan",
+                    "pinyin": "ㄩan"
+                },
+                "tsou_syllable": {
+                    "initial": "h",
+                    "final": "uingi",
+                    "pinyin": "huingi"
+                }
+            }
+        ]
+    }
+]

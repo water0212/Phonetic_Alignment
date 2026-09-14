@@ -1,0 +1,23 @@
+{
+  "output_excel": "C:\\Users\\water\\Desktop\\專題\\Phonetic_Alignment\\合併結果_含非原語會更新\\新詞譯詞\\Codex_加工備份與輸出_20260708_204959\\outputs\\pipeline_run_20260708_205718\\vote_result\\16族發音對照總表.xlsx",
+  "json_files": 16,
+  "tribe_ids": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+  ],
+  "rows": 61
+}

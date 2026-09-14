@@ -1,0 +1,214 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "kamamiyalawa’",
+        "ch_semantic": "專門守護的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "kapatawawan",
+        "ch_semantic": "做事情的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "kaSakira:a'an",
+        "ch_semantic": "標記",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": "mapono'",
+        "ch_semantic": "(有生命的)病毒",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "hayza'rawaSek",
+        "ch_semantic": "有休假在家(男: 失業/生病)(女: 生產)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀": {
+    "new_word": [
+      {
+        "fm_word": "sasa'oe'",
+        "ch_semantic": "要送給人的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "鄉公所": {
+    "new_word": [
+      {
+        "fm_word": "to'oya'",
+        "ch_semantic": "單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "kinra:man",
+        "ch_semantic": "我所了解.知道的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "pinama'",
+        "ch_semantic": "所背負的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "基礎": {
+    "new_word": [
+      {
+        "fm_word": "kar'ar",
+        "ch_semantic": "地基",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "kaSangayan",
+        "ch_semantic": "星期",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "kominSika:",
+        "ch_semantic": "推開",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "ka'iya'azeman",
+        "ch_semantic": "要防備注意的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "kamapaSta'ay",
+        "ch_semantic": "專屬做野台戲的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "kamamato:l",
+        "ch_semantic": "唱歌的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "kamasempeng",
+        "ch_semantic": "衡量的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "pawhi:il",
+        "ch_semantic": "挑選",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "tatoe'roe'",
+        "ch_semantic": "學習",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "kinra:amam",
+        "ch_semantic": "知道很多",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "tibae:aew",
+        "ch_semantic": "賣",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "balayan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "tloongan tawsu",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan so sslingan de, osa smiling mptgesa ga tloongan tawsu hiya.",
+        "ch_sentence": "有事可以到導師室找老師溝通。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Niqan ka ddaun u tduwa musa pprngaw mptusa tlungan qmpringan mptusa.",
+        "ch_sentence": "有事可以到導師室找老師溝通。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Nasi niqan srngaw su kari o usa tleengan emptgsa miing emptgsa mpprngaw.",
+        "ch_sentence": "有事可以到導師室找老師溝通。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "導師辦公室"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "tloongan kozun-cyawsu",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Osa smkesik tloongan kozun-cyawsu hiya ka yamu.",
+        "ch_sentence": "你們去掃科任教師室吧！",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Sai smsik ka tlungan mpsruway mptusa hiya pa.",
+        "ch_sentence": "你們去掃科任教師室吧！",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Usa smksik tleengan empsruway mtgsa.",
+        "ch_sentence": "你們去掃科任教師室吧！",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "科任教師辦公室"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "hucung-suuso",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Maha ku mangal patis tnsapah hucung-suuso.",
+        "ch_sentence": "我要去戶政事務所拿戶籍謄本。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Musa ku mangal patas tnsapah mu hucng suwso.",
+        "ch_sentence": "我要去戶政事務所拿戶籍謄本。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Musa ku mangal patas tnsapah mu hucng seuswo.",
+        "ch_sentence": "我要去戶政事務所拿戶籍謄本。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "戶政事務所"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "wesungso",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul riyung mosa pbetaq qumi ma, mangal iyu wesungso ka seediq alang miyan.",
+        "ch_sentence": "我們部落的族人很喜歡到衛生所打針、拿藥。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Smkuxul bay musa pbetaq mi mangal iyu wesngswo ka sediq alang.",
+        "ch_sentence": "我們部落的族人很喜歡到衛生所打針、拿藥。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Smkuxul bi musa tbitaq ni mangal iyug weysungswo ka dseejiq alang.",
+        "ch_sentence": "我們部落的族人很喜歡到衛生所打針、拿藥。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "衛生所"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "huricang",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Asi ka niqan huricang ka sapah mqita mnarux.",
+        "ch_sentence": "醫院都要有護理長",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Kngkingal spuhan niqan mdudul mpqlahang mnarux kana.",
+        "ch_sentence": "醫院都要有護理長",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Asi ka niqan huscang ka sapah spuhan.",
+        "ch_sentence": "醫院都要有護理長",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "護理長"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "ingyangsu",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan pnbleqan na hei seediq ka uuqun pnsraman ingyangsu.",
+        "ch_sentence": "營養師的配膳可讓人吃出健康。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Ndaan snpngan uuqun ingyangsu nii u, pskbiyax bay hiyi sediq.",
+        "ch_sentence": "營養師的配膳可讓人吃出健康。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Mpqlahang pkbiyax hiyi dseejiq ka ingyangse ksun.",
+        "ch_sentence": "營養師的配膳可讓人吃出健康。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "營養師"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "pingmen-pecutu",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Niqan pingmen-pecutu ka knkingal tnunan sapah paru.",
+        "ch_sentence": "大型建築物的每個樓層都會有平面配置圖。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Niqan pntasan pklaan nniqan kana ka kngkingl tntunan paru pnphiyu.",
+        "ch_sentence": "大型建築物的每個樓層都會有平面配置圖。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Ida niqan pingmeyn peyctu kana ka kngkingal tnunan sapah paru.",
+        "ch_sentence": "大型建築物的每個樓層都會有平面配置圖。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "平面配置圖"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "cyocing",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ngalan smerus ccahu ka cyocing nii.",
+        "ch_sentence": "酒精可以做為消毒之用。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Tduwa diyun pkuka ccahu ka sinaw pkngatun cahu.",
+        "ch_sentence": "酒精可以做為消毒之用。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Ida ngalan smrus sahu ka cyowcing ksun.",
+        "ch_sentence": "酒精可以做為消毒之用。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "酒精"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "tungkozo",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pneeyah qnyutan kui preko ka pusa na tungkozo nii.",
+        "ch_sentence": "登革熱的病源來自蚊蟲的叮咬。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Pusu pnrdingan narux tngkeje u, pnyahan qnyutan kuwi preykay ka pusu na.",
+        "ch_sentence": "登革熱的病源來自蚊蟲的叮咬。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Ida pnaaha qniyuc prekaw ka narux tngkeje ksun.",
+        "ch_sentence": "登革熱的病源來自蚊蟲的叮咬。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "登革熱"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "cangpingtu",
+        "dialect": "Tg",
+        "ch_semantic": "直譯"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Asi ka mdrumuc trima baga ini angal mnarux kesun cangpingtu.",
+        "ch_sentence": "勤洗手才不會得腸病毒。 腸病毒很可怕，要勤洗手。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Mdrumuc trima bawa u, ini tduwa rui cangpingtu.",
+        "ch_sentence": "勤洗手才不會得腸病毒。 腸病毒很可怕，要勤洗手。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Mdrumuc trima baga do kika uxay phnarux cangpingtu.",
+        "ch_sentence": "勤洗手才不會得腸病毒。 腸病毒很可怕，要勤洗手。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108",
+    "chinese": "腸病毒"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "總統府": {
+    "new_word": [
+      {
+        "fm_word": [
+          "congtongfu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "總統府"
+  },
+  "行政院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "singcʉngien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "行政院"
+  },
+  "立法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rifaien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "立法院"
+  },
+  "司法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sʉfaien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "司法院"
+  },
+  "考試院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kausʉien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "考試院"
+  },
+  "監察院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciencaien"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "監察院"
+  },
+  "外交部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uaiciaupuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "外交部"
+  },
+  "內政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "necʉngpuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "內政部"
+  },
+  "財政部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "caicʉngpuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "財政部"
+  },
+  "經濟部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cingcipuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "經濟部"
+  },
+  "法務部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fa'upuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "法務部"
+  },
+  "交通部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciautungpuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "交通部"
+  },
+  "國防部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuofangpuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "國防部"
+  },
+  "文化部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uʉnhuapuu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "文化部"
+  },
+  "體育署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ti'isu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "體育署"
+  },
+  "警政署": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cingcʉngsu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "警政署"
+  },
+  "水利局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suirici"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "水利局"
+  },
+  "觀光局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuankuangci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "觀光局"
+  },
+  "公路局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungruci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "公路局"
+  },
+  "消防局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siaufangci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "消防局"
+  },
+  "林務局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rin'uci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "林務局"
+  },
+  "智慧財產局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cʉhuicaicanci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "智慧財產局"
+  },
+  "中央氣象局": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cungiangcisiangci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "中央氣象局"
+  },
+  "就業服務站": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciuiefu'ucan"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "就業服務站"
+  },
+  "原住民特考": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iencumintʉkau"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "原住民特考"
+  },
+  "內科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nekʉʉ"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "內科"
+  },
+  "外科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uaikʉʉ"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "外科"
+  },
+  "婦產科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fucankʉʉ"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "婦產科"
+  },
+  "精神科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cingsxnkʉʉ"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "精神科"
+  },
+  "復健科": {
+    "new_word": [
+      {
+        "fm_word": [
+          "fucienkʉʉ"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "復健科"
+  },
+  "輪椅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ruxni"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "輪椅"
+  },
+  "溫度計": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uʉntucii"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "溫度計"
+  },
+  "救護車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciuhucx"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "救護車"
+  },
+  "血壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sieiaa"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "血壓"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kurisimasu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "聖誕節"
+  }
+}

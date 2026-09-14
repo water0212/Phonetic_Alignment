@@ -1,0 +1,122 @@
+{
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "koosi",
+        "ch_semantic": "公司(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公司"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "burozeki’",
+        "ch_semantic": "流氓(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "幫派"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "powising",
+        "ch_semantic": "氨肥(客譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學肥料"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "wanglo’",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  },
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wangka:"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "網咖"
+  },
+  "纜車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "liwlong"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "纜車"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Siti:"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": "likepay",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "立可白"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "haypaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "海報"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koriSmaS"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "聖誕節"
+  }
+}

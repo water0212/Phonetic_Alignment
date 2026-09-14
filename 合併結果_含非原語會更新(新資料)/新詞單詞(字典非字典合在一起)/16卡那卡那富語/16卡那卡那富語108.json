@@ -1,0 +1,212 @@
+{
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "tarapana'a",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vanai ni'nmu'ʉcanu mʉʉrʉpʉ pa tarapana'a",
+        "ch_sentence": "因為下過兩，操場還濕濕的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "tatariusu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "koo pa patirupangʉ tatariusu tanasa nesi",
+        "ch_sentence": "這個家的走廊還沒有完成。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "siaranʉa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "una umaan siaranʉa nesi",
+        "ch_sentence": "這裡有十項服務項目。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "nipinsiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "patimanʉngoo musʉ'ʉ takacicini tamna nipinsiu",
+        "ch_sentence": "自己的身分證要妥善保管。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "tuki",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sua tia matipa ia, mavicia nipinsiu tuki",
+        "ch_sentence": "要參加的，請攜帶身分證來登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "sinsiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "papeni cu cau sinsiu masini?",
+        "ch_sentence": "現在有幾位申請了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "ururuʉn",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia ururuʉn sua niarisinata miana",
+        "ch_sentence": "以前所寫的要註銷掉。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "isisiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "putu'ʉnʉvʉ cu kara isisiu mita",
+        "ch_sentence": "我們的衛生所開門了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "paucenyen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "isisiu tamna paucenyen sua sarunai isa",
+        "ch_sentence": "那位男士是衛生所的保健員。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "huricang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "masini 'una kavangvang sarunai huricang",
+        "ch_sentence": "現在也有男性的護理長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "'imiau",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tumatuturuan 'ikua, sua 'imiau kisʉʉn ai, kʉnʉn kara nukai cakʉpun?",
+        "ch_sentence": "請告訴我，所謂疫苗是吃的呢？還是注射的？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "saicien",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tia pa mu'uru'uru saicien. tavara'ʉn cu neni tia kʉna savuana.",
+        "ch_sentence": "要先篩檢才會知道要吃什麼籐。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "tʉngkʉrʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sua cangkan namuriungu, paira aranai'inia tʉngkʉrʉ ara'uan",
+        "ch_sentence": "登革熱經當在髒亂的環境產生。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "cangpingtu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tumatuturu sinpung, matangiria kani mamisa. sii'una cangpingtu.",
+        "ch_sentence": "新聞報導要注意，最近有腸病毒。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

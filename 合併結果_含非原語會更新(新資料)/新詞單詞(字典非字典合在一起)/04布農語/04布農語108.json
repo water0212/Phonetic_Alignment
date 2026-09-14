@@ -1,0 +1,1307 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "kuzaslavianan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian kuzaslavianancia mu'ampuk",
+        "ch_sentence": "在校長室開會"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "bibinsahan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana bibinsahan siza mas patasan",
+        "ch_sentence": "去人事室拿文件"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室 / 會計室": {
+    "new_word": [
+      {
+        "fm_word": "sipulsuian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana sipulsuian singsi mas sui",
+        "ch_sentence": "請到會計室申請經費"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心 / 保健室": {
+    "new_word": [
+      {
+        "fm_word": "papa'iuan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana papa'iuan islunghu",
+        "ch_sentence": "請到保健室休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "palihansiapan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mabiskava kusian palihansiapan mu'ampuk",
+        "ch_sentence": "盡速去會議室開會"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "kikibian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusianik kikibian islunghu",
+        "ch_sentence": "我去警衛室休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "kuzastataqu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isisian a saia kuzastataqu islunghu",
+        "ch_sentence": "他在導師室休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "kuzassinsi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Adu isian a saia kuzassinsi islunghu hai",
+        "ch_sentence": "她是不是在科任教師辦公室休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "tusausan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakusian kaimin tusausan kahuzas",
+        "ch_sentence": "我們要到音樂教室唱歌"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "sasaihuan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isianim sasaihuan matataukdul lukis",
+        "ch_sentence": "我們在美勞專科教室做木雕"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "saduhaninguan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakusian sanganin saduhaninguan isnavaan",
+        "ch_sentence": "等遺下到視聽教室上課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "piskanpiutaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian a saia piskanpiutan malkakanpiuta",
+        "ch_sentence": "她在電腦教室打電腦"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "pisbubuavan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian saia laupaku pisbubuavan masnava",
+        "ch_sentence": "他現在在自然科教室教課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "paisnanadaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakusianik paisnanadaan kilim abil",
+        "ch_sentence": "我要到資源教室找書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "paliBununan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Na'isianim paliBununan isnavaan",
+        "ch_sentence": "我們要在鄉土教室上課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "pisnanavaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Itupisnanavaan a saia tu situniing",
+        "ch_sentence": "他是教務處主任"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "piskakalauan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian saia laupaku piskakalauan malau mas uvaaz",
+        "ch_sentence": "他現在在學務處訓斥學生"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "piskukusiaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana piskukusian sinml palusu",
+        "ch_sentence": "你去總務處借椅子"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "pishahasaman",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Itupishahasaman a saia tu siuniing",
+        "ch_sentence": "他是輔導處主任"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "pat'ahilan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakusianik pat'ahilan simul mas ahil",
+        "ch_sentence": "我要到圖書館借書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "daisah",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian a naia daisah pishasibang",
+        "ch_sentence": "他們在操場玩遊戯"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "kaukauan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Auhcizav a duunan sian kaukauan",
+        "ch_sentence": "把繩索塞到樓梯間"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "dusalautu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isanim 2lautu isnavaan",
+        "ch_sentence": "我們在2樓上課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "talavin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Malkulapa a asu sian talavin",
+        "ch_sentence": "狗趴在走廊上"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "nastulautu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Dainpusav a palusuan sian nastulautu",
+        "ch_sentence": "請把椅子拿到地下室收藏"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "kakaunan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusianim kakaunan maun",
+        "ch_sentence": "我們到餐廳吃飯"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "unataspingaz",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kakaa tu mutmang kusian unataspingaz hai",
+        "ch_sentence": "不要隨便到女廁所喔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "unatasnanaz",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Unatasnanaz a saia",
+        "ch_sentence": "那是男廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "patlailaian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ukaan sain patlailaian tu ?",
+        "ch_sentence": "這裡為什麼沒有停車場呢"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "pislanciuan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Supah uvaaz sian pislanciuan pishasibang",
+        "ch_sentence": "很多小孩子在籃球場玩遊戯"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "pis'iakiuan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian a naia pis'iakiuan kuzakuza",
+        "ch_sentence": "他們在棒球場工作"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "huksisiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakusianik huksisiu singsi nivunsiu",
+        "ch_sentence": "我要到戶政事務所申請身分證"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "huksisiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakusianik huksisiu singsi nivunsiu",
+        "ch_sentence": "我要到戶政事務所申請身分證"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "kuangabvali",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mais kuangabvali hai masamu islunghu",
+        "ch_sentence": "上班時間不能休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "ispacing'avan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mazmaaz a isaincin ispacingavan",
+        "ch_sentence": "這裡的服務項目有哪些"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "cicingavan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana sisingavancia i na'aiza bunun tahu mas suu",
+        "ch_sentence": "妳去服務台，有人會告訴妳"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "kilinhcingav",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Autbitav a kilingsingava i ukabunun.",
+        "ch_sentence": "請按服務鈴，因為沒人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "ingkang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Dasav a isuu ingkang hai",
+        "ch_sentence": "要帶妳的印鑑喔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "nivunsiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kaka a isuu nivunsiu kaungaan hai.",
+        "ch_sentence": "不要忘記帶妳的身分證喔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "tuki",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tuki a saikin tu nasingsi mas tangku",
+        "ch_sentence": "我去登記要申請水塔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "tukitausaincin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Indangazunku a saia kudiip tukitausaincin",
+        "ch_sentence": "我幫她去設籍登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "tukisiduh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ssaidiipin a kasun tukisiduh ha ?",
+        "ch_sentence": "你去身分登記了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徒登記": {
+    "new_word": [
+      {
+        "fm_word": "tukitaulushu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Saicia mindadangazku tukitaulushu",
+        "ch_sentence": "是牠幫我辦理遷徙登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更丶更正及撒銷登記": {
+    "new_word": [
+      {
+        "fm_word": "tukima'uvaiv",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Natukima'uvaiv saikin mas inaak tu bangku'ilav",
+        "ch_sentence": "我要變更登記我的門牌號碼"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "ahilduma",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Minadasas ahilduma ha ?",
+        "ch_sentence": "你有帶其他文件嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "patasansiki",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "adasav a paitasansiki bai",
+        "ch_sentence": "一定要帶戶籍資料喔"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "tausaincin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Natukiik tu tausaincin",
+        "ch_sentence": "我要去登記遷入"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "taulushu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Maitukinas mas taulushu ha?",
+        "ch_sentence": "你有辦理遷出了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "uvaivdaingian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Lakuaas singsi mas uvaivdaingian",
+        "ch_sentence": "你何時申請住址變更的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "bangku'ilav",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pia a isuu bangku'ilav",
+        "ch_sentence": "你家門牌多少"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "patpusuhan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isa isuu patpusuhan",
+        "ch_sentence": "你的出生地在哪裡"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "saipuk",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Saipuk a saia mas uvaaz",
+        "ch_sentence": "她收養小孩"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "singsi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Singsi a saikin tu nakalumab",
+        "ch_sentence": "我去申請要蓋房子"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "ma'uman",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakudiipik ma'uman mas tukitaulushu",
+        "ch_sentence": "我要去註銷我的遷出登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "uvaivngaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Taknaang saikin singsi tu uvaivngaan",
+        "ch_sentence": "我昨天已經申請改名了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "tusanus",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Asa tu tusanus mais namapa'iu",
+        "ch_sentence": "如果要看病，要先預約"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "patasandangi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isa isuu paitasanpadangi ?",
+        "ch_sentence": "你的結婚證書呢？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "patasankaa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mubabbah tu antala mas paitasanpakaa.",
+        "ch_sentence": "含淚的接下離婚證書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "isisiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana isisiu mapa'iu",
+        "ch_sentence": "快去衛生所看病"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "taqusauzat",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "itupapa'iuan a saia tu taqusautaz",
+        "ch_sentence": "她是醫院的保健員"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "laviankankuhu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mamananu a saia i min'uni mas laviankangkubu.",
+        "ch_sentence": "她很不簡單，當上了護理長"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "ising'iuvung",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ising'iuvung a isaicia cina",
+        "ch_sentence": "她的媽媽是營養師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "isingnipun",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isingnipun a isaicia tuhasnanaz",
+        "ch_sentence": ""
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "bakalbuav",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tangusang sadu mas bakalbuavcia",
+        "ch_sentence": "你要先看平面配置圖"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "sihaalhalangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ingadahang a saia sian sihalhalang",
+        "ch_sentence": "她還在診療室裡面"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X光室": {
+    "new_word": [
+      {
+        "fm_word": "siuhkanuman",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana sanganin siuhkanuman siza sinsihaal",
+        "ch_sentence": "你等一下去X光室拿診斷資料"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "tutukian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Astalavik sian tutukiancia",
+        "ch_sentence": "你在掛號室等我"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "pasusuan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian a cina pasusuan ma'anu mas uvaaz",
+        "ch_sentence": "媽媽在哺乳室照顧小孩"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "hahaipuan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian a naia babaipuan mahalinga",
+        "ch_sentence": "他們在值班室聊天"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "pasusukan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mapisingik kusian pasusukan",
+        "ch_sentence": "我很怕進注射室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "pisdaduan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mulusbuin saia kusian pisdaduan",
+        "ch_sentence": "他移到復健室了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "sihaalbalangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isian saia sihalhalangan mastatalasu",
+        "ch_sentence": "他在檢驗室等你"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "patpaitasan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana patpaitasan kilim paitasan",
+        "ch_sentence": "你去檔案室找檔案"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "sisizas'iu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kusiana sisizas'iu mabaliv mas iumalung",
+        "ch_sentence": "你去藥局買關節藥"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "iudanuh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Itu halangtikas a sain tu iudanuh",
+        "ch_sentence": "這是登革熱的疫苗"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "sihaalhatba",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakutunin saikin kudiip sihalhatba",
+        "ch_sentence": "我明天才要去健康檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "pissasanuc",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Napissasanuc a saia mas pacis'u tamaku",
+        "ch_sentence": "他要做戒菸的防治宣導"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "picialngulus",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nakutuninta isnavaan mas picialngulus",
+        "ch_sentence": "明天排我們學習口腔保健"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "sakatngulus",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Namakaulkaul tu kauman sakatngulus i na'ispasihaal",
+        "ch_sentence": "要刮一點口腔黏膜， 因為要拿去化驗"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "sipzuhhaidang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ngausang kudiip sizuphaidang",
+        "ch_sentence": "你先去抽血"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "iudanuh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Pasusukav a uvaaz mas iudanuh",
+        "ch_sentence": "請給孩子注射預防針"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "sihaizang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "sihaizang a saia mas isuu tu baiking",
+        "ch_sentence": "她在篩檢你的細茵成份"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "iusaningsing",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Hushusavang inaak luluan mas iusaningsing",
+        "ch_sentence": "請用酒精擦拭－下我的傷口"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "daandauzung",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "La'insunav a saia makasian dandauzungcia",
+        "ch_sentence": "擬推她從無障礙坡道走"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "unataspiaha",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kakaa tu mutmang kusian unatanpiaha munata",
+        "ch_sentence": "不要隨便到無障礙廁所上廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "halangtikas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Damun a saia mas halangtikas",
+        "ch_sentence": "她得了登革熱"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "halangsilup",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mananulua i na'ulaan mas halangsilup",
+        "ch_sentence": "要小心，免得受到腸病毒的傳染。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

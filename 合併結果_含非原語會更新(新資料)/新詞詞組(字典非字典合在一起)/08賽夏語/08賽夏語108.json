@@ -1,0 +1,872 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "noka tahoki' kapatawawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kamakiSka:at kayni' pawa:i'in ray 'in noka tahoki' kapatawawan a.",
+        "ch_sentence": "學生不喜歡被叫到校長室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "kamamalahang ka kamamatawaw kapatawawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kamamalahang ka kamamatawaw kapatawawan kamamalahang ka kamamatawaw kakrangi' an.",
+        "ch_sentence": "人事室是專門照顧工作者的權益。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "kamaSepe: kapawka'an kapatawawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kamaSepe: kapawka'an kapatawawan nom sempeng ka pinawka'an ray 'an noka kapatawawan a rayhil.",
+        "ch_sentence": "主計室/會計室是監督單位的花費。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "noka kamatortoroe' kapatawawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: kamatortoroe' honasamez ila kayzaeh rima' ray kapatawawan noka kamatortoroe'",
+        "ch_sentence": "若老師空間了，可以去導師辦公室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "nok kamatortoroe' kapatawawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: kamatortoroe' 'oka' ka howaw rna' rima' ray noka kamatortoroe' kapatawawan.",
+        "ch_sentence": "若教師沒事就會去科任教師辦公室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "kaklaloehayan nom ma:tol",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "niya'om kaklaloehayan nom ma:tol 'akoey ka pa:ngas 'inaSkan.",
+        "ch_sentence": "我們的音樂專科教室放置很多樂器。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "kaklaloehayan homoba:ang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray kaklaloehayan nom homoba:ang 'akoey ka rareme: nom homoba:ang.",
+        "ch_sentence": "在美勞專科教室有很多畫圖的染料。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "kakita'an ka 'inalingo'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "korkoring minowa' ray kakita'an ka 'inalingo' lomoehloehay, risaza' hayza' ka 'ima kayzaeh kapa:ngas.",
+        "ch_sentence": "孩子喜歡在視聽教室學習，那兒有很棒的音響。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "kaklaloehayan ka tiyaenaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "paSpaSo kakiSka:atan hayza' saboeh ka kaklalohayan ka tiyaenaw kayzaeh nom tomortoroe' ka kamakiSka:at.",
+        "ch_sentence": "每個學校都有電腦教室可做為教學之用。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "kakSekla'an ka 'oem'oemaeh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "rima' ray kakSekla'an ka 'oem'oemaeh kiSka:at mina 'izi' papa'aehae', bazae' ka tinortoroe'",
+        "ch_sentence": "到自然教室上課，不要開玩笑，要聽話。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "katortoroe'an ka 'ima maynonak",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: kakiSka:atan haeba:an ka karnakiSka:at pakhayza'en ka katortoroe'an ka 'ima maynonak nom malahang ka 'ima maynonak korkoring.",
+        "ch_sentence": "若學校學生人數多會設置資源教室以照顧特殊需求的孩子。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "kasepengan nom tomortoroe'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "niSo' kamatortoroe' ray kasepengan nom tomortoroe'",
+        "ch_sentence": "你的老師在教務處。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "kasepengan no kamakiSka:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya:o 'am rima' ray kasepengan no kamakiSka:at",
+        "ch_sentence": "我要去學務處。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "kasepengan nom tal'izaeh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Sasingozaw ka hiza 'aehae' kamakiSka:at kasepengan nom tal'izaeh hayno'?.",
+        "ch_sentence": "去問那一個學生總務處在哪裡?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "kaponrowa'an ka kamakiSka:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hiza 'aehae' kamakiSka:at mae'iyaeh pa'oSa'en ray kaponrowa'an ka kamakiSka:at",
+        "ch_sentence": "那一個學生被叫進去輔導處。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "kaki:iman ka kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'am komi:im ka kina:at Sa'ila ray kaki:iman ka kina:at.",
+        "ch_sentence": "要找書的話去圖書館。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "hinangaw kalihokan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ma'an kaka:at Saehae' ila ray hinangaw kalihokan.",
+        "ch_sentence": "我的筆掉在樓梯間了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "ray ra:i' 'i:zo' tinaew'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ma'an kapapama'an 'inaSkan ray ra:i' 'i:zo' tinaew' an.",
+        "ch_sentence": "我的車停在地下室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "noka minkoringan kata'owan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hani ray ka'nal noka minkoringan kata'owan.",
+        "ch_sentence": "這右邊的是女生廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "noka kamamanra:an kata'owan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hani ray kayi' noka kamamanra:an kata'owan",
+        "ch_sentence": "這左邊的是男生廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "ka'aSkanan ka kapapama'an rape:",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ma'an kapapama'an ha:aw ray ka'aSkanan ka kapapama'an rape:.",
+        "ch_sentence": "我的車停在停車場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "kataboe'an ka mali' rape:",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray kakiSka:tan hayza kataboe'an ka mali' rape:",
+        "ch_sentence": "學校有籃球場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "kaSebetan ka mali' rape:",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray ma:ih 'okik 'akoey kaSebetan ka mali' rape:.",
+        "ch_sentence": "苗果沒有很多棒球場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "kakira:a'an ka raro:o'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yako 'am rima' ray kakira:a'an ka raro:o' pa'alo' ka 'inalingo' ka kinira:a' kinrowaSekan kina:at.",
+        "ch_sentence": "我要去戶政事務所申請戶籍膳本。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "kakira:a'an ka raro:o' kapatawawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray lamsong 'oka' ka kakira:a'an ka raro:o' kapatawawan",
+        "ch_sentence": "在南庄沒有戶政工作站。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "kapatawawan ka hahila:",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'isahini 'i'ini' potngor ray kapatawawan ka hahila:, 'ayna:a' naehan.",
+        "ch_sentence": "現在還沒有到辨公時間，再等一下。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "ka'oe'oe:an kataSipiyakan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hiza ray kateSnenan hayza' ka ka'oe'oe:an kataSipiyakan nom 'omoe'oe: ka mae'iyaeh.",
+        "ch_sentence": "在那門口有服務鈴用來通知人員的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "hinokira:a'an kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ma'an hinokira:a'an kina:at nakhara Sipawka' ila, 'okay kita'i ila.",
+        "ch_sentence": "我的身份證好像丟失了，沒有看到了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "kira:a' ka kinrowaSekan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So'o hayza' ila ay rima' kira:a' ka kinrowaSekan?",
+        "ch_sentence": "你有去設籍登記了嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "kira:a' ka pinatawaw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So'o Sa'ila ray kakira:a'an ka raro:o' paskayzaeh ka kira:a' ka pinatawaw.",
+        "ch_sentence": "你去戶政事務所辦理身分登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徒登記": {
+    "new_word": [
+      {
+        "fm_word": "kira:a' ka kinbowawan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yako 'am rima' ray kakira:a'an ka raro:o' paskayzaeh ka kira:a' ka kinbowawan.",
+        "ch_sentence": "我要去戶政事務所辨理遷徒登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "somapih ka kininra:a' ki tomi:iS ka kininra:a'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yako 'am rima' somapih ka kininra:a' ki tomi:iS ka kininra:a' ma'an kira:a' ka kinrowaSekan kina:at.",
+        "ch_sentence": "我要去變更、更正及撤銷登記我的戶籍資料。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "'aroma' kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hiza 'arorna' kina:at Sa'ila boeloe'ani ila!",
+        "ch_sentence": "那些其他書件去把它丟掉了!"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "kinira:a' kinrowaSekan kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kamamatawaw 'okay tihoero: ma'an ka kinira:a' kinrowaSek kina:at.",
+        "ch_sentence": "戶政人員找不到我的戶籍資料。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "somapih ka kinira:a' kakrowaSekan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yako pa'alo' ray kakira:a'an ka raro:o' somapih ka kinira:a' kakrowaSekan.",
+        "ch_sentence": "我在戶政事務所申請住址變更。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "kinira:a' ka taew'an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hiza 'aehae' taew'an 'oka' ka kinira:a' ka taew'an.",
+        "ch_sentence": "這一個房子沒有門牌。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "ti:iSin ka kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nisiya pina'alo' ka somapih kakira:a'an kakrowaSekan ti:iSin ka kina:at ila.",
+        "ch_sentence": "他的申請的住址變更被註銷了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "somapih ka raro:o'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yako somapih ka raro:o' ila.",
+        "ch_sentence": "我換名字了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "pinakaksi'aelan kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yami roSa' makaksi'ael ila, rima' ray kira:a'an ka raro:o' mari' ka pinakaksi'aelan kina:at.",
+        "ch_sentence": "我們結婚了，我們去戶政事務所拿結婚證書。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "pinalasiwazay kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lasiya lasiwazay ila, rima' ray kakira:a'an ka raro:o' mari' ka pinalasiwazayan kina:at.",
+        "ch_sentence": "他們離婚了，他們去戶政事務所拿離婚證書。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "tahoki' noka kamatal'izaeh ka pangih",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tahoki' noka kamatal'izaeh ka pangih koSa'en kamamarmaraS ka kamatal'izaeh ka pangih matawaw.",
+        "ch_sentence": "護理長是帶領護理師工作的人。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "kamatal'izaeh kasi'aelen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: 'am walwalae' ka kinkerpe: Sasingozaw naehan hi kamatal'izaeh kasi'aelen kayzaeh 'iyakaliyaeh.",
+        "ch_sentence": "若要減重先請教營養師比較健康。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "kamakikowi' sinsang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya:o tikot a tomal ka kamakikowi' sinsang.",
+        "ch_sentence": "我最害怕牙醫師。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "kaSakira:a' hinoba:ang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kaS'abo' ray kakita'an ka'lnalingo'an, 'inSa'la' kita' ka kaSakira:a' hinoba:ang So: nak'ino' kayzaeh 'alikaeh rima' 'ay latar.",
+        "ch_sentence": "進到電影院先看平面配置圖，如有狀況可以立即到外面去。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "kakita'an ka kak'ayaeh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray sinsangan 'akoey ka 'inokik hingha' ka kakita'an ka kak'ayaeh",
+        "ch_sentence": "在醫院裡有很多不同科別的診療室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "katakrotonan ka kina:at",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray katakrotonan ka kina:at noka kakiSka:atan hayza' 'inaSakn ka kina:at noka kamakiSka:at.",
+        "ch_sentence": "在學校的檔案室裡都有學生的資料。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "kamari'an ka 'iyo'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya:o biSbiS ka ta'oeloeh 'am rima' bae:iw ka 'iyo ray kamari'an ka 'iyo'.",
+        "ch_sentence": "我頭痛要去藥局買藥。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "nom komonre' ka bingi'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "komita' ka sin'oelan noka 'o'owa' hayza' 'inokik hingha' kapahazab nom komonre' ka bingi'.",
+        "ch_sentence": "依據幼兒的生長期有不同的要注射的疫苗。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kinsa' ka basang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tatini' mina sa'sa'ih ka tinal'oemaeh Sa'ila kinsa' ka basang.",
+        "ch_sentence": "老人家每年都要做健康檢查。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "homapa: kakayzaehan ka basang",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "haba:an kamamararpe' ka ma:tango:to 'iya' rengreng homapa: kakayzaeh ka basang.",
+        "ch_sentence": "夏天是傳染登革熱(因此)政府常常作防治宣導。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "kapak'iyakaliyaeh ka ngabas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yaba' 'oya' kita' a tomal kapak'iyakaliyaeh ka ngabas noka korkoring.",
+        "ch_sentence": "父母一定要注意孩子的口腔保健。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "tabtabilas noka ngabas",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kamamiltamak:o' 'iya'aze m tabtabilas noka ngabas 'am ma:pangih.",
+        "ch_sentence": "但吸菸者要小心口腔黏膜會有傷口(破)。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "mari' ka ramo'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ya:o kahiya' rima' pakita' ka sinsang mari' ka ramo' 'am kinsa'.",
+        "ch_sentence": "我昨天去看醫生抽血作檢查。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "pahazab nom komonroe' ka bingi'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "korkoring tikot pahazab nom komonroe' ka bingi' homangih ila.",
+        "ch_sentence": "小孩害怕打預防針哭了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "pina'iyo' pinobae:aeh",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pinoSak:an ra'oe:en 'anhil o 'iya' azem karpa: ka pina'iyo' pinobae:aeh 'am boSok!",
+        "ch_sentence": "糯米酒喝起來很甜(但是)小心酒精濃度高會醉!"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "'oka' kalobikolan kapanakiS ra:an",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray ka'ayna:a'an ka kalihapoyan kama hayza' ka 'inoka' kalobikolan kapanakiS ra:an",
+        "ch_sentence": "在火車站都會有無障礙坡道。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "'oka' kalobikolan kata'owan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ray kararotonan noka mae'iyaeh pakhayza' ka 'inoka' kalobikolan kata'owan.",
+        "ch_sentence": "在活動中心(人聚集的地方)一定要有無障礙廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "hoetoeh bingi'",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "korkoring ni kalih 'ayaeh ka hoetoeh bingi' kita'en 'abe' 'ima rika:o halehez.",
+        "ch_sentence": "kalih 的孩子得了腸病毒發燒咳嗽很嚴重。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "shanautuanan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kamakiSka:at kayni'pawa:i'in ray 'in noka tahoki' kapatawawan a.",
+        "ch_sentence": "學生不喜歡被叫到校長室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "pinutaun",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "siya 'okay ' a'olo ' ka korkoring.",
+        "ch_sentence": "他沒有收養孩子。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "pu'ukaiza",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nisiya pina'alo' ka somapih kakira:a'an kakrowaSekan ti:iSin ka kina:at ila..",
+        "ch_sentence": "他的申請的住址變更被註銷了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "qashishi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "So: 'am makaksi'ael ila 'inSa'la' kinsa' ka basang talzi :iz ka kaka'ayeh kayzaeh no mayhael.",
+        "ch_sentence": "如果要結婚了，先檢查身體作疾病篩檢才有幸福的未來。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

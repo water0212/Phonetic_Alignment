@@ -1,0 +1,39 @@
+{
+  "立可白": {
+    "new_word": [
+      {
+        "fm_word": "likepay",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "立可白"
+  },
+  "海報": {
+    "new_word": [
+      {
+        "fm_word": [
+          "haypaw"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "海報"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koriSmaS"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "聖誕節"
+  }
+}

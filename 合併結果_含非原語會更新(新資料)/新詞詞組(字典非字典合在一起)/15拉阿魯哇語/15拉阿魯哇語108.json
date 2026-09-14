@@ -1,0 +1,1142 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "taparana kapitanʉ ariatʉkʉrana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakiaturuana ma taparana kapitanʉ ariatʉkʉrana makarikari",
+        "ch_sentence": "老師們在校長室開會"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "taparana cucu'u arauhlusu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tumahlaʉa cucu'u ma taparana cucu'u arauhlusu taku' i' iarʉ",
+        "ch_sentence": "很多人在人事室上班"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "taparana takuavahlituku",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uka'a arinani cucu'u taparana takuavahlituku taku' i ' iarʉ",
+        "ch_sentence": "主計室今天沒有人上班"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "tapaiatuhluhla macarʉmʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maru matumuhlua tarʉtatʉkʉhlʉ savuanʉ ma tapaiatuhluhla macarʉmʉ",
+        "ch_sentence": "保健室有很多不一樣的藥品"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "taparana makarikari",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "arinani ruavicia pakiaturua ihlahlamu musa taparana makarikari takuliliungu",
+        "ch_sentence": "今天老師帶我們去會議室參觀"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "taparana 'aumu maiatuhluhlu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kuacahlia cucu'u kaupaupangʉ kutuahlʉ mucapacapangʉ puaruma taparana aumu maiatuhluhlu",
+        "ch_sentence": "警衛室不是平常人可以隨便進去的地方"
+      }
+    ],
+    "source_year": "108"
+  },
+  "班導辦公室": {
+    "new_word": [
+      {
+        "fm_word": "taparana pakiaturua",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "taparana pakiaturuana uka' a marupangʉhlʉVʉ kimatata",
+        "ch_sentence": "導師辦公室今天上午沒有閉門"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "taparana pakiaturua usumanʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tumalʉlʉvʉa pakiaturua ihlahlamu maihlʉmʉhlʉmʉ taparana pakiaturua usumanʉ",
+        "ch_sentence": "我們幫忙老師整理科任教師辦公室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tumuruturu vahliungu sahli",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "varu'u taparana takuavahliungu sahli tam mavacanga",
+        "ch_sentence": "新的音樂專科教室很漂亮"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tumuruturu tumapaʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "'aʉrʉa taparana tumapaʉna rianʉ lʉhlʉ'ʉ sasaruana",
+        "ch_sentence": " 美勞專科教室很髒亂， 地板都是垃圾"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "hlitamahlʉnga parana tumuruturu hla tumimahla vahliungu sahli",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tam mahlicunguisa hlitamahlʉnga parana tumimahla vahliungu sahlina",
+        "ch_sentence": "視聽教室非常乾淨"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tumuruturu tʉnaʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kutuahlʉ maru taparana kumita tʉnauna umuu kamusia hla iama",
+        "ch_sentence": "電腦教室不能喝飲料及吃零食"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tumututuru hlitakacicihli tumangura",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "matumuhlua pakaritukuhla pahlivinga ma parana tumutllturu Witakacicihli tumangura",
+        "ch_sentence": "自然教室裡有很多特別的物品"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tumuruturu pakaritʉkʉhla mamaini umaiipʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tam matumuhlua suhlatʉ hla ahlamʉ maru parana tumuruturu pakaritʉkʉhla mamaini umaiiapʉ",
+        "ch_sentence": "資源教室裡面有很多書及玩具"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tumuruturu vunguka",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pahlivinga maru parana tumuruturu vungukana rianʉ mavavacangʉ.",
+        "ch_sentence": "鄉土教室的物品，全部都很棒"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "taparana angahlahlana tumuru",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "taparana angahlahlana tumuru maru matumuhlua suhlaruisa hla tarʉtatʉkʉhlʉ siaiiapʉ",
+        "ch_sentence": "教務處裡有很多資料及特殊資料"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "taalulirana mamaini",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "taalulirana mamaini umaiiapʉna,uka'a sikurarauisa kani'i naani.",
+        "ch_sentence": "學務處最近沒有舉行活動"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "tapaiatuhluhla pahlivinga",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cucu 'u maru tapaiatuhluhla pahlivinga taku'i'iarʉna,rianʉ hlahlusa",
+        "ch_sentence": "在總務處上班的人，全部都是男人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "taturuturua mamaini",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakiaturua maru taturuturua mamainina mataingalʉ mavacangʉisa.",
+        "ch_sentence": "輔導處的老詩人都超級好"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "taikakuana suhlatʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maru matumuhlua ngahlana suhlatʉisa ma taikakuana suhlatʉ",
+        "ch_sentence": "圖書館有很多不同種類的書籍"
+      }
+    ],
+    "source_year": "108"
+  },
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "parana kutipatipa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maru tumahlaʉa mamaini umaiiapʉna ma parana kutipatipa mitahlahlʉ",
+        "ch_sentence": "操場上有許多小朋友在跑步"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "aisa pailalʉngʉsa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "marakakacua kima' a ma aisa pailalʉngʉsa",
+        "ch_sentence": "樓梯間的燈壞掉了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "tati'ahla ahlaina",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kani'i ia tati'ahla ahlaina",
+        "ch_sentence": "這是女生廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "tati'ahla hlahlusa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kani' i ia tati' ahla hlahlusa",
+        "ch_sentence": "這是男生廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "taikakuana likihli",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "taluavaʉlʉ taikakuana likihlina usua ari",
+        "ch_sentence": "停車場休息兩天"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "taparana pita 'ʉhlʉkai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "umusahlicua langicana,kuhlaisai matarʉngʉrʉngʉa taparana pita'ʉhlʉkai",
+        "ch_sentence": "天空下雨了，所以籃球場也都溼答答了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "taparana marivakʉsʉ ta 'ʉhlʉkai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "umusahlicua langicana,kuhlaisai matarʉngʉrʉngʉa taparana marivakʉsʉ ta'ʉhlʉkai",
+        "ch_sentence": "天空下雨了，所以棒球場全都濕了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "taparana taku ' i' iarʉ ngahla pihlingi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aucaucani caihli mahlukua ina'ana taparana taku'i'iarʉ ngahla pihlingi umala suhlaʉisa pihlingihlamu",
+        "ch_sentence": "媽媽每一年都會去戶政事務所拿資料"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "taauhluhluna taku'i'iarʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tam mainia paranaisa taauhluhluna taku' i' iaru .",
+        "ch_sentence": "戶政工作站空間很小"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "pasamia taku'i'iarʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ucani ariisa pasamia taku'i'iarʉ naia ualu pakiaturua.",
+        "ch_sentence": "一天的工作時間時間是八個小時"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "ngahla takuamia ta'iara",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "naani ia maru matumuhlua ngahla takuamia ta'iara",
+        "ch_sentence": "這裡有很多的工作項目"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務台": {
+    "new_word": [
+      {
+        "fm_word": "ngahla takuamia ta'iara",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maru cacihli cucu'u ma taparana matialu ta'iarana tumalʉlʉVʉ cucu'u mʉmʉa",
+        "ch_sentence": "服務台有一個人替大家服務"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "siamamʉtʉmʉta sitakua'i'iarʉ paani",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maci maru pahlumiamia ia miamʉtʉmʉtʉ kani'i siamamʉtʉmʉta sitakua'i'iarʉ paani",
+        "ch_sentence": "如果有問題的話，請按服務鈴"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "cukahlangʉ cucu'u",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aucaucani cucu'u rianʉ pi cukahlangl:l cucu'u",
+        "ch_sentence": " 每一個人都有身分證"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "sumuhlatʉ parana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa mahlukua taparana taku 'i'iaru ngahla pihlingi sumuhlatʉ parana",
+        "ch_sentence": "去戶政事務所做設籍登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "sumuhlatʉ ngahla cucu'u",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa mahlukua taparana taku 'i'iaru ngahla pihlingi sumuhlatʉ ngahla cucu'u",
+        "ch_sentence": "去戶政事務所做登記身分登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徙登記": {
+    "new_word": [
+      {
+        "fm_word": "sumuhlatʉ arauhlusu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa mahlukua taparana taku 'i'iarʉ ngahla pihlingi sumuhlatʉ arauhlusu",
+        "ch_sentence": "去戶政事務所作遷徙登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "tumavalʉ sumuhlatʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa mahlukua taparana taku'i'iaru ngahla pihlingi tumavalʉ sumuhlatʉ",
+        "ch_sentence": "去戶政事務變更登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "suhlatʉ usumanʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ucaaniku maitʉahlʉ cukahlangʉ cucu 'uku,suhltʉ usumanʉna, rianʉ kucuakiti",
+        "ch_sentence": "我只有找到我的身分證， 其他書問資料全都不見了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "taalana suhlatʉ ngahla parana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tuahlʉ umahlikua taparana taku'i'iarʉ ngahla pihlingina sinsi taalana suhlatʉ ngahla parana",
+        "ch_sentence": "可以向戶政事務所申請戶籍資料"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "puaili arauhlusu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa mahlukua taparana taku'i'iarʉ ngahla pihlingi sinsi hlisuhlataisa puaili arauhlusu",
+        "ch_sentence": "去到戶政事務所辦理遷入"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "maluavalʉ ngahla parana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa mahlukua taparana taku'i'iarʉ ngahla pihlingi sinsi maluavalʉ ngahla parana",
+        "ch_sentence": "去到戶政事務所辦理住址變更"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "cukahlangʉ salia",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aucaucani pihlingi salia maru cukahlangʉ salia",
+        "ch_sentence": "每一戶家庭都有門牌"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "hliparana paumamaiui",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kuakumacahlia ini paninaua hliparana paumamainisa kani' i mamaini",
+        "ch_sentence": "我不知道這個小孩的出生地在哪"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "maluavalʉ ngahla",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tumuaku maluavalʉ ngahla hlakʉsaianana",
+        "ch_sentence": "我想要改我的漢名"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "mualualu sipiatʉtʉra",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mualualuaku hlipitʉtʉra kani'i maisasavusavuanʉna",
+        "ch_sentence": "我有事先預約這位醫生了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "suhlatʉ hlipatarʉhla alukala",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maci alukala rumahlaʉ, tʉtʉrʉamu atʉahlicu suhlatʉ hlipatarʉhla alukala",
+        "ch_sentence": "如果結婚的時候，一定會拿到結婚證書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "suhlatʉ hlipatarʉhla maruahlʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kani'i ia suhlatʉ hlipatarʉhla maruahlʉ",
+        "ch_sentence": "這是離婚證書。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "cucumaiatuhluhlu mavahlaʉvaʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ahlaluaku ia cacihli cucumaiatuhluhlu mavahlaʉvaʉ",
+        "ch_sentence": "我哥哥是一位保健員"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "maiatuhluhlu macarʉmʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hlimilavaiku ia cacihli maiatuhluhlu macarʉmʉ",
+        "ch_sentence": "我妹妹是一名護理師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "pakiaturua maiatuhluhlu macarʉmʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "inaku ia pakiaturua maiatuhluhlu macarʉmʉ",
+        "ch_sentence": "我媽媽是護理長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "cucutakuamimia siaravahlaʉvaʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "amaku ia cacihli cucutakuamimia siaravahlaʉvaʉ",
+        "ch_sentence": "我爸爸是一名營養師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "maisasavusavuanʉ ahlii",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tamu 'u ia cacihli pakiaturua maisasavusavuanʉ ahlii",
+        "ch_sentence": "我阿公是一位牙醫師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "sipautuahlangia parana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "naani ia uka'a sipautuahlangia parana",
+        "ch_sentence": "這裡沒有平面配配置"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tapakita macarʉmʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cucuvanana ia ruavici ihlakua tukucuku musa taparana tapakita macarʉmʉ",
+        "ch_sentence": "等一下我要帶我朋友去診療室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "x光室": {
+    "new_word": [
+      {
+        "fm_word": "taparana sipia' ahlingu pulaluihla tihla 'ahlʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kunaku musa parana sipia' ahlingu tihla'ahlʉna kumakita",
+        "ch_sentence": "我還沒去X光室做檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "taparana tumangahla",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "miungucu parana maisavusavuanʉ rumahlaʉ,mualualuaku musa taparana tumangahla",
+        "ch_sentence": "到醫院的時候，我先去掛號室登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "taparana pau 'ususu mamaini",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ruavici ina'ana mamainisa musa taparana pau 'ususu mamaini",
+        "ch_sentence": "媽媽帶著小孩去哺乳室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "taparana taku'i'iarʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uka' a kiira cucu'u ma taparana taku'i'iarʉ",
+        "ch_sentence": "昨天值班室沒有人上班"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "taparana hlumivuru",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "muruahlʉaku musa taparana hlumivuru",
+        "ch_sentence": "我很害怕去注射室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "taparana apakuatitipa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "usua caih1i mualualu,kunatakualʉpʉngʉ kani'i taparana kutipatipa",
+        "ch_sentence": "兩年前，這個復健室還沒蓋好"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "taparana kumakita cara'ʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "avalia pahluisa taparana kumakita macarʉmʉna",
+        "ch_sentence": "檢驗室的味道很臭"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "taihliana suhlatʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tam matumuhlua suhlatʉ maru taihliana suhlatʉ",
+        "ch_sentence": "檔案室裡有太多的資料了"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "i'a'ana savuanʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i'a'ana savuanʉ taluavaʉlʉ upitu pakiaturua",
+        "ch_sentence": "藥局七點休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "siarakita mahlatʉra",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "caihlicaihliaku musa parana maisavusavuanʉ tumamahlʉnngʉ siarakita mahlatʉra",
+        "ch_sentence": "我每年都會去醫院做身體檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "tumatuturu siaramangʉ macarʉmʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "arinani maru cucumaiatuhluhluna mʉcʉkʉhlʉ naani tumatuturu siaramangʉ macarʉmʉ",
+        "ch_sentence": "今天有護士來這裡做防治宣導"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "maiatuhluhlu ngusuu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "acancancihli cucu 'u,tʉtʉrʉkia maiatuhluhlu nguss ",
+        "ch_sentence": "每個人都一定要口腔保健"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "cavu rʉrʉmanʉ ngusuu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kuakumacahlia misainia cavu rʉrʉmanʉ ngusuu",
+        "ch_sentence": "我不知道甚麼是口腔黏膜。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "umala cara'ʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "karʉkʉhlʉa cucu'u kana'ana musa parana maisavusavuanʉ umala cara'ʉ kumakita",
+        "ch_sentence": " 那個人常常去醫院抽血檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "ahlivura siaramangʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aucaucani cucu'u hliumala ahlivura siaramangʉ",
+        "ch_sentence": "每個人都打過疫苗"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "kumakita macarʉmʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "karʉkʉhlʉa ariakasʉkasʉna tumamahlʉngʉ kumakita macarʉmʉ",
+        "ch_sentence": "小學常常都會做篩檢。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "'mapaci aruamia maisavusavuanʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tam avalia pahluisa mapaci aruamia maisavusavuanʉ",
+        "ch_sentence": "酒精的味道很臭"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "siuasasala aruamia kuatalakiahlʉ cucu'ʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "caihli kani'inaani tuahlʉita kumita siuasasala aruamia kuatalakiahlʉ cucu'ʉ",
+        "ch_sentence": "近年來，我們都會在路上看到無障礙坡道"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "tati'ahla aruamia kuatalakiahlʉ cucu'u",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "caihli kani'inaani tuahlʉita kumita tati'ahla aruamia kuatalakiahlu cucu'u",
+        "ch_sentence": "近年來，我們都有看到無障礙廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "macarʉmʉ iatavu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "macarʉmʉ iatavu naia ihlaisa ucani apaihlipihla macarʉmʉna",
+        "ch_sentence": "登革熱是一種恐怖的病菌"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "hlikipuhlu macarʉmʉ ilu'u",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maci kuacapacapangʉ umuu ia matalakiahlʉ atʉahlicu hlikipuhlu macarʉmʉ ilu'u",
+        "ch_sentence": "如果亂吃東西的話，容易腸病毒"
+      }
+    ],
+    "source_year": "108"
+  }
+}

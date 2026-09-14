@@ -1,0 +1,82 @@
+{
+  "折扣": {
+    "new_word": [
+      {
+        "fm_word": "sapica`",
+        "ch_semantic": "折價",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "保護國家的": {
+    "new_word": [
+      {
+        "fm_word": "palangatay",
+        "ch_semantic": "國防部",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "pahuzuiway",
+        "ch_semantic": "福利部",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "papuhekal",
+        "ch_semantic": "保護自然環境",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "palala`ay",
+        "ch_semantic": "土地單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "panangelu`ay",
+        "ch_semantic": "回饋勞苦單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "pasu`metay",
+        "ch_semantic": "保持濕氣單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "X光": {
+    "new_word": [
+      {
+        "fm_word": "sadadingu",
+        "ch_semantic": "透視鏡",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

@@ -1,0 +1,686 @@
+{
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "papangkungan na ruciyuciyur a sinsi",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izua i pa-pang-kung-an nu ruciyuciyur a sin-si ti cugang sin-si",
+        "ch_sentence": "租港老師在導師辦公室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "papangkungan na kinisavid a situlutuiu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "payi ku su kivada'aw ki ipasamuan a pa-pang-kung-an nua kinisavidan a situlutuiu?",
+        "ch_sentence": "請問(可以我請你給回答嗎?)科任教師辦公室在何處?",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "lalimaan a kiusic",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "makaya kitulu tua penatjez tua kasiv imaza i lalimaan a kiu-sic",
+        "ch_sentence": "可以在美勞專科教室學習木雕。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "kakituluan tua tinnaw",
+        "dialect": "北東南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ari,sa kakituluani tua tin-navi",
+        "ch_sentence": "我們去電腦教室吧。"
+      },
+      {
+        "fm_sentence": "ari sa tin-naw ciaw-se yi",
+        "ch_sentence": "我們去電腦教室吧。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "kiusic tua kaqinatian",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izua situ i kiu-sic tua ka'inatian?",
+        "ch_sentence": "自然教室裡有學生嗎？"
+      },
+      {
+        "fm_sentence": "izua situ i ka'inatian ciaw-se?",
+        "ch_sentence": "自然教室裡有學生嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "zinekatjan kiusic",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kakituluan nua nakisumalji a situ aicu a zinekatjan kiu-sic",
+        "ch_sentence": "資源教室是特殊學生上課的教室。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "kiusic tua qeminaljanan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uri patulu aken tua sipalisian i kiu-sic tua 'eminaljanana",
+        "ch_sentence": "我要在鄉土教室教學祭典儀式。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "kipulaing tua situluan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kinasalu aravac nua situ a kipulaing tua situluan",
+        "ch_sentence": "學生很信任教務處",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "kipulaing tua sikituluan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nanguaqan a sivaivaik nua kipulaing tua sikituluan",
+        "ch_sentence": "學生很信任教務處",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "kipulaing tua zaisang",
+        "dialect": "北東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "namapaparangez a kipulaing tua zaisang nua gakku",
+        "ch_sentence": "學校的總務處盡忠職守",
+        "dialect": "北東"
+      },
+      {
+        "fm_sentence": "namapaparangez a kipulaing tua zaisang nua gakku",
+        "ch_sentence": "學校的總務處盡忠職守",
+        "dialect": "中南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "kipulaing tua papaulingav",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "marekutj aken a sematua kipulaing tua papaulingaw",
+        "ch_sentence": "我很怕去輔導室",
+        "dialect": "北中南東"
+      },
+      {
+        "fm_sentence": "marekutj aken a sematua kipulaing tua papaulingav",
+        "ch_sentence": "我很怕去輔導室",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "binziu na vavayan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i pasanavalj a binziu nua vavayan",
+        "ch_sentence": "女生廁所在南側",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "binziu na uqaljay",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i pasaviri a binziu nua uqaijay",
+        "ch_sentence": "男生廁所在北側",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "pasekezan tua palidring",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Kari yarim aken tua pasekezan tua palidring",
+        "ch_sentence": "我正在找停車場",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "kusiki zimusiu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu izua pakata tja kusiki a kakudain vaik tjan a ma ku-si-ki-zi-mu-siu a pavecik",
+        "ch_sentence": "如有任何關於戶政事項都要到戶政事務所處理。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "kusiki kusaku",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i ku-si-ki-ku-sa-ku kalakuda ti madju",
+        "ch_sentence": "他在戶政工作站工作。",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "sidjaulj a leljing",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu izua su sakieljingan tja tjepeten ca sidjaulj a leljing",
+        "ch_sentence": "如果有需要服務，按服務鈴即可。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "kipavecik tua kusiki",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na vaik ti kina kadjaman ma lizuk kipavecik tua ku-si-ki",
+        "ch_sentence": "母親早上去市區設籍登記",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "kipavecik tua qiniladjan",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu tjau sipualjak a lumamadj.kipavecik tua pinualjakan.tu vavayan uqaljai",
+        "ch_sentence": "小孩剛出生要身分登記是女是男。",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徒登記": {
+    "new_word": [
+      {
+        "fm_word": "kipavecik tua sekaumalj",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na patjavat ti kaleskes ma lizuk sana vaik a kipavecik tua sekaumalj",
+        "ch_sentence": "卡樂斯克絲已遷往市區，所以有去遷徒登記",
+        "dialect": "北"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更丶更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "kipavecik tua pasetjavat",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na pasaliuv a ngadan ni ljamer avan nusi pavecik a paumalj",
+        "ch_sentence": "亞門勒的名字有錯誤，所以他去變更、更正及撤銷登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "sinipazapetj a vecik",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "izua sinipazapetj a vecik tua kubung ni kangbi",
+        "ch_sentence": "康比的公文有附加其他書件。",
+        "dialect": "北"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "kusiki ziriu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pasusu tua ku-si-ki-zi-riu a sihu, si'eljang tua maljepida anga si' ataqaljaan atua 'inituluan.",
+        "ch_sentence": "政府依戶籍資料統計人口或研究教育程度",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "patjumaq tua kusiki",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "singidaan sun a na patjumaq tua su ku-si-ki?",
+        "ch_sentence": "你何時把戶籍遷入的？",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "pacasav tua kusiki",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nungida sun a pacasav tua su ku-si-ki",
+        "ch_sentence": "你何時要遷出戶籍？",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "pavalit tua ziusiu",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mangtjez a'en a pavalit tua ziu-siu tucu.",
+        "ch_sentence": "我今天來（戶政所）辦理住址變更",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "banggu nua tapaljingan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aicu a yu-bin pasusu tua bang-gu nua tapaljingan a semusuq tua tigami",
+        "ch_sentence": "郵差按照門牌號碼挨戶把信件投入信箱",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "qemulip tua vecik",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu tja 'asupilan anga tja haiya tja utubay, vaik anan tjen a paqemulip tua vecik na kansac.",
+        "ch_sentence": "汽、機車報廢時，得先至監理機關辦理註銷牌照",
+        "dialect": "北南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "pavalit tua ngadan",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "maqati itjen a pavalit tua ngadan",
+        "ch_sentence": "我們有改名的權利",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "vecik tua pinarecekeljan",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kemacu itjen ta vecik tua pinarecekeljan a vaik a kipuvecik a sema ku-si-ki-zi-mu-siu",
+        "ch_sentence": "要帶結婚證書去戶政事務所辦理結婚登記",
+        "dialect": "北南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "vecik tua kinavadayan",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nu mavaday itjen a marecekelj, maqati itjen a malap ta vecik tua kinavadayan i ku-si-ki-zi-mu-siu.",
+        "ch_sentence": "離婚當事人申辦離婚登記完竣，得向戶政事務所申請核發離婚證明書",
+        "dialect": "北"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "kuisang tua aljis",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kisan pucemel ta aljis a kuisng tua aljis.",
+        "ch_sentence": "牙醫師專治牙齒",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "sinezatja a zumin",
+        "dialect": "北"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mavan a pukeljang pitua zu-min a aicu.",
+        "ch_sentence": "這是平面配置圖"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "kakivecikan tua kipucemel",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vaik-tjen a kakivecikan tua kipucemel nu muri kipapucemel.",
+        "ch_sentence": "看病前先到掛號室",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "saseqetjan tua vecik",
+        "dialect": "北南"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "i saseqetjan tua vecik ti itjang.",
+        "ch_sentence": "itjang 在檔案室",
+        "dialect": "北南"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "lalapan tua cemel",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "vaiq a ken a sema lalapan tua camel a malape tua ku camel.",
+        "ch_sentence": "我要去藥局拿藥",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kipakinsa tua kinacavacavan",
+        "dialect": "北東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "aicu a kipakinsa tua kinacavacavan tja ki puzanglan sa kamaya.",
+        "ch_sentence": "健康檢查要重視",
+        "dialect": "北東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "paljayang tua sikipaljivakan",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mangtjez a sema qinaljan a i-si-siu a paljayang tua sikipaljivakan.",
+        "ch_sentence": "衛生所來部落防治宣導",
+        "dialect": "北南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "paljivak tua angalj",
+        "dialect": "北南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mangetjez a gasi a sema qinaljan a pasemalaw tua kiljiva tua angalj.",
+        "ch_sentence": "護士來部落宣導口腔保健"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "ngaljeq nua angalj",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nuna padjamu a tja i angalj a ngaljeq ulja tjen a nakinemenem.",
+        "ch_sentence": "口腔黏膜若有出血要注意",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "zinatja'a lisuq",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "icu a zinatja' a lisuq mana samnguwaq ta tedep ta sasaw a mapiljay a caucau.",
+        "ch_sentence": "這個無障礙坡道讓身障者進出方便",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "sinazatj a'utjuv",
+        "dialect": "北中南東"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "a sinazatj a utjuv mavan a mapiljyi a caucau a semeljudj.",
+        "ch_sentence": "無障礙廁所是提供給身障者使用",
+        "dialect": "北中南東"
+      }
+    ],
+    "source_year": "108"
+  }
+}

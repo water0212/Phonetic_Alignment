@@ -1,0 +1,388 @@
+{
+  "教育部": {
+    "new_word": [
+      {
+        "fm_word": "qpahan kklawa ttgsa",
+        "ch_semantic": "管理教育的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "qpahan kklawa tnpusu",
+        "ch_semantic": "管理原住民的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "sapah qpahan",
+        "ch_semantic": "工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "sapah smlaan",
+        "ch_semantic": "製造的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "健保": {
+    "new_word": [
+      {
+        "fm_word": "kklawa hiyi",
+        "ch_semantic": "管理身體",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": "mslikaw ppaan",
+        "ch_semantic": "快速的搭乘",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "pstalang bowraw",
+        "ch_semantic": "跟浪一起跑",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "qsiya dmgiyal xiluy",
+        "ch_semantic": "多過水的鐵",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "pnskraya hangan",
+        "ch_semantic": "名字的記號",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qnawal mangal sasaw samaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀": {
+    "new_word": [
+      {
+        "fm_word": "patas sngqaras",
+        "ch_semantic": "獎狀",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎盃": {
+    "new_word": [
+      {
+        "fm_word": "pratu sngqaras",
+        "ch_semantic": "獎盃",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎牌": {
+    "new_word": [
+      {
+        "fm_word": "paya sngqaras",
+        "ch_semantic": "獎牌",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "珊蝴": {
+    "new_word": [
+      {
+        "fm_word": "qhuni qsilung",
+        "ch_semantic": "樹 海",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學": {
+    "new_word": [
+      {
+        "fm_word": "sapuh pkshaya",
+        "ch_semantic": "使東西變化的藥",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "quyux paru",
+        "ch_semantic": "大雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yayung huda"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "pusu daya",
+        "ch_semantic": "北的最根本的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "pusu hunat",
+        "ch_semantic": "北的最根本的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "鄉公所": {
+    "new_word": [
+      {
+        "fm_word": "Qpahan Nsgan",
+        "ch_semantic": "鄉的政府",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "pnslian empsaput kari",
+        "ch_semantic": "說一件一件事情的人的聚會",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "qungu geynsi",
+        "ch_semantic": "原子砲彈",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "rmigaw qmita snliqan",
+        "ch_semantic": "去巡看毀壞的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "iyax sngayan",
+        "ch_semantic": "週日的間隔",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "dmudug pkrana",
+        "ch_semantic": "鼓勵使發展",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "seejiq dmhagun",
+        "ch_semantic": "要觀賞的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "殖民者": {
+    "new_word": [
+      {
+        "fm_word": "seejiq pquli",
+        "ch_semantic": "使人成為奴隸的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "qpuruh naqin",
+        "ch_semantic": "壞的組織",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": "pila pnssli nanak",
+        "ch_semantic": "自己收集的錢",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "euda pgkla",
+        "ch_semantic": "使人知道得做法",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "人權": {
+    "new_word": [
+      {
+        "fm_word": "pusu biyax seejiq",
+        "ch_semantic": "人基本的力量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "文章": {
+    "new_word": [
+      {
+        "fm_word": "patas rnisuhmatas",
+        "ch_semantic": "寫過的文章",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "pratu mahan pseuxul",
+        "ch_semantic": "使喝的碗保溫",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "sapuh dxgal",
+        "ch_semantic": "土地的藥",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "網路": {
+    "new_word": [
+      {
+        "fm_word": "kaji samaw",
+        "ch_semantic": "電的網",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "kklawa kkbiyax hiyi",
+        "ch_semantic": "身體健康的管理",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "qqita mkeiyax",
+        "ch_semantic": "意外的照顧",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ungat pusahu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

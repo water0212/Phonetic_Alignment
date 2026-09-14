@@ -1,0 +1,202 @@
+{
+  "大西洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Tasiyang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "太平洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Taypingyang"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "北冰洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pepingyang",
+          "peypingyang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "可樂": {
+    "new_word": [
+      {
+        "fm_word": [
+          "koro",
+          "kere"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "印度洋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Ingtuyang",
+          "Intuyang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "汞": {
+    "new_word": [
+      {
+        "fm_word": "suwein",
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沼澤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ruco",
+          "rusaw",
+          "rucaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "鈣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "xikay"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鉛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "xicen",
+          "xiceyn"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "漢堡": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hanpaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "鋁": {
+    "new_word": [
+      {
+        "fm_word": [
+          "xiri",
+          "xiryu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "鋅": {
+    "new_word": [
+      {
+        "fm_word": [
+          "xisin"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "xisi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "錳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ximong",
+          "ximung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "107"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "todeywangi a pananazangan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no peypeypapiyan so tao",
+        "ch_semantic": "管理讓人變好的機關",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no mocimot",
+        "ch_semantic": "管理環境的機關",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no apzapzatan no seyvo",
+        "ch_semantic": "管理政府財產的機關",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no meyveyvazey a tao",
+        "ch_semantic": "管理勞工的機關",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no pangonongan no ranom",
+        "ch_semantic": "管理水路的機關",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "tomalamozong no ngayngay",
+        "ch_semantic": "管理客家人的機關",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "x 光": {
+    "new_word": [
+      {
+        "fm_word": "sivan so kataotao",
+        "ch_semantic": "穿透身體的光",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "公克": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungke"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "公噸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungtun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "公職人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kumuing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "毛筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hudē"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代表會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "taypiyawhuēy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "平板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pingpan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "兆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "usaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "克拉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kela"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "投影機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "toingci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "直轄市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cesiyase"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "社團": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lepunan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "律師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "binkusi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "秘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "misu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "記者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cice"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾爹": {
+    "new_word": [
+      {
+        "fm_word": "tinutemamaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾媽": {
+    "new_word": [
+      {
+        "fm_word": "tinutainaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "副教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vuciyawso"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "基金會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cicinhuēy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "掃描機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seawmiyawci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciyawso"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "黑板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kukubang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳真機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "FAX"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "滑鼠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huwasu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義父": {
+    "new_word": [
+      {
+        "fm_word": "kinuretemamaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義母": {
+    "new_word": [
+      {
+        "fm_word": "kinuretainaya",
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "初鹿",
+          "知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "僑生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciyawseng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "網友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wangyo"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "億": {
+    "new_word": [
+      {
+        "fm_word": [
+          "isaw",
+          "kudakudaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本",
+          "建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "學歷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tinakesian",
+          "tinakesiyan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王",
+          "西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "導演": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tawyēn"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "燒錄機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seawmiyawci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "鍵盤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciēnpan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "護貝機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hupēci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "讀卡機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tukaci"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南王、西群、知本、建和"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理師": {
+    "new_word": [
+      {
+        "fm_word": "kangguhu",
+        "dialect": "南王"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "a kanguhu tu kiyakarunan kan baelri na babayan.",
+        "ch_sentence": "我姊姊是位護理師。",
+        "dialect": "南王"
+      },
+      {
+        "fm_sentence": "a kanguhu tu kiyakarunan ni ivalri na vavayan.",
+        "ch_sentence": "我姊姊是位護理師。",
+        "dialect": "初鹿"
+      },
+      {
+        "fm_sentence": "i valri na vavayan maw na kanguhu i malri.",
+        "ch_sentence": "我姊姊是醫院的護士。",
+        "dialect": "知本"
+      },
+      {
+        "fm_sentence": "maremu na kanguhu i biyoing kema i malri.",
+        "ch_sentence": "爸爸說：醫院的護士很兇！",
+        "dialect": "建和"
+      }
+    ],
+    "source_year": "108"
+  }
+}

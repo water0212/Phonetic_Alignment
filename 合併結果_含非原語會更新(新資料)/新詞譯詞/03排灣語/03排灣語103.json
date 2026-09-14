@@ -1,0 +1,90 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "kisacu",
+        "ch_semantic": "警察(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "警察"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "kaisia",
+        "ch_semantic": "公司(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公司"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "kuba",
+        "ch_semantic": "工廠(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "工廠"
+  },
+  "影印機": {
+    "new_word": [
+      {
+        "fm_word": "insacu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "影印機"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "kangpang",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "招牌"
+  },
+  "天線": {
+    "new_word": [
+      {
+        "fm_word": "antidra",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "天線"
+  },
+  "憲法": {
+    "new_word": [
+      {
+        "fm_word": "kimpu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "憲法"
+  },
+  "判決書": {
+    "new_word": [
+      {
+        "fm_word": "hangkicu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "判決書"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sbrigan msleexan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "Qpahan Brihan Qqlhang Kndsan Klwaan",
+        "ch_semantic": "管理國家衛生福利",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "Qpahan Kklawa Llingay",
+        "ch_semantic": "管理環境",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "Qpahan Kklawa Pusu Dnuuy Klwaan",
+        "ch_semantic": "管理國有財產",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "Qpahan Kklawa Dmqeepah",
+        "ch_semantic": "管理勞工",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "Qpahan Kklawa Dxgal",
+        "ch_semantic": "管理土地",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "Qpahan Kklawa Seejiq Ngayngay Klwaan",
+        "ch_semantic": "管理客家事務",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

@@ -1,0 +1,1302 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "kakiyan kucyu'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kakiyan patawayan kucyu.",
+        "ch_sentence": "校長辦公的處所。"
+      },
+      {
+        "fm_sentence": "sicu kocyo ga pcywagan na kocyo.",
+        "ch_sentence": "校長室是校長辦公處所。",
+        "dialect": "賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "smra'ayu yuwaw pasaba'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hiya ku smra'ayu yayuwaw pasaba'.",
+        "ch_sentence": "他是辦理人事(教師)業務的人。"
+      },
+      {
+        "fm_sentence": "kwara lalu na sinsi ga cyux sa sicu squliq.",
+        "ch_sentence": "所有老師的名單都在人事室裡。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "samsum habangan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "samsum habangan hani hiya.",
+        "ch_sentence": "這室經管財金處所(室)。",
+        "dialect": "澤"
+      },
+      {
+        "fm_sentence": "sicu kayke qu cyux smpung miq pila.",
+        "ch_sentence": "會計室在統計付款。",
+        "dialect": "賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "salawan hi'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "niyan kung i sahuy salawan hi'.",
+        "ch_sentence": "我在保健室(健康中心)內。",
+        "dialect": "澤"
+      },
+      {
+        "fm_sentence": "nyux ku mhngaw sa pkblayan hi.",
+        "ch_sentence": "我在健康中心療養。",
+        "dialect": "賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "導師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "ptwawan pasaba'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ptawawan pasaba' ku hani hiya.",
+        "ch_sentence": "這是教(導)師的辦公的地方。"
+      },
+      {
+        "fm_sentence": "mhriq zikang ka ini pcbaq seto ga, cyux mhngaw sa pzyang sinsi sicu.",
+        "ch_sentence": "導師沒教課時會在導師辦公室裡休息。",
+        "dialect": "賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教室辦公室": {
+    "new_word": [
+      {
+        "fm_word": "patawawan sinip pakaba'an",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "patawawan sinip pakaba'an ku Watan hani.",
+        "ch_sentence": "Watan 是科任老師。"
+      },
+      {
+        "fm_sentence": "mshriq pcbaq qu sinsi na llamu ga cyux mhngaw sa llamu sinsi sicu.",
+        "ch_sentence": "科任老師沒教學時在科任老師室休息。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "kayiyan pasaba' uwas",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kakiyan pasaba' uwas ku hani.",
+        "ch_sentence": "這是音樂教學的場所。"
+      },
+      {
+        "fm_sentence": "tlbugan ga pqbaqan tlubuw.",
+        "ch_sentence": "音樂教室是學習音樂的地方。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "kakiyan pasaba' sapatas",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kakiyan pasaba' sapatas ku hani.",
+        "ch_sentence": "這是美勞教學的場所。",
+        "dialect": "unk/賽/澤"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "pakaba'an sinriwan limu'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakaba'an sinriwan limu' ku hani.",
+        "ch_sentence": "觀賞視聽的場所。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "mangay katung qu llaqi ga, musa sa ngngayan kyosicu.",
+        "ch_sentence": "小孩們會去視聽教室去看卡通。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "pakaba'an Tinnaw",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cingay qbaqan nya tennaw kyosicu.",
+        "ch_sentence": "電腦教室可以學習很多東西。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "pakaba'an llahuy",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lhlahuy kyosicu ga pcbaq zywaw na lhlahuy.",
+        "ch_sentence": "自然教室是教自然科學的。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "pararaw pakaba'an",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ini ptehuk cikay inlungan na mqbaq ga, musa mqbaq sa resosu kyosicu.",
+        "ch_sentence": "學習有點障礙者，會到資源教室上課。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "pakaba'an gaga alang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pakaba'an su gaga alang ku hani hiya'.",
+        "ch_sentence": "這裡是學習鄉土文化環境的場所。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "ke' 'Tayal kyosicu ga pcbaq ke' ta nanak.",
+        "ch_sentence": "鄉土教室是學習自己的族語。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "patawawan yuwaw pasaba'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "patawawan yuwaw pasaba' ku kakiyan hani hiya'.",
+        "ch_sentence": "這是教學事務工作的場所。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "pcywagan zyuwaw na pcbaq qu gakumu sicu hiya.",
+        "ch_sentence": "教務處是教學事務工作的場所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "patayuwagan yuwaw pakaba'an",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "patayuwagan yuwaw pasaba' lala'i ku hani hiya'.",
+        "ch_sentence": "這是孩子學習事務(學習知識系統)工作的處所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "patayuwaw smlaw pakaba'an",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "patayuwaw smlawu pakaba'an ku Tali hani.",
+        "ch_sentence": "這位 Tali 在總務處工作。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "cyux mtzywaw sa somu sicu yaba mu.",
+        "ch_sentence": "我爸爸在總務處工作。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "patayuwaw smraw kayanux",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kiyan uziy ku Patayuwaw smlaw kayanux i bruwan mu.",
+        "ch_sentence": "我學校也有輔導處。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "maki kin'qwan na seto ga mutux nha rasun sa pshzyu'an.",
+        "ch_sentence": "如果學生違規犯錯會送去輔導室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "khu' biru'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mutu kung lawkah musa sa ku Khu' biru' yu!",
+        "ch_sentence": "我經常會去那個圖書館呦！",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "musa saku mita biru sa khu biru.",
+        "ch_sentence": "我要去圖書館看書。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "yayupan patazilan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "yayupan patazilan awsa ti tazilan payat.",
+        "ch_sentence": "上去四樓的入口間。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "musa sami nikay ga spwah myan ptzilan.",
+        "ch_sentence": "我們經由樓梯上二樓。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "tisazing tazilan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ki tisazing tazilan ku baruwan mu.",
+        "ch_sentence": "我的教室在二樓。"
+      },
+      {
+        "fm_sentence": "cyux maki sa nikay qu kyosicu myan.",
+        "ch_sentence": "我們的教室在二樓。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "tu'iy hiyay",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pwah ti Ti'iy hiyay.",
+        "ch_sentence": "走走廊。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "mhkangi sami phkngyan pqwo ru, tehuk sa kocyosicu la.",
+        "ch_sentence": "我們走過走廊後到了校長室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "tkmuwan zik xyan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "laxiy usa i manawu tkmuwan zik xyan hasa ki lala'i.",
+        "ch_sentence": "小孩們！不要過去地下室玩呦！",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "mciriq sraral ga musa tlqing te lqengan sicu qu ssquliq.",
+        "ch_sentence": "以前戰爭時人們會躲到地下室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "satanaxan knayrin",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "satanaxan knayrin ku hani hiya.",
+        "ch_sentence": "這是女生用的廁所。"
+      },
+      {
+        "fm_sentence": "qani ga stnxan kneril.",
+        "ch_sentence": "這是女生廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "satanaxan tmalung",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "satanaxan tmalung ku hani hiya.",
+        "ch_sentence": "這是男生用的廁所。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "musa stanux qu mlikuy ga musa stnxan mlikuy.",
+        "ch_sentence": "男生上廁所要到男生廁所。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "pahangi'an turaku",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kiyan hari na hangi'an turaku na?",
+        "ch_sentence": "還有停車位置嗎？",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "musa ta mangay ega ga, 'san ta smi hngawan turuy qu turuy ta.",
+        "ch_sentence": "我們去看電影時，把車子停在停車場。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "gnawgan yawa' mari'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mutu kung musa manawu i ganawgan yawa' mari'.",
+        "ch_sentence": "我會到籃球場去打(玩)籃球。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "wagiq iyal qu llaqi cyux mzyuy pasketo qasa.",
+        "ch_sentence": "在玩籃球的那些小孩都很高。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "gnawgan mari' yakiyu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pagnawgan mari' yakiyu ku sasa hiya.",
+        "ch_sentence": "那是棒球的運動場。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "cingay llaqi musa mzyuy yakyu sa pzi'an yakyu.",
+        "ch_sentence": "很多孩子到棒球場去打棒球。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "bbiru' babuwan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa kung i pabiru' yayuwaw babuwan sasan.",
+        "ch_sentence": "我明天要去戶政單位辦理家戶資料。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "magal ina qu laqi ga 'san ta pbiru sa pbrwan kni'an.",
+        "ch_sentence": "兒子娶媳要去戶政事務所登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "smra'ayu bbiru babuwan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "smra'ayu bbiru babuwan ku yayuwaw naha'.",
+        "ch_sentence": "支援戶政業務工作是它們的事物。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "qara pbrwan kni'an ga musa helaw balay mtzyuwaw zyuwaw na pbiru.",
+        "ch_sentence": "戶政工作站更能方便去登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "riyax ptayuwaw",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "riyax ptayuwaw la yu!",
+        "ch_sentence": "是工作的時間囉！",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "aring sasan 9 spung ru tehuk 5 spung babaw kryaxan qu ryax pcyuwagan mu.",
+        "ch_sentence": "我上班時間為早上9點到下午5點。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "amalu' yayuwaw",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lawkah i rarmaw yuwaw sa'uli' ga, blayi lungan sawun naha.",
+        "ch_sentence": "提供多項的人群服務，人稱善良的人。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "musa ta gokosyo ga, cingay llamu praw nya.",
+        "ch_sentence": "我們去鄉公所，那裡有許多對民眾的服務項目。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "lalan p'alu'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kiya ku kaiki'an pa'alu rumaw su waw la?",
+        "ch_sentence": "有服務台了嗎？",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "cyux inu qu ppraw pqutan na byoing qani?",
+        "ch_sentence": "這家醫院的服務台在哪裡？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "trang p'alu'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pihiq ku ngahut trang pa'alu waw hasa!",
+        "ch_sentence": "按下那個服務鈴噹的釦子！",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "maki ta byoing mha ni kya qu plawa ta kanggoxu ga, phtan ta qu praw kring.",
+        "ch_sentence": "我們在醫院，若是需要護士服務，可以按服務鈴。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "yaya hang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "p'iyu su rhzyal ga phngu su ya_ingkang ay!",
+        "ch_sentence": "你要土地變更需要蓋印鑑章。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "pabiru babuwan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hali pabiru inkahulan naku la'i su kanayrin ki!",
+        "ch_sentence": "你要去登記女兒的出生資料呦！",
+        "dialect": "unk/賽/汶"
+      },
+      {
+        "fm_sentence": "say pbiru kni'an qu laqi su kneril.",
+        "ch_sentence": "去為你女兒戶籍登記。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "pabiru knax an",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "laxiy ungyi' musa pabiru spaan na kinqyanux ni kanayrin su.",
+        "ch_sentence": "請不要忘了去登記你太太的身分。",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "laxi zngiy qu pbiru sintman kneril su ay.",
+        "ch_sentence": "別忘了註記你妻子的身分喔。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徙登記": {
+    "new_word": [
+      {
+        "fm_word": "pabiru tahaziyan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "inwahan su pabiru ku sinhahi'an na nabakisan mamu la?",
+        "ch_sentence": "你去登記你家族的遷徙資料了嗎？",
+        "dialect": "unk/賽/汶"
+      },
+      {
+        "fm_sentence": "mnwah su pbiru sinhzyan biru sa la?",
+        "ch_sentence": "你去辦理遷徙登記了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "pabiru sinbah",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hali pabiru biru sinbahan ka tina'iyu su bango na imu su ki!",
+        "ch_sentence": "要去申請登記你變更你家的門牌號碼呦！",
+        "dialect": "unk/賽/汶"
+      },
+      {
+        "fm_sentence": "nyux tmwang qutux laqi su lozi, say pbiru 'nyugan ki.",
+        "ch_sentence": "你又多了一個小孩，要去戶籍變更登記喔！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "biru binah",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "suling ku biru binah hasa la!",
+        "ch_sentence": "其他的文件資料給燒了吧！",
+        "dialect": "賽"
+      },
+      {
+        "fm_sentence": "ungat zywaw nya biru binah qani hiya la, si lomi la!",
+        "ch_sentence": "其他文件沒有用了，就燒毀了吧！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "baniru babuwan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "baqun mitaal kahbag ku biniru biru na babu'an i tinnaw su ga?",
+        "ch_sentence": "在你的電腦上都可顯示出你家的戶籍資料？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "住址變更": {
+    "new_word": [
+      {
+        "fm_word": "sinbah biru sali",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "wyan sabah biru Sali ni Yumin Lyasa, ini ba'i su ki inu la!",
+        "ch_sentence": "Yumin Lyasa 的地址變更了，現在不知道住那裡囉！",
+        "dialect": "澤"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "biru lihun",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "piya ku biru na balihun su na imu hiya?",
+        "ch_sentence": "你家的門牌號碼是多少？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "rxayan sintagan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ainu ku inhbgan su na rizx isu?",
+        "ch_sentence": "你的出生日是什麼？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "改名": {
+    "new_word": [
+      {
+        "fm_word": "amiyu lalu'",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "halan umiyu lalu su la?",
+        "ch_sentence": "你要去更改你的名字了嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預約": {
+    "new_word": [
+      {
+        "fm_word": "manama tamumu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "manama patamumu' ri'ax ku waw ulaqi' su kanayrin han.",
+        "ch_sentence": "你女兒的事情事，你得預(定)約日期在先。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "biru sanu'un",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "laxiy i ungiy maras ku pinsapangan biru kikung hasa ki!",
+        "ch_sentence": "今天別忘了要攜帶結婚證書嘿！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "biru pinta'alax",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "laxiy i ungiy musa pabiru ku biru pinta'alax kikung su yu!",
+        "ch_sentence": "你不要忘記帶著你的離婚證書去登記呦！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "paraya' gnaxan alang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kiya pa'araya' su qinqanuxan qalang simu uwi?",
+        "ch_sentence": "你們也有衛生所嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "保健員": {
+    "new_word": [
+      {
+        "fm_word": "paraw malahang hi",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hiya ga paraw malahang hihi' waw niya.",
+        "ch_sentence": "他工作是保健員。",
+        "dialect": "汶"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "smrhu smbasang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kumlahang su sambasang ku waw ni Puyap.",
+        "ch_sentence": "Puyap 的工作是護理長"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "pasaba' smbalayi nani'un",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pasibaq smbalaiq naniqun ku knayrin hani.",
+        "ch_sentence": "這個女子是營養師。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "kuysang g'anx",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "baq paqaniq iyu ku sinsang na gi'nux hani ga!",
+        "ch_sentence": "這位牙醫師很會治療呦！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "平面配置圖": {
+    "new_word": [
+      {
+        "fm_word": "nanatas tapa' biru",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kabalayi imu ga, aisi ki kiya ku pinatas su matapa' biru.",
+        "ch_sentence": "作房子時，應該要有繪製的平面圖。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "sata'iyan hi",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "usa saku satu'iyan su hihi' hasa han ga!",
+        "ch_sentence": "先過去那個診療室吧！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "X 光室": {
+    "new_word": [
+      {
+        "fm_word": "psariwan X",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kawupan satuiyan si'ax hihi' ku hasa ki!",
+        "ch_sentence": "那是身體光照(X 光)檢查室的入口呦！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "pahip banggu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "musa su i paqaniq iyu ga, asiki manama' musa' pabiruwan banggu.",
+        "ch_sentence": "你要去看病時，必須先去到掛號室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "pabbuwan la'i",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "hani ga, pababu'an su ulaqy ki!",
+        "ch_sentence": "這是餵奶(哺乳)間(室)呦！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "p'yugan palawan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kaiki'an na pa'ayugan pakalahang hitay ku imu tikay hani.",
+        "ch_sentence": "這個小小間的房子是營區的值班室(崗哨)。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "salawan palawkah",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ti' inu ku halan pakalawkahan su hihi'?",
+        "ch_sentence": "復健室在哪裡阿？",
+        "dialect": "汶"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "hmkani naxalan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uniyan i ik na pasatu'iyan Lawa na!",
+        "ch_sentence": "Lawa 還在檢驗室的！",
+        "dialect": "汶"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "sa'atuwan bniru",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kahu' na bniru ku hasa hiya!",
+        "ch_sentence": "那間是檔案儲倉的地方！",
+        "dialect": "汶"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "gagalan iyu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "baqun su ti'inu ku a'alan su iyu' qu?",
+        "ch_sentence": "你知道領藥的地方嗎？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "pinbahu iyu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "blaiq subalay ku pinhabgan na iyu mu'atu hani!",
+        "ch_sentence": "這次的疫苗真的不錯！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "kstu'iy hi",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "nabalaiq psatu'iyan su hihi' su ki!",
+        "ch_sentence": "要好好地做健康檢查呦！",
+        "dialect": "汶"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "pinpung ma'atu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mutu pa'usa kayi ku tawki na papung su ma'atu.",
+        "ch_sentence": "政府單位會播放相關疫情的宣傳防治事務。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "pahayutiy apang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kalawkah paquwax su ngaquwaq ki, nki ini kuxal hihi' ta kahabaw.",
+        "ch_sentence": "要經常做口腔保健，我們身體才不會得疾病。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "apah apang",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ukas ku kapah ngaquwaq la ga, pahahuy ku hihi' ta la ki!",
+        "ch_sentence": "我們沒有了口腔黏膜，身體就會不好了！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "pasahus rmuyux",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pasihup su ramux ga, waw na paqaniq iyu ui yu!",
+        "ch_sentence": "抽血也是疾病檢驗的一項事務喔！"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "pabayta ma'atu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "manama' pabayta' na mu'atu ga sikablaqig na hihi.",
+        "ch_sentence": "預先注射疾病。",
+        "dialect": "汶"
+      }
+    ],
+    "source_year": "108"
+  },
+  "篩檢": {
+    "new_word": [
+      {
+        "fm_word": "satu'iy ma'atu",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ini i nabalaiqy i satu'iyan ku punu' mu'atu hani lga, mutu i qumuu la!",
+        "ch_sentence": "瘟疫疫情如果沒有做好篩檢工作時，疾病就會傳開了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "n'azic iyu uwaw",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mutu ta i sapayma su ba' ku N'azic iyu uwaw hani.",
+        "ch_sentence": "我們會用酒精(藥用)洗手",
+        "dialect": "unk/賽/澤"
+      },
+      {
+        "fm_sentence": "musa ta mita rangi ta cyux mnbu ga, kzyup ta blihun nha ga, qs'un ta mpus alkol qu pba ta.",
+        "ch_sentence": "我們去探望友人，在進入病房前，會先在自己手上噴灑酒精消毒。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "ungat thtayan tu'iy",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ki kmalay kwara tu'i ungat thtayan i hiciy haya!",
+        "ch_sentence": "都會區大多施作有了無障礙坡道(路)。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "ungat pa'ayan satanaxan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "kiya kwara' ungat pa'ayan satanaxan ku baruwan pasaba'an.",
+        "ch_sentence": "學校也都有了無障礙廁所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "na'atu yaputut",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tayhuk ku abagan laga, mutu muwah ku ma'atu yaputut la!",
+        "ch_sentence": "到了夏天時，就會有登革熱的疫情了。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "na'atu sinbuwasan",
+        "dialect": "澤"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ini pinbaga su nani'un laga, mutu kyapun na'atu sabuwasan la!",
+        "ch_sentence": "不注意吃食物的話，就會染上腸病毒。"
+      }
+    ],
+    "source_year": "108"
+  }
+}

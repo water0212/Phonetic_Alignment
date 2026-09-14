@@ -1,0 +1,1067 @@
+{
+  "校長室": {
+    "new_word": [
+      {
+        "fm_word": "suoca'ha tayaezoi'oyonatmopsʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi'o yumeumu to suoca'ha tayaezoi'oyonatmopsʉ",
+        "ch_sentence": "我進到校長室。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "人事室": {
+    "new_word": [
+      {
+        "fm_word": "'oyonatmopsʉ leaʉt'ʉcʉ leyahioa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ihe psoecʉ'hi to'oyonatmopsʉ leaʉt'ʉcʉ leyahioa a'o ho poa lema'cohioa",
+        "ch_sentence": "人事室通知我去教書。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "主計室/會計室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona letmasvʉtʉ yupasʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ihe tasvʉta to'oyona letmasvʉtʉ yupasʉ 'o te'o hnoo",
+        "ch_sentence": "主計室計算我的薪水"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康中心/保健室": {
+    "new_word": [
+      {
+        "fm_word": "'oyna peihsʉsʉzʉ ho aotothomʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi'o uhto'oyna peihsʉsʉzʉ ho aotothomʉ ho amiocni",
+        "ch_sentence": "他去保健室休息"
+      }
+    ],
+    "source_year": "108"
+  },
+  "會議室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona toʉsvʉsvʉt",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mimia yu' eteuyunu to 'oyona toʉsvʉsvʉtʉ ho yupeahngʉyʉ",
+        "ch_sentence": "我們去會議室開會"
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona lepocengi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lata yonto ' oyona lepocengi ho yaahioa",
+        "ch_sentence": "他在警衛室工作"
+      }
+    ],
+    "source_year": "108"
+  },
+  "班導辦公室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona atuhcu lema'cohio",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi'o uhto ' oyona atuhcu lema'cohio ho biebimi to lema'cohio",
+        "ch_sentence": "我到班導辦公室找老師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "科任教師辦公室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona atuhcu lema'cohio",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ita sia to ' oyona atuhcu lema'cohio 'o tposʉ taini",
+        "ch_sentence": "他把他的書放在料任教師辦公室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "音樂專科教室": {
+    "new_word": [
+      {
+        "fm_word": "atuhcu 'oyona pasunaeno",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lamia yoto atuhcu 'oyona pasunaeno ho aothomʉ pasu cou",
+        "ch_sentence": "我們在音樂專科教室學鄒族歌謠"
+      }
+    ],
+    "source_year": "108"
+  },
+  "美勞專科教室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona tma'onko",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mimia yonto 'oyona tma'onko ho zunga",
+        "ch_sentence": "我們在美勞專科教室畫畫"
+      }
+    ],
+    "source_year": "108"
+  },
+  "視聽教室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona baito tas 'onko",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mimia yonto 'oyona baito tas'onko ho aʉsvʉtʉ bua cou",
+        "ch_sentence": "我們在視聽教室學鄒族"
+      }
+    ],
+    "source_year": "108"
+  },
+  "電腦教室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona titen-nao",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la'u kaebʉ uhto 'oyona titen-nao",
+        "ch_sentence": "我喜歡到電腦教室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "自然教室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona ma' cohio no aa'a'ausna ta hpʉhpʉngʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la'u yonto 'oyona ma' cohio no aa'a'ausna ta hpʉhpʉngʉ ho ma'cohio",
+        "ch_sentence": "我在自然教室教課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "資源教室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona ma' cohio no mav'ov'o",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lata yonto 'oyona ma'cohio no mav'ov'o ho ma'cohio",
+        "ch_sentence": "他在資源教室教課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "鄉土教室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona ma'cohio kukucnguhu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la yonto 'oyona ma'cohio kukucnguhu ho ma ' cohio'o ak'i",
+        "ch_sentence": "祖父在鄉土教室教課"
+      }
+    ],
+    "source_year": "108"
+  },
+  "教務處": {
+    "new_word": [
+      {
+        "fm_word": "'oyonatmopsʉ no hia ma'cohio",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mita uavovei ta 'oyonatmopsʉ no hia ma'cohio",
+        "ch_sentence": "他在教務處走來走去"
+      }
+    ],
+    "source_year": "108"
+  },
+  "學務處": {
+    "new_word": [
+      {
+        "fm_word": "'oyonatmopsʉ note pa'cohivi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo nochipi si 'oyonatmopsʉ note pa'cohivi",
+        "ch_sentence": "學務處在角落"
+      }
+    ],
+    "source_year": "108"
+  },
+  "總務處": {
+    "new_word": [
+      {
+        "fm_word": "'oyonatmopsʉ leaʉt' ʉcʉ macucuma",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "le eʉsvʉvʉta to 'oyonatmopsʉ leaʉt' ʉcʉ macucuma homo kuzo si ca'hʉ",
+        "ch_sentence": "椅子壞了要告訴總務處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "輔導處": {
+    "new_word": [
+      {
+        "fm_word": "'oyonatmopsʉ le'eʉsvsvʉtʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ihe e'una to 'oyonatmopsʉ le'eʉsvsvʉtʉ 'omo 'ohatma lʉ",
+        "ch_sentence": "它們把不聽話的孩子叫到輔導處"
+      }
+    ],
+    "source_year": "108"
+  },
+  "圖書館": {
+    "new_word": [
+      {
+        "fm_word": "'oisia matpotposʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la'u yonto isia matpotposʉ homo tosvo",
+        "ch_sentence": "我放假的時候在圖書館"
+      }
+    ],
+    "source_year": "108"
+  },
+  "樓梯間": {
+    "new_word": [
+      {
+        "fm_word": "non'i ta taito'tohungva",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "teav'a la somʉti no macucuma si knon'i ta taito'tohungva",
+        "ch_sentence": "樓梯間不要推放東西"
+      }
+    ],
+    "source_year": "108"
+  },
+  "二樓": {
+    "new_word": [
+      {
+        "fm_word": "auskucusi ta emoo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo yonta auskucusi ta emoo'o hopo taini",
+        "ch_sentence": "他的房間在二樓"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "nomsu ' eonʉ ceoa ci aemana",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo yonta nomsu ' eonʉ ci aemana 'o macucuma",
+        "ch_sentence": "東西在地下室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "'oyona bonʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "cocoya si lahin'i 'oyona bonʉ",
+        "ch_sentence": "他們的餐廳很寬敞"
+      }
+    ],
+    "source_year": "108"
+  },
+  "女生廁所": {
+    "new_word": [
+      {
+        "fm_word": "ooh'usna maamespingi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "",
+        "ch_sentence": "廁所鄒語有幾種說法 tote'ia 大便的地方 'oyonamiyafo迴避的地方此處用 ooh'usna 為長輩所常使用。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "男生廁所": {
+    "new_word": [
+      {
+        "fm_word": "ooh'usna haahocngʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "",
+        "ch_sentence": "廁所鄒語有幾種說法 tote'ia 大便的地方 'oyonamiyafo迴避的地方此處用 ooh'usna 為長輩所常使用。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "停車場": {
+    "new_word": [
+      {
+        "fm_word": "'otosva kuyai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "na'no cocoya 'o 'otosva kuyai tan 'e",
+        "ch_sentence": "這裡的停車場很寬敞"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "'oyona lanchiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lamia kaebʉ yota ' oyona lanchiu ho peispak'i",
+        "ch_sentence": "我們很喜歡在籃球場玩耍"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "'oyona yakiu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uk'a mako 'oyona yakiu 'e soseongana",
+        "ch_sentence": "阿里山連棒球場都沒有"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "oyona lemoyai tposʉ ta yatatiskova",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi'o uhto ' oyona lemoyai tposʉ ta yatatiskova ho mooyai tposʉ",
+        "ch_sentence": "我到戶政事務所辦理證件"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政工作站": {
+    "new_word": [
+      {
+        "fm_word": "oyona lemoyai tposʉ ta yatatiskova",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uk'a ci 'oyona lemoyai tposʉ ta yatatiskova ta saviki",
+        "ch_sentence": "山美沒有戶政工作站"
+      }
+    ],
+    "source_year": "108"
+  },
+  "辦公時間": {
+    "new_word": [
+      {
+        "fm_word": "huomia note hia yaahioa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la asansana 'o huomia note hia yaahioa to ' oyonatmopsʉ",
+        "ch_sentence": "要注意公部門的辦公時間"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "ongko note poa hioaneni",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "isi tposi ta'e 'o ongko note poa hioaneni",
+        "ch_sentence": "要服務的項目寫在那裏"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務台": {
+    "new_word": [
+      {
+        "fm_word": "letuocosa note hioa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lata yahioa ta letuocosa note hioa",
+        "ch_sentence": "他在服務台工作"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "meemeno no eoho'ʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la i' ima 'o meemeno no eoho'ʉ honciko eoho'ʉ",
+        "ch_sentence": "需要呼叫時按服務鈴"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "tposʉ no yatatiskova",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la haahafa 'o tposʉ no yatatiskova",
+        "ch_sentence": "要隨身攜帶身分證"
+      }
+    ],
+    "source_year": "108"
+  },
+  "設籍登記": {
+    "new_word": [
+      {
+        "fm_word": "tposi nate yoni",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tposi nate yoni ho tec 'u uhta faeva cite yoni ",
+        "ch_sentence": "到新的處所要做設籍登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "tposi na ongko",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tposi na ongko homo yayo 'e oko",
+        "ch_sentence": "孩子出生要做身份登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷徙登記": {
+    "new_word": [
+      {
+        "fm_word": "tposi na hia noezuhu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ahta o'te tposi na hia noezuhu ho tec 'u noezuhu",
+        "ch_sentence": "遷徙就要作遷徙登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "變更、更正及撤銷登記": {
+    "new_word": [
+      {
+        "fm_word": "taezuhi na avaevoezuhu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "huta'e ho taezuhi na avaevoezuhu",
+        "ch_sentence": "去那裡變更登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "其他書件": {
+    "new_word": [
+      {
+        "fm_word": "mocmo ci tposʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "panton' a mocmo ci tposʉ ta'e",
+        "ch_sentence": "那裏還有其他文件"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶籍資料": {
+    "new_word": [
+      {
+        "fm_word": "matpotposʉ ta yatatiskova",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tuyafa na matpotposʉ ta yatatiskovamu",
+        "ch_sentence": "把你們的戶籍資料拿出來"
+      }
+    ],
+    "source_year": "108"
+  },
+  "門牌": {
+    "new_word": [
+      {
+        "fm_word": "huomia zoman' i ta emoo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "pano huomia zoman'i ta emoomu",
+        "ch_sentence": "你們家有門牌嗎?"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "yoni yayo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tposi na ohko yoni yayo",
+        "ch_sentence": "把你出生地寫下來"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "ta 'okoa",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ohtala ta ta 'okoa '0 oko tani",
+        "ch_sentence": "他的孩子是收養的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "結婚證書": {
+    "new_word": [
+      {
+        "fm_word": "tposʉ no navconga",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "soʉlʉlʉa 'o tposʉ no navcongamu",
+        "ch_sentence": "把你們的結婚證書保存好"
+      }
+    ],
+    "source_year": "108"
+  },
+  "離婚證書": {
+    "new_word": [
+      {
+        "fm_word": "tposʉ no yupevai",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ihin 'icu tposi 'o tposʉ no yupevai",
+        "ch_sentence": "他們已經簽了離婚證書"
+      }
+    ],
+    "source_year": "108"
+  },
+  "衛生所": {
+    "new_word": [
+      {
+        "fm_word": "lepoot'ou yokeo ci 'oyonatmopsʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mi'o yʉmeʉmʉ to lepoot'ou yokeo ci 'oyonatmopsʉ",
+        "ch_sentence": "我進去衛生所"
+      }
+    ],
+    "source_year": "108"
+  },
+  "護理長": {
+    "new_word": [
+      {
+        "fm_word": "tayaezoi kanvofu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "a tayaezoi kanvofu na taini",
+        "ch_sentence": "他是護理長。"
+      }
+    ],
+    "source_year": "108"
+  },
+  "營養師": {
+    "new_word": [
+      {
+        "fm_word": "le 'esvʉtʉ eabobonʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "tuososʉ to le 'esvʉtʉ eabobonʉ note hia eabobonʉa",
+        "ch_sentence": "飲食方式請教營養師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "牙醫師": {
+    "new_word": [
+      {
+        "fm_word": "leaotothomx hisi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uk' a ci leaotothomx hisi ta feungu",
+        "ch_sentence": "山區沒有牙醫師"
+      }
+    ],
+    "source_year": "108"
+  },
+  "診療室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona tootothomʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo yonta 'oyona tootothomʉ si 'oisasasan",
+        "ch_sentence": "醫生在診療室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "x光室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona tmas'ongko feango",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uhta 'oyona tmas'ongko feango ho poa aiti si feango",
+        "ch_sentence": "到x光室檢查身體"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "m' eatposʉ no poa baito",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "ahoi uhta m' eatposʉ no poa baito",
+        "ch_sentence": "先去掛號室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "哺乳室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona paun 'u",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uhta 'oyona paun 'u ho paun 'u",
+        "ch_sentence": "去哺乳室哺乳"
+      }
+    ],
+    "source_year": "108"
+  },
+  "值班室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona lepocengi 'oyonatmopsʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "lata yahioa ta 'oyona lepocengi 'oyona tmopsʉ",
+        "ch_sentence": "他在值班室工作"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona poo 'usnu s'os'o",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "botngonʉ simo bitoyange ta 'oyona poo 'usnu s'os'o",
+        "ch_sentence": "注射室排了很多人"
+      }
+    ],
+    "source_year": "108"
+  },
+  "復健室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona peihsʉsʉzʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo uk'a 'oyona peihsʉsʉzʉ'e fuengu",
+        "ch_sentence": "山區沒有復健室"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "'oyona epei",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uhta 'oyona epei ho poa aitneni",
+        "ch_sentence": "到檢驗室檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檔案室": {
+    "new_word": [
+      {
+        "fm_word": "'oisia matpotposʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uhta 'oisia matpotposʉ ho i'eima 'o tpsʉ no smoo ",
+        "ch_sentence": "到檔案室找房子的文件"
+      }
+    ],
+    "source_year": "108"
+  },
+  "藥局": {
+    "new_word": [
+      {
+        "fm_word": "lemofi s'os'o",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "uhta 'yona lemofi s'os'o ho mayo ta s'os'o",
+        "ch_sentence": "到藥局領藥"
+      }
+    ],
+    "source_year": "108"
+  },
+  "疫苗": {
+    "new_word": [
+      {
+        "fm_word": "s'os'o ayoyocʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo poo' usnu ta s'os'o ayoyocʉ lepoot'ou yokeo ci 'oyonatmopsʉ",
+        "ch_sentence": "衛生所在施打疫苗"
+      }
+    ],
+    "source_year": "108"
+  },
+  "健康檢查": {
+    "new_word": [
+      {
+        "fm_word": "aiti na hia yayokeo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la asngʉca poa aiti na hia yayokeo",
+        "ch_sentence": "要常作健康檢查"
+      }
+    ],
+    "source_year": "108"
+  },
+  "防治宣導": {
+    "new_word": [
+      {
+        "fm_word": "psoyom'o ayoyocx",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la psoyom'o ayoyocx ho tec'u homu'eina",
+        "ch_sentence": "夏天到了要做防治宣導"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔保健": {
+    "new_word": [
+      {
+        "fm_word": "hia aʉt'cʉ ta ngayo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la atatalʉa na hia aʉt'cʉ ta ngayo",
+        "ch_sentence": "要記得口腔保健"
+      }
+    ],
+    "source_year": "108"
+  },
+  "口腔黏膜": {
+    "new_word": [
+      {
+        "fm_word": "ngʉehoi ta ngayo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la aeza humi ta ngʉehoi ta ngayo na hia ʉmnʉ ta feango",
+        "ch_sentence": "從口腔黏朕判斷身體是否健康"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "po'usnu s'os'o ayoyocʉ",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo koa ʉmnʉ homo poa po'usnu s'os'o ayoyocʉ",
+        "ch_sentence": "打預防針是有益的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "'le'opcoi h'aokuv'o",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "siesa ta le'opcoi h'aokuv'o si emucusu",
+        "ch_sentence": "將你手擦上酒精"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙坡道": {
+    "new_word": [
+      {
+        "fm_word": "ceono meaopsu'hu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "poa mlta ceono meaopsu'hu si mameoi",
+        "ch_sentence": "讓長輩走無障礙坡道"
+      }
+    ],
+    "source_year": "108"
+  },
+  "無障礙廁所": {
+    "new_word": [
+      {
+        "fm_word": "ooh'usna meaopsu'hu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "mo yonta'e 'o ooh'usna meaopsu'hu",
+        "ch_sentence": "無障礙廁所在那裏"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "cong'e bxyo no kuzo",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "la cong'e bxyo no kuzo homo oʉnpʉnpʉ",
+        "ch_sentence": "亂吃東西會得腸病毒"
+      }
+    ],
+    "source_year": "108"
+  }
+}

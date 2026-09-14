@@ -1,0 +1,1300 @@
+{
+  "一甲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lituk knuglhangan",
+          "lituk knglbangan",
+          "lituk knlbangan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一吋": {
+    "new_word": [
+      {
+        "fm_word": [
+          "1 kulo kexil",
+          "1 kulaw keyxil",
+          "1 kulaw keyxil"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一坪": {
+    "new_word": [
+      {
+        "fm_word": [
+          "1cubo knuglhangan",
+          "1cubo knglbangan",
+          "1cubo knlbangan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qrengul pneetuq",
+          "qrngul pstuq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "二氧化碳": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qrengul langu",
+          "qrngul langu",
+          "qrngul tapung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "上弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rabu idas"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "下弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "geqi idas",
+          "priyax idas"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "土星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pngerah dheran",
+          "pngrah dxgal",
+          "pngrah dxran"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "大氣層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnyusan bgihur paru",
+          "tnyusan bwihur beyhing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公分": {
+    "new_word": [
+      {
+        "fm_word": [
+          "snkukuh qndisan",
+          "snkukuh qjisan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公升": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tqriyan cuqi",
+          "tqrian suqi",
+          "tqriyan cuqi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qngaan qndisan",
+          "qngaan qnjisan",
+          "qngaan qndisan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公頃": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kobu knlhangan",
+          "kobu knglbangan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公轉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnlaman knkawas",
+          "tnlaman hngkawas",
+          "tnlaman kngkawas"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "分貝": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hrenang snqwaqan",
+          "hnang snqwaqan",
+          "hrnang sqwaqan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "太陽能": {
+    "new_word": [
+      {
+        "fm_word": [
+          "beyax hido",
+          "biyax hidaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "日蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ssawan hido",
+          "ssagan hidaw",
+          "hmkan hidaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "月蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mdeka ssawan idas",
+          "ssagan idas",
+          "ssawan idas"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "木星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pngerah qhuni",
+          "pngrah qhuni",
+          "pngrah qhuni"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "水星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pngerah qsiya",
+          "pngrah qsiya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dgiyaq spreqan puniq",
+          "dgiyaq sprqan puniq",
+          "dwiyaq spruqan puniq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山灰": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qbulic spreqan puniq",
+          "qbulic snprqan puniq",
+          "qbulic sprqan puniq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pungerah puniq",
+          "pngrah puniq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "主菜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sama tndamac"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "加工食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pnrana snlmeyan ppuqun",
+          "pnrana ssalu uuqun",
+          "pnrana snluwan uqun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "北半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dnkaan knlangan tudaya",
+          "dkaan knglangan tgdaya",
+          "dnkan knlangan tdaya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "北回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ayus tdaya knlangan",
+          "ayust tgdaya knglangan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "奶精": {
+    "new_word": [
+      {
+        "fm_word": [
+          "beyuq nurac",
+          "biyuq urac"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "石化燃料": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pthuwan rana",
+          "pthuwan ranaq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "立方公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "stngayan qngaan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "冰山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dgiyaq huda",
+          "dwiyaq huda"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "名產": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pnyahan tnaalang",
+          "pnyahan tnaalang",
+          "pnyahan tnalang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "地震帶": {
+    "new_word": [
+      {
+        "fm_word": [
+          "eluw ddaan runu",
+          "elug daan runu",
+          "elu dan runu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "西元": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pnrdingan knkawas",
+          "pnrjingan hngkawas",
+          "pnrdingan kngkawas"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "西半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dnkaan knlangan tuiril",
+          "dkaan knglangan teigi",
+          "teiri",
+          "dnkan knlangan tuiril"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "低氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mnkala hnriqan bgihur",
+          "mnkala hnriqan bwihur"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "冷凍食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pnhuda ppuqun",
+          "pnhuda uuqun",
+          "pnhuda uqun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bnaquy siyo rcilung",
+          "bnaqi ssiyaw gsilung",
+          "bnaqi ssiyaw ucilung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙洲": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gnyusan bnaquy rcilung",
+          "lnnguan bnaqi",
+          "lnnguwan bnaqi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙漠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nrano bnaquy",
+          "rnaaw bnaqi",
+          "nranaw bnaqi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "赤道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ayus cceka knlangan",
+          "ayus kska knglangan",
+          "ayus cka knlangan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "季風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "klegan bgihur karac",
+          "klgan bgihur",
+          "kluwan bwihur"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "岩岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qahur siyo rcilung",
+          "qahur ssiyaw gsliung",
+          "qahur ssiyaw ucilung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "東半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dnkaan knlangan tnarac",
+          "dkaan knglangan tnarac",
+          "dnkan knlangan tnarac"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "直徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qnthuran tumun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "金星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pngerah king",
+          "pngrah cin",
+          "pngrah king"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "南半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dnkaan knlangan thunac",
+          "dkaan knglangan thunac",
+          "dnkan knlangan thunac"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "南回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ayus thunac knlangan",
+          "ayus thunac knglangan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "洋流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qlliyan rcilung",
+          "qlliyan gsilung",
+          "qliyan ucilung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "炸雞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnqerun rodux",
+          "tnqrul rudux",
+          "tnqrul rodux"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "盆地": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dheran tlbuwan dgiyaq",
+          "dxgal tlbuan dgiyaq",
+          "dxran tlbuwan dwiyaq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "紅外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ledax mttanah",
+          "rdax enbanah",
+          "rdax mbanah"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "料理包": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lnbuwan qnmasan",
+          "lnbuan sqamas",
+          "lnbuwan qmasan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "氣流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmalang bgihur",
+          "tmalang bwihur"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "海灣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gukun rcilung",
+          "gukung gsilung",
+          "ukung ucilung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "素食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ini ekan wawa"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "臭氧層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "meekan ledax mttdiyuc",
+          "hmguc rdax tkliyuc",
+          "hmuc rdax mplawa"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "高氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "riqan mnddengu bgihur",
+          "riqan mddngu bgihur",
+          "riqan mdngu bwihur"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "副食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qdalan muwang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "基改食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rehak bnrahan",
+          "ghak bnrahan",
+          "rhak pnbrahan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "速食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Tnesan ppuqun",
+          "Tnisan uuqun",
+          "Tnsan uqun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "寒流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bgihur msekuy",
+          "bgihur mskuy",
+          "bwihur mskuy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "硫磺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qbulic qheding",
+          "qbulic qhjing",
+          "qbulic qhding"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "紫外線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ledax mtdiyuc",
+          "rdax mkliyuc",
+          "rdax mplawa"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "溫室效應": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kntlexan tnhbehuk",
+          "mtalux tnhmkan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "經度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dnyusan pnhyegan",
+          "dnyusan pnhyugan",
+          "dnyusan pnhyuwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "葷食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mllamu ppuqun",
+          "lmlamu uuqun",
+          "lmlamu uqun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "滿月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mtuku idas",
+          "mqurug idas",
+          "mtumun idas"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "酸雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "quyux remun",
+          "quyux rmul",
+          "quyux rmun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "潟湖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lnnguwan bnaquy",
+          "lnnguan",
+          "lnnguwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "潮汐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mnkala meelih bula",
+          "mkala ni mlih braw",
+          "mnkala milih braw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "緯度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dnyusan pnbaang",
+          "dnyusan bnbaang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr,To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "震央": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pusu runu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "輻射": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cnbuwan pnthuwan",
+          "snbuan tnhuan",
+          "snbuwan tnhuwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "斷層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cenga sprunu",
+          "snga sprunu",
+          "cnga sprunu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "礦物": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pusu qrari",
+          "pusu tasil"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg,Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "107"
+  }
+}

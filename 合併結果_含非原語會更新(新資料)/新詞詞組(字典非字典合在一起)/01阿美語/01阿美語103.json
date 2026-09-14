@@ -1,0 +1,229 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "mikowanay to kalofinacadan a sa’opo^",
+        "ch_semantic": "管理原住民族的團體",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "門檻": {
+    "new_word": [
+      {
+        "fm_word": "taawasan no kalodemak",
+        "ch_semantic": "跨越事情的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "mikihadoy to tapelik",
+        "ch_semantic": "跟著浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "macngelay to tatii'hay",
+        "ch_semantic": "染上壞掉的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sapihedot to tilifi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀/獎盃/獎牌": {
+    "new_word": [
+      {
+        "fm_word": "sapakawlah no tapong",
+        "ch_semantic": "上級給的獎品",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ci soˆdaay a aro",
+          "sisoledaay a aro"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "tolas no kaamis",
+        "ch_semantic": "最北端",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "tolas no katimol",
+        "ch_semantic": "最南端",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "博物館": {
+    "new_word": [
+      {
+        "fm_word": "pinaangan to likisi no toa's",
+        "ch_semantic": "收藏先人歷史的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "ci tatodongay",
+        "ch_semantic": "具指定的(對自己而言)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "ccay lipay",
+        "ch_semantic": "一個 星期",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "katalawan a dmak",
+        "ch_semantic": "可怕/害怕的事情/情形",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "kasalekad no maliangay",
+        "ch_semantic": "一組一組的欺負人的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "ci tanengay",
+        "ch_semantic": "有能力的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公信力": {
+    "new_word": [
+      {
+        "fm_word": "ci icel",
+        "ch_semantic": "有力量的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "faˆsoay a tananoman",
+        "ch_semantic": "溫溫的杯子",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "minaholan a poliyaw",
+        "ch_semantic": "腐爛的肥料",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "kaeles to midmakan",
+        "ch_semantic": "自愛的做事",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "dadama a hoking",
+        "ch_semantic": "幫忙的保險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ca'ay paeyoen a kakaenen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核廢料": {
+    "new_word": [
+      {
+        "fm_word": "sawalakay a lakaw",
+        "ch_semantic": "使中毒的垃圾",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "打折": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kawalae'an"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "katal'amoehan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

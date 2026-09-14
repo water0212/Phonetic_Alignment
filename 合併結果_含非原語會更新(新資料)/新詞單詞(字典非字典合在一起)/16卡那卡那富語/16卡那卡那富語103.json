@@ -1,0 +1,112 @@
+{
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "tingting",
+        "ch_semantic": "公斤",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "niarauna",
+        "ch_semantic": "產生",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "mirʉngʉcʉ",
+        "ch_semantic": "豪雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "nipaica",
+        "ch_semantic": "所經過的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "putokikioa",
+        "ch_semantic": "要做的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核定": {
+    "new_word": [
+      {
+        "fm_word": "nimakisavang",
+        "ch_semantic": "通過",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "mati",
+        "ch_semantic": "星期",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "porai",
+        "ch_semantic": "(什麼類型)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "ka'icʉpʉn",
+        "ch_semantic": "令人害怕的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "maram",
+        "ch_semantic": "挑",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "tavara'a",
+        "ch_semantic": "所會的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

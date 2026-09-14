@@ -1,0 +1,132 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "mikalsong",
+        "ch_semantic": "戴帽子的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "piveyvazaiyan",
+        "ch_semantic": "經常要去工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "門檻": {
+    "new_word": [
+      {
+        "fm_word": "panpandan",
+        "ch_semantic": "達到那個標準",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "認證": {
+    "new_word": [
+      {
+        "fm_word": "yongkad",
+        "ch_semantic": "證明",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "mapiangangay",
+        "ch_semantic": "公平的(行為)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "mapowyowyot",
+        "ch_semantic": "衝浪；玩浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "殖民者": {
+    "new_word": [
+      {
+        "fm_word": "mapivazavazay",
+        "ch_semantic": "唆使工作",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀": {
+    "new_word": [
+      {
+        "fm_word": "yongkad",
+        "ch_semantic": "證明",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "pivazaing",
+        "ch_semantic": "要做的事情",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "sibasibay",
+        "ch_semantic": "裝扮",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "teneteneng",
+        "ch_semantic": "很多會的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "saciponan",
+        "ch_semantic": "派系(組織)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "nionongan",
+        "ch_semantic": "已經走過的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

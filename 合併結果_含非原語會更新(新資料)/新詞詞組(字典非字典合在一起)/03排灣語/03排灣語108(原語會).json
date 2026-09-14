@@ -1,0 +1,1352 @@
+{
+  "千萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kuzulj a kudraw",
+          "'uzulj a 'udrav"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "口譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vavenalitan tua kai a caucau",
+          "padjadjaljun tua kai a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "工讀生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zemeliyuliyulj a situ",
+          "zemeliyuliyulj a venci'",
+          "itatan a situ",
+          "kipaisu tu sikitulu a situ"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "公職人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siningkiu a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "文件夾": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tuvung tua vecik",
+          "tuvung tua veci'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、東",
+          "中、南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "月光族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ljepuljeputin a zineliyuljanga",
+          "ljepuljeputen a zineliyuljanga",
+          "ljepuljeputen a initan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "主任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siuning 'iying"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "主播": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ruvelengedan tua sinbung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理孕母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisevalit a mavungelay",
+          "'isevalit a mavungelay",
+          "pinatukuljan a mavunglay a vavayan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinasevalitan tua…"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "出納員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ruparukuzan ta paisu",
+          "nadjemadjas ta paisu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "四分之一": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ita kemasi tua sepatj",
+          "ita 'emasi tua sepatj",
+          "ita tua pinatjasepatj"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、東",
+          "中",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "外送員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisansematjez a remasasavan",
+          "kisansematjez a remacasavan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "外籍生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "inika setaiwan a situ",
+          "ini'a setaiwan a venci'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、東",
+          "中、南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "必修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinane tjara kituluin"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "交換生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinatatauvalit a situ",
+          "pinatjatjauvalit a venci'",
+          "pinatjatjauvalit a situ"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、東",
+          "中",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "全職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "katjequlidan a itua sengesengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "宅配人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rusatjezan a ljemetaumaq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "百萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iday a kudraw",
+          "iday a 'udrav",
+          "taidai a kudravan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南",
+          "中",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "耳機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjungu nua calinga"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "行動電源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tavatavangen a batiri",
+          "tavatavangen a batili",
+          "aacuin a batidri"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "別針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lalang i varung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "吹風機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipapetapetad tua quvalj a kikay",
+          "kikay a sipapedadad tua quvalj"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "快遞人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisansematjez a ljemadjaljavan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "批發業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ljemetacawanan a sengsengan",
+          "ljemitacawanan a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "更生人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinakiumaljanga a caucau",
+          "pina'iumaljanga a caucau",
+          "pinaqiumaljanga a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "受刑人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ineljev a caucau",
+          "rinusung a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、東、南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房仲業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "remavaveli ta umaq a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房務人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rutemeteman ta kasiuljayan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "承包商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "benawubawu tua…"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "社團": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinitjatju ciyuran",
+          "tjatjukinaciuciuranan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "空服員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rutemeteman i taladj tua hikuki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "金融業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "remagingku a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "便利貼": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipukeljakeljang a djukip",
+          "sipu'elja'eljang a djukip",
+          "sipadjupidjupil a pukeljang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、東",
+          "中",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "兼職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "paseqaliulius a itua sengesengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "書法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hinudian a vecik",
+          "hinudian a veci'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "烘衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sipapetapetad tua kava a kikay",
+          "kikay a sipapedadad tua itung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "畜牧業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "remaquzip a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "記者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinbung kisia"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "迴紋針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atjip tua sunatj",
+          "qatjip na sunatj",
+          "qacip na qadupu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒測器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sikikeljang tua savavan a rukuz",
+          "si'i'eljang tua savawaan a rukuz",
+          "siikeljakeljang tua savavan a rukuz",
+          "iqayaqayam tua kinvauan a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾爸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinan kama",
+          "sinan 'ama"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾媽": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinan kina",
+          "sinan 'ina"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾兒女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sinan aljak",
+          "sinan alja'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "專任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "siumung 'iying"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "族群委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "raremaqaljan a 'iying",
+          "raremazukuan a 'iying"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "創業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "vinedaljan a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "測謊器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sikikeljang tuki venecaveca a rukuz",
+          "si'i'eljang tuki venecaveca a rukuz",
+          "si'ikeljakeljang tuki tjemeretjeres a rukuz",
+          "siqayaqayam tua vecan a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "街友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rusiyuljauljay a remadjalanan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳播業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "remasaselayang a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "暖氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sizangezangezang a kikay",
+          "kikay a sizangzangzang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "滅火器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "si'evu'evutj tua sapuy a rukuz",
+          "siqevuqevutj tua sapuy a rukuz",
+          "siqevuqevutj tua sapuy a kikay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "滑鼠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "patu'it nua tinaw",
+          "huasu",
+          "huasu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "北、中、南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義父": {
+    "new_word": [
+      {
+        "fm_word": "pinaru ku kam",
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義母": {
+    "new_word": [
+      {
+        "fm_word": "pinaru a kin",
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義子女": {
+    "new_word": [
+      {
+        "fm_word": "pinaru alja",
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "解說人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rupaljaluayan a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "零售業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ljemetaitaita a sengsengan",
+          "ljemitaitaita a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電子工業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "remadadinki a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電扶梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ki'alian nua tienti",
+          "'iqalian nua tienti",
+          "kakitjizuljan a tienti",
+          "tienhuti"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電動機車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sabattiritirin a 'utubay",
+          "sabatilitilian a utubay",
+          "pahidrihidring a utubay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "監考員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasekiseking a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "網友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rematinavan a kipu'ali",
+          "rematinavan a 'ipuqali",
+          "inipuqali a rematinnaw",
+          "rematinavan a kipuqali"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "製造業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "remaalang a sengsengan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "領隊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ruciyuran tua remayurangan",
+          "cemiur tua caucau a tjeqalja"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "導演": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ruvelengedan tua seman 'iga"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養父": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qinuzip a'ama",
+          "kama"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "中",
+          "北、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qinuzip a'ina",
+          "kina"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "中",
+          "北、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "機師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ru'ungting tua hikuki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "選修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinitju kakituluin",
+          "piniliq tu kituluin"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "應徵者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikibili' tua sengesengan",
+          "'i'ibiliq tua sengesengan",
+          "ivecik tu ipusengsengan",
+          "kibiliq tua sengsenga"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "鍵盤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjatjubukan nua tinaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "翻譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rutjatjauvalitan a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "雙面膠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaradjukic a pavavelid"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "獸醫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rupucemelan tua qemuziquzip"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼父": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaumalj ni ina",
+          "curu ni 'ina",
+          "tjinaumaljan ni ina"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjaumalj ni kama",
+          "curu ni 'ama",
+          "tjinaumaljan ni kama"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼子女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "aljak na valjau",
+          "alja' na saladj"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、南、東",
+          "中"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "讀卡機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "veljeng tua kapien",
+          "sikisupu tua kaping"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "觀光業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "remayurangan a sengsegnan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、南、東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kisevalit",
+          "'isevalit",
+          "pinatukuljan a caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、東",
+          "中",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "監護人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rupase'etjan",
+          "rupaseqetjan",
+          "isan ilaing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "中",
+          "北、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "護貝機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hupeici",
+          "kikay a silakulakub"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北、中、東",
+          "南"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "億": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ulau",
+          "kaulav",
+          "ulaw",
+          "ida a laulavan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "新住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tjautjasikata'aljan",
+          "tjautjasi'ataqaljan",
+          "tjaukemaljaizuan",
+          "tjau samaza kemaizua caucau"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "北",
+          "中",
+          "南",
+          "東"
+        ]
+      }
+    ],
+    "source_year": "108"
+  }
+}

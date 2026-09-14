@@ -1,0 +1,112 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "kisace",
+        "ch_semantic": "(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "警察"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "kubakuba",
+        "ch_semantic": "(日借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "工廠"
+  },
+  "健保": {
+    "new_word": [
+      {
+        "fm_word": "cinpaw",
+        "ch_semantic": "(中借)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "健保"
+  },
+  "天線": {
+    "new_word": [
+      {
+        "fm_word": "tingsingi",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "天線"
+  },
+  "獎狀/獎盃/獎牌": {
+    "new_word": [
+      {
+        "fm_word": "suhing",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "獎狀/獎盃/獎牌"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "gugusiw",
+        "ch_semantic": "鄉公所(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "pakudang",
+        "ch_semantic": "彈砲(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "原子彈"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "hulrice",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kingkiw",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "tingnaw",
+        "ch_semantic": "電腦(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "全家": {
+    "new_word": [
+      {
+        "fm_word": "cin-ciya",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "全家"
+  },
+  "萊爾富": {
+    "new_word": [
+      {
+        "fm_word": "lay-re-fo",
+        "ch_semantic": "中譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "萊爾富"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "wifu pu",
+        "ch_semantic": "華語直譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "衛福部"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "huwanpaw su",
+        "ch_semantic": "華語直譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "環保署"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "kucan ci",
+        "ch_semantic": "華語直譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "國產局"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "lawpaw ci",
+        "ch_semantic": "華語直譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "勞保局"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "suypaw ci",
+        "ch_semantic": "華語直譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "水保局"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "hakawiyin hoy",
+        "ch_semantic": "音譯",
+        "dialect": []
+      }
+    ],
+    "source_year": "104",
+    "chinese": "客委會"
+  }
+}

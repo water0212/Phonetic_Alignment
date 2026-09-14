@@ -1,0 +1,278 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "pslian sejiq mqduwiyaq",
+        "ch_semantic": "屬於山的人的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "sapah qpahan",
+        "ch_semantic": "工作的場所",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "健保": {
+    "new_word": [
+      {
+        "fm_word": "kklawa hiyi",
+        "ch_semantic": "管理身體的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "交流道": {
+    "new_word": [
+      {
+        "fm_word": "elu pswayay",
+        "ch_semantic": "分開的路",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "術科": {
+    "new_word": [
+      {
+        "fm_word": "pnsung snlhayan",
+        "ch_semantic": "評鑑所學過的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "picux neyras",
+        "ch_semantic": "滑浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "patas pnqita",
+        "ch_semantic": "給人看的標記",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qnawan ribo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀": {
+    "new_word": [
+      {
+        "fm_word": "snalu patas",
+        "ch_semantic": "獎紙",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "quyux beyhing",
+        "ch_semantic": "很大的雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "quyux nuhur",
+        "ch_semantic": "魔般",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ayu huda"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "daya bay dxral",
+        "ch_semantic": "大地之巔",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "hunac bay dxral",
+        "ch_semantic": "大地之底",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "neyras ucilung",
+        "ch_semantic": "大海浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "黑潮": {
+    "new_word": [
+      {
+        "fm_word": "muxul ucilung",
+        "ch_semantic": "溫暖的海",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "bnkuwan waya",
+        "ch_semantic": "一捆綑法律",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "rmiyaw qnlqilan",
+        "ch_semantic": "巡視災難",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "psumu hbangan",
+        "ch_semantic": "募款",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "iyax sngayan",
+        "ch_semantic": "休息的段落",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "認證": {
+    "new_word": [
+      {
+        "fm_word": "pnsung knkla",
+        "ch_semantic": "衡量知識",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "sediq pseyga",
+        "ch_semantic": "演戲的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "mpqpah snkulan",
+        "ch_semantic": "被派遣的工人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "金曲獎": {
+    "new_word": [
+      {
+        "fm_word": "snalu mpuyas",
+        "ch_semantic": "歌唱的獎",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "uuda smbari",
+        "ch_semantic": "賣的方法",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "pmuxul tutuh",
+        "ch_semantic": "保溫杯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uka gncahu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kaikanyelelebane ka syubai"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "pungudruane ki tasulrasulravane",
+        "ch_semantic": "主管醫療衛生相關事宜的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "tangadrane ki akadiemelane",
+        "ch_semantic": "主管環境清潔及保護的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "swa tazaisangane",
+        "ch_semantic": "指管理國家財產的單位",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "swa ngaingai",
+        "ch_semantic": "指客家人的全部",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

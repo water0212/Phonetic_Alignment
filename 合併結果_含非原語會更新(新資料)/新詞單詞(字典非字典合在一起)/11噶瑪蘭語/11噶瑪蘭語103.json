@@ -1,0 +1,272 @@
+{
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "Ruguzan",
+        "ch_semantic": "尺",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "laluyan",
+        "ch_semantic": "重量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "kenuwayan",
+        "ch_semantic": "(物品產出)耕作的(產量)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀/獎盃/獎牌": {
+    "new_word": [
+      {
+        "fm_word": "kawlaR",
+        "ch_semantic": "獎品",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "珊蝴": {
+    "new_word": [
+      {
+        "fm_word": "kalat",
+        "ch_semantic": "珊瑚",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學": {
+    "new_word": [
+      {
+        "fm_word": "penadiyug",
+        "ch_semantic": "使腐爛的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "muzan",
+        "ch_semantic": "下雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "muzan",
+        "ch_semantic": "下雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "sagesalan",
+        "ch_semantic": "海嘯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "鄉公所": {
+    "new_word": [
+      {
+        "fm_word": "yakuba",
+        "ch_semantic": "鄉、鎮、市公所(統稱)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "genasuppaRan",
+        "ch_semantic": "我懂的(事情)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "sagazawan",
+        "ch_semantic": "你要扛的東西",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "專利": {
+    "new_word": [
+      {
+        "fm_word": "tungus",
+        "ch_semantic": "個人的;獨有的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "semuzug",
+        "ch_semantic": "推展",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "gagaytisan",
+        "ch_semantic": "危險的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "pasenaguan",
+        "ch_semantic": "表演的(人)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "殖民者": {
+    "new_word": [
+      {
+        "fm_word": "kemuwan",
+        "ch_semantic": "管理(AF-)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "pasatezayan",
+        "ch_semantic": "唱歌的(人)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "penateban",
+        "ch_semantic": "裁判(N)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "gatuluzan",
+        "ch_semantic": "被派公差的(人)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "salilibangan",
+        "ch_semantic": "一群一群",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "mamid",
+        "ch_semantic": "挑選",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": "senabet",
+        "ch_semantic": "(自己)準備",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "satuRin",
+        "ch_semantic": "很有辦法/能力",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "pagesuppaR",
+        "ch_semantic": "讓人家知道",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "文章": {
+    "new_word": [
+      {
+        "fm_word": "senudadan",
+        "ch_semantic": "寫過的(東西)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "網路": {
+    "new_word": [
+      {
+        "fm_word": "tinnaw",
+        "ch_semantic": "電腦",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

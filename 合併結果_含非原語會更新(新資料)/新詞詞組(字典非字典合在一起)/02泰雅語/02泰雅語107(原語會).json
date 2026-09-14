@@ -1,0 +1,788 @@
+{
+  "上弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pnta' byacing",
+          "mtta byating",
+          "panata a buwating",
+          "matagawah buṟating",
+          "mtta byaling",
+          "mhtuw byating"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "下弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mt'umuk byacing",
+          "mt'umuk byating",
+          "mataqaqumu a bwating",
+          "mata'umuk buṟating",
+          "t'umuk byaling",
+          "mtumuk byating"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公轉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "thwiru' gwagi'",
+          "talingayang ku wagi'",
+          "thwiru witux",
+          "mati'uṟit wagi'",
+          "koncwan",
+          "thwiru wagi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "汶",
+          "澤",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "日蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnkum gwagi'",
+          "tnu'un witux",
+          "minuqen ku wagi'",
+          "minakung wagi'",
+          "tnkum wagi",
+          "tnku'ung wagi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "月蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnkum byacing",
+          "tnu'um byating",
+          "mapawng ku buwating",
+          "minakung buṟating",
+          "tnkum byaling",
+          "tnku'ung byating"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山灰": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bhboh hwosan",
+          "bhbuh hwasan",
+          "abuh na hwosan",
+          "kajangbai",
+          "bhoh hwosan",
+          "bhboh hosan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "主菜": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pzyang rramat",
+          "spang na rramat",
+          "pyang rrami",
+          "raramat caṟung",
+          "piyang rramat",
+          "rrami"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "汶",
+          "澤",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "加工食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tnwangan kinbalay nniqun",
+          "tnwangan kinbalay nni'un",
+          "kinbalay naniqun",
+          "tinongan sunbale' naniun",
+          "tnwangan kinbalay nniqun",
+          "tmwangan kbley na nni'un"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "石化燃料": {
+    "new_word": [
+      {
+        "fm_word": [
+          "shwa zan ryaw",
+          "shwa ssuling",
+          "shwa ran ryaw",
+          "shwazanryaw",
+          "shwa cculing",
+          "sxwangzanlyaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "立方公尺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lixwang meta",
+          "rixwang meta"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、四、宜",
+          "澤、萬"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "冰山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rgyax tlkan, rgyax hlagiy",
+          "rgyax tl'tu",
+          "ragiyax na hulaqi'",
+          "ragex hula'iy",
+          "rgyax hlaqi",
+          "rgyax kori"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "名產": {
+    "new_word": [
+      {
+        "fm_word": [
+          "llamu tbziran",
+          "lnamu bnasan",
+          "tabinasan",
+          "lanlamu babinaran",
+          "llamu nniqun",
+          "llamuw bbisan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "地震帶": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tuqiy unu'",
+          "tu'iy gunuw",
+          "tuqiy na kagu'",
+          "tu'uy monuw",
+          "raniq tgtux",
+          "tu'iy bnyu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "冷凍食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pintlaka nniqun",
+          "pintlaka nni'un",
+          "pintla'tu naniqun",
+          "pinsagahṟa' naniun",
+          "tltu nniqun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤、宜",
+          "汶",
+          "萬",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qint'an bsilung",
+          "kint'an bsilung",
+          "kintata'an na bunaqy",
+          "sa'an"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬、四、宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "岩岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rsnat bsilung",
+          "kintta'an na batunux",
+          "kint'an llhuhiy",
+          "yenan",
+          "rsnat bcilung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "汶",
+          "澤",
+          "萬、宜",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "炸雞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ngta' pins'abura",
+          "pins'abura wilung",
+          "pins'abura na waylun",
+          "gilung pinsa'abura",
+          "ngta pins'abura",
+          "pinsabura welung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "料理包": {
+    "new_word": [
+      {
+        "fm_word": [
+          "p_imaw snabu'",
+          "p'imaw snakuy",
+          "p_imaw sinabu'",
+          "paimaw cinabu'",
+          "pgimax cnabu",
+          "pmimow cnakuy"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "氣流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "insuna kayal",
+          "insuna na kal",
+          "insuna kayan",
+          "kisli' karal",
+          "suna kayan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、四",
+          "汶",
+          "澤",
+          "萬",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "副食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "uba' mami'",
+          "uba mani",
+          "uba mami",
+          "uba nni'un"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬",
+          "澤",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "基改食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "snbah nniqun",
+          "snbah na nni'un",
+          "sinabah naniqun",
+          "inbahan naniun",
+          "sinbahan nniqun",
+          "snbah nni'un"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "速食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'law nniqun",
+          "i'law nniqun",
+          "llaw nni'un",
+          "rilot nanilun",
+          "llax nniqun",
+          "llow nni'un"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "汶",
+          "澤",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "寒流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tltu' kal",
+          "tl'tu kayan",
+          "hahṟa' kaṟal",
+          "gwah tltu kayal",
+          "kayan skinut"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "澤",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "滿月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "btruku byacing",
+          "mtbalay byating",
+          "matubalay bwating",
+          "butingan",
+          "tbluku byaling",
+          "btingan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "酸雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mngihuy qwalax",
+          "mcinrepux",
+          "awalax mangihuṟ",
+          "ngihuy qwalax",
+          "mtux walah"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "澤",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "潮汐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "insuna bsilung",
+          "insuna bsilung",
+          "insuna wasilun",
+          "cawsi",
+          "tapus cilung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬、四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "震央": {
+    "new_word": [
+      {
+        "fm_word": [
+          "puqing unu'",
+          "pu'ing gunuw",
+          "puqing na kagu",
+          "puing monow",
+          "gringan tgtux",
+          "pu'ing bnyu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "斷層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bnka' unu'",
+          "mbka gunuw",
+          "bka' na kagu",
+          "binka' monuw",
+          "bnka tgtux",
+          "bnka bnyu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "分貝": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinhngya'an",
+          "kinhna'an",
+          "hin ṟangan",
+          "hngiyang",
+          "kinhngiyang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "直徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cinmawan",
+          "tinmurun",
+          "kinrumul",
+          "tinmawan tumaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、宜",
+          "澤",
+          "萬",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沼澤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qurum",
+          "mss'lak",
+          "rawq ka masi'slaq",
+          "raxal ṟuming",
+          "cawce",
+          "cawco"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "汶",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "季風": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cihong",
+          "sbhuyun behuy",
+          "sbehuy skinut"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、四",
+          "澤",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "一坪": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hitocbo",
+          "qutux cubo",
+          "icubo"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、澤、汶、萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "盆地": {
+    "new_word": [
+      {
+        "fm_word": [
+          "penti",
+          "awngu rgyax",
+          "punti"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、四",
+          "澤",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "葷食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tmhhi'",
+          "tmsuyaw",
+          "tunhahi'",
+          "tmhe nniqun",
+          "tmsinu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "澤",
+          "萬",
+          "四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "107"
+  }
+}

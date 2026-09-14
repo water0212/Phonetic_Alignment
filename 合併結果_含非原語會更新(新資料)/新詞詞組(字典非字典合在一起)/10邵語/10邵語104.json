@@ -1,0 +1,24 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mia'aza wa farifariwan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "Kakitlan a hui",
+        "ch_semantic": "客家人的會(半邵半外來語）",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

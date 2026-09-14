@@ -1,0 +1,44 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "simunang ay tiyam"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "paRibunan tu qasayanay",
+        "ch_semantic": "負責監督健康的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "paRibunan tu qatianay",
+        "ch_semantic": "負責監督外面的環境",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "x 光": {
+    "new_word": [
+      {
+        "fm_word": "papeninguan tu taRaw",
+        "ch_semantic": "攝影身體的疾病",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

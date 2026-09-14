@@ -1,0 +1,178 @@
+{
+  "公克": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kongko",
+          "kungke"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "毛筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mawpi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、To、Tr"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "兆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciyoku",
+          "hpuniq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "克拉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kora",
+          "kera"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "直轄市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Cusiyasu",
+          "Cyas"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "書法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suhuwa",
+          "sufa"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "副教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "huciyawso"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、Tr、To"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "基金會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Cicinghuwe",
+          "Cicinghwey",
+          "Cicinghuwey"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電磁爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tencuru",
+          "teyncru",
+          "teyncuru"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr",
+          "To"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "億": {
+    "new_word": [
+      {
+        "fm_word": [
+          "oku",
+          "hpucing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg、To",
+          "Tr"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "鍵盤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cenpan",
+          "ceynpan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "Tg",
+          "Tr、To"
+        ]
+      }
+    ],
+    "source_year": "108"
+  }
+}

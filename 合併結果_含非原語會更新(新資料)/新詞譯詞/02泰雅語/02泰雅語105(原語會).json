@@ -1,0 +1,53 @@
+{
+  "手機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "soci"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "手機"
+  },
+  "地方法院": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ho'ing"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "地方法院"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kwangte"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  },
+  "電影": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ega'"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105"
+  }
+}

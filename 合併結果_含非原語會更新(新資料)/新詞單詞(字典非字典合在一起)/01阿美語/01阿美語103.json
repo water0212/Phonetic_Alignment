@@ -1,0 +1,202 @@
+{
+  "行車記錄器": {
+    "new_word": [
+      {
+        "fm_word": "sapisasing",
+        "ch_semantic": "使照相的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "ditek",
+        "ch_semantic": "尺",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "dadoy",
+        "ch_semantic": "重量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "kadofah",
+        "ch_semantic": "豐收,產量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "cikacik",
+        "ch_semantic": "漂流木",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學": {
+    "new_word": [
+      {
+        "fm_word": "mifonalan",
+        "ch_semantic": "用來腐敗的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "cdas",
+        "ch_semantic": "大雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "fodo'",
+        "ch_semantic": "洪水(很多東西會流走)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "laco'",
+        "ch_semantic": "大炸彈",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "sapalalan",
+        "ch_semantic": "使開路",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "minengneng",
+        "ch_semantic": "去看",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "taneng",
+        "ch_semantic": "能力",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "marawraay",
+        "ch_semantic": "在表演的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "romadiway",
+        "ch_semantic": "唱歌的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "mihapinangay",
+        "ch_semantic": "要使清楚的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "pacarcaray",
+        "ch_semantic": "臨時的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "mipili'",
+        "ch_semantic": "挑選",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "角色": {
+    "new_word": [
+      {
+        "fm_word": "marawra'",
+        "ch_semantic": "在表演",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "paliwal",
+        "ch_semantic": "有技巧的賣",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "文章": {
+    "new_word": [
+      {
+        "fm_word": "cudad",
+        "ch_semantic": "書",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

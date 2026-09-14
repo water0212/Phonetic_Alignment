@@ -1,0 +1,173 @@
+{
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "ttlaman",
+        "dialect": "Tg"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Smkuxul riyung mosa theyaq ttlaman hiya ka swai mu rseno.",
+        "ch_sentence": "我弟弟很喜歡到操場玩。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Swayi mu snaw skxulan na balay saan mpulah ka tlaman.",
+        "ch_sentence": "我弟弟很喜歡到操場玩。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Smkuxul bi musa hmrapas tlaman ka swayi mu snaw.",
+        "ch_sentence": "我弟弟很喜歡到操場玩。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "ingcencang",
+        "dialect": "Tg"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Asi nanaq spdehu ba smeku ka ingcencang.",
+        "ch_sentence": "印鑑章必須妥善保管。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Asi su ka bliqun smku ka pskryaan hangan.",
+        "ch_sentence": "印鑑章必須妥善保管。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Asi ka kmalu smku ka inccyncang.",
+        "ch_sentence": "印鑑章必須妥善保管。",
+        "dialect": "Tr"
+      },
+      {
+        "fm_sentence": "Mosa ppatis ngayan dheran we, asi ba ka madis ingcencungming.",
+        "ch_sentence": "要辦土地登記必須攜帶印鑑證明。",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Musa su smalu patas dxral ciida, asi su ka madas pskryaan hangan wah!",
+        "ch_sentence": "要辦土地登記必須攜帶印鑑證明。",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Musa matas hangan dxgal o asi ka madas inceyncngming.",
+        "ch_sentence": "要辦土地登記必須攜帶印鑑證明。",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷入": {
+    "new_word": [
+      {
+        "fm_word": "tthrigan",
+        "dialect": "Tg"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Maha su tthrigan Hori knuwan di?",
+        "ch_sentence": "你的戶籍何時要遷入埔里？",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Patas nniqan tnsapah su u, knuwan ka ptmayan su Holi",
+        "ch_sentence": "你的戶籍何時要遷入埔里？",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Knuwan ka miyah su thjil hori dhug?",
+        "ch_sentence": "你的戶籍何時要遷入埔里？",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108"
+  },
+  "遷出": {
+    "new_word": [
+      {
+        "fm_word": "theruy",
+        "dialect": "Tg"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mnosa mangal patis ssaan na theruy ka Sapu ga di?",
+        "ch_sentence": "Sapu 是不是已經去辦理遷出證明了呢？",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Ya wada musa psalu patas thdilan ka Sapu da?",
+        "ch_sentence": "Sapu 是不是已經去辦理遷出證明了呢？",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Mnusa ppatas patas thjil isil nniqan ka Sapu dhug?",
+        "ch_sentence": "Sapu 是不是已經去辦理遷出證明了呢？",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "tquli",
+        "dialect": "Tg"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Isu ka tquli laqi na swai su rseno denu peni.",
+        "ch_sentence": "你就收養你弟弟的孩子吧！",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Asi tquli laqi swayi snaw su dpa!",
+        "ch_sentence": "你就收養你弟弟的孩子吧！",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Asi tquli laqi swayi su snaw da.",
+        "ch_sentence": "你就收養你弟弟的孩子吧！",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "sresan",
+        "dialect": "Tg"
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Wada hiya sresan ka patis ngayan su dheran di!",
+        "ch_sentence": "你的土地登記已經被註銷了！",
+        "dialect": "Tg"
+      },
+      {
+        "fm_sentence": "Wada su pkngatun ka hangan dxral su da.",
+        "ch_sentence": "你的土地登記已經被註銷了！",
+        "dialect": "To"
+      },
+      {
+        "fm_sentence": "Wada dha srsan ka hangan dxgal su da!",
+        "ch_sentence": "你的土地登記已經被註銷了！",
+        "dialect": "Tr"
+      }
+    ],
+    "source_year": "108"
+  }
+}

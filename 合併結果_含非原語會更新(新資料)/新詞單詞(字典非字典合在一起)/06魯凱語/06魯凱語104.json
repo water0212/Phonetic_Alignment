@@ -1,0 +1,24 @@
+{
+  "打折": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kyavala"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "便祕": {
+    "new_word": [
+      {
+        "fm_word": "kiatukalacilri",
+        "ch_semantic": "成硬塊如羊糞",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

@@ -1,0 +1,91 @@
+{
+    "b": {
+        "p": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.1224,
+            "note": "Local Vote"
+        }
+    },
+    "p": {},
+    "m": {},
+    "f": {},
+    "d": {},
+    "t": {},
+    "n": {},
+    "l": {
+        "l": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.1887,
+            "note": "Local Vote"
+        }
+    },
+    "g": {},
+    "k": {},
+    "h": {},
+    "j": {},
+    "q": {},
+    "x": {},
+    "zh": {},
+    "ch": {},
+    "sh": {},
+    "r": {},
+    "z": {},
+    "c": {},
+    "s": {},
+    "0c": {},
+    "an": {},
+    "en": {},
+    "ang": {},
+    "eng": {},
+    "er": {},
+    "i": {
+        "i": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.1803,
+            "note": "Local Vote"
+        }
+    },
+    "u": {},
+    "ㄩ": {},
+    "a": {
+        "a": {
+            "local_count": 1,
+            "local_score_k": 1.0,
+            "global_score_i": 0.2143,
+            "note": "Local Vote"
+        }
+    },
+    "o": {},
+    "ㄜ": {},
+    "e": {},
+    "ai": {},
+    "ei": {},
+    "ao": {},
+    "ou": {},
+    "ia": {},
+    "io": {},
+    "ie": {},
+    "iai": {},
+    "iao": {},
+    "iou": {},
+    "ian": {},
+    "in": {},
+    "iang": {},
+    "ing": {},
+    "ua": {},
+    "uo": {},
+    "uai": {},
+    "uei": {},
+    "uan": {},
+    "un": {},
+    "uang": {},
+    "ong": {},
+    "ㄩe": {},
+    "ㄩan": {},
+    "ㄩn": {},
+    "iong": {},
+    "0v": {}
+}

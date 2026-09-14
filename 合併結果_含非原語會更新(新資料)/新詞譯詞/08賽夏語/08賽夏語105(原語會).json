@@ -1,0 +1,41 @@
+{
+  "網咖": {
+    "new_word": [
+      {
+        "fm_word": [
+          "wangka:"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "網咖"
+  },
+  "纜車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "liwlong"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "纜車"
+  },
+  "光碟": {
+    "new_word": [
+      {
+        "fm_word": [
+          "Siti:"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "光碟"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "操場": {
+    "new_word": [
+      {
+        "fm_word": "kafekacan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "MimaIi^ kako i undofa^",
+        "ch_sentence": "我在操場打球"
+      }
+    ],
+    "source_year": "108"
+  },
+  "走廊": {
+    "new_word": [
+      {
+        "fm_word": "sa'adifan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Dadahal ko sa'adifan niyam",
+        "ch_sentence": "我們的走廊很寬"
+      }
+    ],
+    "source_year": "108"
+  },
+  "地下室": {
+    "new_word": [
+      {
+        "fm_word": "tisiyase",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "To'man ko tisiyase",
+        "ch_sentence": "地下室很暗"
+      }
+    ],
+    "source_year": "108"
+  },
+  "餐廳": {
+    "new_word": [
+      {
+        "fm_word": "scfi^",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "I siyuku kami a palahok to lafang",
+        "ch_sentence": "我們在餐廳宴請"
+      }
+    ],
+    "source_year": "108"
+  },
+  "籃球場": {
+    "new_word": [
+      {
+        "fm_word": "pimalian",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "I pimalian kami a masa'opo^",
+        "ch_sentence": "我們在籃球場集合"
+      }
+    ],
+    "source_year": "108"
+  },
+  "棒球場": {
+    "new_word": [
+      {
+        "fm_word": "piyakiwan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ira i piyakiwan ko finawlan a miki'araw to mimali^ay",
+        "ch_sentence": "觀眾都在捧球場看捧球比賽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "戶政事務所": {
+    "new_word": [
+      {
+        "fm_word": "fucenseusu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "I cowa ko fucenseusu namo?",
+        "ch_sentence": "你們的戶政事務所在那裡？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務項目": {
+    "new_word": [
+      {
+        "fm_word": "fuosyangmu",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O pi'arawan to fu-o-syang-mu koni",
+        "ch_sentence": "這是服務項目看板"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務臺": {
+    "new_word": [
+      {
+        "fm_word": "fuotay",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra i fu-o-tay a mitengil",
+        "ch_sentence": "到服務臺打聽"
+      }
+    ],
+    "source_year": "108"
+  },
+  "服務鈴": {
+    "new_word": [
+      {
+        "fm_word": "fuoling",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O pitahidangan to matayalay koni a fu-o-ling",
+        "ch_sentence": "這是呼叫工作人員的服務鈴"
+      }
+    ],
+    "source_year": "108"
+  },
+  "印鑑": {
+    "new_word": [
+      {
+        "fm_word": "ingkangsiwmyi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Aka sidayen ko ingkangsiwmyi",
+        "ch_sentence": "印鑑不要弄丟"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分證": {
+    "new_word": [
+      {
+        "fm_word": "nifunsiw",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O nifunsiw nima koni",
+        "ch_sentence": "這是誰的身分證"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登記": {
+    "new_word": [
+      {
+        "fm_word": "pangangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Nipangangan kako to fa^lohay a hofocen a wawa",
+        "ch_sentence": "我登記新出生的孩子"
+      }
+    ],
+    "source_year": "108"
+  },
+  "身分登記": {
+    "new_word": [
+      {
+        "fm_word": "pangangan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Mipangangan kako",
+        "ch_sentence": "我在登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "出生地": {
+    "new_word": [
+      {
+        "fm_word": "kahofocan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Icowa ko kasofocan iso a niyaro'?",
+        "ch_sentence": "你的出生地在那裡呢？"
+      }
+    ],
+    "source_year": "108"
+  },
+  "收養": {
+    "new_word": [
+      {
+        "fm_word": "midipotan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Midipotan ko fafahian a safa^ako",
+        "ch_sentence": "我妹妹是收養的"
+      }
+    ],
+    "source_year": "108"
+  },
+  "申請": {
+    "new_word": [
+      {
+        "fm_word": "misensyi",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra i syang-kong-su a misensyi",
+        "ch_sentence": "到鄉公所申請"
+      }
+    ],
+    "source_year": "108"
+  },
+  "註銷": {
+    "new_word": [
+      {
+        "fm_word": "palasawad",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Palasawad han kora ngangan",
+        "ch_sentence": "把那個名稱註銷"
+      }
+    ],
+    "source_year": "108"
+  },
+  "掛號室": {
+    "new_word": [
+      {
+        "fm_word": "kwahawse",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Katayraho i kwahawse pangangan",
+        "ch_sentence": "先到掛號室登記"
+      }
+    ],
+    "source_year": "108"
+  },
+  "注射室": {
+    "new_word": [
+      {
+        "fm_word": "cacucukan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra i cacucukan a micocok to sapaiyo^",
+        "ch_sentence": "去注射室打針"
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢驗室": {
+    "new_word": [
+      {
+        "fm_word": "kakinsaan",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Tayra i kakinsaan a mikinsa to tireng",
+        "ch_sentence": "到檢驗室檢查身體"
+      }
+    ],
+    "source_year": "108"
+  },
+  "抽血": {
+    "new_word": [
+      {
+        "fm_word": "miriremes",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ati riremesen ako kiso",
+        "ch_sentence": "來，我幫你抽血"
+      }
+    ],
+    "source_year": "108"
+  },
+  "預防針": {
+    "new_word": [
+      {
+        "fm_word": "ifangcen",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Ciwsaen ako kiso to ifangcen",
+        "ch_sentence": "我幫你打預防針"
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒精": {
+    "new_word": [
+      {
+        "fm_word": "ciwcin",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "O ciwcin ko sapisiwdok to doka^",
+        "ch_sentence": "用酒精消毒傷口"
+      }
+    ],
+    "source_year": "108"
+  },
+  "登革熱": {
+    "new_word": [
+      {
+        "fm_word": "tenkere",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Adihay ko adada no tenkere i Takaw",
+        "ch_sentence": "高雄很多登革轨的病歷"
+      }
+    ],
+    "source_year": "108"
+  },
+  "腸病毒": {
+    "new_word": [
+      {
+        "fm_word": "matarac",
+        "dialect": []
+      }
+    ],
+    "sentence": [
+      {
+        "fm_sentence": "Na'onen ko kaen mataraca",
+        "ch_sentence": "對吃要小心以免腸病毒"
+      },
+      {
+        "fm_sentence": "Na'onen ko kaen mapiyasa",
+        "ch_sentence": "對吃要小心以免腸病毒"
+      }
+    ],
+    "source_year": "108"
+  }
+}

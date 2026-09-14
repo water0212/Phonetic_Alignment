@@ -1,0 +1,224 @@
+{
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "smosmahu",
+        "ch_semantic": "衝浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "tovohu",
+        "ch_semantic": "得到;收穫",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀/獎盃/獎牌": {
+    "new_word": [
+      {
+        "fm_word": "hnoo",
+        "ch_semantic": "獎賞",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "smunu'u",
+        "ch_semantic": "下很大的雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "sosmʉnʉ'ʉ",
+        "ch_semantic": "最大最大的雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "sobukeu",
+        "ch_semantic": "最頂端",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "tmuah'puhpusu",
+        "ch_semantic": "變成最尾巴的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "poplukva",
+        "ch_semantic": "丟下去那個爆炸的東西(物)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "sviei",
+        "ch_semantic": "背負",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "基礎": {
+    "new_word": [
+      {
+        "fm_word": "totnguca",
+        "ch_semantic": "奠基",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "mainsohʉ",
+        "ch_semantic": "綁一圈;繞一圈",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "poocoya",
+        "ch_semantic": "推動;推展",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "sokoeva",
+        "ch_semantic": "最危險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "lepeihtothomʉ",
+        "ch_semantic": "專門表演的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "殖民者": {
+    "new_word": [
+      {
+        "fm_word": "aʉt'ʉcʉ",
+        "ch_semantic": "管理;統治",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "lepasunaeno",
+        "ch_semantic": "專門唱歌的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "popeoskuna",
+        "ch_semantic": "(派遣工)被派去做事情",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "epei",
+        "ch_semantic": "選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "totontone",
+        "ch_semantic": "很會做事情",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "文章": {
+    "new_word": [
+      {
+        "fm_word": "tposʉ",
+        "ch_semantic": "書;寫;信",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "p'ahnoyano",
+        "ch_semantic": "使它溫溫的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bangnu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

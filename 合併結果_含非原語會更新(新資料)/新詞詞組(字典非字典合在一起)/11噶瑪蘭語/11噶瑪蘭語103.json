@@ -1,0 +1,198 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "meRibun tu lazat ta ay",
+        "ch_semantic": "在保護我們的人的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "pakelawkaway na lazat ta",
+        "ch_semantic": "為我們的人工作的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "simunang ay qakelawlawayan",
+        "ch_semantic": "很舒適的工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "工廠": {
+    "new_word": [
+      {
+        "fm_word": "pasangsangian ay qakelawlawayan",
+        "ch_semantic": "負責製造的工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "masulun tu Rikum",
+        "ch_semantic": "跟著浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "semuR tu saiyu ay",
+        "ch_semantic": "侵泡在藥裡的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kayal na tilibi"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "masalin ay paRin",
+        "ch_semantic": "流走的木頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "suRena ay iRuR"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "imis na lawlaw",
+        "ch_semantic": "島嶼的北邊",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "tebuR na lawlaw",
+        "ch_semantic": "島嶼的南邊",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "simbun kisiya",
+        "ch_semantic": "新聞記者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "temayta tu nelaziwan na+",
+        "ch_semantic": "看( )災的事情",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "pataz mammag ay awa",
+        "ch_semantic": "持續熱的杯子",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "penadiyug ay hiliw",
+        "ch_semantic": "使腐爛的肥料",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "medames kemuwan",
+        "ch_semantic": "衛生管理",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "semiRaw huking",
+        "ch_semantic": "意外保險",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mai penuiyu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核廢料": {
+    "new_word": [
+      {
+        "fm_word": "temawak ay sawalinan",
+        "ch_semantic": "有毒的廢物",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

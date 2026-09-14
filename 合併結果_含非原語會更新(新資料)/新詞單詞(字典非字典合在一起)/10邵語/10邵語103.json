@@ -1,0 +1,132 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "maranash",
+        "ch_semantic": "稀疏無毛的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "pusunan",
+        "ch_semantic": "使一起投入",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "pinunawn",
+        "ch_semantic": "(物生產) 已經收成 生嫩芽",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "muntarau",
+        "ch_semantic": "下大雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "kazakazash",
+        "ch_semantic": "非常明顯(不能逾越)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "規範": {
+    "new_word": [
+      {
+        "fm_word": "tmusuq",
+        "ch_semantic": "約束;規範",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "tmininur",
+        "ch_semantic": "有經驗的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "pishfazaq",
+        "ch_semantic": "使知道",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "認證": {
+    "new_word": [
+      {
+        "fm_word": "lhnurun",
+        "ch_semantic": "認同",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "shimaitatnur",
+        "ch_semantic": "裁判(N)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "amatiruq",
+        "ch_semantic": "要選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "aminfazaq",
+        "ch_semantic": "了解; 研究",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "ma'ania",
+        "ch_semantic": "出色; 才華;聰明",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

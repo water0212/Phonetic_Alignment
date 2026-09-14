@@ -1,0 +1,396 @@
+{
+  "術科": {
+    "new_word": [
+      {
+        "fm_word": "isnanava",
+        "ch_semantic": "用來教的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "taingulan",
+        "ch_semantic": "含有金屬的東西",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "istaudaniv",
+        "ch_semantic": "用來招呼的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tangiapaklis"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "cingcing",
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "inaizaan",
+        "ch_semantic": "產量/產出",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎牌": {
+    "new_word": [
+      {
+        "fm_word": "hasipa",
+        "ch_semantic": "烏龜",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "資源": {
+    "new_word": [
+      {
+        "fm_word": "paikusnadaan",
+        "ch_semantic": "冒出東西的地方/源頭的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "空間": {
+    "new_word": [
+      {
+        "fm_word": "padangian",
+        "ch_semantic": "給放的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "氣體": {
+    "new_word": [
+      {
+        "fm_word": "maiiviv",
+        "ch_semantic": "曾經是氣體的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "單位": {
+    "new_word": [
+      {
+        "fm_word": "tastumumu",
+        "ch_semantic": "一團",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "ishahasam",
+        "ch_semantic": "用於警誡的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "kaitnulan",
+        "ch_semantic": "用於限定",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "民主": {
+    "new_word": [
+      {
+        "fm_word": "masanak",
+        "ch_semantic": "按照自己",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "規範": {
+    "new_word": [
+      {
+        "fm_word": "sinitnulan",
+        "ch_semantic": "用來規範的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "條文": {
+    "new_word": [
+      {
+        "fm_word": "tailaz",
+        "ch_semantic": "條文",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "inghaipan",
+        "ch_semantic": "所經歷的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "擁有",
+        "ch_semantic": "ailupaan",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "專利": {
+    "new_word": [
+      {
+        "fm_word": "aildikusan",
+        "ch_semantic": "擁有抓住的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "目標": {
+    "new_word": [
+      {
+        "fm_word": "ailmataan",
+        "ch_semantic": "擁有眼睛所看的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "基礎": {
+    "new_word": [
+      {
+        "fm_word": "kanadaan",
+        "ch_semantic": "腳踩著的路",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "核定": {
+    "new_word": [
+      {
+        "fm_word": "ispatasaban",
+        "ch_semantic": "用來使通過",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "星期": {
+    "new_word": [
+      {
+        "fm_word": "tastuislunghuan",
+        "ch_semantic": "一團星期",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "pisaia",
+        "ch_semantic": "致茂盛",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "aitupisingan",
+        "ch_semantic": "感覺害怕的事件",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "kamastutu",
+        "ch_semantic": "演員",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "kahuhudas",
+        "ch_semantic": "唱歌的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "mapipiszang",
+        "ch_semantic": "公正裁判",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "iskakalunan",
+        "ch_semantic": "被派遣的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "志工": {
+    "new_word": [
+      {
+        "fm_word": "mindadangaz",
+        "ch_semantic": "志工",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "商業化": {
+    "new_word": [
+      {
+        "fm_word": "minpababaliv",
+        "ch_semantic": "商業化",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "動土儀式": {
+    "new_word": [
+      {
+        "fm_word": "kinlumah",
+        "ch_semantic": "動土",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "minghailaz",
+        "ch_semantic": "選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "taiklas",
+        "ch_semantic": "很聰明,有智慧",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "文章": {
+    "new_word": [
+      {
+        "fm_word": "paitasan",
+        "ch_semantic": "寫過的書",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "網路": {
+    "new_word": [
+      {
+        "fm_word": "paklisaz",
+        "ch_semantic": "網",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "malkasaningning",
+        "ch_semantic": "執行衛生",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "意外事故的賠償",
+        "ch_semantic": "ispasisais mitkuang",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mainanu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

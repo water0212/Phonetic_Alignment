@@ -1,0 +1,185 @@
+{
+  "捷運": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ciein"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "105",
+    "chinese": "捷運"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "kangpang",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "招牌"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "kooli",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公里"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "kilo",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公斤"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "sikooso",
+        "ch_semantic": "市公所(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "sinvun kisia",
+        "ch_semantic": "新聞記者(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "記者會"
+  },
+  "憲法": {
+    "new_word": [
+      {
+        "fm_word": "kenpoo",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "憲法"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "hoolicu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "keikeng",
+        "ch_semantic": "(N)(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "經驗"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "kengkiu",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "tennao",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  },
+  "列表機": {
+    "new_word": [
+      {
+        "fm_word": "lepeaoci",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "列表機"
+  },
+  "國道": {
+    "new_word": [
+      {
+        "fm_word": "kuotao",
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "國道"
+  },
+  "聖誕節": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kulismasʉ"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "聖誕節"
+  },
+  "點讀筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ten'tupi"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106",
+    "chinese": "點讀筆"
+  },
+  "法務部": {
+    "new_word": [
+      {
+        "fm_word": [
+          "faa'u pu"
+        ],
+        "ch_semantic": "(音譯詞)",
+        "dialect": []
+      }
+    ],
+    "source_year": "106"
+  }
+}

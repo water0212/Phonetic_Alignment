@@ -1,0 +1,34 @@
+{
+  "打折": {
+    "new_word": [
+      {
+        "fm_word": [
+          "put'ukawan"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "便祕": {
+    "new_word": [
+      {
+        "fm_word": "sakisan",
+        "ch_semantic": "糞便結塊塞在肛門",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "X光": {
+    "new_word": [
+      {
+        "fm_word": "milhkanizu",
+        "ch_semantic": "鏡光",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

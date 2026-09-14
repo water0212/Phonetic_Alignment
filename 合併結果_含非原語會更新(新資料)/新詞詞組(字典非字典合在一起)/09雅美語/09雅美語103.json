@@ -1,0 +1,138 @@
+{
+  "原民會": {
+    "new_word": [
+      {
+        "fm_word": "pangozaiyan so cyaka pongso a tau",
+        "ch_semantic": "要遵循全部島的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原文會": {
+    "new_word": [
+      {
+        "fm_word": "talamozongan so iwawalame",
+        "ch_semantic": "統管文化的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公司": {
+    "new_word": [
+      {
+        "fm_word": "vahai no pivazaiyan",
+        "ch_semantic": "工廠的家",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pangangazot so paciracirain"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "marekmeh a ayo"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "自籌款": {
+    "new_word": [
+      {
+        "fm_word": "koto pivazaya",
+        "ch_semantic": "獨自的工作(含籌錢)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apipiya kanekanen"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "mikala so nizpi",
+        "ch_semantic": "找錢",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "mateneng a mianowanood",
+        "ch_semantic": "很會唱歌的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "條文": {
+    "new_word": [
+      {
+        "fm_word": "pinqtuxan gaga’",
+        "ch_semantic": "一條規範",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "padketan sa vazay",
+        "ch_semantic": "蓋章確認",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行車紀錄器": {
+    "new_word": [
+      {
+        "fm_word": "tizibi no aleleh",
+        "ch_semantic": "車子的電視",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "臨時工": {
+    "new_word": [
+      {
+        "fm_word": "koto jangaj so vazay",
+        "ch_semantic": "臨時/突然去工作",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

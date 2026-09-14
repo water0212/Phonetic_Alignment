@@ -1,0 +1,192 @@
+{
+  "警察": {
+    "new_word": [
+      {
+        "fm_word": "knsac",
+        "ch_semantic": "警察",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": "pnsahul",
+        "ch_semantic": "(有生命的) 毒,毒的疾病",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "tnxalun",
+        "ch_semantic": "公尺",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "spngan",
+        "ch_semantic": "重量;秤子",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "peiyah",
+        "ch_semantic": "產出",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "rowcing",
+        "ch_semantic": "漂流木",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "nuhur",
+        "ch_semantic": "豪大雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "ruhaw",
+        "ch_semantic": "急流",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "gaya",
+        "ch_semantic": "法律",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "制度": {
+    "new_word": [
+      {
+        "fm_word": "gaya",
+        "ch_semantic": "法律",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "endaan",
+        "ch_semantic": "經過的路",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "qpahun",
+        "ch_semantic": "你應該要做的事",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "gmspung",
+        "ch_semantic": "請求錢",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "kksgun",
+        "ch_semantic": "危險的事",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "empeuyas",
+        "ch_semantic": "要唱歌的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "派遣工": {
+    "new_word": [
+      {
+        "fm_word": "sngkgulan",
+        "ch_semantic": "被派的工人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "gmaaw",
+        "ch_semantic": "選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "gmquring",
+        "ch_semantic": "費心思",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "knkla",
+        "ch_semantic": "多樣的知道",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

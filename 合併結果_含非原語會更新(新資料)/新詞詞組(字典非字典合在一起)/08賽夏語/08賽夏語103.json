@@ -1,0 +1,186 @@
+{
+  "衝浪": {
+    "new_word": [
+      {
+        "fm_word": "paSlo: ka lalowa:",
+        "ch_semantic": "滑浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "SememSem ka riling",
+        "ch_semantic": "已溶解的鏽蝕的金屬",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "kaSepe:e'an ka kinrawaS",
+        "ch_semantic": "換算距離",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "kaSepe:e'an ka kinSili",
+        "ch_semantic": "換算重量",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "inaloran kahoy",
+        "ch_semantic": "被流的木頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪雨": {
+    "new_word": [
+      {
+        "fm_word": "maSna bori: 'a'oral",
+        "ch_semantic": "肉狀雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "maSna 'abo' 'a'oral",
+        "ch_semantic": "嚴重的雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kahola'an bala'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "北極圈": {
+    "new_word": [
+      {
+        "fm_word": "kapna'amiSan ka'alayan",
+        "ch_semantic": "最北的源頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "南極圈": {
+    "new_word": [
+      {
+        "fm_word": "kapnaba:an ka'alayan",
+        "ch_semantic": "最南的源頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "tirakiS ka wasal",
+        "ch_semantic": "升上來的海",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "a'iya-lahoe:",
+        "ch_semantic": "會議(好的壞的都講)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "pinpapoe'oe kaSarolan kin:at",
+        "ch_semantic": "依循規範的文章,書",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "komira:a' ka",
+        "ch_semantic": "看(風、水、火...災)災的事情",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "臨時工": {
+    "new_word": [
+      {
+        "fm_word": "tinrong kamamatawaw",
+        "ch_semantic": "被派遣的工作者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "金曲獎": {
+    "new_word": [
+      {
+        "fm_word": "ima 'ibabaw kasa'oe'an kamama:tol",
+        "ch_semantic": "最高送歌手活動",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "katabo'an kamarikrika: ralom talobong",
+        "ch_semantic": "裝熱水的杯瓶",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'inoka' ka tatoba'"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

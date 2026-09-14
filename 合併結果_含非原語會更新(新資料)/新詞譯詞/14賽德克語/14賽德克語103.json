@@ -1,0 +1,200 @@
+{
+  "公里": {
+    "new_word": [
+      {
+        "fm_word": "km",
+        "ch_semantic": "(英譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公里"
+  },
+  "公斤": {
+    "new_word": [
+      {
+        "fm_word": "kg",
+        "ch_semantic": "(中譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "公斤"
+  },
+  "訂單": {
+    "new_word": [
+      {
+        "fm_word": "patas bbriyun",
+        "ch_semantic": "要買的文件 (日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "訂單"
+  },
+  "化學": {
+    "new_word": [
+      {
+        "fm_word": "kagaku",
+        "ch_semantic": "化學(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學"
+  },
+  "市公所": {
+    "new_word": [
+      {
+        "fm_word": "gokosyo",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "市公所"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "pprngaw sinbung kisya",
+        "ch_semantic": "(日譯)新聞記者互相講話的場合",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "記者會"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "geynsi bakudang",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "原子彈"
+  },
+  "法律": {
+    "new_word": [
+      {
+        "fm_word": "waya",
+        "ch_semantic": "規範 (日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "法律"
+  },
+  "責任": {
+    "new_word": [
+      {
+        "fm_word": "seykining",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "責任"
+  },
+  "幫派": {
+    "new_word": [
+      {
+        "fm_word": "mroma",
+        "ch_semantic": "(閩譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "幫派"
+  },
+  "政治": {
+    "new_word": [
+      {
+        "fm_word": "seyji",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "政治"
+  },
+  "研究": {
+    "new_word": [
+      {
+        "fm_word": "keyngkyo",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "研究"
+  },
+  "化學肥料": {
+    "new_word": [
+      {
+        "fm_word": "hiryo kagako",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "化學肥料"
+  },
+  "電腦": {
+    "new_word": [
+      {
+        "fm_word": "kadi kampyuta",
+        "ch_semantic": "電腦網路 (日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "電腦"
+  },
+  "衛生管理": {
+    "new_word": [
+      {
+        "fm_word": "mpqlahang eysey",
+        "ch_semantic": "衛生管理 (日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "衛生管理"
+  },
+  "意外險": {
+    "new_word": [
+      {
+        "fm_word": "hokeyng snlayal",
+        "ch_semantic": "意外保險 (日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "意外險"
+  },
+  "核廢料": {
+    "new_word": [
+      {
+        "fm_word": "quti geynsi",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "核廢料"
+  },
+  "核電廠": {
+    "new_word": [
+      {
+        "fm_word": "geynsi hacideyn syo",
+        "ch_semantic": "(日譯)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103",
+    "chinese": "核電廠"
+  }
+}

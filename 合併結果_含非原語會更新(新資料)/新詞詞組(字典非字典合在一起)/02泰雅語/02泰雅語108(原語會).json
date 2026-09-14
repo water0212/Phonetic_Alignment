@@ -1,0 +1,2641 @@
+{
+  "千萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seng mang",
+          "syan mang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "口譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka pgbang pinqzyu",
+          "ci'uli' gunbang kumaṟal",
+          "suquliq ka papanaqu",
+          "ptiyaw p'yugan kmayan ke",
+          "pgbang su kayi",
+          "cquliq mgbang pinquyu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "工讀生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seto wi snpila",
+          "seyto' pastikuk",
+          "seto ka pasigpila",
+          "m'was biru ru tpila",
+          "tsak' su ma'umah ru miru'",
+          "seto na mtiyaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "文件夾": {
+    "new_word": [
+      {
+        "fm_word": "qcyapan bir",
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "月光族": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ini psthay pincyuwagan",
+          "ini' pastahaṟ sintikban",
+          "ini tahra pinta'wawan",
+          "bling yubing pila",
+          "magabiyangi su linhuyan",
+          "ini psthay pnabu pila"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "主任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cuzn weyen",
+          "i'ing piyang pcpung",
+          "suning na weyen",
+          "syuning weyen"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka praw miru",
+          "ci'uli' paraw matas",
+          "suquliq ka paraw matas",
+          "ptiyaw pbiru horicu",
+          "amalu' miru'",
+          "cquliq mprax mmiru iyaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka kmgiwan",
+          "ci'uli' payunaw",
+          "squliq ka pa'iwan",
+          "c'oli ptgiwan mtiyaw",
+          "'nyuwgan ka sa'uli",
+          "rayri iyaw na cquliq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理孕母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kmgiwan kki'an",
+          "kuncik parule'",
+          "umiwan kaki'an",
+          "tgiwan ktu yaya",
+          "amalu' su yaya pagyukan",
+          "rayri pslaqi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "出納員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka pbiq pila",
+          "ci'uli' pabi' pila'",
+          "suquliq ka pabay pila",
+          "ptiyaw pbe pila'",
+          "pbayi su habangan",
+          "cquliq pqabu pila"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "四分之一": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yonbun ici",
+          "yonbung ici",
+          "utux pn'asu payat",
+          "payat nasu tiutux",
+          "yongbun ici"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "外送員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka psatu nniqun",
+          "ci'uli' pasatu' nani'un",
+          "suquliq ka pasatu naniqun",
+          "ptiyaw matu nni'un",
+          "pasatu' su nani'un",
+          "cquliq mmatu na nniqun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          ""
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "必修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pqbaqan balay",
+          "sababa'an caṟung",
+          "pqabaqan subalay",
+          "cnpung lpgun biru",
+          "paghilan pakaba'an",
+          "pqbaqan cbalay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "交換生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "seto inyugan",
+          "seyto' inyugan",
+          "seto inyugan",
+          "p'yugan m'was biru",
+          "sin'iyu ka pakabaga' biru"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、四",
+          "萬",
+          "汶",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "全職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "spzyang syokuing",
+          "ci'uli' sunutux mumaṟah",
+          "spaang na patawwaw",
+          "ptiyaw utux ryax",
+          "sapayang patayuwaw",
+          "mtiyaw mnito na cquliq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "宅配人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka psatu",
+          "ci'uli' psatu'",
+          "suquliq ka pasatu",
+          "ps'atu y'aya sali",
+          "mayanux pasatu' ywaw sali'",
+          "cquliq na psatu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "百萬": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kbhul mang",
+          "kabhul mang",
+          "kbhun mang",
+          "kabahun mang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、四",
+          "萬、汶",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "耳機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ppung papak",
+          "papung cange'",
+          "papung cangiya'",
+          "kikay pungan papak",
+          "sapung su papak",
+          "ppung papak"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "行動電源": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rengki ka rrasun",
+          "rengki rasrasun",
+          "rengki ka rasurasun",
+          "rengki bingun 'ba",
+          "srasun ka patuwan linki' na lingwa' ba'",
+          "rengki pbuyun cqa lingwa"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "助理": {
+    "new_word": [
+      {
+        "fm_word": [
+          "praw mtzyuwaw",
+          "paraw mumaṟah",
+          "paraw matawwaw",
+          "praw mtiyaw",
+          "parawu yayuwaw",
+          "prax mtiyaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "吹風機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikay pprngu snonux",
+          "kika'i papaṟangu sinunux",
+          "kikay paparangu abag tunux",
+          "rengki psbehuy snonux",
+          "psabayhuy sa krngu'",
+          "kikay phngu snonux"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "快遞人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka kinhelaw psatu",
+          "ci'uli' halilaw pasatu'",
+          "suquliq ka hailag pasatu",
+          "helaw ps'atu pnaras",
+          "mayanux ka yanga' samatu ywaw",
+          "cquilq hhelax na mmatu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "批發業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na mtbazi krahuw",
+          "pumahun na maginbiniy yotas",
+          "waw na matabaynai rahuwan",
+          "ptyawan p'asu hopa bisan",
+          "satawawan yuwaw anip",
+          "ptbes qqaya na bbesan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "投影機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikay pcyaxan bniru",
+          "kika'i papascex pinatas",
+          "kikay pasi'axan bniru",
+          "kikay pcyax pkita bnrwan",
+          "psriywan limu syasing",
+          "kikay pscyax bniru"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "更生人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka minbah mqyanux",
+          "ci'uli' minbah mayanux",
+          "suquliq ka minabah maqyanux",
+          "p'eyu m'yanuxn",
+          "mayanux ka 'miyu lungan",
+          "miyux llungan na cquliq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "受刑人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka bhlan",
+          "ci'uli' bahlan",
+          "suquliq ka bhlan",
+          "c'oli miyuk bling",
+          "mayanux ka nya bahalan",
+          "cquliq na bhlan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房仲業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na mtbazi ngasal",
+          "pumahun na paginbiniy moṟow",
+          "waw na matabaynai imu",
+          "ptyawan tbayiy sali",
+          "satawawan yuwaw mbaziy sali'",
+          "ptiyaw bbesan na muyax"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房務人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka psmrzyut inbyan",
+          "ci'uli' pakogi' inbelan",
+          "suquliq ka patara'ayu su inbyan",
+          "pkagaw 'byan hoteru",
+          "pasr'ayu abiyan riyukang",
+          "cquliq sinpuyut nbyan lyukang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "法官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pspung kinqihan",
+          "pacapung kinṟakexan",
+          "paspung kinqihan",
+          "mrhuw pcpung hoyeng",
+          "sampung su knusa",
+          "pcpung kinnqwan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "直系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "qutux ramu",
+          "utux ramuṟux",
+          "qutux ramux",
+          "gluw utux muyux yaba",
+          "utux rmuyux"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、四",
+          "萬",
+          "汶",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "空服員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka praw sa xikoki",
+          "ci'uli' paraw ci hikoki'",
+          "suquliq ka paraw i xikoki",
+          "ptiyaw glgan xikoki",
+          "matayuwaw su sakuki'",
+          "cquliq ptiyaw na xikoki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "金融業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na ginko",
+          "pumahun na gingko",
+          "waw na ginko",
+          "ptyawan prayan pila",
+          "satawawan yayuwaw habangan",
+          "ptyawun na ginko"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "便利貼": {
+    "new_word": [
+      {
+        "fm_word": [
+          "brbal ka pqapah",
+          "kulabuy pakapah",
+          "biru pakapah",
+          "brwan ru tpahan",
+          "pkapah sa babaw biru'",
+          "biru pqapah rngil"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pklahang uha",
+          "pagilasuw ulule'",
+          "pakalahang ulaqi",
+          "pklahang la'i",
+          "malahang su lala'i",
+          "pklahang llaqi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保險員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka hoken",
+          "ci'uli' hoken",
+          "suquliq ka hoken",
+          "ptiyaw tbayiy klahang",
+          "psrahu su yayuwaw",
+          "cquliq na hoken"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "兼職": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rinzi syokuing",
+          "ci'uli' ringzi mumaṟah",
+          "rinci patawwaw",
+          "ptiyaw cnpung ryax",
+          "sinhip su patawawan",
+          "cquliq mtiyaw ptnwang na yaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "旁系血親": {
+    "new_word": [
+      {
+        "fm_word": [
+          "binah ramu",
+          "binah ramuṟux",
+          "binah ramux",
+          "gluw binah muyux mama",
+          "binah rmuyux"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、四",
+          "萬",
+          "汶",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "書法": {
+    "new_word": [
+      {
+        "fm_word": [
+          "binrwan na xure",
+          "pinatas na xure",
+          "matas na xure",
+          "bnrwan kumis",
+          "matas biru'",
+          "bbiru na xure"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "消防員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka ppuzyut puinq",
+          "ci'uli' papuṟut ṟana'",
+          "suquliq ka papawn hapuy",
+          "ptiyaw muyut puni'",
+          "papuyut su matalawm",
+          "cquliq na psqyut pumiq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "烘衣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikay pprngu lukus",
+          "kika'i papaṟangu lukus",
+          "kikay paparangu hahilaw",
+          "rengki pkiyay lukus",
+          "prngu latan",
+          "kikay phngu llukus"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "畜牧業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na pnqnyatan",
+          "pumahun na paranga'",
+          "waw na pas'an",
+          "ptyawan sn'an",
+          "satawawan yuwaw sin'anan",
+          "ptyawun na pqayat"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "秘書": {
+    "new_word": [
+      {
+        "fm_word": [
+          "psrzyut mtzyuwaw",
+          "pakogi pumahun",
+          "tatara'ayu' matawwaw",
+          "psr'eyu yaw",
+          "pzihung yarawu yayuwaw",
+          "mprax mtiyaw na cquliq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "迴紋針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rom qmipit",
+          "rong pakapit",
+          "ram paqipay",
+          "hgyap biru lban",
+          "rawm su paciyap",
+          "rom qmipit"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "酒測器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikay ka pspung kinsukan",
+          "kika'i pacapung masnukan",
+          "kikay ka saspung kinbusuk",
+          "kikay pcpung busuk",
+          "sasapung su syuna inbugan uwaw",
+          "kikay pcpung qa kinsuna"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "乾爸、媽、兒子、女兒": {
+    "new_word": [
+      {
+        "fm_word": "sinluwan su la'i tamalung, kanayri",
+        "ch_semantic": "",
+        "dialect": [
+          "澤"
+        ]
+      }
+    ],
+    "related_keys": [
+      "乾父",
+      "乾母",
+      "乾子",
+      "乾女"
+    ],
+    "source_year": "108"
+  },
+  "專任委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cwanzn weyen",
+          "i'ing ptiyaw",
+          "sapayang patayuwaw ka weyen",
+          "semong weyen"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "族群委員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cucyun weyen",
+          "i'ing linhoyan 'tayan",
+          "weyen na alang Atayan",
+          "weyen na Atayal"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "創業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cin'ringan zyuwaw",
+          "pasringan pumahun",
+          "tina'ring ang na waw",
+          "pt'aring g'anus ptyawan",
+          "pt'aring g'anun yuwaw",
+          "pkbalay gringan yaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "測謊器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikay ka pspung mbrus",
+          "kika'i pacapung paka'ihul",
+          "kikay ka saspung kiniwang",
+          "kikay pcpung brus",
+          "sasapung su pka'ihuy kayi",
+          "kikay qa pcpung mewang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "街友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka ungat ngasal",
+          "ci'uli' ungat moṟow",
+          "suquliq ka ukas imu",
+          "c'oli psyahaw tu'iy",
+          "rawin ka m'abi ti'tu'i hici'",
+          "cquliq ptkarux"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳播業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na gmayang ke'",
+          "pumahun na gumaṟang ke'",
+          "waw na panaqu",
+          "ptyawan pgayang ke",
+          "ppawsa su papungan kayi",
+          "ptyawun na psgayan ke"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "暖氣機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kikay ka sklhul",
+          "kika'i sihulhul",
+          "kikay ka skiyamliq",
+          "kikay hlhun sali",
+          "psabayhuy sa kakilux",
+          "kikay qa psklhul"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "賽",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "滅火器": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ppuzyut puniq",
+          "papuṟut ṟana'",
+          "papawn su hapuneq",
+          "kona puyut puni",
+          "saliyan su papuyut puni",
+          "qqaya prpyut puniq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義父": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yaba na inlungan",
+          "yaba' na linlungan",
+          "yaba na inlungan",
+          "kn giwan yaba",
+          "mama",
+          "sinlungan na"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yaya na inlungan",
+          "yaya' na linlungan",
+          "yaya' na inlungan",
+          "kngiwan yaya",
+          "yata'",
+          "sinlungan na"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "義子女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "laqi na inlungan",
+          "ule' na linlungan",
+          "ulaqi' na inlungan",
+          "yaba knba",
+          "bnaziy la'i tamalung, kanayrun",
+          "sinlungan na"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "解說人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka pgleng pinqzyu",
+          "ci'uli' pagaleng kumaṟal",
+          "suquliq ka papanaqu",
+          "ptiyaw psba' kmayan",
+          "pa'alu gmabang su kayi",
+          "cquliq psbaq na yaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "零售業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na mtbazi mttekuy",
+          "pumahun na maginbiniy binbilak",
+          "waw na matabaynai matatikay",
+          "ptyawan psgegay cikuy bisan",
+          "satawawan yuwaw banasan",
+          "ptbes gegay na tbesan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電子工業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na rengki",
+          "pumahun na rengki",
+          "waw na tingki",
+          "ptyawan renci",
+          "satayuwaw na linki'",
+          "ptyawun na qqaya renki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電動機車": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rengki otobay",
+          "sanawsa linki' ka glagan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、宜、四",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "監考員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka pkyaya pspung",
+          "ci'uli' pagilasuw pacapung",
+          "suquliq ka pakalahang mapaspung",
+          "ptiyaw mlahang pcpung",
+          "malahang pasiking",
+          "cquliq qa pkyaya pcpung"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "監護人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka kmzyaya mlahang",
+          "ci'uli' paktox pagilasuw",
+          "suquliq ka pakalahang",
+          "c'oli pklahang mrkyas",
+          "smrawu su malahang",
+          "cquliq na pklahang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "網友": {
+    "new_word": [
+      {
+        "fm_word": [
+          "msrangi sa neto",
+          "masṟangi' na neto",
+          "masrangi sa neto",
+          "mlahuy neto",
+          "rawin sa pganawgan tinaw",
+          "ptrangi skahol tenaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "製造業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na pkbalay",
+          "pumahun na pasable'",
+          "waw na pakabalay",
+          "ptyawan kble y'aya",
+          "satawawan pkalay'an yayuwaw",
+          "ptyawun na pkbalay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "領隊": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka pgleng maras",
+          "ci'uli' pagaleng maras",
+          "suquliq ka paglaing maras",
+          "p'aras linhoyan",
+          "paglayng su ganawgan",
+          "cquliq qa p'aray lmosay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養父": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yaba na minnanga",
+          "yaba' na rinanga'",
+          "yaba' na minranga",
+          "yaba rnanga",
+          "mama",
+          "rnanga yaba"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養母": {
+    "new_word": [
+      {
+        "fm_word": [
+          "yaya na minnanga",
+          "yaya' na rinanga'",
+          "yaya' na minranga",
+          "yaya rnanga",
+          "yata'",
+          "rnanga yaya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "養子女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "laqi na qinnyu",
+          "ule' na rinanga'",
+          "ulaqi na rinanga'",
+          "la'i knyatan",
+          "rananga la'i tamalung, kanayrun",
+          "qnayat rnanga laqi"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "學歷": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinqwasan biru",
+          "pinkuba' linpagan",
+          "pinqwasan biru",
+          "lban sinpngan pnwasan",
+          "'nuwah na pinkaba'an biru'",
+          "pinqwasan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "機師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pquzit xikoki",
+          "pati'uṟit hikoki'",
+          "papiray xikoki",
+          "ppiray xikoki",
+          "tayuwaw su kikay na sakuki",
+          "pquyit xikoki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "選修": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gnwayaw pqbaqan",
+          "gumoṟow sababa'an",
+          "wagan pqabaqan",
+          "mnwayaw lpgun biru",
+          "'nuwayaw su p'kaba'an",
+          "mwayax pqbaqan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "應徵者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "msina pcyuwagun",
+          "masina' pumahun",
+          "msina patawawan",
+          "khani ptyawun",
+          "psiking na a'agan yuwaw",
+          "psina ptyawun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "翻譯員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "squliq ka pgbang",
+          "ci'uli' gunbang ke'",
+          "s uquliq ka papanaqu",
+          "ptiyaw p'yugan bbnrwan",
+          "pgbang su bniru'",
+          "cquliq mgbang ke"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "雙面膠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "brbal ka rusa mrngil",
+          "kulabuy mararusa' murangil",
+          "biru ka magrarusa kakapah",
+          "sa'ing r'yas tpahan",
+          "pkapah sa sinrhu",
+          "ptqapah rngil ssaying trngil"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "獸醫": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ising na qsinuw",
+          "ising na asinuw",
+          "pkhgup mga'ing ksinu",
+          "kuysang na sin'nan",
+          "ising na qbsinux"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "繼子女": {
+    "new_word": [
+      {
+        "fm_word": [
+          "laqi na qinnyu",
+          "la'i kinlahangan kanyrin, tamalung",
+          "ule' na tinaru'",
+          "m'la'i",
+          "laqi na qniyu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "澤",
+          "萬",
+          "宜",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "觀光業": {
+    "new_word": [
+      {
+        "fm_word": [
+          "zyuwaw na lmosay",
+          "pumahun na paṟigaw",
+          "waw na humakay",
+          "ptyawan mtisan yngayan",
+          "satawawan yuwaw yungyan",
+          "ptyawun na lmosay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "外籍生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "gaykokse",
+          "tnwang m'was biru",
+          "pakabaga' biru ka tayan binah",
+          "seto gayko"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "社團": {
+    "new_word": [
+      {
+        "fm_word": [
+          "syarang",
+          "linhoyan m'wa biru",
+          "'tuwan na pakaba' biru'",
+          "mlahuy seto"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "黑板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kokubang",
+          "lting bbrwan",
+          "lcing ka bbaruwan",
+          "qlcing ptasan brwanan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "檢察官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kensackang",
+          "mrhuw pbheyaw ya'eh c'oli",
+          "hmkani sa kanusa",
+          "kensakang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "公職人員": {
+    "new_word": [
+      {
+        "fm_word": [
+          "komuing",
+          "patayuwaw yuwaw tahawki"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、四、汶、宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "平板": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinpan",
+          "pingpan",
+          "kangpyuta 'ba",
+          "sinlcing na tinnaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、四",
+          "萬",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "代理商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tayrisan",
+          "tayrisang",
+          "ptiyaw tgiwan bbisan",
+          "patayugan su bnasan",
+          "rayri ptbes qqaya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "百分比": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pasento",
+          "pasanto",
+          "psento",
+          "pasen to"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬",
+          "汶",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電扶梯": {
+    "new_word": [
+      {
+        "fm_word": [
+          "eskaleta",
+          "rengki pcrxun karaw",
+          "hawngu linki'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "克拉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "karato",
+          "kinsagan kla"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、宜、四",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "記者": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kicya",
+          "ptiyaw sibung kisya",
+          "miru' su pna'ut",
+          "sinbung kicya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "承包商": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cyanpawsan",
+          "cengpawsang",
+          "p'agan tyawun pnkayan",
+          "magan yuwaw su sakalay'an"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、四",
+          "萬",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "基金會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cicinhwe",
+          "cicinhwey",
+          "linhoyan na nraw pila",
+          "sakuwan su pinta'un pila"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、四",
+          "萬",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "syoning",
+          "c'oli mnita yaw",
+          "inrawu kintayux",
+          "pturing iyaw qa cquliq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "導演": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tawyen",
+          "mrhuw pcpung kble ega",
+          "psapung su kakusa",
+          "tawyen"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "副教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hucyawso",
+          "hucyawsow",
+          "suruw bawi' psba' biru",
+          "kyahu na cyawso'",
+          "hu cyaw so"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "燒錄機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pana",
+          "kikay lmong miru",
+          "psuling su natas limu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "房東": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cinngasal",
+          "tanmoṟow",
+          "tinimu",
+          "mamu pila psyugan sali",
+          "lawpan na ksyukan sali'",
+          "cquliq na cinmuyax"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "公噸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kungtun",
+          "kongtun",
+          "metoruton",
+          "metoru ton"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、澤",
+          "萬",
+          "宜",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "毛筆": {
+    "new_word": [
+      {
+        "fm_word": [
+          "xure",
+          "kumis bbrwan",
+          "kumis na bbiru'",
+          "enpit puying"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "保證人": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hosyoning",
+          "c'oli mgluw hosyo",
+          "husuning",
+          "hosyo ning"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "律師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "risi",
+          "ptiyaw sbalay horicu",
+          "tasbalay su yuwaw",
+          "prax kmayan iyaw horiq"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "警衛": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pklahang",
+          "pakalahang",
+          "pakalahang",
+          "pklahang blihun",
+          "pakalahang su lingay",
+          "pklahang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽",
+          "萬",
+          "汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "僑生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kyose",
+          "kahun tanux m'was biru",
+          "giglu ka pakabaga biru",
+          "kyo se"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "別針": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ping",
+          "rong parong",
+          "rong pkat",
+          "rawm su pahip kaka",
+          "rom rhesan pprom"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "護貝機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "xupeci",
+          "kikay psabu",
+          "pakapah na aamuk",
+          "phngu snonux hetoraya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、四",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "主播": {
+    "new_word": [
+      {
+        "fm_word": [
+          "anka",
+          "pu'ing pgayang yaw",
+          "papawsa su kayi",
+          "angka"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "直轄市": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cisyasi",
+          "klhangan na pu'ing bawi' sexu",
+          "palawan alang rahu'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、四、汶",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "中央部會": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cyunyangpuhwe",
+          "congyangpuhwey",
+          "linhoyan na pu'ing bawi' sexu",
+          "plawan yayuwaw tahawki",
+          "conyang puhwey"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "鍵盤": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cenpan",
+          "tmuting bbrwan",
+          "ppahut su biru' tinnaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "傳真機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "bakusuki",
+          "kikay psatu biru",
+          "ppawsa' su biru'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "替代役": {
+    "new_word": [
+      {
+        "fm_word": [
+          "titay'i",
+          "tgiwan hetay",
+          "hitay na amalu' yuwaw",
+          "kingiwan hetay"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "消保官": {
+    "new_word": [
+      {
+        "fm_word": [
+          "syawpawkwan",
+          "mrhuw pklahang bbisan",
+          "malawa su bbanasun",
+          "mrhuw pqbalay bbesun"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "會計師": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kayke",
+          "ptiyaw kayke"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、澤、四",
+          "宜"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "滑鼠": {
+    "new_word": [
+      {
+        "fm_word": [
+          "hwasu",
+          "olit stu'iy",
+          "paturing su tinnaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "半徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pancin",
+          "hangke",
+          "saka' kinlyuxan mayung",
+          "pancing"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "教授": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cyawso",
+          "cyawsow",
+          "piyang bawi' psba' biru",
+          "psaba' sa rahu' baruwan",
+          "cyaw so"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "電磁爐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tenclu",
+          "rengki puyan",
+          "lupung na linki'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "掃描機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "skena",
+          "kikay kmagaw miru",
+          "kikayi gmalung bniru'"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、四、汶",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "教練": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cyawren",
+          "ppsba knba'an",
+          "psaba' kabaga'an"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "讀卡機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "katoreta",
+          "kikay lmpuw kapen",
+          "plpuw sa biru' rban"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶、萬、四",
+          "宜",
+          "澤"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "留學生": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ryugakose",
+          "ryugakse",
+          "m'was biru binah koka",
+          "sinnbin su pakabaga biru",
+          "ryugakuse"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、汶",
+          "萬",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  },
+  "新住民": {
+    "new_word": [
+      {
+        "fm_word": [
+          "sincumin",
+          "g'anus tnwang c'oli",
+          "s'uli ka tmnuwang",
+          "mhiyil maki sincu ming"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "賽、萬、汶",
+          "宜",
+          "澤",
+          "四"
+        ]
+      }
+    ],
+    "source_year": "108"
+  }
+}

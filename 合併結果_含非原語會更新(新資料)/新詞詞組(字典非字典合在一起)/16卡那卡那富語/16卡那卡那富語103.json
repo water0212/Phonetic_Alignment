@@ -1,0 +1,198 @@
+{
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "karu nima'acun",
+        "ch_semantic": "被水漂流的木頭",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "招牌": {
+    "new_word": [
+      {
+        "fm_word": "cukanang tacʉ'ʉra",
+        "ch_semantic": "標示,看的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "小耳朵": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tarisi kakangca"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "獎狀": {
+    "new_word": [
+      {
+        "fm_word": "sinatʉ sesʉmʉ",
+        "ch_semantic": "獎勵的文書",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "豪大雨": {
+    "new_word": [
+      {
+        "fm_word": "mirʉngʉcʉ tatia",
+        "ch_semantic": "大豪雨",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "冰川": {
+    "new_word": [
+      {
+        "fm_word": [
+          "cakʉran ʉrʉna"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "海嘯": {
+    "new_word": [
+      {
+        "fm_word": "ningua'ʉ tiipari",
+        "ch_semantic": "巨浪",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "記者會": {
+    "new_word": [
+      {
+        "fm_word": "makarikari kaisia",
+        "ch_semantic": "記者會",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "原子彈": {
+    "new_word": [
+      {
+        "fm_word": "varʉvarʉ iniini",
+        "ch_semantic": "讓地震動的彈藥",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "勘災": {
+    "new_word": [
+      {
+        "fm_word": "sumasʉrʉcʉ niaraka",
+        "ch_semantic": "看看災情",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "募款": {
+    "new_word": [
+      {
+        "fm_word": "makinee vantuku",
+        "ch_semantic": "向人要錢",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "演員": {
+    "new_word": [
+      {
+        "fm_word": "cau ta'aningoa",
+        "ch_semantic": "電視上的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "cau naparacan",
+        "ch_semantic": "專門唱歌的人",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "金曲獎": {
+    "new_word": [
+      {
+        "fm_word": "sʉmʉ cani",
+        "ch_semantic": "歌的獎",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "行銷": {
+    "new_word": [
+      {
+        "fm_word": "porai apu'a",
+        "ch_semantic": "推行產品",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "虛詞": {
+    "new_word": [
+      {
+        "fm_word": "'urai namasʉ",
+        "ch_semantic": "餿水油",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "保溫杯": {
+    "new_word": [
+      {
+        "fm_word": "tanaku para'avu",
+        "ch_semantic": "使溫杯",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "網路": {
+    "new_word": [
+      {
+        "fm_word": "cacan nʉ'ʉsʉ aparatʉ",
+        "ch_semantic": "電腦路",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "有機": {
+    "new_word": [
+      {
+        "fm_word": [
+          "'akia tuncu"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

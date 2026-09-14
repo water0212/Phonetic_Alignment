@@ -1,0 +1,84 @@
+{
+  "打折": {
+    "new_word": [
+      {
+        "fm_word": [
+          "phridun bbrigun"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "Pddulan kdesun",
+        "ch_semantic": "賦予健全的衛生條件",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "Mdudul kdkilan",
+        "ch_semantic": "帶領成長環境",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "Slingan qyuqeya pqlahang",
+        "ch_semantic": "處理國家財務事務",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "Slingan hokeng mqeepah",
+        "ch_semantic": "處裡工作人員相關保險事務",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "Slingan psbaang rnecux",
+        "ch_semantic": "處裡防範洪水相關事務",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "Psliyan ddulan Khilang",
+        "ch_semantic": "推動客家會務集會處",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "原住民特考 ": {
+    "new_word": [
+      {
+        "fm_word": "Ssliyan Yencumin tokaw",
+        "ch_semantic": "彙整原住民特考",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

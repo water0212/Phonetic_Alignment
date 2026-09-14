@@ -1,0 +1,852 @@
+{
+  "上弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miyagayang na bulan",
+          "miyahayang na vulan",
+          "miyayang na 'ilras"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、建",
+          "知"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "下弦月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miyakupu na bulan",
+          "miyakupu na vulan",
+          "miyakupu na 'ilras"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、建",
+          "知"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "土星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dare na triur",
+          "dare' na vitu'en"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "大氣層": {
+    "new_word": [
+      {
+        "fm_word": [
+          "angadran na bali",
+          "angazan za vali",
+          "taciceng"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "公轉": {
+    "new_word": [
+      {
+        "fm_word": [
+          "muliyuliyus kana kadaw"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "107"
+  },
+  "太陽能": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kedrang dra kadaw",
+          "kezang za kadaw",
+          "kezang za kadaw",
+          "kedang da kadaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "日蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "muatrab na kadaw",
+          "muetrav na kadaw",
+          "muatrav na kadaw",
+          "muacav na kadaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "月蝕": {
+    "new_word": [
+      {
+        "fm_word": [
+          "muatrab na bulan",
+          "muetrav na vulan",
+          "muatrav na 'ilras",
+          "muacav na vulan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "木星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kawi na triur",
+          "kawi na vitu'en"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "水星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "enay na triur",
+          "zanum na vitu'en",
+          "danum na vitu'en"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火山灰": {
+    "new_word": [
+      {
+        "fm_word": [
+          "labu dra kazang",
+          "'avu za kazang",
+          "nasuk za kazang",
+          "'avu da kazang"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "火星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "apuy na triur",
+          "apuy na vitu'en"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "加工食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "dinawadaway na akanan",
+          "dinawadaway na akanen"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "北半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyaamiyan kana cikiw",
+          "ki'amiyan kana cikiw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "北回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinatreetrean i ami",
+          "pinatrehtreh i 'ami",
+          "pinacehcehan i 'ami"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "冰山": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mutuurelra na drenan",
+          "mutuurelra na zenan",
+          "mutuvurelra na zenan",
+          "kuli na henan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "名產": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mingalad na ...",
+          "mingadan na …"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "地震帶": {
+    "new_word": [
+      {
+        "fm_word": [
+          "nirabakan dra maidraudr",
+          "niravakan za ngunin",
+          "hiwahiwan na hiwahiw",
+          "niravakan da ngunin"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "西元": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ngesalr dra ami",
+          "rakaz na 'ami",
+          "rakad da 'ami"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "西半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyadrayaan kana cikiw",
+          "kizayayan kana cikiw",
+          "kidayayan kana cikiw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "低氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "adare tu ciya",
+          "alusu na ciya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "冷凍食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinalritekan na akanan",
+          "pinalritek na akanan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "沙岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "budebudek i laliyaban",
+          "vutrevutrek na kaitrasan",
+          "vucevucek na kaicasan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "赤道": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinatreetrean i tenuk",
+          "pinatrehtreh i paduk",
+          "pinacehcehan i paduk"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "岩岸": {
+    "new_word": [
+      {
+        "fm_word": [
+          "barasarasa i laliyaban",
+          "varasarasa' na kaitrasan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "東半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyalaudran kana cikiw",
+          "kilauzan kana cikiw",
+          "kilaudan kana cikiw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "直徑": {
+    "new_word": [
+      {
+        "fm_word": [
+          "ikalawas dra trebean",
+          "ikalawas za inutralawan",
+          "ikalawas za tralawan",
+          "ikalawas da cevi'an"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "金星": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kimling na triur",
+          "kim na vitu'en"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "南半球": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kiyatimulan kana cikiw",
+          "kikezetan kana cikiw",
+          "kikedetan kana cikiw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "南回歸線": {
+    "new_word": [
+      {
+        "fm_word": [
+          "pinatreetrean i timul",
+          "pinatrehtreh i kezet",
+          "pinatrehtreh i kedet",
+          "pinacehcehan i kedet"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "洋流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kawang dra ine",
+          "kawang za lrevek",
+          "kawangan da lrevek"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "炸雞": {
+    "new_word": [
+      {
+        "fm_word": [
+          "tininpuraan na terekuk",
+          "tininpura na terukuk",
+          "tininpura na vuyu"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "料理包": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kinirungetran na akanan",
+          "pinakas na akanan",
+          "pinakas na akanan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "氣流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "kawang dra bali",
+          "kawang za vali",
+          "kawang da vali"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "海灣": {
+    "new_word": [
+      {
+        "fm_word": [
+          "inulikawan kana ine",
+          "patrelikuwan na lrevek",
+          "inulikawan na lrevek",
+          "pacalikuwan na lrevek"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "高氣壓": {
+    "new_word": [
+      {
+        "fm_word": [
+          "asatr tu ciya",
+          "atras na ciya",
+          "acas na ciya"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "副食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "akanan a pakaimaran",
+          "pinuwapuwa na akanan",
+          "siyaw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、建",
+          "知"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "基改食品": {
+    "new_word": [
+      {
+        "fm_word": [
+          "binalisan na akanan",
+          "vinalisan na akanan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "硫磺": {
+    "new_word": [
+      {
+        "fm_word": [
+          "drelretr dra ebing",
+          "'etreng za 'eving",
+          "'eceng da 'eving"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "速食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "papayasan mekan na akanan",
+          "paayasan akanan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "寒流": {
+    "new_word": [
+      {
+        "fm_word": [
+          "lritekan na bali",
+          "kalritekan na vali",
+          "kinuaretidan na vali"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "經度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iyaturak kana cikiw",
+          "iyaturak kana cikiw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "葷食": {
+    "new_word": [
+      {
+        "fm_word": [
+          "miuri dra mipatraka",
+          "mi'alum",
+          "mi'uri da mitiwngan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "滿月": {
+    "new_word": [
+      {
+        "fm_word": [
+          "mutralatralaw na bulan",
+          "mutralatralaw na vulan",
+          "mutralatralaw na 'ilras",
+          "mucalacalaw na vulan"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "知"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "酸雨": {
+    "new_word": [
+      {
+        "fm_word": [
+          "emaresem na udalr",
+          "'emaresem na 'udalr"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "潮汐": {
+    "new_word": [
+      {
+        "fm_word": [
+          "semudang mulegetr na ine",
+          "semudang mulehetr na zanum",
+          "semudang mulehec na danum"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "緯度": {
+    "new_word": [
+      {
+        "fm_word": [
+          "iyabarat kana cikiw",
+          "iyavarat kana cikiw"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西、知、建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  },
+  "震央": {
+    "new_word": [
+      {
+        "fm_word": [
+          "rami dra maidraudr",
+          "rakaz za ngunin",
+          "rakaz za hiwahiw",
+          "rakad da ngunin"
+        ],
+        "ch_semantic": "",
+        "dialect": [
+          "南",
+          "西",
+          "知",
+          "建"
+        ]
+      }
+    ],
+    "source_year": "107"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "重金屬": {
+    "new_word": [
+      {
+        "fm_word": "sxiluy",
+        "ch_semantic": "猶如金屬",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "病毒": {
+    "new_word": [
+      {
+        "fm_word": "knrxal",
+        "ch_semantic": "中毒,病因 (有生命的)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "生產": {
+    "new_word": [
+      {
+        "fm_word": "muhiyi",
+        "ch_semantic": "生產(農作物)",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "珊蝴": {
+    "new_word": [
+      {
+        "fm_word": "klaxal",
+        "ch_semantic": "美的小山丘",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "漂流木": {
+    "new_word": [
+      {
+        "fm_word": "ruting",
+        "ch_semantic": "飄流木",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "資源": {
+    "new_word": [
+      {
+        "fm_word": "snliyan",
+        "ch_semantic": "被儲存的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "空間": {
+    "new_word": [
+      {
+        "fm_word": "iyax",
+        "ch_semantic": "空間",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "氣體": {
+    "new_word": [
+      {
+        "fm_word": "hngak",
+        "ch_semantic": "氣息",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "單位": {
+    "new_word": [
+      {
+        "fm_word": "qpahun",
+        "ch_semantic": "工作的地方",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "經驗": {
+    "new_word": [
+      {
+        "fm_word": "ndan",
+        "ch_semantic": "走過的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "推展": {
+    "new_word": [
+      {
+        "fm_word": "pprana",
+        "ch_semantic": "推展（無形事物）",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "危機": {
+    "new_word": [
+      {
+        "fm_word": "skliyun",
+        "ch_semantic": "被嚇到的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "殖民者": {
+    "new_word": [
+      {
+        "fm_word": "mptquli",
+        "ch_semantic": "殖民者",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "歌手": {
+    "new_word": [
+      {
+        "fm_word": "mpuyas",
+        "ch_semantic": "歌手",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "裁判": {
+    "new_word": [
+      {
+        "fm_word": "pswau",
+        "ch_semantic": "裁判",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "甄選": {
+    "new_word": [
+      {
+        "fm_word": "umau",
+        "ch_semantic": "選擇",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  },
+  "才華": {
+    "new_word": [
+      {
+        "fm_word": "knkla",
+        "ch_semantic": "會的",
+        "dialect": []
+      }
+    ],
+    "source_year": "103"
+  }
+}

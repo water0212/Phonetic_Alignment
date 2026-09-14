@@ -1,0 +1,94 @@
+{
+  "便利商店": {
+    "new_word": [
+      {
+        "fm_word": [
+          "atalakiahla pu'ana"
+        ],
+        "ch_semantic": "",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "衛福部": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu sitakua mahlatʉra cucu’u",
+        "ch_semantic": "管理人民健康福利的地方。",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "環保署": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu mahlicungu liliunga miararuma",
+        "ch_semantic": "保護管理環境的地方。",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "國產局": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu sasaruana tahlana hlakʉsaiana",
+        "ch_semantic": "觀禮國家土地的地方。",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "勞保局": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu sitakua’i’iarana",
+        "ch_semantic": "管理勞工的地方。",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "水保局": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu kuapiavangarʉ sarʉ ʉmʉhlarʉ",
+        "ch_semantic": "管理水土保護的地方。",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "客委會": {
+    "new_word": [
+      {
+        "fm_word": "parana maiatuhluhlu tahlana puutu takacicihli",
+        "ch_semantic": "維護客家權益的地方。",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "便祕": {
+    "new_word": [
+      {
+        "fm_word": "makakilingi su’ʉtʉnga",
+        "ch_semantic": "大便硬排不出來",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  },
+  "X光": {
+    "new_word": [
+      {
+        "fm_word": "sipia’ahlingu rʉrʉmanʉ tihla’ahlʉ",
+        "ch_semantic": "照身體內部的光",
+        "dialect": []
+      }
+    ],
+    "source_year": "104"
+  }
+}

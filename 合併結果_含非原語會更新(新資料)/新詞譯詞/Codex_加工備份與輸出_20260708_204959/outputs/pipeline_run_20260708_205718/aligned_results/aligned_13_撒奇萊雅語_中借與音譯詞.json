@@ -1,0 +1,152 @@
+[
+    {
+        "chinese": "原文會",
+        "ch_semantic": "(中借)",
+        "pinyin_info": [
+            "0c,in",
+            "0c,w",
+            "0c,en",
+            "h,u",
+            "0c,y"
+        ],
+        "dict_pinyin": [
+            "0c,ㄩan",
+            "0c,un",
+            "h,uei"
+        ]
+    },
+    {
+        "chinese": "紀念",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "k,in",
+            "0c,in"
+        ],
+        "dict_pinyin": [
+            "j,i",
+            "n,ian"
+        ]
+    },
+    {
+        "chinese": "健保",
+        "ch_semantic": "(中借)",
+        "pinyin_info": [
+            "c,in",
+            "p,a",
+            "0c,w"
+        ],
+        "dict_pinyin": [
+            "j,ian",
+            "b,ao"
+        ]
+    },
+    {
+        "chinese": "電腦",
+        "ch_semantic": "(中譯)",
+        "pinyin_info": [
+            "t,in",
+            "n,0v",
+            "0c,a",
+            "0c,w"
+        ],
+        "dict_pinyin": [
+            "d,ian",
+            "n,ao"
+        ]
+    },
+    {
+        "chinese": "網咖",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "0c,w",
+            "0c,ang",
+            "k,a"
+        ],
+        "dict_pinyin": [
+            "0c,uang",
+            "k,a"
+        ]
+    },
+    {
+        "chinese": "廣告",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "k,am",
+            "p,ang"
+        ],
+        "dict_pinyin": [
+            "g,uang",
+            "g,ao"
+        ]
+    },
+    {
+        "chinese": "發票",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "h,a",
+            "p,i",
+            "0c,y",
+            "0c,a",
+            "0c,w"
+        ],
+        "dict_pinyin": [
+            "f,a",
+            "p,iao"
+        ]
+    },
+    {
+        "chinese": "光碟",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "k,ung",
+            "t,i",
+            "0c,y"
+        ],
+        "dict_pinyin": [
+            "g,uang",
+            "d,ie"
+        ]
+    },
+    {
+        "chinese": "便利商店",
+        "ch_semantic": "音譯",
+        "pinyin_info": [
+            "0c,i",
+            "p,in",
+            "l,i"
+        ],
+        "dict_pinyin": [
+            "b,ian",
+            "l,i",
+            "sh,ang",
+            "d,ian"
+        ]
+    },
+    {
+        "chinese": "地方法院",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "h,u",
+            "0c,ing"
+        ],
+        "dict_pinyin": [
+            "d,i",
+            "f,ang",
+            "f,a",
+            "0c,ㄩan"
+        ]
+    },
+    {
+        "chinese": "刷卡",
+        "ch_semantic": "(音譯詞)",
+        "pinyin_info": [
+            "s,u",
+            "0c,w",
+            "0c,at"
+        ],
+        "dict_pinyin": [
+            "sh,ua",
+            "k,a"
+        ]
+    }
+]
